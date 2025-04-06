@@ -334,7 +334,7 @@ const opticians: Optician[] = [
     ],
     emails: "",
     province: "alicante"
-  }
+  },
 //Listado de Málaga
 {
     title: "ÓPTICA Natural Optics Bola de Oro y CENTRO AUDITIVO Natural Audio",
