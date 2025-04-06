@@ -335,6 +335,121 @@ const opticians: Optician[] = [
     emails: "",
     province: "alicante"
   }
+//Listado de Málaga
+{
+    title: "ÓPTICA Natural Optics Bola de Oro y CENTRO AUDITIVO Natural Audio",
+    category: "Óptica",
+    address: "C/ Gral. Espartero, 89, 03012 Alicante",
+    description: "Este establecimiento destaca por su enfoque altamente profesional y personalizado en la atención al cliente, con reseñas que mencionan frecuentemente el servicio excepcional y la amabilidad del personal. El equipo también es elogiado por su profesionalismo y atención al detalle, y la tienda ofrece servicios más allá de la óptica, incluyendo audiología y reparaciones.",
+    serviceRatings: {
+      atencionCliente: 5,
+      profesionalidad: 5,
+      precio: 3.5,
+      variedad: 3.5
+    },
+    open_hours: {
+      domingo: [
+        "Cerrado"
+      ],
+      jueves: [
+        "10:00–14:00",
+        "17:00–20:30"
+      ],
+      lunes: [
+        "10:00–14:00",
+        "17:00–20:30"
+      ],
+      martes: [
+        "10:00–14:00",
+        "17:00–20:30"
+      ],
+      miércoles: [
+        "10:00–14:00",
+        "17:00–20:30"
+      ],
+      sábado: [
+        "10:00–14:00"
+      ],
+      viernes: [
+        "10:00–14:00",
+        "17:00–20:30"
+      ]
+    },
+    website: "https://www.naturaloptics.com/optica/alicante/alicante/natural-optics-bola-de-oro?utm_source=google&utm_medium=mybussines&utm_campaign=alicante-boladeoro",
+    phone: "965 25 04 55",
+    review_count: 90,
+    review_rating: 4.8,
+    latitude: 38.361133,
+    longitude: -0.482815,
+    user_reviews: [
+      {
+        Name: "Sven Stuermann",
+        ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIje9wVR1j7BMJWKiHvwqumwJOpDdl1NwuxresxMJce21_WVg=s120-c-rp-mo-br100",
+        Rating: 5,
+        Description: "Llevo 50 años con audífonos y nunca he recibido un tratamiento tan profesional y individual como aquí. Excepcional!",
+        Images: null,
+        When: ""
+      },
+      {
+        Name: "Maricruz Uceta",
+        ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL09K3z9KzXVrVTIE8w_qqE6fxZeGgMNfa22ZHMSfQdYP-z9Q=s120-c-rp-mo-br100",
+        Rating: 5,
+        Description: "La mejor óptica que puedes encontrar por el servicio, el trato personal,\u00a0 la simpatía, la profesionalidad de los 3... Me encantaaaaaa!!!! Hoy,\u00a0 además de llevarme unas gafas geniales me han regalado un anillo precioso. Siempre tienen detalles... Graciassss",
+        Images: null,
+        When: ""
+      },
+      {
+        Name: "Verónica Gómez",
+        ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjURzMdfTGHH2WymfqN5Y_SvSxUoCwTUR_1Ul04bSXgcvt0Lvqk5EA=s120-c-rp-mo-ba2-br100",
+        Rating: 5,
+        Description: "Muy profesionales y amables. Muy buen trato, además de muy detallista. Os habéis ganado una clienta de por vida. Pongo 5 estrellas porque no hay más sino pondria un 10. Muy agradecida🙏🏼",
+        Images: null,
+        When: ""
+      },
+      {
+        Name: "ana soler",
+        ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWtzM0OfyXnJT5XVQQc0h07bQxRIwN6EUQtidbeESWUbx43WNWp=s120-c-rp-mo-ba2-br100",
+        Rating: 5,
+        Description: "Inmejorable el trato y la profesionalidad. Una de sus prioridades en el bienestar de sus pacientes, por lo que ofrecen gran calidad y máxima preocupación por conseguirla.\n\nHacen de cada paciente una historia exclusiva, cuidándolo y mimándolo, lo que transmite la máxima tranquilidad\u00a0 y sabiendo que pones tu salud en las mejores manos.\n\nY añado que tiene un servicio reparación ESPECTACULAR. Me han dejado unas gafas de sol con montura de Pasta (que llevé partida) como nueva, no se nota ni la marca de donde se partió.\n\ngracias por todo!!!.",
+        Images: null,
+        When: ""
+      },
+      {
+        Name: "Alejandro Sellés Pérez",
+        ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKTS0lE4r5KUW4ltkmToV44DzgBsvT7SIicwcfUd2RC6aIybQ=s120-c-rp-mo-br100",
+        Rating: 5,
+        Description: "Muy buen trato siempre que voy por allí. Tienen mucho gusto y estilo, siempre me dan muy buenos consejos. Gente de 10 y las últimas gafas me quedan finísimas.",
+        Images: null,
+        When: ""
+      },
+      {
+        Name: "Miguel Ángel Pau",
+        ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUNQ8KpgCAFk942fCmZgjJorUvN_SPDTwafRSiXfMb6hUfkh-io=s120-c-rp-mo-ba3-br100",
+        Rating: 5,
+        Description: "Si hay algo a destacar del equipo formado por Patxi y Gelen, además de la profesionalidad esperada, es su amabilidad, empatía y trato humano. Hemos asistido para iniciar el proceso de estudio de implante auditivo y no podemos estar más satisfechos. Enhorabuena a ambos.",
+        Images: null,
+        When: ""
+      },
+      {
+        Name: "Jo' Queirolo",
+        ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVsgqI9QgUaSLTaEud_BxHN40yhrt7PE-J0fZylArh8RGmO4PY=s120-c-rp-mo-ba3-br100",
+        Rating: 5,
+        Description: "Personal extremadamente gentil, simpático y disponible. Adquirir mis primeras gafas con lentes progresivas - personalizadas - ha sido una pasada. Muchísimas gracias. ¡Recomendable al 100%!",
+        Images: null,
+        When: ""
+      },
+      {
+        Name: "Antonio García",
+        ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW5DDQLqpBuePVsjgtOLoo7r4gznHFNI2zvmm_lq7b_uRkvoC_32A=s120-c-rp-mo-ba5-br100",
+        Rating: 5,
+        Description: "Muy contento con Natural Optics. Un trato excepcional y una calidad humana increíble. Ha sido todo un placer conocer esta óptica que también presta servicios de audiología. Me han hecho un seguimiento de mi prescripción y están atentos a los emails y teléfono. Enhorabuena por todo. Os pongo 5 estrellas!",
+        Images: null,
+        When: ""
+      }
+    ],
+    emails: "",
+    province:"malaga"
+  }
 ];
 
 const ProvinceDetails = () => {
