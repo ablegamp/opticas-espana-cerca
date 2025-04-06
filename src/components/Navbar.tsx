@@ -1,20 +1,60 @@
 
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Search, Menu, X } from 'lucide-react';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import { Button } from './ui/button';
+import { toast } from '@/hooks/use-toast';
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
+  const navigate = useNavigate();
+
+  const scrollToSection = (sectionId: string) => {
+    setIsMenuOpen(false);
+    const section = document.getElementById(sectionId);
+    if (section) {
+      section.scrollIntoView({ behavior: 'smooth' });
+    } else {
+      // If section not found in current page, navigate to home with hash
+      navigate(`/#${sectionId}`);
+    }
+  };
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
-    // TODO: Implement search functionality
+    
+    if (!searchQuery.trim()) {
+      toast({
+        title: "Búsqueda vacía",
+        description: "Por favor, introduce un término de búsqueda",
+        variant: "destructive",
+      });
+      return;
+    }
+    
     console.log('Searching for:', searchQuery);
+    // Implementar búsqueda real aquí
+    toast({
+      title: "Búsqueda realizada",
+      description: `Buscando ópticas para: ${searchQuery}`,
+    });
     // Reset search input
     setSearchQuery('');
   };
+
+  // Effect to handle hash navigation on page load
+  useEffect(() => {
+    const hash = window.location.hash.substring(1);
+    if (hash) {
+      setTimeout(() => {
+        const element = document.getElementById(hash);
+        if (element) {
+          element.scrollIntoView({ behavior: 'smooth' });
+        }
+      }, 100);
+    }
+  }, []);
 
   return (
     <nav className="sticky top-0 z-50 bg-white shadow-md">
@@ -44,17 +84,29 @@ const Navbar = () => {
                 <Search size={18} />
               </button>
             </form>
-            <Link to="/#provincias" className="font-medium text-gray-700 hover:text-optica-blue transition-colors">
+            <button 
+              onClick={() => scrollToSection('provincias')}
+              className="font-medium text-gray-700 hover:text-optica-blue transition-colors"
+            >
               Provincias
-            </Link>
-            <Link to="/#sobre-nosotros" className="font-medium text-gray-700 hover:text-optica-blue transition-colors">
+            </button>
+            <button 
+              onClick={() => scrollToSection('sobre-nosotros')}
+              className="font-medium text-gray-700 hover:text-optica-blue transition-colors"
+            >
               Sobre Nosotros
-            </Link>
-            <Link to="/#faq" className="font-medium text-gray-700 hover:text-optica-blue transition-colors">
+            </button>
+            <button 
+              onClick={() => scrollToSection('faq')}
+              className="font-medium text-gray-700 hover:text-optica-blue transition-colors"
+            >
               FAQ
-            </Link>
-            <Button asChild className="bg-optica-orange hover:bg-optica-light-orange text-white">
-              <Link to="/#contacto">Contacto</Link>
+            </button>
+            <Button 
+              onClick={() => scrollToSection('contacto')}
+              className="bg-optica-orange hover:bg-optica-light-orange text-white"
+            >
+              Contacto
             </Button>
           </div>
 
@@ -86,33 +138,29 @@ const Navbar = () => {
               </button>
             </form>
             <div className="flex flex-col space-y-4">
-              <Link 
-                to="/#provincias" 
+              <button
+                onClick={() => scrollToSection('provincias')}
                 className="font-medium text-gray-700 hover:text-optica-blue transition-colors py-2"
-                onClick={() => setIsMenuOpen(false)}
               >
                 Provincias
-              </Link>
-              <Link 
-                to="/#sobre-nosotros" 
+              </button>
+              <button
+                onClick={() => scrollToSection('sobre-nosotros')}
                 className="font-medium text-gray-700 hover:text-optica-blue transition-colors py-2"
-                onClick={() => setIsMenuOpen(false)}
               >
                 Sobre Nosotros
-              </Link>
-              <Link 
-                to="/#faq" 
+              </button>
+              <button
+                onClick={() => scrollToSection('faq')}
                 className="font-medium text-gray-700 hover:text-optica-blue transition-colors py-2"
-                onClick={() => setIsMenuOpen(false)}
               >
                 FAQ
-              </Link>
-              <Button 
-                asChild 
+              </button>
+              <Button
+                onClick={() => scrollToSection('contacto')}
                 className="bg-optica-orange hover:bg-optica-light-orange text-white w-full"
-                onClick={() => setIsMenuOpen(false)}
               >
-                <Link to="/#contacto">Contacto</Link>
+                Contacto
               </Button>
             </div>
           </div>

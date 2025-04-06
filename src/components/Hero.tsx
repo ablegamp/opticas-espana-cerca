@@ -1,8 +1,34 @@
 
-import React from 'react';
+import React, { useState } from 'react';
 import { Search } from 'lucide-react';
+import { toast } from '@/hooks/use-toast';
 
 const Hero = () => {
+  const [searchQuery, setSearchQuery] = useState('');
+
+  const handleSearch = (e: React.FormEvent) => {
+    e.preventDefault();
+    
+    if (!searchQuery.trim()) {
+      toast({
+        title: "Búsqueda vacía",
+        description: "Por favor, introduce un término de búsqueda",
+        variant: "destructive",
+      });
+      return;
+    }
+    
+    console.log('Hero searching for:', searchQuery);
+    // Implementar búsqueda real aquí
+    toast({
+      title: "Búsqueda realizada",
+      description: `Buscando ópticas para: ${searchQuery}`,
+    });
+    
+    // Reset search input
+    setSearchQuery('');
+  };
+
   return (
     <div className="relative bg-optica-blue text-white overflow-hidden">
       <div className="absolute inset-0 bg-gradient-to-r from-optica-blue to-blue-800 z-0"></div>
@@ -16,12 +42,14 @@ const Hero = () => {
           </p>
           
           <div className="max-w-lg mx-auto animate-fade-in" style={{ animationDelay: "0.4s" }}>
-            <form className="flex">
+            <form className="flex" onSubmit={handleSearch}>
               <div className="relative flex-grow">
                 <input
                   type="text"
                   placeholder="Buscar ópticas por nombre o ubicación..."
                   className="w-full py-3 px-5 pr-12 rounded-l-full text-gray-800 focus:outline-none focus:ring-2 focus:ring-optica-orange border-0"
+                  value={searchQuery}
+                  onChange={(e) => setSearchQuery(e.target.value)}
                 />
                 <button
                   type="submit"
