@@ -34,4 +34,5 @@ export interface Optician {
   longitude: number;
   user_reviews: UserReview[];
   emails?: string;
+  province: string; // Nueva propiedad para identificar la provincia
 }

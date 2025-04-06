@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
@@ -8,42 +7,9 @@ import ServiceRating from './ServiceRating';
 import OpeningHours from './OpeningHours';
 import UserReviews from './UserReviews';
 import OpticianLocation from './OpticianLocation';
+import { Optician } from '@/models/optician';
 
-interface ServiceRatings {
-  atencionCliente: number;
-  profesionalidad: number;
-  precio: number;
-  variedad: number;
-}
-
-interface OpenHours {
-  [key: string]: string[];
-}
-
-interface UserReview {
-  Name: string;
-  ProfilePicture: string | null;
-  Rating: number;
-  Description: string;
-  Images: string[] | null;
-  When: string;
-}
-
-interface OpticianDetailCardProps {
-  title: string;
-  category: string;
-  address: string;
-  description: string;
-  serviceRatings: ServiceRatings;
-  open_hours: OpenHours;
-  website: string;
-  phone: string;
-  review_count: number;
-  review_rating: number;
-  latitude: number;
-  longitude: number;
-  user_reviews: UserReview[];
-}
+type OpticianDetailCardProps = Omit<Optician, 'province'>;
 
 const OpticianDetailCard = ({
   title,

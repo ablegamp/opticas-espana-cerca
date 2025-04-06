@@ -6,354 +6,336 @@ import Footer from '@/components/Footer';
 import OpticianDetailCard from '@/components/OpticianDetailCard';
 import { Optician } from '@/models/optician';
 
-// Barcelona optician data
-const barcelonaOptician: Optician = {
-  title: "C4 òptics - Óptica en Barcelona",
-  category: "Óptica",
-  address: "Carrer d'Aribau, 17, Eixample, 08011 Barcelona",
-  description: "C4 òptics es una óptica en el centro de Barcelona que destaca por su gran profesionalidad y excelente servicio. Los clientes resaltan la amabilidad y atención detallada de su personal, especialmente Laia y Cristina, quienes ofrecen un asesoramiento de calidad para elegir la montura adecuada. La óptica cuenta con mucha variedad de marcas y modelos para todos los gustos y presupuestos. Los usuarios también valoran la rapidez en la entrega de las gafas, los buenos precios y la atención post-venta. Se realizan revisiones de la vista exhaustivas y se presta especial atención a la adaptación de las lentes.",
-  serviceRatings: {
-    atencionCliente: 5.0,
-    profesionalidad: 5.0,
-    precio: 4.7,
-    variedad: 4.8
-  },
-  open_hours: {
-    domingo: [
-      "Cerrado"
-    ],
-    jueves: [
-      "9:30–15:00",
-      "16:30–20:00"
-    ],
-    lunes: [
-      "9:30–15:00",
-      "16:30–20:00"
-    ],
-    martes: [
-      "9:30–15:00",
-      "16:30–20:00"
-    ],
-    miércoles: [
-      "9:30–20:00"
-    ],
-    sábado: [
-      "10:00–13:30"
-    ],
-    viernes: [
-      "9:30–15:00",
-      "16:30–20:00"
-    ]
-  },
-  website: "http://www.c4optics.com/",
-  phone: "934 53 20 24",
-  review_count: 347,
-  review_rating: 5,
-  latitude: 41.38658,
-  longitude: 2.161428,
-  user_reviews: [
-    {
-      Name: "sus susana",
-      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKAjuTgQbRqw0VULFq4EpYo1WQ-OjyUB2ZfKN2Cfda-yCugbQ=s120-c-rp-mo-br100",
-      Rating: 5,
-      Description: "Optica en el centro de Barcelona, muy profesionales con un gran servicio.\nMe hice revisión de la vista para asegurarnos bien antes de hacer las gafas, me asesoro para elegir la montura que mejor me iban, tienen mucha variedad y muchas marcas.\nLa entrega a posterior fue muy rápida, menos de una semana, con muy buen precio.\nEn mi caso me atendió Laia, muy amable y profesional.\nPronto volveré hacerme otras gafas ( esta vez gafas de cerca ).",
-      Images: [
-        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipO1_lxhyr1BF2iM9TUEUGeVBh-ElXb4d3-bvjzK&fid=0x0:0xb63f497872a77ae9"
+// Array centralizado de todas las ópticas
+const opticians: Optician[] = [
+  // Barcelona optician 1
+  {
+    title: "C4 òptics - Óptica en Barcelona",
+    category: "Óptica",
+    address: "Carrer d'Aribau, 17, Eixample, 08011 Barcelona",
+    description: "C4 òptics es una óptica en el centro de Barcelona que destaca por su gran profesionalidad y excelente servicio. Los clientes resaltan la amabilidad y atención detallada de su personal, especialmente Laia y Cristina, quienes ofrecen un asesoramiento de calidad para elegir la montura adecuada. La óptica cuenta con mucha variedad de marcas y modelos para todos los gustos y presupuestos. Los usuarios también valoran la rapidez en la entrega de las gafas, los buenos precios y la atención post-venta. Se realizan revisiones de la vista exhaustivas y se presta especial atención a la adaptación de las lentes.",
+    serviceRatings: {
+      atencionCliente: 5.0,
+      profesionalidad: 5.0,
+      precio: 4.7,
+      variedad: 4.8
+    },
+    open_hours: {
+      domingo: [
+        "Cerrado"
       ],
-      When: "2024-12-11"
-    },
-    {
-      Name: "matias gonzalez",
-      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJSCDkEzVXz_Tevq2UTKp3YrVFaTN5RDiMnsqnyvVfwmRRnpg=s120-c-rp-mo-br100",
-      Rating: 5,
-      Description: "Son los mejores! Laia es muy servicial y explica todo en detalles. Mi optica preferida en Barcelona. Muy satisfecho con mis nuevos lentes.",
-      Images: [
-        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipN5Z1TwJS01S5DhF_Tv1WM6vSIf7d46OCbPuW5T&fid=0x0:0xb63f497872a77ae9"
+      jueves: [
+        "9:30–15:00",
+        "16:30–20:00"
       ],
-      When: "2025-1-17"
-    },
-    {
-      Name: "felix leloir",
-      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIEiuwtFlpiwC-sqle6XzdI5cm_Ap7EMVA643BfiIo_ffiHQg=s120-c-rp-mo-ba3-br100",
-      Rating: 5,
-      Description: "Estaba un poco preocupado buscando dónde hacer mis primeros lentes, y estaba bastante desorientado hasta que di con esta óptica, que para comenzar tiene una atmósfera muy acogedora, y desde el segundo que ingrese al local sus empleadas me atendieron y aconsejaron  con una calidad humana de maravilla, destacó la atención, conocimiento, cordialidad, paciencia y no menos importante, el asesoramiento en todo momento de Laia y Cristina para ayudarme a elegir el modelo indicado en todo momento, el local tiene cantidad de modelos muy chulos que no he visto en otros negocios, y para todo los gustos y presupuestos.\nDestacó también la atención post venta!, algo que no es común en estos días, me han enviado mensajes y correos, para chequear cómo va la adaptación y comodidad con los lentes nuevos, realmente muy profesionales!!!, sin dudas recomiendo  esta óptica, por que resolvieron todas mis dudas y me han dado mucha confianza y tranquilidad, realmente una óptica con gente muy profesional!!",
-      Images: [
-        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipPb5-bBtfPloRbpybH_HsJsaAYLKrxEshwcYijR&fid=0x0:0xb63f497872a77ae9"
+      lunes: [
+        "9:30–15:00",
+        "16:30–20:00"
       ],
-      When: "2024-4-2"
-    },
-    {
-      Name: "Natascha Goovaerts",
-      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUl8BHe2TgW1Ya72JKVQQXWWDE5ZI9cBrYlIO82dkVejuXGs9Bj=s120-c-rp-mo-ba2-br100",
-      Rating: 5,
-      Description: "Que servicio más excepcional y personalizado!\n\nOlga y su colega son muy buenas expertas y me han ayudado muy bien con consejos, tests y más.\n\n10000% recomendado! Muchísimas gracias por la amabilidad, paciencia y atención dedicada.",
-      Images: null,
-      When: ""
-    },
-    {
-      Name: "Pablo Cruz",
-      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIbwAEtDrgBjM7r_pxVmc7DfcakL-_iKcNjCv3TfRxwf58w1g=s120-c-rp-mo-br100",
-      Rating: 5,
-      Description: "Un servicio excepcional y personalizado. Gracias especialmente a Laia por todas las explicaciones y ayuda para elegir las gafas más adecuadas a lo que necesitaba dentro de la amplia gama que ofrecen.",
-      Images: null,
-      When: ""
-    },
-    {
-      Name: "Claire Vidal",
-      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVbdZlsgUyXZKh8z6DIW71VqVRG35BcVs6UixB8CcXpyM2ZgjgV=s120-c-rp-mo-ba4-br100",
-      Rating: 5,
-      Description: "C4 Òptics es la óptica de confianza de toda mi familia desde siempre. Empecé a ir cuando era niña, y a día de hoy sigo siendo una clienta fiel. Son grandes profesionales, y el trato y asesoramiento son impecables. Además, cuentan con una amplia variedad de monturas para todas las edades y gustos. Los recomiendo al 100%, hay pocos negocios que pongan tanto cariño, energía y calidad en todo lo que hacen.",
-      Images: null,
-      When: ""
-    },
-    {
-      Name: "Ana del Cañizo",
-      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXSGyPuI7qQjWvqCsJChobfw2oGEZHtM_mH8zTgPuYYFcxHvJMy=s120-c-rp-mo-ba2-br100",
-      Rating: 5,
-      Description: "Cristina es muy amable y ha atendido fenomenal mi caso complicado de lentillas. Al final me he acabado haciendo unas gafas que me hicieron rapidísimo. Recomiendo encarecidamente esta óptica.",
-      Images: null,
-      When: ""
-    },
-    {
-      Name: "christian reyes lambea",
-      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKwyHO0EPiAvLrtQ4qOBQq6pXo9GU2AoK5QDAUwXk1UEtfy2Q=s120-c-rp-mo-br100",
-      Rating: 5,
-      Description: "Estoy muy contento del trato recibido y de mis gafas. Laia es una gran profesional, con paciencia, trato muy agradable y explicándote todo lo que necesitas. Graduando una crack! Gracias!",
-      Images: null,
-      When: ""
-    }
-  ],
-  emails: ""
-};
-
-// L'Òptica Barcelona
-const lopticaBarcelona: Optician = {
-  title: "L'Òptica",
-  category: "Óptica",
-  address: "Carrer de la Diputació, 282, Eixample, 08009 Barcelona",
-  description: "L'Òptica es un establecimiento donde los clientes destacan la profesionalidad y amabilidad de todo el equipo, incluyendo Gemma, Igor y Óscar. Ofrecen una atención de 10 en todo el proceso de mejora de la visión, tanto para gafas como para lentes de contacto. Los usuarios valoran la rapidez y eficiencia en la reparación de gafas, así como la calidad del trabajo y el ajuste de las monturas. Se destaca la excelente atención en situaciones de emergencia y la dedicación para escuchar y solucionar los problemas de los clientes. Los precios son considerados buenos y la calidad del servicio es prioritaria.",
-  serviceRatings: {
-    atencionCliente: 5.0,
-    profesionalidad: 5.0,
-    precio: 4.7,
-    variedad: 4.5
-  },
-  open_hours: {
-    domingo: [
-      "Cerrado"
-    ],
-    jueves: [
-      "10:00–20:30"
-    ],
-    lunes: [
-      "10:00–20:30"
-    ],
-    martes: [
-      "10:00–20:30"
-    ],
-    miércoles: [
-      "10:00–20:30"
-    ],
-    sábado: [
-      "10:00–15:00"
-    ],
-    viernes: [
-      "10:00–20:30"
-    ]
-  },
-  website: "",
-  phone: "634 19 51 47",
-  review_count: 161,
-  review_rating: 4.9,
-  latitude: 41.392043,
-  longitude: 2.169624,
-  user_reviews: [
-    {
-      Name: "VALENTINA NEBREDA",
-      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXlnFxmGCZdsFZ6oEYYhq4sphVUSDiFX8WTcFbOMHuXyyO8Zy2y=s120-c-rp-mo-br100",
-      Rating: 5,
-      Description: "Mi experiencia como usuaria de lentes de contacto y gafas de toda la vida es de 10 con L'Optica. Todo el equipo: Gemma, Igor y Óscar, son muy profesionales me han ayudado en todo el proceso de ver mejor y lo han conseguido. Tengo ahora un visión excelente. Muchas gracias.",
-      Images: null,
-      When: ""
-    },
-    {
-      Name: "Rocio Martinez",
-      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWtFGYVpg5Te4nDKRQNsXcHXDkqMU-xqIfXlzb0YKsl0yea91I=s120-c-rp-mo-br100",
-      Rating: 5,
-      Description: "Hoy por la mañana llevé mis anteojos a arreglar, y la experiencia superó mis expectativas. Desde el primer momento el servicio fue excepcional. El personal fue amable y profesional, escuchando lo que le había pasado a mis anteojos (se le rompió una de las patillas) y dándome opciones de arreglos.\nEl proceso de reparación fue rápido y eficiente. En el mismo día y solo en un par de horas, mis anteojos estaban como nuevos. La calidad del trabajo fue impresionante; no solo repararon el daño, sino que también ajustaron las monturas.\nLo recomiendo 100% ya que no muchas veces se puede encontrar personas/ lugares que tengan este tipo de trato con los clientes.\nLes daría infinitas estrellas, muchas gracias !!\nPor supuesto que volveré.",
-      Images: null,
-      When: ""
-    },
-    {
-      Name: "Roser Costa Amic Manzano",
-      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVeAhVVpwDK1nBDTX6OXKWuBrYBvmIVAJ-X_S7UQMm0tjo0BGH4=s120-c-rp-mo-br100",
-      Rating: 5,
-      Description: "Un servicio increíble, muy amables y mi eficientes, tienen muchos diseños lindos, pedimos  cambio de cristales para unas gafas y lo tuvieron en nada de tiempo e impecables! Muchas gracias Oscar 🙌🏻✨",
-      Images: null,
-      When: ""
-    },
-    {
-      Name: "Démian FREAU",
-      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWka1nzA1xU800NsXN57uG7D1tfZhnEQ9krxadDsVq2cv3Z7QRW=s120-c-rp-mo-br100",
-      Rating: 5,
-      Description: "Eligimos esta Óptica por las buenas reseñas que leímos en Google.\n\nPodemos confirmar que fue una experiencia excelente. Desde la recepción pasando por el chequeo óptico, elección de las gafas hasta recibirlas.\n\nTodo perfecto, recomendamos este negocio local al 200%.\n\nGracias Oscar and Co.",
-      Images: null,
-      When: ""
-    },
-    {
-      Name: "Manuel Gómez",
-      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKPBG2d_9jRTZARbcf4Ys2VUMsWpihWfwJPLiIhBYDxCDKdZw=s120-c-rp-mo-br100",
-      Rating: 5,
-      Description: "Excelente atención, trato amable y dedicado, se dan el tiempo de escuchar, atender y solucionar, acudí por una emergencia con mis lentes y lo solucionaron de inmediato, felicitaciones, definitivamente 100 % recomendado",
-      Images: null,
-      When: ""
-    },
-    {
-      Name: "Cristobal Pino",
-      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV8AOoeZ6cHsezwUclt2OETR7D8A2TYRcxmkGf7wBBquzBG4HRLCg=s120-c-rp-mo-br100",
-      Rating: 5,
-      Description: "Excelente atención y mejores profesionales, después de una revisión me han aconsejado según mis necesidades reales. No he necesitado gastar una fortuna en gafas para solucionar un problema puntual …. Muchas gracias por el asesoramiento. Prevalece la calidad del servicio antes que una venta. Un 10 para la chica!!!\nDespués de 2 años ahora ya toca usar gafas.\nMagnifica atención y asesoramiento por parte de Gemma y Oscar.  Calidad y muy buen precio. Buenos profesionales y muy buen servicio.\nSalgo más guapo de lo que entré con mis nuevas gafas!!!\nGracias por todo.",
-      Images: [
-        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipN4zH5tLDubDqm6IjOWX1yTYoQ8zExeHv1d5Bz7&fid=0x0:0xe9ef407d9b34a499"
+      martes: [
+        "9:30–15:00",
+        "16:30–20:00"
       ],
-      When: "2024-9-17"
-    },
-    {
-      Name: "GARZA TAMEZ",
-      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIgwYUNxluU8gB9X845A-6QnFVmJzMsVRTasCQjvh02B0NLBg=s120-c-rp-mo-ba3-br100",
-      Rating: 5,
-      Description: "Paré por casualidad en la tienda para ver si me podían ayudar a reajustar unas gafas. El responsable no solamente me solucionó el problema, sino que lo hizo muy amablemente y salí de allí encantado.\nTienen además mucha variedad de marcas y precios en gafas, así que recomiendo mucho esta óptica.",
-      Images: null,
-      When: ""
-    },
-    {
-      Name: "Allan Renol",
-      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVtGNhq512uHPtyxtEsQ6CiFnkGRcPdxB8FHNTe83C0OlOSLQg=s120-c-rp-mo-ba2-br100",
-      Rating: 5,
-      Description: "Muy buena atención, hay muchas ofertas. Me mostraron muchas gafas del estilo de montura que buscaba. Buen trato en todo momento y tuve suerte de que me atiendan sin cita. Me dejaron una tarjeta, probé si tenían WhatsApp para poder recoger las gafas y sí lo tienen.",
-      Images: [
-        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipO0CurrzjKwVUQj6lTk9j1AT_H113CjM3hGlWpl&fid=0x0:0xe9ef407d9b34a499"
+      miércoles: [
+        "9:30–20:00"
       ],
-      When: "2023-3-2"
-    }
-  ],
-  emails: ""
-};
-
-// Alicante optician data
-const alicanteOptician: Optician = {
-  title: "FUTURÓPTICAS",
-  category: "Optometrista",
-  address: "C. de Sant Mateu, 2 bis, 03013 Alicante",
-  description: "En FUTURÓPTICAS, los usuarios destacan el trato amable y familiar que reciben, especialmente mencionando la atención y simpatía de Lorena. Además, valoran positivamente el asesoramiento profesional y los servicios adaptados a las necesidades individuales. Los precios también son considerados asequibles por varios clientes.",
-  serviceRatings: {
-    atencionCliente: 4.9,
-    profesionalidad: 4.7,
-    precio: 4.5,
-    variedad: 3.5
+      sábado: [
+        "10:00–13:30"
+      ],
+      viernes: [
+        "9:30–15:00",
+        "16:30–20:00"
+      ]
+    },
+    website: "http://www.c4optics.com/",
+    phone: "934 53 20 24",
+    review_count: 347,
+    review_rating: 5,
+    latitude: 41.38658,
+    longitude: 2.161428,
+    user_reviews: [
+      {
+        Name: "sus susana",
+        ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKAjuTgQbRqw0VULFq4EpYo1WQ-OjyUB2ZfKN2Cfda-yCugbQ=s120-c-rp-mo-br100",
+        Rating: 5,
+        Description: "Optica en el centro de Barcelona, muy profesionales con un gran servicio.\nMe hice revisión de la vista para asegurarnos bien antes de hacer las gafas, me asesoro para elegir la montura que mejor me iban, tienen mucha variedad y muchas marcas.\nLa entrega a posterior fue muy rápida, menos de una semana, con muy buen precio.\nEn mi caso me atendió Laia, muy amable y profesional.\nPronto volveré hacerme otras gafas ( esta vez gafas de cerca ).",
+        Images: [
+          "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipO1_lxhyr1BF2iM9TUEUGeVBh-ElXb4d3-bvjzK&fid=0x0:0xb63f497872a77ae9"
+        ],
+        When: "2024-12-11"
+      },
+      {
+        Name: "matias gonzalez",
+        ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJSCDkEzVXz_Tevq2UTKp3YrVFaTN5RDiMnsqnyvVfwmRRnpg=s120-c-rp-mo-br100",
+        Rating: 5,
+        Description: "Son los mejores! Laia es muy servicial y explica todo en detalles. Mi optica preferida en Barcelona. Muy satisfecho con mis nuevos lentes.",
+        Images: [
+          "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipN5Z1TwJS01S5DhF_Tv1WM6vSIf7d46OCbPuW5T&fid=0x0:0xb63f497872a77ae9"
+        ],
+        When: "2025-1-17"
+      },
+      {
+        Name: "felix leloir",
+        ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIEiuwtFlpiwC-sqle6XzdI5cm_Ap7EMVA643BfiIo_ffiHQg=s120-c-rp-mo-ba3-br100",
+        Rating: 5,
+        Description: "Estaba un poco preocupado buscando dónde hacer mis primeros lentes, y estaba bastante desorientado hasta que di con esta óptica, que para comenzar tiene una atmósfera muy acogedora, y desde el segundo que ingrese al local sus empleadas me atendieron y aconsejaron  con una calidad humana de maravilla, destacó la atención, conocimiento, cordialidad, paciencia y no menos importante, el asesoramiento en todo momento de Laia y Cristina para ayudarme a elegir el modelo indicado en todo momento, el local tiene cantidad de modelos muy chulos que no he visto en otros negocios, y para todo los gustos y presupuestos.\nDestacó también la atención post venta!, algo que no es común en estos días, me han enviado mensajes y correos, para chequear cómo va la adaptación y comodidad con los lentes nuevos, realmente muy profesionales!!!, sin dudas recomiendo  esta óptica, por que resolvieron todas mis dudas y me han dado mucha confianza y tranquilidad, realmente una óptica con gente muy profesional!!",
+        Images: [
+          "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipPb5-bBtfPloRbpybH_HsJsaAYLKrxEshwcYijR&fid=0x0:0xb63f497872a77ae9"
+        ],
+        When: "2024-4-2"
+      },
+      {
+        Name: "Natascha Goovaerts",
+        ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUl8BHe2TgW1Ya72JKVQQXWWDE5ZI9cBrYlIO82dkVejuXGs9Bj=s120-c-rp-mo-ba2-br100",
+        Rating: 5,
+        Description: "Que servicio más excepcional y personalizado!\n\nOlga y su colega son muy buenas expertas y me han ayudado muy bien con consejos, tests y más.\n\n10000% recomendado! Muchísimas gracias por la amabilidad, paciencia y atención dedicada.",
+        Images: null,
+        When: ""
+      },
+      {
+        Name: "Pablo Cruz",
+        ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIbwAEtDrgBjM7r_pxVmc7DfcakL-_iKcNjCv3TfRxwf58w1g=s120-c-rp-mo-br100",
+        Rating: 5,
+        Description: "Un servicio excepcional y personalizado. Gracias especialmente a Laia por todas las explicaciones y ayuda para elegir las gafas más adecuadas a lo que necesitaba dentro de la amplia gama que ofrecen.",
+        Images: null,
+        When: ""
+      },
+      {
+        Name: "Claire Vidal",
+        ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVbdZlsgUyXZKh8z6DIW71VqVRG35BcVs6UixB8CcXpyM2ZgjgV=s120-c-rp-mo-ba4-br100",
+        Rating: 5,
+        Description: "C4 Òptics es la óptica de confianza de toda mi familia desde siempre. Empecé a ir cuando era niña, y a día de hoy sigo siendo una clienta fiel. Son grandes profesionales, y el trato y asesoramiento son impecables. Además, cuentan con una amplia variedad de monturas para todas las edades y gustos. Los recomiendo al 100%, hay pocos negocios que pongan tanto cariño, energía y calidad en todo lo que hacen.",
+        Images: null,
+        When: ""
+      },
+      {
+        Name: "Ana del Cañizo",
+        ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXSGyPuI7qQjWvqCsJChobfw2oGEZHtM_mH8zTgPuYYFcxHvJMy=s120-c-rp-mo-ba2-br100",
+        Rating: 5,
+        Description: "Cristina es muy amable y ha atendido fenomenal mi caso complicado de lentillas. Al final me he acabado haciendo unas gafas que me hicieron rapidísimo. Recomiendo encarecidamente esta óptica.",
+        Images: null,
+        When: ""
+      },
+      {
+        Name: "christian reyes lambea",
+        ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKwyHO0EPiAvLrtQ4qOBQq6pXo9GU2AoK5QDAUwXk1UEtfy2Q=s120-c-rp-mo-br100",
+        Rating: 5,
+        Description: "Estoy muy contento del trato recibido y de mis gafas. Laia es una gran profesional, con paciencia, trato muy agradable y explicándote todo lo que necesitas. Graduando una crack! Gracias!",
+        Images: null,
+        When: ""
+      }
+    ],
+    emails: "",
+    province: "barcelona"
   },
-  open_hours: {
-    domingo: [
-      "Cerrado"
+  
+  // Barcelona optician 2
+  {
+    title: "L'Òptica",
+    category: "Óptica",
+    address: "Carrer de la Diputació, 282, Eixample, 08009 Barcelona",
+    description: "L'Òptica es un establecimiento donde los clientes destacan la profesionalidad y amabilidad de todo el equipo, incluyendo Gemma, Igor y Óscar. Ofrecen una atención de 10 en todo el proceso de mejora de la visión, tanto para gafas como para lentes de contacto. Los usuarios valoran la rapidez y eficiencia en la reparación de gafas, así como la calidad del trabajo y el ajuste de las monturas. Se destaca la excelente atención en situaciones de emergencia y la dedicación para escuchar y solucionar los problemas de los clientes. Los precios son considerados buenos y la calidad del servicio es prioritaria.",
+    serviceRatings: {
+      atencionCliente: 5.0,
+      profesionalidad: 5.0,
+      precio: 4.7,
+      variedad: 4.5
+    },
+    open_hours: {
+      domingo: [
+        "Cerrado"
+      ],
+      jueves: [
+        "10:00–20:30"
+      ],
+      lunes: [
+        "10:00–20:30"
+      ],
+      martes: [
+        "10:00–20:30"
+      ],
+      miércoles: [
+        "10:00–20:30"
+      ],
+      sábado: [
+        "10:00–15:00"
+      ],
+      viernes: [
+        "10:00–20:30"
+      ]
+    },
+    website: "",
+    phone: "634 19 51 47",
+    review_count: 161,
+    review_rating: 4.9,
+    latitude: 41.392043,
+    longitude: 2.169624,
+    user_reviews: [
+      {
+        Name: "VALENTINA NEBREDA",
+        ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXlnFxmGCZdsFZ6oEYYhq4sphVUSDiFX8WTcFbOMHuXyyO8Zy2y=s120-c-rp-mo-br100",
+        Rating: 5,
+        Description: "Mi experiencia como usuaria de lentes de contacto y gafas de toda la vida es de 10 con L'Optica. Todo el equipo: Gemma, Igor y Óscar, son muy profesionales me han ayudado en todo el proceso de ver mejor y lo han conseguido. Tengo ahora un visión excelente. Muchas gracias.",
+        Images: null,
+        When: ""
+      },
+      {
+        Name: "Rocio Martinez",
+        ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWtFGYVpg5Te4nDKRQNsXcHXDkqMU-xqIfXlzb0YKsl0yea91I=s120-c-rp-mo-br100",
+        Rating: 5,
+        Description: "Hoy por la mañana llevé mis anteojos a arreglar, y la experiencia superó mis expectativas. Desde el primer momento el servicio fue excepcional. El personal fue amable y profesional, escuchando lo que le había pasado a mis anteojos (se le rompió una de las patillas) y dándome opciones de arreglos.\nEl proceso de reparación fue rápido y eficiente. En el mismo día y solo en un par de horas, mis anteojos estaban como nuevos. La calidad del trabajo fue impresionante; no solo repararon el daño, sino que también ajustaron las monturas.\nLo recomiendo 100% ya que no muchas veces se puede encontrar personas/ lugares que tengan este tipo de trato con los clientes.\nLes daría infinitas estrellas, muchas gracias !!\nPor supuesto que volveré.",
+        Images: null,
+        When: ""
+      },
+      {
+        Name: "Roser Costa Amic Manzano",
+        ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVeAhVVpwDK1nBDTX6OXKWuBrYBvmIVAJ-X_S7UQMm0tjo0BGH4=s120-c-rp-mo-br100",
+        Rating: 5,
+        Description: "Un servicio increíble, muy amables y mi eficientes, tienen muchos diseños lindos, pedimos  cambio de cristales para unas gafas y lo tuvieron en nada de tiempo e impecables! Muchas gracias Oscar 🙌🏻✨",
+        Images: null,
+        When: ""
+      },
+      {
+        Name: "Démian FREAU",
+        ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWka1nzA1xU800NsXN57uG7D1tfZhnEQ9krxadDsVq2cv3Z7QRW=s120-c-rp-mo-br100",
+        Rating: 5,
+        Description: "Eligimos esta Óptica por las buenas reseñas que leímos en Google.\n\nPodemos confirmar que fue una experiencia excelente. Desde la recepción pasando por el chequeo óptico, elección de las gafas hasta recibirlas.\n\nTodo perfecto, recomendamos este negocio local al 200%.\n\nGracias Oscar and Co.",
+        Images: null,
+        When: ""
+      },
+      {
+        Name: "Manuel Gómez",
+        ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKPBG2d_9jRTZARbcf4Ys2VUMsWpihWfwJPLiIhBYDxCDKdZw=s120-c-rp-mo-br100",
+        Rating: 5,
+        Description: "Excelente atención, trato amable y dedicado, se dan el tiempo de escuchar, atender y solucionar, acudí por una emergencia con mis lentes y lo solucionaron de inmediato, felicitaciones, definitivamente 100 % recomendado",
+        Images: null,
+        When: ""
+      },
+      {
+        Name: "Cristobal Pino",
+        ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV8AOoeZ6cHsezwUclt2OETR7D8A2TYRcxmkGf7wBBquzBG4HRLCg=s120-c-rp-mo-br100",
+        Rating: 5,
+        Description: "Excelente atención y mejores profesionales, después de una revisión me han aconsejado según mis necesidades reales. No he necesitado gastar una fortuna en gafas para solucionar un problema puntual …. Muchas gracias por el asesoramiento. Prevalece la calidad del servicio antes que una venta. Un 10 para la chica!!!\nDespués de 2 años ahora ya toca usar gafas.\nMagnifica atención y asesoramiento por parte de Gemma y Oscar.  Calidad y muy buen precio. Buenos profesionales y muy buen servicio.\nSalgo más guapo de lo que entré con mis nuevas gafas!!!\nGracias por todo.",
+        Images: [
+          "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipN4zH5tLDubDqm6IjOWX1yTYoQ8zExeHv1d5Bz7&fid=0x0:0xe9ef407d9b34a499"
+        ],
+        When: "2024-9-17"
+      },
+      {
+        Name: "GARZA TAMEZ",
+        ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIgwYUNxluU8gB9X845A-6QnFVmJzMsVRTasCQjvh02B0NLBg=s120-c-rp-mo-ba3-br100",
+        Rating: 5,
+        Description: "Paré por casualidad en la tienda para ver si me podían ayudar a reajustar unas gafas. El responsable no solamente me solucionó el problema, sino que lo hizo muy amablemente y salí de allí encantado.\nTienen además mucha variedad de marcas y precios en gafas, así que recomiendo mucho esta óptica.",
+        Images: null,
+        When: ""
+      },
+      {
+        Name: "Allan Renol",
+        ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocVtGNhq512uHPtyxtEsQ6CiFnkGRcPdxB8FHNTe83C0OlOSLQg=s120-c-rp-mo-ba2-br100",
+        Rating: 5,
+        Description: "Muy buena atención, hay muchas ofertas. Me mostraron muchas gafas del estilo de montura que buscaba. Buen trato en todo momento y tuve suerte de que me atiendan sin cita. Me dejaron una tarjeta, probé si tenían WhatsApp para poder recoger las gafas y sí lo tienen.",
+        Images: [
+          "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipO0CurrzjKwVUQj6lTk9j1AT_H113CjM3hGlWpl&fid=0x0:0xe9ef407d9b34a499"
+        ],
+        When: "2023-3-2"
+      }
     ],
-    jueves: [
-      "10:00–13:30",
-      "17:00–20:00"
-    ],
-    lunes: [
-      "10:00–13:30",
-      "17:00–20:00"
-    ],
-    martes: [
-      "10:00–13:30",
-      "17:00–20:00"
-    ],
-    miércoles: [
-      "10:00–13:30",
-      "17:00–20:00"
-    ],
-    sábado: [
-      "Cerrado"
-    ],
-    viernes: [
-      "10:00–13:30",
-      "17:00–20:00"
-    ]
+    emails: "",
+    province: "barcelona"
   },
-  website: "http://futuropticas.com/?utm_source=gmb&utm_medium=referral",
-  phone: "965 21 95 90",
-  review_count: 5,
-  review_rating: 5,
-  latitude: 38.355939,
-  longitude: -0.479739,
-  user_reviews: [
-    {
-      Name: "Eva maria manzanaro carrasco",
-      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLMB5BO8TmYD1RWHfgP-KX17MrTHLPiPhUR39Aa_EONm1lteA=s120-c-rp-mo-br100",
-      Rating: 5,
-      Description: "Lleve a mi hija con 6 años para sus primeras gafas y desde entonces vamos  toda la familia .\nUn trato amable , familiar  y precios asequibles .\nLorena es muy atenta y muy simpática.",
-      Images: null,
-      When: ""
+  
+  // Alicante optician
+  {
+    title: "FUTURÓPTICAS",
+    category: "Optometrista",
+    address: "C. de Sant Mateu, 2 bis, 03013 Alicante",
+    description: "En FUTURÓPTICAS, los usuarios destacan el trato amable y familiar que reciben, especialmente mencionando la atención y simpatía de Lorena. Además, valoran positivamente el asesoramiento profesional y los servicios adaptados a las necesidades individuales. Los precios también son considerados asequibles por varios clientes.",
+    serviceRatings: {
+      atencionCliente: 4.9,
+      profesionalidad: 4.7,
+      precio: 4.5,
+      variedad: 3.5
     },
-    {
-      Name: "MARIA DEL MAR NAVARRO HERNANDEZ",
-      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX8EvzqgxbTdwJZ4XPzRCHB68TC0kQMWrjYNaS0wzK1wmNX0XeB=s120-c-rp-mo-br100",
-      Rating: 5,
-      Description: "Mi óptica desde hace 12 años que lleve por vez primera a mi hijo y luego hemos ido los 4 miembros de la familia, la calidad humana de Lorena es lo mejor así como ser una magnífica profesional.\nYa no he ido nunca a otro sitio y siempre que puedo lo recomiendo.\nLa mejor óptica sin duda de Alicante.",
-      Images: null,
-      When: ""
+    open_hours: {
+      domingo: [
+        "Cerrado"
+      ],
+      jueves: [
+        "10:00–13:30",
+        "17:00–20:00"
+      ],
+      lunes: [
+        "10:00–13:30",
+        "17:00–20:00"
+      ],
+      martes: [
+        "10:00–13:30",
+        "17:00–20:00"
+      ],
+      miércoles: [
+        "10:00–13:30",
+        "17:00–20:00"
+      ],
+      sábado: [
+        "Cerrado"
+      ],
+      viernes: [
+        "10:00–13:30",
+        "17:00–20:00"
+      ]
     },
-    {
-      Name: "Gilberto Dobon",
-      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV9wvweO867vzYA0rwXPycCFZ4epJyvZdhTIc_1DR-YRb5wZdrz=s120-c-rp-mo-ba4-br100",
-      Rating: 5,
-      Description: "Mi óptica de referencia en Alicante. Asesoramiento imparcial con servicios a medida del cliente.",
-      Images: null,
-      When: ""
-    },
-    {
-      Name: "Asereth",
-      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVU2TapPeu8rA-7zcO8qGesWFq4z4aDCNbpekp7zq2ofiDR1VMepw=s120-c-rp-mo-ba3-br100",
-      Rating: 5,
-      Description: "Muy buen trato.aconsejan muy bien y precios muy buenos.todo genial!! Repetiré en necesitar 😊😊",
-      Images: null,
-      When: ""
-    },
-    {
-      Name: "Ada Quesada",
-      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJseC3n6VrEFzgRlOA_hsO6KyjKU53VY2nK41JrqjBZzPFzcA=s120-c-rp-mo-ba3-br100",
-      Rating: 5,
-      Description: "",
-      Images: null,
-      When: ""
-    }
-  ],
-  emails: ""
-};
-
-// Mock data structure for opticians in each province
-const provincesData: Record<string, Optician[]> = {
-  'barcelona': [barcelonaOptician, lopticaBarcelona],
-  'madrid': [],
-  'valencia': [],
-  'sevilla': [],
-  'bilbao': [],
-  'zaragoza': [],
-  'malaga': [],
-  'murcia': [],
-  'palma': [],
-  'las-palmas': [],
-  'alicante': [alicanteOptician],
-  'cordoba': []
-};
-
-// Generate mock data for other provinces
-Object.keys(provincesData).forEach(province => {
-  if (province !== 'barcelona') {
-    // Just generate empty arrays for now - we'll add real data later
-    provincesData[province] = [];
+    website: "http://futuropticas.com/?utm_source=gmb&utm_medium=referral",
+    phone: "965 21 95 90",
+    review_count: 5,
+    review_rating: 5,
+    latitude: 38.355939,
+    longitude: -0.479739,
+    user_reviews: [
+      {
+        Name: "Eva maria manzanaro carrasco",
+        ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLMB5BO8TmYD1RWHfgP-KX17MrTHLPiPhUR39Aa_EONm1lteA=s120-c-rp-mo-br100",
+        Rating: 5,
+        Description: "Lleve a mi hija con 6 años para sus primeras gafas y desde entonces vamos  toda la familia .\nUn trato amable , familiar  y precios asequibles .\nLorena es muy atenta y muy simpática.",
+        Images: null,
+        When: ""
+      },
+      {
+        Name: "MARIA DEL MAR NAVARRO HERNANDEZ",
+        ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX8EvzqgxbTdwJZ4XPzRCHB68TC0kQMWrjYNaS0wzK1wmNX0XeB=s120-c-rp-mo-br100",
+        Rating: 5,
+        Description: "Mi óptica desde hace 12 años que lleve por vez primera a mi hijo y luego hemos ido los 4 miembros de la familia, la calidad humana de Lorena es lo mejor así como ser una magnífica profesional.\nYa no he ido nunca a otro sitio y siempre que puedo lo recomiendo.\nLa mejor óptica sin duda de Alicante.",
+        Images: null,
+        When: ""
+      },
+      {
+        Name: "Gilberto Dobon",
+        ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV9wvweO867vzYA0rwXPycCFZ4epJyvZdhTIc_1DR-YRb5wZdrz=s120-c-rp-mo-ba4-br100",
+        Rating: 5,
+        Description: "Mi óptica de referencia en Alicante. Asesoramiento imparcial con servicios a medida del cliente.",
+        Images: null,
+        When: ""
+      },
+      {
+        Name: "Asereth",
+        ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVU2TapPeu8rA-7zcO8qGesWFq4z4aDCNbpekp7zq2ofiDR1VMepw=s120-c-rp-mo-ba3-br100",
+        Rating: 5,
+        Description: "Muy buen trato.aconsejan muy bien y precios muy buenos.todo genial!! Repetiré en necesitar 😊😊",
+        Images: null,
+        When: ""
+      },
+      {
+        Name: "Ada Quesada",
+        ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJseC3n6VrEFzgRlOA_hsO6KyjKU53VY2nK41JrqjBZzPFzcA=s120-c-rp-mo-ba3-br100",
+        Rating: 5,
+        Description: "",
+        Images: null,
+        When: ""
+      }
+    ],
+    emails: "",
+    province: "alicante"
   }
-});
+];
 
 const ProvinceDetails = () => {
   const { provinceName } = useParams<{ provinceName: string }>();
@@ -364,46 +346,11 @@ const ProvinceDetails = () => {
     ? provinceName.replace(/-/g, ' ').replace(/\b\w/g, char => char.toUpperCase()) 
     : '';
   
-  // Get opticians for this province
+  // Filtrar ópticas para la provincia actual
   const provinceKey = provinceName?.toLowerCase() || '';
-  const opticians = provincesData[provinceKey] || [];
-  
-  // For now, we'll add the mock opticians for Barcelona and generate random ones for other provinces
-  const generateMockOpticians = (count: number) => {
-    const names = [
-      'Óptica Visión', 'Centro Óptico', 'Óptica Central', 'Óptica Moderna', 
-      'Visión Plus', 'Óptica Salud', 'Opticalia', 'MultiÓpticas', 'Óptica Express',
-      'General Óptica', 'Alain Afflelou', 'Óptica Vista Clara', 'Óptica Universitaria',
-      'Solóptica', 'Óptica del Sol', 'Visionlab', 'Óptica Perfect', 'Óptica Visual'
-    ];
-    
-    const addresses = [
-      'Calle Mayor', 'Avenida Principal', 'Plaza Central', 'Calle del Sol',
-      'Avenida Constitución', 'Calle Real', 'Paseo Marítimo', 'Calle Comercio',
-      'Gran Vía', 'Calle Nueva', 'Avenida Libertad', 'Calle Valencia'
-    ];
-    
-    const result = [];
-    
-    for (let i = 0; i < count; i++) {
-      const randomName = names[Math.floor(Math.random() * names.length)];
-      const randomAddress = addresses[Math.floor(Math.random() * addresses.length)];
-      const number = Math.floor(Math.random() * 100) + 1;
-      const phone = `9${Math.floor(Math.random() * 10)}${Math.floor(Math.random() * 10)}${Math.floor(Math.random() * 10)}${Math.floor(Math.random() * 10)}${Math.floor(Math.random() * 10)}${Math.floor(Math.random() * 10)}${Math.floor(Math.random() * 10)}${Math.floor(Math.random() * 10)}`;
-      
-      result.push({
-        id: i + 1,
-        name: `${randomName} ${i + 1}`,
-        address: `${randomAddress} ${number}`,
-        phone: phone,
-        hours: 'Lun-Vie: 10:00-20:00, Sáb: 10:00-14:00',
-        services: ['Graduación', 'Lentes de contacto', 'Gafas de sol', 'Audiología'].slice(0, Math.floor(Math.random() * 4) + 1),
-        website: Math.random() > 0.5 ? `https://www.${randomName.toLowerCase().replace(/\s+/g, '')}.es` : null
-      });
-    }
-    
-    return result;
-  };
+  const filteredOpticians = opticians.filter(optician => 
+    optician.province === provinceKey
+  );
   
   useEffect(() => {
     // Scroll to top when province changes
@@ -435,8 +382,8 @@ const ProvinceDetails = () => {
               {loading ? (
                 "Cargando establecimientos..."
               ) : (
-                opticians.length > 0 
-                  ? `Encontrados ${opticians.length} establecimientos ópticos en ${formattedProvinceName}`
+                filteredOpticians.length > 0 
+                  ? `Encontrados ${filteredOpticians.length} establecimientos ópticos en ${formattedProvinceName}`
                   : `No hay ópticas registradas en ${formattedProvinceName} todavía`
               )}
             </p>
@@ -489,9 +436,9 @@ const ProvinceDetails = () => {
                       </div>
                     ))}
                   </div>
-                ) : opticians.length > 0 ? (
+                ) : filteredOpticians.length > 0 ? (
                   <div className="space-y-6">
-                    {opticians.map((optica, index) => (
+                    {filteredOpticians.map((optica, index) => (
                       <OpticianDetailCard key={index} {...optica} />
                     ))}
                   </div>
