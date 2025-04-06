@@ -448,7 +448,7 @@ const opticians: Optician[] = [
       }
     ],
     emails: "",
-    province:"malaga"
+    province: "malaga"
   }
 ];
 
