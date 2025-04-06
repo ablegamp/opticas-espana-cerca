@@ -1,12 +1,14 @@
+
 import React, { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { ArrowLeft } from 'lucide-react';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import OpticianDetailCard from '@/components/OpticianDetailCard';
+import { Optician } from '@/models/optician';
 
 // Barcelona optician data
-const barcelonaOptician = {
+const barcelonaOptician: Optician = {
   title: "C4 òptics - Óptica en Barcelona",
   category: "Óptica",
   address: "Carrer d'Aribau, 17, Eixample, 08011 Barcelona",
@@ -125,8 +127,99 @@ const barcelonaOptician = {
   emails: ""
 };
 
+// Alicante optician data
+const alicanteOptician: Optician = {
+  title: "FUTURÓPTICAS",
+  category: "Optometrista",
+  address: "C. de Sant Mateu, 2 bis, 03013 Alicante",
+  description: "En FUTURÓPTICAS, los usuarios destacan el trato amable y familiar que reciben, especialmente mencionando la atención y simpatía de Lorena. Además, valoran positivamente el asesoramiento profesional y los servicios adaptados a las necesidades individuales. Los precios también son considerados asequibles por varios clientes.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.7,
+    precio: 4.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    sábado: [
+      "Cerrado"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ]
+  },
+  website: "http://futuropticas.com/?utm_source=gmb&utm_medium=referral",
+  phone: "965 21 95 90",
+  review_count: 5,
+  review_rating: 5,
+  latitude: 38.355939,
+  longitude: -0.479739,
+  user_reviews: [
+    {
+      Name: "Eva maria manzanaro carrasco",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLMB5BO8TmYD1RWHfgP-KX17MrTHLPiPhUR39Aa_EONm1lteA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Lleve a mi hija con 6 años para sus primeras gafas y desde entonces vamos  toda la familia .\nUn trato amable , familiar  y precios asequibles .\nLorena es muy atenta y muy simpática.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "MARIA DEL MAR NAVARRO HERNANDEZ",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX8EvzqgxbTdwJZ4XPzRCHB68TC0kQMWrjYNaS0wzK1wmNX0XeB=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Mi óptica desde hace 12 años que lleve por vez primera a mi hijo y luego hemos ido los 4 miembros de la familia, la calidad humana de Lorena es lo mejor así como ser una magnífica profesional.\nYa no he ido nunca a otro sitio y siempre que puedo lo recomiendo.\nLa mejor óptica sin duda de Alicante.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Gilberto Dobon",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV9wvweO867vzYA0rwXPycCFZ4epJyvZdhTIc_1DR-YRb5wZdrz=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Mi óptica de referencia en Alicante. Asesoramiento imparcial con servicios a medida del cliente.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Asereth",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVU2TapPeu8rA-7zcO8qGesWFq4z4aDCNbpekp7zq2ofiDR1VMepw=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Muy buen trato.aconsejan muy bien y precios muy buenos.todo genial!! Repetiré en necesitar 😊😊",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ada Quesada",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJseC3n6VrEFzgRlOA_hsO6KyjKU53VY2nK41JrqjBZzPFzcA=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: ""
+};
+
 // Mock data structure for opticians in each province
-const provincesData: Record<string, any[]> = {
+const provincesData: Record<string, Optician[]> = {
   'barcelona': [barcelonaOptician],
   'madrid': [],
   'valencia': [],
@@ -137,7 +230,7 @@ const provincesData: Record<string, any[]> = {
   'murcia': [],
   'palma': [],
   'las-palmas': [],
-  'alicante': [],
+  'alicante': [alicanteOptician],
   'cordoba': []
 };
 
