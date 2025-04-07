@@ -53506,6 +53506,4357 @@ const opticians: Optician[] = [
   emails: "",
   province: "murcia"
 },
+//Listado Álava
+{
+  title: "Óptica Khroma",
+  category: "Óptica",
+  address: "Calle del Duque de Wellington, 24, 01010 Vitoria-Gasteiz, Álava",
+  description: "Se percibe en los comentarios sobre Óptica Khroma una gran valoración hacia la profesionalidad y la calidad del trato recibido. Los usuarios destacan la dedicación del personal, la atención personalizada y la disponibilidad para resolver dudas, especialmente en procesos como la adaptación de lentillas y las terapias visuales. Además, se menciona la tecnología avanzada del equipo de medición como un punto fuerte.",
+  serviceRatings: {
+    atencionCliente: 4.5,
+    profesionalidad: 4.8,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    martes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ]
+  },
+  website: "http://www.opticakhroma.com/",
+  phone: "945 17 11 80",
+  review_count: 85,
+  review_rating: 4.8,
+  latitude: 42.864224,
+  longitude: -2.694688,
+  user_reviews: [
+    {
+      Name: "Isabel Saenz De Santa María",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLJrBQBqokmOYtPlLYJ9v2Danyfls1bqtMinGOAxlq2_OuIgw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He estado graduándome para llevar lentillas. Han estado conmigo casi una hora. Me han dedicado todo el tiempo que ha hecho falta, y me han informado tanto sobre las progresivas como las normales.\nEl trato y profesionalidad buenísimo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Edurne EB",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJc0UEDDW2WW1dFiSxaPpB1zVCQe10ASM6DBahX1p_TXOgtBg=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Especialmente reseñable la atención de Alicia y sus sesiones de terapia visual. Mi hijo mejoró enormemente a partir de ellas. También el resto de la familia nos graduamos allí la vista y es nuestra óptica de referencia para gafas/lentillas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mr. Flat Erik",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJtvE2JXJ96AvUX-8uNuyVf0eKZYEVYJI1RPOOkQxavNAQPdA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Todo genial, muy buenas profesionales. Además del equipo humano tienen equipo de medición avanzada que va de lujo. Totalmente recomendable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Javier de las Rozas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVMLUTMISyq5nP3a_jrLfZiFr33kN_bhbWMy66q0d9UEZ6tsYj7=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Buenas profesionales, transmiten cercanía. Confío mucho en ellas para obtener la graduación, comprar las lentillas, las gafas. Una suerte tener en el barrio una óptica así de buena.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Carlos Minguez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJqZTWL-afzdbYtjk7P2vjH5pvZXYpsKER6XuwQkJ37tW8JLQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Atención muy buena, llevo años como cliente y estoy muy satisfecho.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Josetxu Quintana",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLN8EB9CLfWUCAO5kWPyaWTD5nlerBmyjZy4C120ao2tD1ydQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato perfecto, muchas amabilidad, muy profesionales y competentes.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Eduardo de la Hera",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ1yUpDlheZKr-IvfEiX683F0EBX0_3plB69is4Gu4Ty9i1_A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buena atención continuada",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Israel Herrera",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWbSOp9GAJPutUyQ7K3JPC8N2ASnq7THTdqoQxgS8lwLLB4g8z_0Q=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Muy profesionales y eficientes. Mis lentillas orto k siempre me las gestionan allí.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Multiópticas",
+  category: "Óptica",
+  address: "Bake kalea, 27, bajo, 01004 Vitoria-Gasteiz, Álava",
+  description: "Los usuarios de Multiópticas suelen destacar la amabilidad y la atención recibida por parte del personal, mencionando en particular la ayuda y la profesionalidad de algunos empleados. Sin embargo, también se han reportado algunas experiencias negativas relacionadas con la espera y la gestión de pedidos o problemas con los productos. A pesar de esto, se valora la buena variedad de gafas disponibles.",
+  serviceRatings: {
+    atencionCliente: 3.8,
+    profesionalidad: 4.2,
+    precio: 3.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–20:30"
+    ],
+    lunes: [
+      "9:30–20:30"
+    ],
+    martes: [
+      "9:30–20:30"
+    ],
+    miércoles: [
+      "9:30–20:30"
+    ],
+    sábado: [
+      "9:30–20:30"
+    ],
+    viernes: [
+      "9:30–20:30"
+    ]
+  },
+  website: "https://www.multiopticas.com/es/home",
+  phone: "945 29 55 70",
+  review_count: 157,
+  review_rating: 4.7,
+  latitude: 42.846515,
+  longitude: -2.668017,
+  user_reviews: [
+    {
+      Name: "Sheila Martin",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIifu_Mwv91SJR6hZgQW5-G2OVgnpPXYojrJkkR2UwRCObQuw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La verdad esque es muy agradable ir y que te atiendan con gusto y simpatía y encima te ofrezcan lo mejor sin obligar, gracias a Javier por estupendo trato,un 10/10.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Josu Iriarte",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIdNwvqekb8-yV1sCZk7KhbDVmK4BEEcZnTMlmQCJhn_k_tqQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Además de un trato excelente, me montaron unas gafas perfectas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Carla González Pereira",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJaESsE7z-YZNToD6w5vIYrVLXrFSYs82S7e0Pkl09gCMdoMw=s120-c-rp-mo-ba3-br100",
+      Rating: 3,
+      Description: "La verdad es que llevo yendo dos años y nunca he tenido ninguna queja. Pero esta última vez, he ido a recoger un pedido de lentillas y la atención ha sido muy diferente.\nNada más entrar saludo y no recibo respuesta. Espero durante casi 15 minutos sólo para recoger las lentillas y el chico no se molestó tan si quiera en preguntarme para qué había ido, ya que estaba enseñando modelos de gafas a una clienta, pero tampoco se molestó en decirme algo como \"en unos minutitos te atiendo, vale?\".\nMenos mal salió uno de los oftalmólogos que siempre me ha graduado la vista, y me pidió disculpas por la espera y en menos de 2 minutos pude salir con mi compra.\nConsidero que son actitudes a mejorar. Por muy liado que estés en la tienda enseñando gafas, no cuesta nada mirar al cliente y saludarlo al entrar. Es cuestión de educación. Y si ves que estás liado y no puedes atender en ese momento, se lo comunicas al cliente para que acuda en otro momento si hace falta, pero no lo dejas esperando 15 minutos sin decir palabra.\nPor lo demás, la atención siempre ha sido buena, una pena hoy no poder decir lo mismo...",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Leire Marín",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUKYm4e4xPdjcDYKdJpjfWI0p4fkjUVaaxjh3H4yBKDvL3yVUZ5=s120-c-rp-mo-ba5-br100",
+      Rating: 1,
+      Description: "Estuve cerca de un mes esperando a que llegaran las patillas de las gafas de mi hijo. Cada vez que llamaba me decían que me iban a devolver la llamada, pero no lo hacían. Y cuando me avisaron de que estaban, acabaron entregándome las gafas como se ven en las fotos, con el tornillo salido y diciéndome que no se podía hacer más para encajarlas. Por no hablar de que el color de la patilla no es el mismo que la montura. Probablemente sea la razón por la que los tornillos no encajan.\nEn definitiva, han perdido dos clientes. Porque las próximas gafas de mi hijo las haré en otro lado y las mías también.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sCIHM0ogKEICAgID6s5vhXg&fid=0x0:0xe1ee0aee878dd5e6"
+      ],
+      When: "2021-10-10"
+    },
+    {
+      Name: "Davis Nicaragua",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXuW4vqQg0xmUrUAR_KQzh05fpA_UKbmQSz2Jrm3-hj0auvBJDzRg=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Un buen ambiente y servicio sobre todo en la atención por parte de Antonio, siempre atento y aclara todas tus dudas. Sus productos en gafas son muy buenos y hay mucha variedad. Siempre que toca renovar o me sucede algo con las gafas acudo a esta oficina.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "María Arrazola",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIXxWYXrr3BUAaZoi6TNLb7Ogvie79MbqxQg4yGriwi85sTIw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "El trato y la atención de Eliana es inmejorable. Es dulce, atenta y muy profesional.\nTanto ella como su compañero José son súper amables y transmiten mucha tranquilidad aunque estén a tope de trabajo. Muchas gracias!!!!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mamen Lopez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLt14Xt6quhdF98QOCAyufnRECIU3FVX2eOglcl-CNdDEoz5g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me ha encantado ,super amables y atentos .",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ander Cobo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKXPXBilI1_nUxYiQmG9NmbvscqHn03HgzyTrj0nYgf4Z7Rig=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Hace unos meses compré unas gafas fotocromáticas y otras de sol polarizadas, las dos graduadas, de excelente calidad. El trato por parte del óptico Javier fue excelente. Mostró profesionalidad y puso mucho interés en que tuviera las gafas que quería. Su compañera Eli me ayudó un segundo día a ajustar las gafas y fue encantadora. Los recomiendo y seguro que volveré 😊😊.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Óptica Adurza (Sábados consultar disponibilidad)",
+  category: "Óptica",
+  address: "Zumakadi Ibilbidea, 23, bajo 2, 01006 Vitoria-Gasteiz, Álava",
+  description: "En los comentarios sobre Óptica Adurza, se destaca consistentemente la excelente atención y la alta profesionalidad del personal, especialmente de la persona encargada de atender a los usuarios. Se valora el trato cercano, la capacidad de generar confianza y el asesoramiento tanto estético como técnico. Además, algunos usuarios mencionan una buena relación calidad-precio.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.8,
+    precio: 4.3,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:00–13:30",
+      "16:30–19:30"
+    ],
+    lunes: [
+      "9:00–13:30",
+      "16:30–19:30"
+    ],
+    martes: [
+      "9:00–13:30",
+      "16:30–19:30"
+    ],
+    miércoles: [
+      "9:00–13:30",
+      "16:30–19:30"
+    ],
+    sábado: [
+      "Cerrado"
+    ],
+    viernes: [
+      "9:00–13:30",
+      "16:30–19:30"
+    ]
+  },
+  website: "http://farmapas.es/",
+  phone: "945 01 02 59",
+  review_count: 16,
+  review_rating: 4.8,
+  latitude: 42.835979,
+  longitude: -2.665837,
+  user_reviews: [
+    {
+      Name: "El Reservado Restaurante y Copas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUpL5vstdW1X7Y3o-usVciU8VwcLws1X7w9nms7Yva5H5BSrp3q=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Es la máxima expresión en detalle y profesionalidad.\nNo se como se llama la chica que atiende, pero es lo máximo.\nFelicidades por tan buen trato.\nEl resultado final es perfecto.\nAsí da gusto comprar.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Manu Arriaga",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVAoXY47zHUt5yqfr54RqoergP17RGPi44egwWSLrh3GjLKIFtW=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Maravilloso servicio. La persona que me atendió me hizo sentir en todo momento seguro y cierto de que que todo estaba bien. Da gusto ponerse en manos de gente que sabe. Precio muy por debajo del valor recibido. Ganas de tener más ojos para comprar más gafas. De verdad. No hay comparación con las marcas del\u00a0 Centro. Muy recomendable. Es bien.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Roberto Casas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXb5AC21z5zHMA7Gc82xdi5ExBhBMyBTigRuHgI8kx5h3yBnX0Ssg=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Óptica en Adurza cercana y buena relación calidad-precio.\nLa chica que me atendió es agradable, sincera y muy profesional, me asesoró tanto en la parte estética como en la técnica para unas gafas de sol.\nSin duda para repetir.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria Mercedes Gonzalez De Viñaspre",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIb5oM5yv8XUba0S7u_2hgexMY5oYYvWMI9lXVQT5oryaDQZw=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Soy clienta desde hace tres años y estoy encantada con la relación calidad precio y sobre todo el trato y la profesionalidad que tiene 100%recomendable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Daniel Crespo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocILAJPf69ae3MvDX3T1rMIcvxVPh-8xj-MZ6tub5GPL9jOJ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Impresionante. Necesitaba unas gafas para dentro de menos de una semana y me lo han asegurado. Un trato estupendo, me he sentido muy cómodo con la persona que trabaja allí. Muy recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Gregorio Bustamante",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI0GiaNmBEWBIHXrc3shk9COwVD8TGh4QqEbnYMl4nCV3SimQ=s120-c-rp-mo-br100",
+      Rating: 4,
+      Description: "Recomendable óptica/ortopedia por trato profesional y cercano, calidad de servicio y precio. Fernando es licenciado en farmacia y tiene el grado de óptico-optometrista. Siendo hermano suyo el titular de la amplia \"Farmacia Pascual Espinosa\", en la esquina del mismo bajo de Paseo de la Zumaquera 23, frente al centro cívico Hegoalde.\n\nEstablecimientos bien comunicados desde toda la Ciudad por las líneas de\u00a0 circunvalación 2A y 2B de los autobuses urbanos. Luego por el BEI, con parada junto al Centro Cívico, muy cerca de la Óptica y la Farmacia.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alejandro Astuy",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWO-ARfRr3ej7epPvqmJsnb34vcgIrS7rFKMVMtUORud73hsYcUfg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy simpática la chica que me atendió!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "tony sanchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV3ofRY31aukWA4oCe8MDPLDD5S7wFblN2LHff4_Qs74edh198=s120-c-rp-mo-ba6-br100",
+      Rating: 5,
+      Description: "La chica que te atiende es muy agradable y profesional",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "General Optica - Visión y Audición",
+  category: "Óptica",
+  address: "Bake kalea, 10, 01004 Vitoria-Gasteiz, Araba",
+  description: "Este establecimiento óptico es valorado por su agradable servicio y la amabilidad de su personal. Los usuarios también destacan la rapidez y los descuentos ofrecidos. Sin embargo, algunos comentarios mencionan problemas con la gestión de citas y la falta de soluciones ante inconvenientes, así como experiencias negativas con la publicidad y el servicio post-venta.",
+  serviceRatings: {
+    atencionCliente: 3.5,
+    profesionalidad: 4.0,
+    precio: 3.5,
+    variedad: 3.8
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "16:00–20:00"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "16:00–20:00"
+    ],
+    martes: [
+      "9:30–13:30",
+      "16:00–20:00"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "16:00–20:00"
+    ],
+    sábado: [
+      "9:30–13:30",
+      "16:00–20:00"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "16:00–20:00"
+    ]
+  },
+  website: "https://www.generaloptica.es/es/?utm_source=gmb&utm_medium=organic&utm_campaign=Vitoria&utm_term=1043",
+  phone: "945 28 99 44",
+  review_count: 113,
+  review_rating: 4.1,
+  latitude: 42.846003,
+  longitude: -2.667824,
+  user_reviews: [
+    {
+      Name: "Jose Carlos Marin",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWDCs6KHsmxA9IB8TBs1JLyzXyLRE3Z1kFTBCwLw9DZ8p5-OP075g=s120-c-rp-mo-ba2-br100",
+      Rating: 2,
+      Description: "Reservamos cita para dos graduaciones de la vista. Nos toman  nombres y teléfonos.\nCuando acudimos a la cita, no tienen registrada una de las dos ni nos dan ninguna solución (\"tienen la tarde completa\").\nNo saben tomar una cita. No saben atender a un cliente. Pero perderlos se les da muy bien.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Thamara Bergara",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXudM6GAm5vAnnhw1onOsn550VmlXDKhXkuhBBXR3LucWHefNQz=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Como siempre unos grandes profesionales. Estoy encantada con la atención y el trato de todo el personal. ENCANTADA CON MIS GAFAS NUEVAS!!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rosa Huecas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW_MaGl3G3Omqo_NEi-67EJ_w8QQHLFEp1BT-6-vbzmwGwtrgMW=s120-c-rp-mo-ba4-br100",
+      Rating: 4,
+      Description: "Buena atención. Rapidez. Grandes descuentos",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Iban Txillida",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJioV0Ibd-9OrX6qE8ywVpYCxXRA6M31t5YtR4axywvOQF8xw=s120-c-rp-mo-ba6-br100",
+      Rating: 5,
+      Description: "Buena óptica y con un servicio agradable. Son muy serviciales y siempre tratan de ayudar y encontrar de encontrar un solución.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sCIHM0ogKEICAgICk_vHy7wE&fid=0x0:0x542b81ecdae29aa7"
+      ],
+      When: "2019-4-13"
+    },
+    {
+      Name: "Paramaconi Rodriguez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLAy1IHUYIvGEIxMdT-8qwMXeM2330-Xwuf61kk9epr4qcMkA=s120-c-rp-mo-ba2-br100",
+      Rating: 1,
+      Description: "Publicidad engañosa. Te dicen que tienesun seguro de rotura de montura y cristal. El cristal se separa de la montura ( es decir, se rompe porque las gafas no se pueden usar) y eso no lo cubre el seguro.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Johan Mendoza",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWA8g81JgX2Lyq7FdDYyPN1EiAB6lLAbLO0cNTQIKuvy4OjRW1s=s120-c-rp-mo-ba3-br100",
+      Rating: 4,
+      Description: "Me gusta, la atencion al cliente bien, gran variedad muy atentos. Me gusta el hecho de que las gafas vienen con descuentos y servicios extras. Es un poquito más costosa pero por el servicio extra 9/10.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cris Ma",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLPX-E4w622o37M8aHiHhSsqSJI0UtQQJpwt415k1Km9eOAnA=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Hace unas semanas (27/06/23) mi madre entregó en General Óptica de la C/La Paz (Vitoria) una gafas de la marca Carolina Herrera con una patilla rota para valoración y realización del presupuesto. La chica que le atendió  no le entregó ningún resguardo, tan solo le dijo que las dejara y que pasara en unos días para recoger el presupuesto del arreglo. Cuando pasados unos días mi madre acude a vuestras instalaciones, las gafas no aparecen y el personal de la tienda le indica que no ha entregado nada y no se hacen responsables. Se ha solicitado a través de la policía la revisión de las cámaras de esa fecha para corroborar que se entregaron, además de poner la oportuna reclamación.\nLa respuesta de esa cadena es: que no consta como cliente en su base de datos , cosa que no tiene nada que ver porque realizan arreglos de otras gafas aunque no estén compradas en esa tienda, no consta la entrega, claro que no porque no le dieron justificante de entrega y por ultimo que su personal no lo recuerda.... que vergüenza!!!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "mario garcia espiniella",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIm5UDNbz43NUW03ojQ9YewuwJiqT8d9oc8IC4mqpzqb3OxEw=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Después de encargar unas lentillas en esta óptica y de llevar tres días con las de prueba, me dirijo al establecimiento porque no veo bien con ellas, mejor dicho no veo, voy por si las tengo mal colocadas o cambiadas de ojo aunque esto no lo creo posible por las precauciones que tomo al quitarlas y ponerlas. Voy a falta de de 5 días para la revisión, le comento el problema a la agradable mujer que me atiende, y su respuesta es que si no veo que me las quite y que vaya el día de la revisión. Mi respuesta fué ir al primer bar que me encontré, quitármelas y devolvérselas. Mi mujer ya había dejado de ser cliente por agradables y ahora me pierden a mi también.\nSe supone que son ópticos, (médicos), vas con un problema a quien te está tratandoy te encuentras con esto, en fin...",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Óptica Vitoria - Óptica Gasteiz - Centro Auditivo y Audífonos - Optometrista",
+  category: "Óptica",
+  address: "Adriano VI Kalea, 11, 01008 Vitoria-Gasteiz, Araba",
+  description: "Esta óptica es altamente recomendada por su excelente atención y el trato exquisito de su personal, quienes son considerados grandes profesionales. Los usuarios destacan la dedicación, la claridad en las explicaciones durante los exámenes visuales y la calidad de su equipamiento. También se menciona la ayuda para encontrar las gafas perfectas, la comodidad, el estilo y los buenos precios.",
+  serviceRatings: {
+    atencionCliente: 4.8,
+    profesionalidad: 4.9,
+    precio: 4.0,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "16:15–20:00"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "16:15–20:00"
+    ],
+    martes: [
+      "10:00–13:30",
+      "16:15–20:00"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "16:15–20:00"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "16:15–20:00"
+    ]
+  },
+  website: "https://opticagasteiz.com/?utm_source=google&utm_medium=maps&utm_campaign=Google%20Maps",
+  phone: "945 14 42 42",
+  review_count: 226,
+  review_rating: 4.9,
+  latitude: 42.846955,
+  longitude: -2.681252,
+  user_reviews: [
+    {
+      Name: "Giorun",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKNse9dOlHf_f2-5Or3QYfrP1b5_2NihKUba9zpeOd6n6lkLw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He ido a hacer una revisión completa de la vista. El trato recibido ha sido de 10. Me ha explicado en que consistía cada prueba, si alguna prueba no salia del todo bien se volvía a repetir para asegurarse de que los datos que se tomaban eran correctos y el equipamiento que utilizan es de muy buena calidad.\nSin duda volveré para seguir controlandome la vista.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Nati Lt",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJNs6yUMEcjRISAHYf1BpplMM-9MgokZs0ZaACCfDqRGee8cQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Hoy he tenido la consulta con Arantza,nos conocemos hace muchos años y siempre he salido muy contenta con su forma de tratarme tan exquisita,es una gran profesional y muy buena persona,muy humana.Seguiré yendo a las revisiones con ella,tiene un gran equipo,son excelentes.\nMuy recomendable.\nMuchas gracias equipo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "abel lopez de lacalle",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI-eK2RtPHEFwioKYKSihBVnorAJqVF5fsHXGQyAPMgIuy8aQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fui hace nos 20 días a realizar  una audiometría para ponerme unos audífonos. El trato fue extraordinario así como la atención recibida ya que en las pruebas así como en el seguimiento de los aparatos fueron todo atenciones. Recomiendo encarecidamente esta firma por el servicio y por los muy buenos profesionales que atienden.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lucia Soriano Giron",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKtFyfnZCT-NVJ7y7g6BbAj7iG5TRtH9ltSzuV55lMqRY9EGw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He tenido una experiencia muy buena en esta óptica. He estado en terapia visual un tiempo y la verdad que el trato, el tiempo dedicado y el trabajo han sido inmejorables. Estoy muy contenta con el resultado obtenido y con el equipo!! Muchas gracias !!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Leire de Lario",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX0YurSDdd22Twsna6qKkCDQdFTc2aCK0XFK0aMhHxntk8Wzag=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Un trato y una calidad en la atención verdaderamente inmejorable de todo el equipo. Arantxa es una gran profesional que te atiende con cariño y dedicación absoluta. Yo fui recomendada y a su vez les recomiendo 100%. Me alegro de estar en sus manos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Asier Alvarez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXI-kCEoR0DNFxBVSCpmV3CVpQyIb80LQ8zrqhrlxOQi_xXmO4B=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Profesionalidad y confianza. Lo recomiendo al 100%.\n\nJusto lo que estaba buscando, alguien que controla su profesión y con amplia experiencia.\n\nHe pasado por otras ópticas (varias cadenas) y la verdad que estaba tirando la toalla porque no me daban confianza (personal poco cualificado), malas experiencias y las opiniones que me he iba encontrando no era muy buenas tampoco.\n\nAquí he encontrado una verdadera PROFESIONAL, tiene en cuenta todos los detalles, es una CRACK!! Se nota que además de vocación hay muchos años de trabajo y dedicación detrás.\n\nArantza y su equipo son las mejores!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "francisco javier hernández jerez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIzaIf62rlBbIgIoOCb8V_xJ5Rr4uL5Q8MOoQdZgtOEKtHOkQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Últimamente notaba algo raro en mi visión y no sabía qué era. Desde el primer momento, fueron súper atentos.< y amables Me hicieron un examen visual muy completo con tecnología de última generación, explicándome cada paso.\nMe ayudaron a encontrar unas gafas perfectas, tanto en comodidad como en estilo. Buenos precios. Recomiendo esta óptica a cualquiera que busque atención de calidad y confianza.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Gloria Apaolaza Beltran De Guevara",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKzFJPBuADUWWutHZr1fKzRlU95gFEjUZVDBiBbOP0c9-Q88A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Soy clienta de esta óptica desde hace muchos años, así como mis padres.\nQuiero agradecer la atención del personal y en particular a Arantza por ser una profesional excepcional, hemos recibido siempre un trato y dedicación exquisita de su parte así como detallada información y atendiendo a todas las dudas .\nMuy recomendable\nGracias por todo.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "General Optica - Visión y Audición",
+  category: "Óptica",
+  address: "Eduardo Dato Kalea, 9, 01005 Vitoria-Gasteiz, Álava",
+  description: "Este establecimiento óptico se distingue por su personal profesional, eficiente y amable, siempre dispuesto a ayudar. Los usuarios resaltan la gran variedad de modelos de gafas disponibles y el buen asesoramiento recibido para encontrar la opción más adecuada. Sin embargo, se menciona una experiencia negativa relacionada con el precio y la durabilidad de los cristales.",
+  serviceRatings: {
+    atencionCliente: 4.6,
+    profesionalidad: 4.7,
+    precio: 3.0,
+    variedad: 4.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "16:00–20:00"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "16:00–20:00"
+    ],
+    martes: [
+      "9:30–13:30",
+      "16:00–20:00"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "16:00–20:00"
+    ],
+    sábado: [
+      "9:30–13:30",
+      "16:00–20:00"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "16:00–20:00"
+    ]
+  },
+  website: "https://www.generaloptica.es/es/?utm_source=gmb&utm_medium=organic&utm_campaign=Vitoria&utm_term=1083",
+  phone: "945 23 41 44",
+  review_count: 85,
+  review_rating: 4.3,
+  latitude: 42.845316,
+  longitude: -2.672163,
+  user_reviews: [
+    {
+      Name: "Dani Shi",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJR5QngQWZ-ooSm_I7oYwzRc2sbTH0ZdQYtmsVwp1EonShOBA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Profesional y muy eficiente. Es la primera vez que vengo aquí. También me lo recomendó mi colega. Estoy muy satisfecho. La persona que me recibió fue un chico llamado javier, que fue muy amable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Eltoti",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWiblCymh95L-3X3Me4kVY2NxQWfSLJJf2tLZEchGhUJyK0vgy18w=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "He sido atendida por Miren, muy buena profesional, me ha asesorado muy bien.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Olatz Gorospe Elorza",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL7VjBiCE0f7cXRW7sT7SSrXP0BXXzvcmhs5Ri3IgTki3R5hw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Siempre es un placer acercarse a mirar gafas, ajustar o simplemente preguntar por sus servicios. Todos los trabajadores son amabilísimos, excelentes profesionales y te reciben siempre con una gran sonrisa. Destacar a Andrea, quien siempre me ha atendido de la mejor de las maneras. ¡Buen trabajo a todo el equipo!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "mai rp",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVxDsuKNq6kE_53vSKiWgqMAnECRonLvgWtRNZyvMglbCtg_AAiaw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fuí a la tienda de la calle Dato en busca de unas gafas de sol y salí encantada. Disponen de una gran variedad de modelos y todo el personal muy amable, atento y profesional. ¡¡Repetiré seguro!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Iñigo Perez de Arenaza",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLRCcOcNyETx54khQW5WpJ1FMY7HnRxLBiesVKmShxDty4BAw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Óptica con gran variedad de gafas. Mi primera vez en esta tienda y las dependientas fueron muy atentas y amables. Me ayudaron a encontrar la gafa que más se adaptaba a lo que buscaba. Recomendado 100%",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Borja Altuzarra",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWV_H6-t-qvvqzF8IJm_nrsI01LvMq8Dop0F9SDqc21yMBPV06-VA=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "1200 euros los cristales. En 25 meses se han estropeado los cristales.  Los tornillos te han caído por lo menos seis.  Han salido espantosas. Pero como los cristales se han estropeado un mes después de la garantía pues ahí te las apañes. Me ofrecen gastarme otros 600 y me ponen otros (no sea que salgan como los primeros y así al menos ganan también de los segundos)\nNo es forma de atender. No hablamos de unas gafas de 150 euros. Seguro que tienen fuerza para reclamar el jaspeado que se forma según sale el sol que ellos mismos han comprobado.\nPues gracias por el ofrecimiento del 50% pero no.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "JOSEAN APARICIO",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW7EL0Bk-G1doskIg4WicUV1hKipaVv7Xiz2kZi2v6xSQeZ7aU0=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buena atención. Nada más entrar se dirigen hacia ti ofreciéndose ayudarte. La verdad es que gente muy simpática y agradable. Te sientes a gusto. Buen asesoramiento sobre la elección de gafas y lo que más me gusto argumentado. Por mi forma de cara, etc. Hay en sitios, que te asesoras tu mismo o nada. Aquí no es el caso. Gracias.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Susana Perez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK3VTMoKxUrdadQZH7u57FqiXpzajyinj4OPu_-NZyiDg9MUA=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Sábado tarde entramos a mirar unas gafas en calle Dato y nos las llevamos. Nos han atendido súper bien y aconsejado. Todos súper amables pero destacar a Elizabeth que es un encanto y muy buena profesional. Muy buena experiencia. Gracias!!!!!",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "LUYANDO Ópticos S.L.",
+  category: "Óptica",
+  address: "Calle Postas, 48, 01004 Vitoria-Gasteiz, Álava",
+  description: "Se aprecia en los comentarios sobre LUYANDO Ópticos S.L. una alta valoración por su profesionalidad y el buen gusto en la selección de productos. Los usuarios destacan la calidad de la atención recibida, mencionando la amabilidad y competencia del equipo. Además, se señala la disponibilidad de descuentos interesantes y una buena variedad de productos.",
+  serviceRatings: {
+    atencionCliente: 4.8,
+    profesionalidad: 4.7,
+    precio: 4.0,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "16:30–19:30"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "16:30–19:30"
+    ],
+    martes: [
+      "9:30–13:30",
+      "16:30–19:30"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "16:30–19:30"
+    ],
+    sábado: [
+      "10:00–13:00"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "16:30–19:30"
+    ]
+  },
+  website: "http://www.luyandoopticos.com/",
+  phone: "945 28 63 66",
+  review_count: 11,
+  review_rating: 4.8,
+  latitude: 42.845404,
+  longitude: -2.667875,
+  user_reviews: [
+    {
+      Name: "María Eskisabel",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIbgFfEMFIT3z3tjse9oVc0Uj_gBIFKDBwafrGCBPB1h-en_A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Profesionalidad y buen gusto a partes iguales. Siempre vamos a su óptica de Vitoria-Gasteiz y es una maravilla cómo te atienden y la calidad que ofrecen. Irune y Verónica son de 10, forman un equipo perfecto.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Johan Mendoza",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWA8g81JgX2Lyq7FdDYyPN1EiAB6lLAbLO0cNTQIKuvy4OjRW1s=s120-c-rp-mo-ba3-br100",
+      Rating: 4,
+      Description: "Me gusta, tienen buenos descuentos. Te traen las gafas para que te las pruebes de el catalogo. El equipo de atencion directa con el cliente MUY BUENO. Encantado.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cristina Alonso",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXXFNqYxVh3PRJvoajxAruHbpIDQEKDqxmjogO9TfCkkZdGy2bEpA=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Atentamente muy agradable, profesional a la que se le une producto de calidad",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alex di Natale",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXKxiStChkVOdKB6lgBC4p99AyUx2mwJ_3TokY2FZC8BjrsB4kG8A=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "La visita a esta óptica se convierte en una gran experiencia, trato personalizado y una atención realmente profesional!!!\nDesde hace un tiempo siempre compro allí mis gafas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Reinona Chofia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJp05xXnXmr4bBu2G13u9jckk8chN3vGyjANl0saauu1Pk3iA=s120-c-rp-mo-ba6-br100",
+      Rating: 4,
+      Description: "Un trato profesional, buen asesoramiento y variedad de productos. Tienen departamento de baja visión",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Vivi Hf",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIyVP5a7I2A-jSB28jwQHj9q8x9OiDvc1juLoiLM8RXFb0MxA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La mejor óptica en Vitoria.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Beatriz Alonso",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKDSR_Oy-O7ozplgVzcG2Zhi-x-NcgnjYEuM5tIylJYX5isaKw=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Trato inmejorable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marijo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLXyIRsL8A7TPw5F21d-LNyM8BrUjt96ie_vQQ1cGr17bxbAA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Medical Óptica Audición Postas",
+  category: "Óptica",
+  address: "Calle Postas, 18, 01001 Vitoria-Gasteiz, Álava",
+  description: "En los comentarios sobre Medical Óptica Audición Postas, se encuentran opiniones diversas. Algunos usuarios han experimentado esperas prolongadas y problemas con los servicios de reparación o la calidad de las lentes progresivas. Sin embargo, también hay menciones positivas sobre la amabilidad y profesionalidad de algunos miembros del personal, así como la disposición para atender urgencias sin cita previa y la variedad de productos ofrecidos a buen precio.",
+  serviceRatings: {
+    atencionCliente: 3.0,
+    profesionalidad: 3.2,
+    precio: 3.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "16:30–20:30"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "16:30–20:30"
+    ],
+    martes: [
+      "9:30–13:30",
+      "16:30–20:30"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "16:30–20:30"
+    ],
+    sábado: [
+      "10:00–14:00"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "16:30–20:30"
+    ]
+  },
+  website: "https://medicaloptica.es/vitoria-gasteiz-postas",
+  phone: "945 56 79 18",
+  review_count: 54,
+  review_rating: 4.3,
+  latitude: 42.845961,
+  longitude: -2.672911,
+  user_reviews: [
+    {
+      Name: "Nada López",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWaikYIYqV9gFUiW5SrNBPj89K3v2WDVKBpKS8k0VhGVdl-8f6w=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Es un sitio que te hacen esperar bastante aún que tengas cita previa. (20 min) lo peor es que te cobran 28€ (que los cobran al momento, por supuesto,no se cortan) por una prueba que dijieron que me mandarian por email los resultados (nunca me llegó nada) le pondría menos estrellas pero no se puede. 👎👎",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Xavi",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWwVHbnxLjaICbMKhMYdhYp0ZbFu0COOg2pExMLZkxmI4BG5IJtYA=s120-c-rp-mo-ba3-br100",
+      Rating: 1,
+      Description: "Fatal muy mal. Mi esposa lleva unas gafas de estas al aire que una vez hace poco, por otras y en la misma óptica, le cobran solamente 6 € por una pieza y por otras iguales y lo mismo me comentan primero que dónde las ha comprado, allí que la reparación hay que ponerles dos patillas nuevas y valen 500 € después del rifirrafe normal se las lleva con un cabreo increíble. Solo reparan su marca. Me siento estafado me querían birlar\u00a0 500 €",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Irakli Liparteliani",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWWVmWXAoG5spqPXqbsmYIzsGxHkfEc8nJ0EodR1KETtgslcemd=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me he revisado la vista y preguntado por la salud de mis ojos. Blanca me ha dado consejos para el correcto cuidado de mis ojos. Da gusto encontrarse con profesionales como ella.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Iosune Hierro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKyq55NX-gektiHIChYUxDw8q1oI6u_NsycVRDmfiXRvKoMQQ=s120-c-rp-mo-br100",
+      Rating: 4,
+      Description: "La persona que le atiende a mi hijo es muy amable, paciente y resuelve siempre rápido.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Julio Saenz de Ormijana Sanz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWz7eENi5L_CAo9gObe86n_8nSOehavauSPzEwhBOBGnclfumc4=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Mala delimitación de los puntos en lentes progresivas, de forma que no he logrado ver bien nunca con los dos ojos a la vez.\nComentado, no se solucionó\nTuve que hacerme otras en otra óptica, bastante más baratas por cierto ,sin tanta parafernalia y bien",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "ricardo patino",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVQagtKv0SeE8-ZRU9tUR9C5cH3TVkwW9ns_CuFjfxYvjT0JzIRNQ=s120-c-rp-mo-br100",
+      Rating: 4,
+      Description: "buen trato aunque la espera para que te atiendan fue bastante larga",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Unai SBV",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJOP_f-I6OXbl8P0t6Irne7oTPu1F7cL5KNXFbrqRWK19oKAg=s120-c-rp-mo-ba2-br100",
+      Rating: 1,
+      Description: "Ya sería genial, que pudieses darte de baja de sus campañas de marketing sin tener que llamar a un fijo, pelearte con una máquina, para después pelearte con una operadora y no conseguir nada. Aparte, de unas ofertas de 50% de descuento en las segundas gafas con la que no me he sentido más engañado en la vida.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana O",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJMqx5t6IGgzlHsyfFfk5WQNlLcRN6nBv-e8HrhAAzO4bunZg=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "No puedo estar más satisfecha con su servicio. Ayer tuve una molestia en un ojo, y sin tener cita previa, me asistieron y me revisaron el ojo. He de decir, que aparte de lo que acabo de comentar, siempre que quiero comprar gafas de sol para mí o para regalar, acudo a este establecimiento. Mucha variedad y mejor precio!\nGracias por la atención rápida, exquisita y profesional de ayer.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Óptica Luz",
+  category: "Óptica",
+  address: "General Alava Kalea, 2, 01005 Vitoria-Gasteiz, Álava",
+  description: "Los usuarios de Óptica Luz destacan la sinceridad y el trato personal inmejorable que reciben. Se valora la profesionalidad del personal, especialmente la dedicación en la graduación de la vista y el asesoramiento en la elección de monturas y materiales. Además, se menciona la rapidez en la elaboración de las gafas y la disponibilidad de una colección de gafas cuidadosamente seleccionada, equipada con tecnología de última generación para revisiones precisas.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.9,
+    precio: 3.5,
+    variedad: 4.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    martes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ]
+  },
+  website: "http://www.opticaluzvitoria.com/",
+  phone: "945 23 09 49",
+  review_count: 12,
+  review_rating: 5,
+  latitude: 42.845124,
+  longitude: -2.673844,
+  user_reviews: [
+    {
+      Name: "Itxaso Corrales",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLFmf6hhmCxD2axdftCyFMqXRBsYz9g47J36QziDQoJZ1X3Gw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "ES EN EL MOMENTO EN EL QUE TE PONEN GAFAS CUANDO ERES CONSCIENTE DE LA LUZ QUE TE FALTABA.\nSoy clienta desde hace dos años, me fui a graduar la vista, \"no necesitas gafas\" me dijeron. Sinceridad de antemano.\nMás adelante, me buscaron y cambiaron los cristales de mis antiguas pero queridas gafas de sol. Mantengo mi montura con cristales nuevos polarizados. 100% agradecida.\nDespués de dos años me he vuelto a graduar la vista, ahora sí, necesito gafas, me las hicieron a la velocidad de la luz y esa misma llegó a mis ojos al ponerme mis gafitas. Estoy encantada, mil gracias por todo. Recomendable a tope, no hay nada como las ópticas de toda la vida.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "cristina garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJcfrP36oG_vtEE2D4GOABOjh3mYvPIO1Ne7TpUCGON8qO6nQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Aunque hace años que no vivo en Vitoria-Gasteiz sigue siendo mi óptica de confianza por su profesionalidad y buen trato. Hace un mes fui a hacerme una revisión de la vista y de la tensión ocular y gracias a su atención, rapidez y empeño fue posible recibir en poco tiempo mis nuevas gafas a pesar de la distancia.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Iñaki Bel",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVDJPsouJBps89-PVYfPNgKHpfRrrT6MK5X_BfoQg7boHG28T0dOw=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Llevo años siendo cliente y no puedo estar más contento. Primero de todo, el trato personal es inmejorable, hacen todo lo posible por darte el mejor servicio. Además, siempre tienen una colección de gafas exquisitamente elegidas y saben encontrar algo que se ajuste a tus gustos. Por último, cuentan con equipos de última generación para hacerte las revisiones lo más completas y precisas posible.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Naiara Urrutxurtu",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIA-2t0EoBIVU4wg_BqRMPYL3PTbszB7ThEjCy4KTouzjS__g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Hace un par de semanas mi amiga y yo pasamos por ahí buscando gafas de sol chulas. Ya le habíamos echado el ojo a un par de gafas que vimos en su web y la verdad es que me encantó la selección que tiene. Además nos atendió genial y eso es algo que se agradece. Estuvo con nosotras todo el tiempo enseñándonos distintos modelos viendo cual era el que mejor nos iba a cada una de nosotras. La verdad, un 10! 😎✨\"",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Leire Macazaga",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX_t4AItq91ygFqm7n31brdjUXpbzawTyREti1AmMnkpMMtTM9s=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Blanca es muy profesional, siempre que me gradúa lo hace meticulosamente y dedica tiempo hasta llegar a la graduación perfecta para mi. El asesoramiento a nivel de materiales, modelos de gafas, estilos es estupendo. El trato es personalizado y de confianza, recomendable 100%.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Nagore G.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ7CuNJEFwS8avInnu-uJPvE_3aa1ZY3FC7Y2kN0E4zMfuV=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me la recomendaron y no puedo estar más contenta. Muy profesionales, con cantidad de detalles de esos que marcan la diferencia. Me han descubierto cosas que no me había detectado nunca nadie. Y lo más importante, la sensación de que me ha hecho una muy buena graduación. Y las gafas que tiene son preciosas",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Oskar OskArtDolls",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUaggTOyuzVNdPbaCcaIaCwDZNq8p61i2VnJXO4PuPYVnaa6eoM=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fui por recomendacion para ponerme mis primeras gafas. Me graduaron la vista concienzudamente y sali con mis primeras gafas graduadas+otras gafas de sol. Super contento con el trato en la venta y post venta. Profesioal totalmente recomendable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marieta Esparza",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJNXf5BHME7KWOWiljiSmlw8x4ng4zz855WgMrBg8pdrlRHsg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Llevo años comprando en Optica Luz y os la recomiendo 💯",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Óptica y Centro Auditivo Soloptical Vitoria El Boulevard",
+  category: "Óptica",
+  address: "Zaramaga Kalea, 1, Local 23B, 01013 Vitoria-Gasteiz, Álava",
+  description: "Este establecimiento óptico es reconocido por su trato rápido, ágil y la amabilidad de su personal, quienes se muestran pacientes y atentos. Los usuarios aprecian la eficiencia en la atención, incluso sin cita previa, y la diligencia para resolver dudas. Además, se destaca la buena relación calidad-precio y la profesionalidad del equipo.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.7,
+    precio: 4.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–22:00"
+    ],
+    lunes: [
+      "10:00–22:00"
+    ],
+    martes: [
+      "10:00–22:00"
+    ],
+    miércoles: [
+      "10:00–22:00"
+    ],
+    sábado: [
+      "10:00–22:00"
+    ],
+    viernes: [
+      "10:00–22:00"
+    ]
+  },
+  website: "https://soloptical.net/es/soloptical-vitoria/?utm_source=Google&utm_medium=google_my_business&utm_campaign=sitio+web",
+  phone: "622 39 10 99",
+  review_count: 642,
+  review_rating: 4.8,
+  latitude: 42.862049,
+  longitude: -2.669664,
+  user_reviews: [
+    {
+      Name: "nicole Jaimes",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXQhEkha7THPqA3XxE_cpWrdAFWVacAlc1eEGjQu66ntE3pHZBIYQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy rápido y ágil todo, las chicas han sido majisimas y además nos han recomendado y atendido con mucha paciencia y amabilidad. Volveré 💃💃💃",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sCIHM0ogKEICAgID_grP6ggE&fid=0x0:0xea1ad76263dc1b09"
+      ],
+      When: "2025-1-22"
+    },
+    {
+      Name: "jose miguel arias",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL3orUCrEq8vpJ77jkMujepSgINjCmuM08-PDp3GcECwa3XpA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy bien, mi visita fue para hacerme una revisión e informarme para comprar unas gafas de cerca. Me cogieron en el momento (sin cita), y en 20 minutos ya tenía un presupuesto en las manos. Me atendieron tres personas diferentes a lo largo de la revisión y compra, y todos super agradables, atentos y  sobre todo diligentes resolviendo dudas.\nEncantado por el personal... y también por el precio de la compra, mucho más barato de la idea que me había hecho.\nYa tengo una óptica de referencia!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "pickipro 304",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUNwPoJKgHebhAaY5OBCQ4UA9ZwvxAnBCQ_I-eAZBLrNPkA-5o=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Son muy amables con la clientela y muy atentos. Siempre te regalan algo y te atienden dé maravilla. Muy contenta. Lo recomiendo 100%",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "inma ruiz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJhVrqBoOb3IxNGRcGF65KqffNT8gdf19bQD4uV5PKy-2QnNA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Siempre que he ido son super amables y estoy super contenta con ellos ,y lo recomiendo siempre que me preguntan dónde voy",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana Deida Moreno",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUZgEqhHrpZpRilj6c22mgeyMg-9I6REV7BLdKoVmxJPErNg_Fg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Llevo bastante tiempo comprando en esta óptica la recomiendo muy buena atención y calidad en sus productos",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sCIHM0ogKEICAgICP3NmBAw&fid=0x0:0xea1ad76263dc1b09"
+      ],
+      When: "2024-11-22"
+    },
+    {
+      Name: "3 Atienza Delgado",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLHGqLxK3Z5bZ2gt77WmxZXD_x94Kpbd_rESOnkuaROpLyPdQ=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "He venido a arreglar mis gafas y son muy eficientes. Gracias Eider",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sCIHM0ogKEICAgMCQu5ayYg&fid=0x0:0xea1ad76263dc1b09"
+      ],
+      When: "2025-3-7"
+    },
+    {
+      Name: "Óscar Alvarez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXDDH0syBHIK4jFXCj4ig4KI0ZzaEQ7vas5t0-ihNFlshsy2is9=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Soy cliente habitual, siempre han tenido una atención al cliente excelente, amables y profesionales. Hoy me han arreglado una rotura, deterioro de patillas , de manera gratuita y con regalito",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Monica",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUGGbS23LYvzDzvoCToakjARqtIoiVyF7zdFKm-M_KHlehbSMEDsg=s120-c-rp-mo-br100",
+      Rating: 4,
+      Description: "Las personas que trabajan en esta óptica son muy amables y la atención es muy buena, ya que siempre que he necesitado una cita para la revisión de mi vista ha sido inmediata y me han atendido de manera muy profesional, dándome siempre una solución efectiva a mis problemas. Recomiendo esta óptica por el trato amable de sus empleados, así como la  profesionalidad de los mismos.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Alain Afflelou Óptico Calle Eduardo Dato, Vitoria",
+  category: "Óptica",
+  address: "Eduardo Dato Kalea, 7, 01005 Vitoria-Gasteiz, Álava",
+  description: "Esta óptica destaca por la excelente atención y los buenos consejos de su personal, quienes se muestran rápidos y ofrecen precios atractivos. Los usuarios resaltan la gran variedad de estilos y marcas disponibles, así como la calidad de los productos. Sin embargo, una opinión menciona una experiencia negativa con la atención recibida.",
+  serviceRatings: {
+    atencionCliente: 4.5,
+    profesionalidad: 4.3,
+    precio: 4.0,
+    variedad: 4.7
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–14:00"
+    ],
+    viernes: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://www.afflelou.es/opticas/vitoria/afflelou-c-eduardo-dato-7-01005?utm_campaign=gmb&utm_medium=organic&utm_source=google_gmb",
+  phone: "945 15 55 64",
+  review_count: 92,
+  review_rating: 4.8,
+  latitude: 42.845352,
+  longitude: -2.672289,
+  user_reviews: [
+    {
+      Name: "ESTIBALIZ MARQUEZ",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLg4YxaM2ir1bhFZqnri6jo3x5M-8eKxLqCqpYYFlT97B9zUg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La atención por parte de la dependienta es inmejorable. Buenos consejos, rapidez, y buenos precios. Todo lo que espera el cliente. Llevo años comprando ahí tanto gafas graduadas como gafas de sol, y siempre ha sido un trato perfecto. Seguiremos acudiendo. Es totalmente recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "angie garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKLidbGI2b7Cd6GeF5_XBUcz8A4nd8jZSNRYMANniMVYHRm7A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "El personal fue muy amable y me ayudaron a encontrar las gafas perfectas. Tienen una gran variedad de estilos y marcas. Son de gran calidad y estoy muy contenta con mi compra. Recomiendo a cualquiera que necesite gafas. ¡Definitivamente volveré!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Yolanda JIMENEZ -VITO0312-",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXdvlM0RuvrjtEMp8_MaLOlNm4VAvCQNAX9ibgKfwzG_RpYMfxV=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Hola, hace unos meses acudi a este centro con mi hija.\nLa atención por parte del equipo de vendedoras fue pésimo.\nNos hicieron sentir o fatal y por supuesto nunca hemos vuelto.\nEn concreto una vendedora de pelo corto\nHay que ser un poquito más humilde y no mirar por encima del hombro a nadie, porque perder clientes no creo que esté en la linea actual.\nUna pena que esta chica de esta imagen de atención al cliente.\nIncomodez es lo que transmite.\n\nUn saludo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "iñigo beitia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI5c_WJbO8XXbe_bfKB8YJ7gOcXPhhphaTScCC-2THlz-mE1A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fui a comprar unas gafas de sol hace poco. La atención fue excelente. Me pude probar un montón de modelos, me dijeron diferentes recomendaciones, explicacionesde todo tipo, etc. Y salí con las gafas que mejor se adecuaban a mí. Así que, salí muy contento. Sin duda los recomiendo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "stephane auclair",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIe5p7LU8JRmoRF9xcjwyaToChzDJafqe94MfmcOUB3a89qQg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Hola\nSiendo fotosensible uso bastante gafas de sol en cualquier momento del año\nMi experiencia o experiencias  de ir allí han sido siempre de 10\nEsta semana no ha sido de otra manera como siempre perfecto la atención y la dedicación\nOtra vez salí de allí con más gafas de lo previsto pero para menos dinero que una caña para las dos gafas siguiente!!!!\nAl ritmo que las pierdo me va de lujo !",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria Agirre",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKYxEAGl2WBdiuuVzsih78yg8zxqsYOKWbSUlVLix6d0QBf-w=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Gran surtido de gafas, cada cual más bonita. En mi caso aproveche la opción de 1€ más y lleve también unas de sol graduadas. Comentar tambien que el trato así como asesoramiento y magnífico.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lorena Delgado",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWBNkvp7hJC21BZ9vEzCDOP06nUD6gD-DfyvhTMllQk3pyPoZ0=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Tras probar en varias ópticas, no había encontrado un sitio donde acertasen tan bien con lo que mis ojos necesitan, como cuando estuve en Afflelou con Ana y Ainara. Entre las dos me atendieron de maravilla y por fin estoy encantada con mis gafas. ¡Asesoramiento y atención de 10!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Melvin Balenciaga Alonso",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKrdPkQmPkAP-oQoil7LwGRUKmb7oAD_lxG9tj1b7QZj7xm5A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fui a por unas gafas de sol de una en concreto. Pero finalmente me llevé unas de la marca de la casa gracias a la asesoria del personal. No había visto la gran variedad de modelos de las que disponian y fue muy alentador. Muchas gracias",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Alain Afflelou Óptico Sancho El Sabio, Vitoria, Álava",
+  category: "Óptica",
+  address: "Sancho el Sabio Kalea, 27, 01008 Vitoria-Gasteiz, Álava",
+  description: "Este establecimiento óptico es elogiado por su estupenda atención y la gran profesionalidad de su equipo. Los usuarios destacan el trato encantador y amable, así como la dedicación para asegurar la precisión en las graduaciones. Se valora también la calidad de los productos y la disponibilidad de una buena oferta de monturas.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.8,
+    precio: 3.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–14:00"
+    ],
+    viernes: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://www.afflelou.es/opticas/vitoria/afflelou-sancho-el-sabio-27-01008?utm_campaign=gmb&utm_medium=organic&utm_source=google_gmb",
+  phone: "945 21 97 75",
+  review_count: 86,
+  review_rating: 4.8,
+  latitude: 42.84754,
+  longitude: -2.68044,
+  user_reviews: [
+    {
+      Name: "Mejia Miguelina",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLTH9bIA6-qMikBEPrD_HELStPcgZuZOs1G1rNWhxsxpsF-WA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Pues estoy muy satisfecha con la atención y el trato y seguiré con ellos",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "patricia g.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIO7I169AyFnXYi71KAV0QcDWlR8AlLF8uUeTdQtKpYOYM-Iw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Estupenda atención y profesionalidad por parte de todo el equipo. Soy clienta hace muchos años y mis últimas visitas han sido para empezar a utilizar lentillas progresivas. Son encantadores y hacen que todo sea muy fácil.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alberto ______",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKhTDTG-zB4GMNnQoAnwswl4P9DuCH0xAsg0C-OB596y3J_kw=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Expectacular la atención y la profesionalidad de las dos personas que trabajan allí.\nFui con mi hijo pequeño hacerle unas gafas deportivas donde en otras ópticas me pusieron todo travas y problemas. Allí ninguno desde que pregunte, y a mi hijo le trataron con mucho cariño. He vuelto con mi hijo mayor para que le hagas gafas.\nVolveré  sin duda.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Asier San Jorge",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU1DiLHweBe2KNJMPM2rEfz8FNQXgWdLXMt7PBe11QsTo-7IUe0rg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Mi experiencia ha sido estupenda desde que llevo con Santi y Cristina en Sancho el Sabio. Ambos súper amables y profesionales. Recomiendo tanto por las revisiones, el trato, calidad de productos. Seguiré con ellos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Garoa Digital",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXvOWcZvnPehSGKQjufPVZ4wYZgrfCH12NA8kUkCopU9rCP6F8=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Nosotros llevamos más de tres años yendo y siempre nos han tratado de una forma exquisita, tanto la dependienta que es un cielo, como su compañero que se asegura mucho  que la graduación que hace sea perfecta.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Francisco Conejo Berbetoros",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUkItbq3s8WZtD1fJED83Mbgp1Vkz_UumkPyIfDNnSTAqh158rPbA=s120-c-rp-mo-ba6-br100",
+      Rating: 5,
+      Description: "Un trato muy amable y profesional.\nFelicidafes equipo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Monica Parrilla",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWPEczd2-4IiKAmCKF4wQJOCIoTrvcCN33AW81DNzbKqQSW_KM=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me han atendido muy bien y con mucha profesionalidad tanto la chica como el optico.\nEs donde mejor me han graduado.\nSon muy amables y rapidos a la hora de entregarte las gafas.\nEstoy encantada con ellos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Adlo!",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU6n6-BPmVl3EOepvApCyBOb2x2B17YfBFU92goacVyyMdm3qkM=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Profesionales, amables y atentos. Su oferta de monturas siempre cumple mis expectativas. Un servicio excelente. Poco más que añadir, el Magic clip puede que sea uno de los mejores inventos para los que usamos gafas a diario.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Óptica y audición Ballester",
+  category: "Óptica",
+  address: "Reyes de Navarra Kalea, 2, 01002 Vitoria-Gasteiz, Álava",
+  description: "Los comentarios sobre Óptica y audición Ballester resaltan la profesionalidad y la atención dedicada del equipo. Los usuarios se muestran satisfechos con la exhaustividad del examen visual y la ayuda recibida para elegir las gafas adecuadas. Se destaca la amabilidad y la capacidad de asesoramiento del personal, mencionando la sinceridad y la excelencia del servicio. Además, se valora la disponibilidad de una amplia variedad de monturas modernas y de calidad, así como diseños originales.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.9,
+    precio: 3.5,
+    variedad: 4.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–14:00",
+      "17:00–20:00"
+    ],
+    lunes: [
+      "9:30–14:00",
+      "17:00–20:00"
+    ],
+    martes: [
+      "9:30–14:00",
+      "17:00–20:00"
+    ],
+    miércoles: [
+      "9:30–14:00",
+      "17:00–20:00"
+    ],
+    sábado: [
+      "Cerrado"
+    ],
+    viernes: [
+      "9:30–14:00",
+      "17:00–20:00"
+    ]
+  },
+  website: "https://www.opticayaudioballester.com/",
+  phone: "945 29 82 76",
+  review_count: 13,
+  review_rating: 4.9,
+  latitude: 42.854189,
+  longitude: -2.664817,
+  user_reviews: [
+    {
+      Name: "JESUS ARBINA",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKZkc1Tn14oPDmBV45c9B31jjuAZdUxxO59vzP84nijCtFA69g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Estoy muy satisfecho con mi experiencia en Óptica Ballester. Desde el primer momento, el equipo fue muy profesional y atento, resolviendo todas mis dudas con paciencia y dedicación. El examen visual fue muy completo, y me ayudaron a elegir las gafas perfectas para mis necesidades. Además, cuentan con una amplia variedad de monturas modernas y de calidad, en vanguardia ¡Sin duda, recomiendo este lugar para cualquiera que busque confianza y profesionalismo en el cuidado de su visión!\nGracias Elda",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ibai",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJk04nZ5ZtJd59n8t1lqBQPugnCcqYZO2lAib0w2_fAcLbpMw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me acerqué a éste centro porque necesitaba unos tapones para el trabajo, la audióloga, Beatriz, me atendió amablemente y me supo asesorar perfectamente.\n\nLlevo un mes con los tapones y el resultado ha sido excelente.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana Barcenas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIdcKMQVC7DpXbbC-1DvTkKYdxeUajXujLwYJDdmh0xqmdNS7k=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Es la primera vez que he ido y estoy contenta por la sinceridad .Muy buenas profesionales.Volvere un saludo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Belén García Martín",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVRTX6NZxKv2PwOVbLFZBKkriZ1c-cN5r0-sp-woenzrmGrAHqQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Servicio excepcional. Andrea me ha graduado a la perfección y las gafas me han llegado mucho antes de lo previsto. Da gusto que se mantengan comercios como este en Vitoria!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "maribel salcedo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJx9lDai3mtiH__gLLCq0Sk_qVLqZCW49ue6R6vT77LYNkYKA=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Atención excelente, con mucha profesionalidad...me atendió Elda, super maja.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Nagore",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLWM9FxjMo9NNkbXWGXGhE3oO_lfwEV7XPTwa01GbPJyPbavw=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Me atendió Beatriz de diez. Me fue explicando todo paso a paso y mostrándome imágenes y resultados. Además tienen monturas de gafas súper originales y diferentes. Volveré sin duda.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marian Otaola Elortegi",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLH2czTIqSeyRaNpFkQOl1bjynabIljKOtYP186y4BC6H55qA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Kaixo, he tratado con Beatriz y además de buena profesional, que utiliza técnicas avanzadas, con imágenes y explicaciones valiosas, se ha mostrado muy cercana. Sin duda, se nota que pone un valor añadido a la técnica. Hacía falta un establecimiento de este tipo en un barrio consolidado como éste y con profesionales que te cuidan. Eskerrik asko.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jorge Ibañez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLEc-PWlwZ9U4FkRvobPcpDOjhnCmWda4MDs_Vm0sWEW9CMIg=s120-c-rp-mo-ba3-br100",
+      Rating: 4,
+      Description: "La llegada de una óptica al barrio siempre es bueno. Diseños originales en gafas graduadas y sñ de sol. Ya no hace falta ir al centro Atención muy profesional. Se necesitas algo que no tienen en ese momento te lo buscan",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "OPTICA ESPARZA",
+  category: "Óptica",
+  address: "Cruz Blanca Kalea, 9, 01012 Vitoria-Gasteiz, Álava",
+  description: "Los comentarios sobre OPTICA ESPARZA destacan su extensa gama de productos con precios adaptados a todos los presupuestos, desde opciones económicas hasta productos de alta gama en tecnología y diseño. Los usuarios enfatizan la excelente atención al cliente, resaltando la dedicación, las explicaciones detalladas y el asesoramiento personalizado para encontrar las gafas más adecuadas. Se valora la profesionalidad del equipo, la calidad de los productos y la gran variedad de gafas disponibles.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.8,
+    precio: 4.5,
+    variedad: 4.7
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    martes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ]
+  },
+  website: "http://www.opticaesparza.com/",
+  phone: "945 24 69 11",
+  review_count: 15,
+  review_rating: 4.9,
+  latitude: 42.852547,
+  longitude: -2.678968,
+  user_reviews: [
+    {
+      Name: "Angel J. Garcia Adeva",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLAtNqgwbGFU37E1gzLkeUiu2DA3L2x53ROm1Zn_1lIbKhHXw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Mi óptica de cabecera. Tienen una extensa gama de productos y con precios para todos los bolsillos. Desde lo más económico pero plenamente funcional, hasta lo más tope de gama en cuanto a tecnología, diseño y materiales.\n\nEso sí, por encima de todo, lo mejor es la atención que brindan al cliente. Cuando están contigo es como si fueras el único paciente. Te dan todas las explicaciones que les pidas y te dedican todo el tiempo que necesites. Siempre te dan varias opciones y te aconsejan teniendo en cuenta lo que más te conviene como paciente.\n\nEn resumen, una óptica de toda confianza.\n\nEn resumen,",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Estibaliz Ansotegui",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI7iyFODi1htOCvpXA9yn0ch45lJgo0laF8_LH91eIVQgJqNQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy profesionales. Llevo comprando gafas allí toda la vida, la atención siempre es fabulosa.\nMuy buena calidad de productos. Gran variedad de gafas y todas preciosas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cecilia Villar",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJNas_Qlobx15NKk-QOdXHrqGTrq54ZOdPy3f7Ddqi0uHUcoQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La gente encantadora. Muy a gusto con las recomendaciones",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marianne Gaite",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVMpINKGUUkShMKKTiX9wO8HhFzKBUs4_intKpFXJOjsoq8sXJE3g=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Mis primeras gafas son de aquí. Tienen muchísima variedad y son muy bonitas. La atención es excelente y siempre que necesito algo están para prestar ayuda. Vivo en otra ciudad y siempre que paso por Vitoria me paso por la óptica 👌",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Elena Dominguez Gamiz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJIBwSTI5L9LyugyPGN0btnptjLmBGuG2cFkbtaTTTJkVc_7Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Para mi, es mi óptica de confianza desde hace muchos años, vivo en la otra punta de Vitoria pero siempre voy allí.\nSon un gran equipó, Garbiñe un encanto de chica que te ayuda y asesora muy bien elegir la mejor gafa que se adapte a tu cara, tienen mucha variedad de gafas.\n\nGRACIAS EQUIPO SEGUIRÉ CONFIRMADO EN VOSOTROS!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lilia Balles",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUJL8w1WWbb9B_CpXhkfjcl2Khw3IgBFWOWi7-_sUgR-nf6kwmR=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "La atencion y el desempeño muy profesional ademas un trato excelente cuidando cada detalle e salido muy satisfecho. Muy recomendable ☺️",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Carlos Campos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVFeeVjnHCX0ZdDrMj7KKZJk7tVC4Ebb77ejr1m9KZppmp9jBo=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buenos profesionales, excelente atención, compromiso con los plazos de entrega, material de primera calidad, muy satisfecho.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Martín",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVao4c7uF1UZoVBV7LF93Hp3X5KtK2cxmk2z3HkwFpG4y-mcEvc=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Un trato muy amable y profesional, con una sonrisa en todo momento.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Espinosa ópticos más que ver",
+  category: "Óptica",
+  address: "Reyes de Navarra Kalea, 39, 01013 Vitoria-Gasteiz, Álava",
+  description: "Los usuarios de Espinosa ópticos más que ver destacan la gran profesionalidad y el trato exquisito recibido, mencionando que siempre es un placer visitar la óptica. Se valora la dedicación del personal para explicar detalladamente las opciones disponibles para mejorar la visión y ofrecer un asesoramiento personalizado, captando rápidamente los gustos de los clientes. Se subraya la calidad de los productos y los equipos de alta calidad, así como la excelente relación calidad-precio.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.9,
+    precio: 4.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    sábado: [
+      "10:30–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ]
+  },
+  website: "http://www.masquever.com/",
+  phone: "945 26 44 28",
+  review_count: 17,
+  review_rating: 5,
+  latitude: 42.859288,
+  longitude: -2.670076,
+  user_reviews: [
+    {
+      Name: "Robus Gómez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLrHjHCjcLp0nG09tyXvQ8Q-QGnh0B-qnTzZS0-tVHbCGDFBg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Grandes profesionales y trato exquisito de verdad siempre es un placer ir allí",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Anakol Lainoa",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJyT8R4cNJQybKHl7J9XY0rWNdeYEwwRSs4sOQNv5UlZxae4Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Unas profesionales de 10.\nTe explican todo sobre tu visión y te aconsejan muy bien.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Taarma Beherit",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLYC8dCBTB2lK6iPEVklY9On4FxmTLLFL31td53o48i7vgGMg=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Un trato excelente y con total dedicación. Hablándome de todas las opciones que existían para la mejora y corrección de mi visión y buscando lo que más se adecuaba a mí, captando mis gustos al instante. Ha sido mi primera vez con ellos y he salido con 2 gafas de allí pero será mi óptica de cabecera. Gracias!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "SUSANA GONZALEZ",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW0M9opLdX_6I-k0UjpFlXjfnEExOTnmZHuF-5-bwC2dwrPmdHM=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Un lugar perfecto para tu vista. Profesional encantador y preparado para ofrecerte lo más adecuado a tu caso.\nAparatos de alta calidad.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ania Guzman",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXIpv6PnREZhAyWsn9npZgAAM_La_udZddC9elgDr8-EFNCXug=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Siempre me cojo las gafas ahí y super bien.\nUn trato espectacular y muy profesionales",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pedro Mari Carballo López",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJM0wICt1ewXIIYBQhoBeL38CjYLLUWOIrvl3fcS-jyqqkO1A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me atienden muy bien cada vez que voy. Óptica muy recomendable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Xabier Larrimbe ibañez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLOOxtvxCwa2hJUO8S92_49XfDg-dGpS5tZ-pWkm6ZUO84UwA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato y profesionalidad excelentes. Muy buena relacion calidad-precio.\nVolveré sin duda.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Itziar Onaindia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWvECtplBCwwrAFAlnoXugOrlySlyBM7XsAB94PhpBpoWHGi1LspQ=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "La atención prestada fue fantástica. Productos de gran calidad a buen precio.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Medical Óptica Audición La Paz",
+  category: "Óptica",
+  address: "Bake kalea, 27, 01004 Vitoria-Gasteiz, Álava",
+  description: "Este establecimiento ha recibido opiniones mixtas. Algunos usuarios han reportado una atención al cliente deficiente, incluyendo incidentes de trato descortés y problemas en la gestión de pedidos y entrega. Sin embargo, otros clientes han destacado la amabilidad y profesionalidad del personal, así como la calidad del servicio y el asesoramiento recibido.",
+  serviceRatings: {
+    atencionCliente: 2.5,
+    profesionalidad: 3.0,
+    precio: 3.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–14:00",
+      "16:00–20:30"
+    ],
+    lunes: [
+      "9:30–14:00",
+      "16:00–20:30"
+    ],
+    martes: [
+      "9:30–14:00",
+      "16:00–20:30"
+    ],
+    miércoles: [
+      "9:30–14:00",
+      "16:00–20:30"
+    ],
+    sábado: [
+      "9:30–14:00",
+      "16:00–20:30"
+    ],
+    viernes: [
+      "9:30–14:00",
+      "16:00–20:30"
+    ]
+  },
+  website: "https://medicaloptica.es/vitoria-gasteiz-la-paz",
+  phone: "945 56 79 18",
+  review_count: 147,
+  review_rating: 4.2,
+  latitude: 42.846554,
+  longitude: -2.66801,
+  user_reviews: [
+    {
+      Name: "Estibaliz Hernandez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLHZJVJdMcSF0nFKgCyt9igx02ozihpy9NHE4WJILjJfyX9=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Unas impresentables las mujeres que trabajan aquí. He ido a pedir un presupuesto de unas gafas para una chavala y, al ver que la chica no es de aquí, se ha negado a hacer el presupuesto. Su argumento ha sido que no iba a hacer un presupuesto a alguien que a saber cómo iba a pagar, que los servicios sociales tardan en pagarles. Incrédula con lo que estaba escuchando le repito que me haga el presupuesto y añado que ella no tiene idea de cómo íbamos a pagar. Una vez más, se niega a hacernos el presupuesto. La mujer era la que está en la entrada “recibiendo” a la gente. Una impresentable, amargada y RACISTA! Yo soy clienta de esta óptica, pero acaban de perderme como tal.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Arantza A Usun",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJyKhWhmVQepSeL54Jd7E2OqjCmXannxYbGWvcJQbNSkHAPgQ=s120-c-rp-mo-ba2-br100",
+      Rating: 1,
+      Description: "Medical óptica (calle La Paz en Vitoria-Gasteiz) sábado 30 de Noviembre 20:00 horas. Entramos para preguntar para hacer unas gafas (llevo la graduación del oftalmólogo) entramos y no hay nadie (clientes) nos miran con mala cara.... Pregunto a que hora cierran y faltan 30 minutos... Llevo una captura de pantalla del modelo de montura que me gusta con referencia (ni se molesta en mirar) me dice que meta en la web desde mi teléfono y la busqué... y mientras ella intentando aburrirme para que me vaya... Ni se molesta en buscar en el ordenador de la tienda...Me dice que apenas queda nada de la oferta del black frayde.... Que ya se acabó la oferta (le digo que me he informado y dura hasta el lunes 2 de diciembre). Al final consigue que me vaya y se queda satisfecha... PARA TENER TRABAJADORES ASÍ ES MEJOR NO TENER NADA!!! La peor persona atendiendo al público en años (llevo en esta óptica 15 años usando sus productos y hasta ahora bien). MEJOR SELECCIÓN DE PERSONAL!!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Emil P",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIU-iSyRkaPxfdjSg0ErlbFVZ3azTQMlKVnc7xkmbCXR5ftfQ0=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Excelente trato por parte del personal de la óptica. Lo recomiendo a cualquier persona",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Asier",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ9IUuf3cLEG65-Vpkk27Vx0VM3nHUP4q0i3MBOfJXQ_M9UL7o=s120-c-rp-mo-br100",
+      Rating: 2,
+      Description: "Se confunden de cliente, me mandan un aviso y me hacen ir en vano a la tienda. Pasan los días y tengo que llamar a la central para que me informen si mi pedido ha llegado (no atienden directamente por teléfono). Me mandan otro SMS informando sobre una cita que no he pedido. Al ir a por el pedido, no recibo ninguna disculpa de su parte por todo la confusión y la mala gestión. Muy mala atención. Será por ópticas...",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "ana escamilla",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocId4MtiJtjT1OgOt_-DAjWT3KCKBE8Sf6OSq4CogtisVPWlbg=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Es un centro idóneo para comprar  gafas o lentillas. Nos atendieron muy bien. Son muy profesionales y te aconsejan antes de realizar  la compra. Te explican bien las opciones que tienes  , la forma de pago. Me gusta el  trato y que no tengo que esperar mucho para que me atiendan. Lo recomiendo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "C Sa",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK7W45MC0PY_nw3uQVr0yS8NUNSmie9CpK32gT8IOqsLDPLPA=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Venir desde Cádiz, entrar a comprar líquido para lentillas y encontrarte a una persona tan amable, es de agradecer. Me aconsejó donde cenar y por supuesto, me ofreció rápidamente lo que buscaba. Muchas gracias por esa simpatía y atención!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Silvia Peral",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIi_CIx9N_nIWsvtgaF4sIVsASDb44owihBZxLOpwlKB01uEQ=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Llevo a la espera de las gafas de mi hijo desde mediados de julio,me llaman para decirme que ya las tienen en la óptica, voy a recogerlas y al abrir la depedienta el estuche de las gafas se da cuenta  que vienen rotas y hasta entonces estoy esperando ya que estamos a últimos de agosto y todavía no han llegado,me llaman que llegan tal día y no llegan y asi al menos 4 o 5 veces.\nSinceramente una auténtica vergüenza y ninguna solución  y lo más importante mi hijo mes y medio sin gafas!!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "JOSE MARIA LLORENTE SAN MARTIN",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVw6oO-zWzEk8V9OPJJwzlqJ5Kpjsr0ImwIdl_s_fGfmEsrzBcl=s120-c-rp-mo-br100",
+      Rating: 2,
+      Description: "Atienden bien.\nPero tardan mucho tiempo en entregar las gafas.\nY la verdad son como todas las opticas\nMuy caras.\nSobre todo el cristal polarizao.\nEs carisimo.\nMadre de dios.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Gonzalo Bilbao Centro Óptico",
+  category: "Óptica",
+  address: "Bake kalea, 1, 01004 Vitoria-Gasteiz, Álava",
+  description: "Este centro óptico es reconocido por su trato y servicio extraordinarios. Los usuarios valoran la amabilidad, la profesionalidad y la atención personalizada que reciben. Además, se destaca que ofrecen servicios de reparación de gafas.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.8,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ]
+  },
+  website: "",
+  phone: "945 14 65 92",
+  review_count: 10,
+  review_rating: 5,
+  latitude: 42.844475,
+  longitude: -2.668494,
+  user_reviews: [
+    {
+      Name: "Manuel Ernesto Macías Apesteguí",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLNYXRPY2qapuMbegy5PjKucF6PA2hELPDEmF2ZIZ2EHurAXA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Extraordinario trato y servicio. Muchas gracias por todo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Johan Mendoza",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWA8g81JgX2Lyq7FdDYyPN1EiAB6lLAbLO0cNTQIKuvy4OjRW1s=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Muy buen servicio y trato",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "VICTOR MANUEL RODRIGUEZ HOLGADO",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW0OoFCqsUtc96463xEFzlQdYMy6Oe1aJjOsh2qRU8VeSE2HYs=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buen trato y buen servicio",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Arantza Jausoro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWhoCzbm0JtipmFxonQuFaG6QsOGQ7j6xnwZ-gjh3udaiKzi5on=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente trato, y además, arregla gafas, no sólo las vende.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Gorka Serrano",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUt_RXm5PwmiJLPEBGfDilYa9c1uHIapa9_AmHJUOeVi3XKoaB_=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato profesional y personalizado. Perfecto 👌",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mónica Canta",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLHhBpvZRF2NvfRFQTG7Q2EixJT1wclHqDDFKgwBW3RYK9-0w=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Amaia Ximenez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKPYPt1YlO7iWE26Yfd9FE1ZReevJ3eELkw3JeKdngjC-DTOQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rocio Barriga Perez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK8L5RLYsj7gQAUzjKNR2pWf3e-e14LBqSqg14nKhUyAsryqQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Óptica Avenida Vitoria S C",
+  category: "Óptica",
+  address: "Av. Gasteiz, 76, 01012 Vitoria-Gasteiz, Álava",
+  description: "Esta óptica se distingue por brindar un trato personal y profesional excelente a sus usuarios. Los clientes resaltan la calidad de sus gafas de sol, monturas de primeras marcas y cristales, junto con el asesoramiento experto basado en años de experiencia. También se valora su servicio excepcional en lentes de contacto y la eficiencia de su servicio post-venta.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.9,
+    precio: 3.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ]
+  },
+  website: "",
+  phone: "945 24 14 56",
+  review_count: 16,
+  review_rating: 5,
+  latitude: 42.852665,
+  longitude: -2.680008,
+  user_reviews: [
+    {
+      Name: "Juan José Jaras Bartolomé",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVDHnanOLDz8xnRodkEHDf5eaE6HfXA0lyp09cDahP7GatdxH34=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Llevo como cliente de esta óptica desde que la abrieron. Tanto el trato personal como el profesional es excelente. Su oferta de gafas de sol y de monturas de las mejores marcas y cristales de calidad se combina con los consejos que dan a los clientes desde el conocimiento de muchos años de experiencia. También en lentes de contacto son excepcionales, consiguiendo hacer fácil lo que al menos para mí era imposible. El servicio post-venta también funciona intentando solucionar de la forma más eficiente los problemas que alguna vez me han surgido. Muy, muy muy recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "A.c.t.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWfB0uitm8E0xvxgi1Y8rAn_chXvGZ2zN_sVXdIxnCjIve45LhC=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Atención de 10. Comprar en comercio de barrio y regentado x los dueños da ese pus de dedicación  que a veces no te da las grandes superficies.\nHe tenido que ponerle gafas a mi hijo de 5 años y desafortunadamente han surgido algunos contratiempos de los cuales Izaskun ha sabido resolver.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose Arbildi Diaz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ0d4fInvPqPMhZngiR5i6Hgu1ALQKu-anGCewpsoOynpYflw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Después de dar muchas vueltas con mis gafas progresivas en varios comercios del ramo, resolvieron mi problema a plena satisfacción.\nPara tomar nota: Un establecimiento serio y profesional con un impecable servicio al cliente.\nMuy recomendable.\n\nJosé Arbildi",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ricardo Blanco",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKXxDZjbFKLkh74CijBhaAiFjXvnsjcrh5_4yxYV3NqwIjMKBg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buenos profesionales que te atienden amablemente, te hacen sentir \"como en casa\". Tuve un problema con la graduación y las gafas y me lo solucionaron bien y rápido. Precios en línea con el mercado. Establecimiento a recomendar",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maise Pérez de San Román Fernández de Zañartu",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKmqH5wfsS2OyCzyyIvdFRFhEttuBY2fOsFk8xNd7NeXN51RQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato exquisito, ambiente familiar. Gran experiencia en adecuar perfil del cliente a montura de la gafa,\nAnte la duda, no dudes en acudir a éllos. Te atenderán pensando únicamente en ti.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marta o.p",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJW3M1WmTX0KPTADHyGmsy0BZVzYyRnrSS7b52i-QViUZLcrq0=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Un trato genial! Amables y profesionales.... Volveré a repetir!  Un 10 👍",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Noelia Rodríguez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWQWImF_vbokdIQmd2QYBUuLEFc5rhHfbEvHI_qdvJCyk-LZYob=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Es mi optica de confianza sin ninguna duda, Izaskun y su marido son grandes profesionales y siempre te asesoran genial. Plena confianza.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "jkl2x",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLzo6FIiLqBN5yO1SSjxHzLJqqnFNpgDxFoyrL5n5xcSSmWyA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Acudí a ellos para pedir una segunda opinión -venía de una franquicia superpublicitada- y acertaron de pleno con mi problema.\nGrandes profesionales.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Centro Óptico Del Norte",
+  category: "Óptica",
+  address: "Urbina Kalea, 5, BAJO;IZDA, 01002 Vitoria-Gasteiz, Álava",
+  description: "Este centro óptico es valorado por la calidad de sus gafas y la atención al detalle. Los usuarios destacan la amabilidad y la atención recibida durante las revisiones, mostrando satisfacción con el servicio en comparación con grandes superficies. Además, se subraya la profesionalidad, el trato personalizado y los consejos útiles proporcionados por el personal.",
+  serviceRatings: {
+    atencionCliente: 4.8,
+    profesionalidad: 4.7,
+    precio: 3.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    martes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ]
+  },
+  website: "http://www.centroopticodelnorte.com/",
+  phone: "945 28 93 93",
+  review_count: 16,
+  review_rating: 4.8,
+  latitude: 42.854289,
+  longitude: -2.670329,
+  user_reviews: [
+    {
+      Name: "maria saez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL6oCTTXVY9rsn_obgPXQsFbkFpvSjQVw_EwQCt0Mwj4uIe4Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Las gafas han quedado muy bien, cuidan mucho los detalles, en la revision fueron muy amables y atentos. Super contenta con esta optica, mucho mejor que en las grandes.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose Luis Cerezo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUE6mcUklnNgl42wTDSk73eAov9S90cAQ4Qd75OGIe1Rh4JjMP3Yw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy profesionales.\nLa atención es muy personal y al detalle\nAparte son muy agradables en el trato al cliente",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "abelardo garcia santasusagna",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJUO6czfpOlFCl-RBMpCK13WTxSEELQ4wRsjPQ4vzdjcF136Q=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Son super agradables y siempre encuentras lo que necesitas ,gracias a sus consejos",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alana Rincón Núñez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIOZ-4AUxCpQ6_aRiqOtBUmA6OVf_6kAhzfjLHPRj7HDzT3Hw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Asesoramiento y trato muy profesional y cercano. Con una clara orientación al cliente, lo agradezco y recomiendo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "MJose Murua",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVsU3NOxOVZ01Rnq-kHY-4C7dkEDMcZTZxOQKCaKBRpVjWVUPKUpw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Genial, el trato, y el trabajo realizado. Una profesionalidad inmejorable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Fernatxu",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXQ0A90wAVbymnOMzGQGWC4f9a4aif1StZMBHTdvdNner15hLrqiw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La mejor con diferencia y muy buen asesoramiento.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Salud Rodriguez Velasco",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU_vna4VK_uq0AlbmX-HcumQk9xSm31wzr7sYHp-ZY8ICnd8Mw5Hw=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Lo mejor de la zona, profesional y seriedad",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Elly Up",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLbzUnTkKrOLfzoqW6kPuuxHjx7PY5xgyEvFbe7SvzQWPts4tGs=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Exelente la atención",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Optica2000 El Corte Inglés Vitoria",
+  category: "Óptica",
+  address: "El Corte Inglés, Olagibel Kalea, 2, 01004 Vitoria-Gasteiz, Álava",
+  description: "Los comentarios sobre Optica2000 El Corte Inglés Vitoria son en general positivos, destacando la buena atención y profesionalidad de algunos empleados como Ibtissam y Enrique. Un usuario menciona una experiencia negativa con falta de voluntad para ayudar y una mala revisión de la vista. Otro usuario quedó satisfecho con la solución proporcionada tras un problema inicial con sus cristales.",
+  serviceRatings: {
+    atencionCliente: 4.0,
+    profesionalidad: 4.0,
+    precio: 3.5,
+    variedad: 3.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–21:30"
+    ],
+    lunes: [
+      "9:30–21:30"
+    ],
+    martes: [
+      "9:30–21:30"
+    ],
+    miércoles: [
+      "9:30–21:30"
+    ],
+    sábado: [
+      "10:00–22:00"
+    ],
+    viernes: [
+      "9:30–21:30"
+    ]
+  },
+  website: "https://www.optica2000.com/buscar-opticas/gasteiz/optica-2000-el-corte-ingles-vitoria-gasteiz?utm_campaign=gmb-website&utm_source=google&utm_medium=organic&utm_content=19-Gasteiz-Calle-de-la-Paz-2",
+  phone: "945 27 22 85",
+  review_count: 31,
+  review_rating: 4.3,
+  latitude: 42.844882,
+  longitude: -2.667934,
+  user_reviews: [
+    {
+      Name: "J UU",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJxSNIXM-13hzBeTQnDtJeIWJZS2iiSZPZ8kJeLywnErGCyhg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Perfecta la atención. Tuvieron que hacerme unos cristales nuevos pues los primeros me mareaban un poco. Tras el cambio todo perfecto. No he tenido que pagar nada.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Roberto Garcia Arnedillo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIOYC1B_DCRDaqcUShPC9CG0akHiGJOEtASZrolD0PsJUx9Nw=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Estoy muy enfadado del trato que me han dado. He ido a revisarme la vista y reparar unas gafas con garantía y me ha echo lo que ella ha querido. No tenía ganas de trabajar y es lo que ha echo. No me ha revisado la vista, estando sin nada que hacer y me ha intentado convencer de que los rayones que tienen los cristales no me van ha molestar. Muy muy negativo. No vuelvo a gastarme 900 € en gafas en el CORTE INGLÉS de vergüenza imperdonable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Yahya Iaam",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocICzeyeVbwPeY-UZ_MuiCwIrBzh7qUIQ6S_tY-mwBg95iaJsA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Estoy muy contento me ha atendido Ibtissam, muy buena profesional, se nota que le gusta su trabajo. Tiene mucha paciencia y me ha tratado super bien",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Wladimir Schigne",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWVV4n7Sxl-6mYNnRPc2qUYkAHzWt_N3-Sj1MF9hPpJZzxUUVtM_A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buena experiencia, en esta Optica  me sentí muy cómodo y Genial con la atención, Buenos profesionales, sobre todo Ibtissam que tuvo mucha asertividad y me ayudo a elegir correctamente, quede muy contento!!! ✔️ Recomendable ,Muchas Gracias!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cristina Diñeiro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVyTxDwKEyty9m92R_84aoybzm06ca2ftVZ3kHfCivuWeZZeA_AXQ=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "El trabajo de Enrique con nosotros ha sido excelente. Ha llevado a cabo la venta de unas gafas exclusivas de una manera excepcional, y solventando los problemas de la mejor de la manera. Muchas gracias por toda tu ayuda y enhorabuena por tu trabajo y atención.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Susana Perez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIbqhLv8H7kkCKBrV539JVg4NiZnlSVBHSbzBvm9ADnPBPotw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Mi experiencia.\nAuténticos profesionales   tanto Beatriz como Enrique nos han asesorado, nos han buscado las mejores opciones,  etc.\nTotalmente recomendado.\nActualizo.\n10 de 10, en este caso he cambiado de gafas a lentillas.\nProceso largo , pero efectivo\nGRACIAS IFTISAN, por tu paciencia, dedicación , consejos.... etc\nsin duda mi óptica de total confianza.\nGracias a todo el equipo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose Antonio Gonzalez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXN0sWfvEXdbDdDb-JsRrUk_Gh55R2lr1YcrBZOKtFNWYtYPVhK8g=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Ibitssam  ha puesto toda su atención e intención en ayudarme de verdad y me lo ha solucionado",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "gisele perazzo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVeGh6iWHaccgJkSou2y_8cnzxa6N-lpGlQF29KRjLlAOtnN_47Lg=s120-c-rp-mo-br100",
+      Rating: 4,
+      Description: "Estuve unos días atrás en la tienda y salí muy disgustada.\nHoy e vuelto para que me arreglarán Las gafas que me dejaron mal, y la verdad que muy distinto y amable el trato,estaba un hombre muy majo.\nAhora sí estoy contenta.\nY agradezco a la empresa por haberce preocupado y contactado conmigo para solucionar el problema.\nGracias.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Óptica Vázquez Farmaoptics",
+  category: "Óptica",
+  address: "Ariznabarra Kalea, 4, 01007 Vitoria-Gasteiz, Álava",
+  description: "Los usuarios de Óptica Vázquez Farmaoptics destacan la atención personalizada y cuidada de María y su equipo, resaltando la confianza que depositan en ellos. Se menciona la diversidad de productos disponibles, incluyendo cosmética, ortopedia y una gran variedad de gafas divertidas. Los comentarios también resaltan la buena calidad y el trato inmejorable.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.0,
+    precio: 3.5,
+    variedad: 4.5
+  },
+  open_hours: {},
+  website: "",
+  phone: "945 14 71 18",
+  review_count: 5,
+  review_rating: 5.0,
+  latitude: 42.842182,
+  longitude: -2.689849,
+  user_reviews: [
+    {
+      Name: "Imanol Alzola",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLs_A0DlGG5xuw3dFnZIiGAccnxzYctPko29Psm2KNsZXzptA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Mi familia y yo siempre hemos confiado en María y su equipo para todo, atención personalizada y cuidada, quedan pocos establecimientos así, siempre los recomendaremos",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose Ricardo Arce Anitua",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWZGseRCCkFgFEu75jUU7JZFjrxUgsCt-Dt9cmdno4BjtbQ0JI=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me gusta la farmacia porque tiene gran diversidad, tanto en cosmética, como en ortopedia, y cuenta una gran variedad de gafas muy divertidas",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Keila Bastida",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJabTf0Vr4mnQKA6Tuxd_nt_g_BmkQTTVjE3cRYRut9KVIYpw=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Muy buena calidad y trato inmejorable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Beatriz Perea",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLx4aAiYw4Jz_HHNrykvDaYMk5v_51Po9s7wYlgpbik8RVPkg=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "K y E",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIUV7fvq0Ytx0LJ26thlpszzlcYRKzOLH9kgwe21STUs9yNsg=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "más Que ver",
+  category: "Óptica",
+  address: "Diputación Foral de Alava Kalea, 5, 01001 Vitoria-Gasteiz, Álava",
+  description: "Los comentarios sobre más Que ver resaltan una excelente experiencia, desde la cálida y amable recepción hasta la profesional y atenta ayuda de Carmen en la selección de gafas graduadas. Los usuarios destacan el servicio impecable, la amplia variedad de opciones de calidad y la recomendación de la óptica por su agradable experiencia de compra y su equipo de profesionales dedicados.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.9,
+    precio: 4.0,
+    variedad: 4.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–14:00",
+      "17:00–20:00"
+    ],
+    lunes: [
+      "10:00–14:00",
+      "17:00–20:00"
+    ],
+    martes: [
+      "10:00–14:00",
+      "17:00–20:00"
+    ],
+    miércoles: [
+      "10:00–14:00",
+      "17:00–20:00"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–14:00",
+      "17:00–20:00"
+    ]
+  },
+  website: "http://www.masquever.com/",
+  phone: "945 26 12 85",
+  review_count: 23,
+  review_rating: 4.8,
+  latitude: 42.846532,
+  longitude: -2.674169,
+  user_reviews: [
+    {
+      Name: "Mikel Intxaurregi Lafuente",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIZjhA6hTqTbGI-yvjoROQwTY0jQKdtf9yl_LMuSSTnWmM8Lg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "\"Excelente experiencia en mi visita a la óptica. Desde el momento en que entré, fui recibido con una calidez y amabilidad que hicieron que me sintiera realmente bienvenido. Carmen demostró una disposición genuina para ayudarme, respondiendo todas mis preguntas y guiándome a través del proceso de selección de mis gafas graduadas de manera profesional y atenta.\nEl servicio prestado fue impecable; me sentí completamente satisfecho con la atención recibida. Además, la óptica cuenta con una amplia variedad de opciones y productos de calidad, lo que facilitó mucho la elección de mis nuevas lentes.\nEn resumen, recomendaría esta óptica a cualquier persona que busque una experiencia de compra agradable, un servicio excepcional y un equipo de profesionales dispuestos a satisfacer todas sus necesidades visuales con amabilidad y dedicación.\"",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "María de los Ramos Yncera",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocISrcsRg4W7FU5Z0DlLKh0-T1oB9bl5iQtfu9I5xFS9tj4waw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Es mi optica de siempre y estoy encantada con la profesionalidad de mas que ver. Animaros y visitarlas. Lo recomiendo 100%",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Isabel",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV9-C9lWk2mfZ84-ZPziHjdy8QWjWXc3fK3FZj99QZmtCuCJnU=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Encantada con mis nuevas gafas. Me han aconsejado en la elección de la montura basándose en mi estilo y necesidades de cada día. Súper profesionales. Volveré seguro.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Estibaliz Pardo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLuvpyw-yrhxcW4frdpjaav5t2fiiKeJUrjhyp5dBG15xb2vg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Es una óptica que trabajan con mucha profesionalidad donde te aconsejan, asesoran con mucho gusto y cariño . Estoy encantada con mi compra. Volveré con gusto!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "María Alcalde Alfonso",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIrdkc5PhHcnxVWJsctZGoz8PLnbe_J8FKXwj2cjkNpFZGfHA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato personalizado e inmejorable. Estoy encantada con como me asesoraron a la hora de elegir mis gafas. Son muy atentas y saben lo que el cliente busca. Muy profesionales.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "María Aguirrezábal",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLmZ3mU4WeaRYtcxordEhcqpKxoR1eyRH7b0Hcdkz_H4U1-6Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Experiencia súper agradable. Aconsejan y ayudan en todo lo que puedan, además tienen una amplia de gama de opciones y soluciones . Ha sido un gusto vivir la experiencia de mis primeras gafas vosotras!!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "E rt",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXI8-4bq1FOcfbBUY3iYKoGmcgWEkU7o6RqxzYiCbyf8N3-TPJR=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Las chicas son muy amables, tienen mucho gusto y me han aconsejado a la perfección. Se nota que son profesionales.\nEl local muy limpio, y miman mucho la desinfección de cada gafa.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana Blázquez Gómez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV8h7Z3Qb0x_gIZpRbqCMztuEYOnqia5aFRNiCydRd3OUtVOoH_=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fui a graduarme por primera vez y me ayudaron y me asesoraron genial, Un trato maravilloso y me hicieron una muy buena recomendación de lo que llevar y como hacerlo. Recomendable 100% y muy bien de precio",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Óptica Lizarduy",
+  category: "Óptica",
+  address: "San Prudencio Kalea, 1, 01005 Vitoria-Gasteiz, Álava",
+  description: "Los comentarios sobre Óptica Lizarduy destacan la profesionalidad y la confianza que inspira Paco Martínez de Luzarduy. Se valora el servicio completo que ofrecen, incluyendo terapia visual para niños y diversos servicios de optometría. Los usuarios elogian el trato personalizado, mencionando la dedicación de Lidia. Se destaca la inmensa variedad de productos y la atención personalizada. En general, se percibe como una óptica de referencia con un equipo atento y profesional, aunque se menciona una experiencia negativa con la gestión de una garantía.",
+  serviceRatings: {
+    atencionCliente: 4.5,
+    profesionalidad: 4.8,
+    precio: 3.5,
+    variedad: 4.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "16:00–19:30"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "16:00–19:30"
+    ],
+    martes: [
+      "9:30–13:30",
+      "16:00–19:30"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "16:00–19:30"
+    ],
+    sábado: [
+      "Cerrado"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "16:00–19:30"
+    ]
+  },
+  website: "http://www.opticalizarduy.com/",
+  phone: "945 23 07 68",
+  review_count: 28,
+  review_rating: 4.4,
+  latitude: 42.844292,
+  longitude: -2.674075,
+  user_reviews: [
+    {
+      Name: "Felisa Fernandez Lombardero",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV78yJWyyJXtHGXduN3dKrjo7yg_AEqdTD-hjY0-dsZz4HLga_BLA=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Me atrevo a poner 5 estrellas a la Óptica de Paco Martínez de Luzarduy, porque he trabajado algunos años con él, cuando éramos jóvenes y sé que es un gran profesional, una gran persona, y de esas que no dan sorpresas negativas, si no todo lo contrario. Se me ha ocurrido poner hoy esta referencia porque acabo de leer media página de un periódico de su ciudad dedicada a él y no vi otra forma mejor de apoyarle. Tiene 76 años y continúa yendo a la óptica por las mañanas lo cual es garantía de que en su óptica funciona todo a la perfección.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Andoni Oscoz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKylG9IWTtaF-2vwV87sg6avRFralbr618fCRUev5MMNbNUjg=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Más que una óptica, un servicio completo que cuida de tus ojos incluyendo terapia visual especialmente orientada a los niños y todo tipo de servicios de optometría. Muy profesionales, de lo más completo de Vitoria.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "mikel montllor solatxi",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJKIGLh3xR6lTHXXU1c7pyFNEJv-FgNiSWXLZixpSTN_wbnzA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La óptica de siempre, con el trato personalizado que ya..., en pocos sitios.\nEspecial para Lidia,  por su tenacidad hasta conseguir lo que tus ojos necesitan.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mönica Bozas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW8uXIEYAuBuMiYTs_W34RusSG4voeB4Lzk-QD-3m9Zh4VvL5T4=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Una óptica donde tienen una variedad inmensa y una atención personalizada de 10. Hice un pedido online y al recibirlo me encanto su Presentación y detalles incluidos.  Encantada con mis gafas nuevas, 😊😊",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sCIHM0ogKEICAgICh8emwfQ&fid=0x0:0xf74732a424b3a6af"
+      ],
+      When: "2023-2-15"
+    },
+    {
+      Name: "idoia lopez de aberasturi",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLKj42y1oMRDJYY-QWyJFOqxk3xbNv09DFYQReKxzCLVmYliA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buena atención y asesoramiento.\nBuen@s profesionales.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "ANA GIBAJA SOGUERO",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIQIoNnCcj_RmHGCPDmqXUQiRGUvnwYX3L3vG2t6Jd-2Mf64w=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "No se por donde empezar ,hace dos semanas se me rompió la patilla de las gafas que uso a diario ,las lleve a la óptica por que las compre hace menos de 2 años y me dijeron que la rotura de las patillas no entraba dentro de la garantía, lo cual no es cierto. Eran unas gafas que pague 1,400 euros ,se las quedaron y me llamaron al día siguiente,me colocaron una patilla de cada color y al no estar conforme me las enviaron a la casa por mi insistencia. hoy las he recogido y las dos patillas estaban bien ,la atención no ha sido adecuada por que en estas dos semanas han sido incapaces de ofrecerme una solución ,y gracias a otra óptica, que estoy muy agradecida con ellas, me colocaron mis cristales en una montura que he podido usar. Yo no puedo estar sin gafas y en esta óptica no les ha importado nada .tengo claro algo y es que ni yo ni mi familia volveremos a la óptica.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cristina Juesas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXZMkxPJ4AI3YXQ4rdtNjgM0DXHV2w2ABlwGKhpVD3zFepvnw-jqQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Es mi óptica de referencia. Se toman su tiempo en la graduación y asesoramiento de las mejores opciones para tu vista.\nDisponen de gran variedad de monturas tanto en gafas graduadas como de sol y también en monturas infantiles y también te asesoran en cuanto a las monturas que mejor se adaptan a tus facciones y personalidad. La verdad es que estoy encantada. (Y veo como hacía muchos años que no veía).",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sCIHM0ogKEICAgICh8ersdg&fid=0x0:0xf74732a424b3a6af"
+      ],
+      When: "2023-2-15"
+    },
+    {
+      Name: "Amaia Troki",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLiNW-n_7ghzMpjC-N97Vh1jRu7hT6asa8hojfXiyfZLF72QA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Decidí confiar en optica Lizarduy para mis primeras gafas y no me he equivocado. Una óptica de las de siempre. Me he sentido muy bien asesorada durante el proceso , un gran equipo , atención cálida y profesional.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Audífonos y óptica Bibegi Vitoria. Audiólogos y optometristas. Baja visión y prótesis oculares. Gafas progresivas",
+  category: "Audiólogo",
+  address: "Ricardo Buesa Kalea, 4, bajo, 01008 Vitoria-Gasteiz, Álava",
+  description: "Este centro se destaca por la increíble atención y el compromiso de sus profesionales en las áreas de óptica y audiología. Los usuarios valoran la calidad del servicio, la profesionalidad y la paciencia del equipo. Además, ofrecen terapias auditivas especializadas y son reconocidos por su experiencia en baja visión, terapia visual y adaptación de audífonos.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.0,
+    variedad: 4.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–14:00",
+      "16:30–20:00"
+    ],
+    lunes: [
+      "10:00–14:00",
+      "16:30–20:00"
+    ],
+    martes: [
+      "10:00–14:00",
+      "16:30–20:00"
+    ],
+    miércoles: [
+      "10:00–14:00",
+      "16:30–20:00"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–14:00",
+      "16:30–20:00"
+    ]
+  },
+  website: "http://www.bibegi.com/",
+  phone: "688 85 29 47",
+  review_count: 38,
+  review_rating: 5,
+  latitude: 42.848389,
+  longitude: -2.679538,
+  user_reviews: [
+    {
+      Name: "Nahia López de Murga García",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKaeCiGLVj3N1ZL0qPIzgPNyc0joxCPI6UsIjK4lqd8EhF1zA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Increíble atención, se nota que los profesionales de este sitio están comprometidos con su trabajo y les gusta mucho lo que hacen. Además de que tienen gafas chulisimas, me recomendaron hacer una terapia auditiva para mejorar la concentración y mi rendimiento ha mejorado muchísimo. Gracias a ello estoy pudiendo mantener el ritmo de estudiar unas oposiciones duras. Gracias Yoli, y demás compañeros! Se lo recomiendo a todo el mundo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "I A",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL4zOknHZJZrShmUzRTZjU3swB7sPyLShgytGd1IdApYFLaNQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buenísima atención por parte de todos, un gran equipo de profesionales cualificados. Fui por primera vez porque me lo recomendaron y se ha convertido en mi óptica de confianza",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Yolanda Chaparro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWJnYhWaX2-Mxvn8Z5Wo0CnBs0iLoIsVEkHCaSzhyVG9kC9c39_=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Excelentes profesionales y muy pacientes !!! Gracias por procurar siempre lo mejor para nosotros en calidad y precio, tanto en óptica como en audición. 🔝",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sCIHM0ogKEICAgIC97buKTA&fid=0x0:0x19b371a595a9ab04"
+      ],
+      When: "2024-3-8"
+    },
+    {
+      Name: "Nekane Aguirregomezcorta",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKxWUgSD_KAmU5N_5vsU7FdR9tXUIH5yJ9TR_cQB2kaFjRbLQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Grandísimo equipo, buenos profesionales. Tanto en su área de óptica como de audición. Transmiten confianza y familiaridad, siempre dispuestos a buscar soluciones con una tecnología muy avanzada. Gracias.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Father Father",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLi5BXbTpwAuIc8EgaFBjIWPaOZrQYbWSXD_Pnc85QsWP8oNw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Atención excelente, he quedado contentisimo con los audifonos y Yolanda (una empleada) me ha solucionado todos los problemas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Zuri Tapia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWdWLyMta9amj5h8NggxWgEHbuHnJ8maM2rf7rrwL5NhhPQRpuS4Q=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Desde el primer día, el trato es increíble. Lo explican todo súper bien, recomendable 100%.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Aravit",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXmdNz3wQ74NShIOZPSLg_Pp4Dvat4E8LWudzCFguQ0NntdhaV7kw=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Fantástico centro auditivo especializado en adaptación y readaptación de audífonos. Dispone de terapias auditivas especializadas tanto infantiles como de adulto.\nCentro especializado en el tratamiento de tinnitus.\nCentro óptico especializado en baja visión y terapia visual tanto infantil como de adulto.\nCentro especializado en tratamiento del ojo vago.\nÚnico centro en Álava especializado en prótesis oculares.\nCentro especializado en tapones de ruido, dormir y baño a medida.\nY si buscas una buena lupa, este es tu sitio.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sCIHM0ogKEICAgIDjh6O2oAE&fid=0x0:0x19b371a595a9ab04"
+      ],
+      When: "2024-5-8"
+    },
+    {
+      Name: "ALMUDENA",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKuIINomNfd8svg_dyULgkSV6rbl9MV6O26R4jzCEFMFkomcA=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Muy contenta con el trato recibido, se nota que son profesionales. Fui para unas nuevas gafas porque a la miopía se va uniendo la vista cansada y es muy importante no arriesgarse con la visión, ¡me quedo tranquila con estos especialistas¡",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Navaplex",
+  category: "Óptica",
+  address: "San Miguel de Atxa Kalea, 6, 01010 Vitoria-Gasteiz, Álava",
+  description: "Este establecimiento es descrito por un usuario como un lugar muy bonito.",
+  serviceRatings: {
+    atencionCliente: 3.5,
+    profesionalidad: 3.5,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {},
+  website: "",
+  phone: "945 26 00 88",
+  review_count: 1,
+  review_rating: 5,
+  latitude: 42.863845,
+  longitude: -2.708849,
+  user_reviews: [
+    {
+      Name: "Mehdi Ouahab",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocITszqx-gYI6nkjjLapUm1_Ymmtu_wOYzBEjbDe41UBHsDfQA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Este lugar es muy BONITO",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Farmacia Vázquez",
+  category: "Farmacia",
+  address: "Ariznabarra Kalea, 3, 01007 Vitoria-Gasteiz, Álava",
+  description: "Esta farmacia es valorada por su buen servicio y la amabilidad de su personal. Algunos usuarios destacan su atención cercana y profesional, mencionando que también ofrece servicios de ortopedia y óptica.",
+  serviceRatings: {
+    atencionCliente: 4.0,
+    profesionalidad: 4.0,
+    precio: 3.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:00–22:00"
+    ],
+    lunes: [
+      "9:00–22:00"
+    ],
+    martes: [
+      "9:00–22:00"
+    ],
+    miércoles: [
+      "9:00–22:00"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "9:00–22:00"
+    ]
+  },
+  website: "http://www.farmaciavazquez.net/",
+  phone: "945 13 08 04",
+  review_count: 10,
+  review_rating: 4.2,
+  latitude: 42.841846,
+  longitude: -2.689971,
+  user_reviews: [
+    {
+      Name: "Yolanda Garrido",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXZadYEbs5tr-fBRSHMxraVmyDO2TNskBNq_JheGJcGH5yUs74=s120-c-rp-mo-br100",
+      Rating: 4,
+      Description: "Buena experiencia. Son amables y cercanos. Aunque no te dan regalos como por ejemplo en otras farmacias como la farmacia puente",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Gabriela",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWBts5iB-tj0lJU_ei3e6lnWmPEtBJvpAFgIAKi3AhAeI1FEfwM7Q=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Excelente servicio y atención. Es farmacia, ortopedia y óptica.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sCIHM0ogKEICAgICcj5Kkcw&fid=0x0:0x381f8ac652dd7d4"
+      ],
+      When: "2020-4-30"
+    },
+    {
+      Name: "Maria Camter",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVNmfsgK2eoNd_XCv0E1kKCz_UZIJ_4xyqqvaynIsnBeX-Xb86v=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Personal muy cercano, cálido, amable, profesional y discreto.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Joseba",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWee2wXLmc3SMjQeXRB9xkNr7pXF6HogCBfRY4QCTkV8KsxYsfXFw=s120-c-rp-mo-ba6-br100",
+      Rating: 4,
+      Description: "Buena atención.💊",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Beatriz Perea",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLx4aAiYw4Jz_HHNrykvDaYMk5v_51Po9s7wYlgpbik8RVPkg=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "lourdes castillejo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKEmC1dC2dx7srpuEkKFtwQRK1uUhdqha4uABSp-9a844eoeQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Joseba Alonso",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJRydSu3WJ6-ezC6loe9uTCwr0hiBKgKhip8CvooLJi9l6BTg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Agustin Amadeo Trama",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXumCjN0HHepUGCCaClVykYon2nd1sK1NMp2daZPfukJzIpWoM1Ow=s120-c-rp-mo-ba5-br100",
+      Rating: 2,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Joyería Óptica Monreal",
+  category: "Óptica",
+  address: "Eduardo Dato Kalea, 7, 01005 Vitoria-Gasteiz, Álava",
+  description: "Este establecimiento, que también funciona como joyería, ha recibido opiniones diversas. Algunos usuarios destacan la calidad de sus joyas y la profesionalidad de su personal. Sin embargo, un usuario reportó una experiencia negativa en la compra de monedas de oro.",
+  serviceRatings: {
+    atencionCliente: 3.0,
+    profesionalidad: 3.0,
+    precio: 3.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–14:00",
+      "17:00–20:00"
+    ],
+    lunes: [
+      "10:00–14:00",
+      "17:00–20:00"
+    ],
+    martes: [
+      "10:00–14:00",
+      "17:00–20:00"
+    ],
+    miércoles: [
+      "10:00–14:00",
+      "17:00–20:00"
+    ],
+    sábado: [
+      "10:00–14:00",
+      "17:00–20:00"
+    ],
+    viernes: [
+      "10:00–14:00",
+      "17:00–20:00"
+    ]
+  },
+  website: "",
+  phone: "945 23 29 80",
+  review_count: 5,
+  review_rating: 4.2,
+  latitude: 42.845459,
+  longitude: -2.672183,
+  user_reviews: [
+    {
+      Name: "Sergio Gutiérrez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX0sX8Dgr-ghXZbpk-aYYP0LQdlzjw88DQN_mHTPpfHp8sOzuM=s120-c-rp-mo-ba3-br100",
+      Rating: 1,
+      Description: "ENGAÑADO. No sé si por ignorancia, o por picardía de su dueño. Fui a comprar un par de monedas de oro para regalar a un familiar, ya que en el escaparate había una. Me mostró unas cuantas, asegurando que era de una pureza de 0.900, todo bajo la atenta mirada de una trabajadora. Al final no me dio ningún tipo de factura ni documento, como si estuviéramos comprando cualquier cosa en un mercadillo. Pero me fié, por la experiencia del hombre y porque estamos hablando de un negocio que parecía serio, y más en la calle Dato. Total, que me entró el gusanillo, y la he llevado a tres sitios diferentes para que le hicieran la prueba de pureza, y no sólo me han confirmado que son falsas (cuando el señor a punto de jubilarse me aseguró que eran originales, una francesa y otra mexicana), sino que su pureza es de 0.700, una cantidad 0.200 menor de pureza a lo que me aseguró. Por supuesto, me las cobró a precio de oro puro. No compréis las monedas en este sitio, ya que ni son originales, ni tienen la cantidad de oro que dicen. Y si lo hacéis, pedid un certificado de pureza de cada pieza. Un regalo que ha acabado en una desagradable experiencia visto lo visto. Mi familiar se ha quedado con las monedas porque no tenemos forma de reclamar, y al final un 70% de oro tienen...",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Iciar Moraza Ozaeta",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL7XMYsEyW8LrKIItobFnbYp7gsVwtbMlyvmeAv-x_idW7mNg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Tiene unas joyas fabulosas, algunas vintage muy especiales. El mejor regalo. Don Ramón es un profesional excepcional, de los que ya no quedan.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marc",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ5WLu_LQIj2iS8e2CV0BT9_7GTPdsZEJAacf-5wIGGIdR9KQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Este sitio es de confianza siempre porque si bien👍",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Garbine Briongos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLmnwxjAbdjl7WJrK1iemh1nDnIP5OxNuGIEpglw8z8XwOkoA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Siempre compro aquí porque son buenísimos profesionales. Las trabajadoras son muy atentas y agradables . Sus productos son de buena calidad y buen precio.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ander Rodriguez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWyGIi_PfDYGtlq47mWFvHbiPu5-TDmZCEWFZBobO6n5QEnvAWG=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Farmacia-Óptica Jon Eguinoa (Océano Pacífico 13)",
+  category: "Farmacia",
+  address: "Ozeano Barearen Kalea, 13, 01010 Vitoria-Gasteiz, Araba",
+  description: "Esta farmacia y óptica es reconocida por su excelente trato y atención, con un personal profesional y amable. Los usuarios valoran la eficiencia y la disposición del equipo para ayudar con las necesidades de salud y visión. Se destaca la amabilidad y profesionalidad de los farmacéuticos, aunque un usuario reportó una experiencia negativa puntual.",
+  serviceRatings: {
+    atencionCliente: 4.5,
+    profesionalidad: 4.5,
+    precio: 4.0,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:00–22:00"
+    ],
+    lunes: [
+      "9:00–22:00"
+    ],
+    martes: [
+      "9:00–22:00"
+    ],
+    miércoles: [
+      "9:00–22:00"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "9:00–22:00"
+    ]
+  },
+  website: "https://farmaciajoneguinoa.com/optica/",
+  phone: "945 22 90 74",
+  review_count: 56,
+  review_rating: 4.4,
+  latitude: 42.848635,
+  longitude: -2.698242,
+  user_reviews: [
+    {
+      Name: "Adriana Rodríguez Salazar",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVh-u9oACGoyS38BhbvN8VvF9KOOkDs8VpFJBkKTNn3BIgvr9ue=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Excelente trato y atención. Tremendo cambio! Antes era para no volver, ahora es para ir fijo. Mejores horarios y precios, personal profesional y amable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Bru Jita",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXFqj_z3AU01M7sNZSOpINbcJZ334Evm9gs4ADp8C3EkBG5nJFhQg=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Farmacia con  óptica , excelente atención y servicio.\nUna alegría tener por fin farmacia en el barrio",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "A. garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX_BLMb8mNy6RyfA0tiTOCzf5K4ue03zLMhudWYJ7bjZ1TfiKgjsA=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Muy amables y resolutivos, siempre dispuestos a ayudar a resolver cualquier problema que tengas con las prescripciones medicamentosas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Amaia E",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU-beP3prhWklTM5cHsJ_4P1M6h8HIPUPqCWJzLZk7ATzam-YI=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Una alegría tener una farmacia así en esta zona de Vitoria!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ivan Gomez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVWus3DrD6a9d5lWcBdMaEU3CQfP2Usuz96NWTzlgO-X8rUbfVX=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Buenos profesionales que te asesoran con cualquier duda o medicamento. Personal cercano y amable. No he tenido ningun problema nunca con ellos. Siempre que voy atención directa, no hay colas o tiempos de espera. Sitio grande y con muchos productos en tienda.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Esther Escribano Calvo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVbqGwLoYUqJKrhiHLEaBATvgj4TD7_LuaSK1vdnj9VFLgstReobg=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Ayer fui con mis hijos a por una medicación mía y unos apósitos, la mujer que me atendió, no fué nada profesional, me llamó  \"guapita\" sin venir a cuento... Su forma de dirigirse..\nLos apósitos los necesitaba grandes, que la zona q cubriera la herida fuese muy grande, y me vendió algo q no me sirvió (pese a mi insistencia de q era lo q necesitaba), pero estaba de paso y me percaté al llegar a casa.\nNo volveré, estoy acostumbrada a tener un trato cercano, agradable y con asesoramiento, a las q voy cerca de mi casa y me chocó encontrarme eso.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Aitor Perez Ruiz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU6-RfM9-LzCsQUahEHH2nQa2fxhHkBGiaa8b79S3LhqXtciaHj=s120-c-rp-mo-ba5-br100",
+      Rating: 4,
+      Description: "De las mejores ópticas y farmacias. Los farmacéuticos lo mas simpático que he vivido. Eficaces , amables y rápidos. Si tuvieran servicio de guardia seria de lujo, pero bueno tienen el cartel en la puerta siempre actualizado para poder ir a la que este esa semana de guardia",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "E Lu",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLL3caD4opGpw8Os-0I2RkL163Q6JV2Ss-JngtijuUYX8RvdQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente atención por parte de ambas farmacéuticas, pero especialmente por la más joven, que creo que se llama Aranzazu. Es una persona encantadora, siempre con una sonrisa y con un trato muy amable. Es muy profesional, sabe escuchar y atiende con eficiencia. Ya no se encuentra gente así.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Mendia Optika",
+  category: "Óptica",
+  address: "Virgen Blanca Plaza, 12, 01001 Vitoria-Gasteiz, Álava",
+  description: "Los comentarios sobre Mendia Optika son variados. Varios usuarios destacan la profesionalidad, el respeto y la atención recibida, mencionando pruebas exhaustivas para lentillas y un trato excelente a lo largo de los años. Un usuario relata una experiencia negativa con un trato grosero, irrespetuoso y racista. Otros comentarios positivos resaltan la prevención de la ceguera en un niño gracias a su intervención, la paciencia y profesionalidad al probar gafas de sol, y la calidad del servicio con atención en euskera.",
+  serviceRatings: {
+    atencionCliente: 3.8,
+    profesionalidad: 4.2,
+    precio: 3.5,
+    variedad: 3.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:45–13:30",
+      "16:30–20:15"
+    ],
+    lunes: [
+      "9:45–13:30",
+      "16:30–20:15"
+    ],
+    martes: [
+      "9:45–13:30",
+      "16:30–20:15"
+    ],
+    miércoles: [
+      "9:45–13:30",
+      "16:30–20:15"
+    ],
+    sábado: [
+      "10:00–13:45"
+    ],
+    viernes: [
+      "9:45–13:30",
+      "16:30–20:15"
+    ]
+  },
+  website: "http://www.mendiaoptika.com/",
+  phone: "945 23 24 48",
+  review_count: 13,
+  review_rating: 4.1,
+  latitude: 42.846449,
+  longitude: -2.672994,
+  user_reviews: [
+    {
+      Name: "Sonia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL8lwEvwOdd1umCvipeNeCuJCd8e2edC4HpBxLfeY0GTUxzyA=s120-c-rp-mo-br100",
+      Rating: 4,
+      Description: "Nos han atendido con profesionalidad y respeto en todo momento aclarando cualquier duda.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cristina",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL3xS9G1EZM7fdlmMdc_1M1X_LFmvrxhhG1DE0ToRpi4T2eog=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Han estado casi una hora haciendome pruebas para renovar lentillas, a la vista de los resultados me han recomendado consular antes con un oftalmólogo y dejar pendiente las nuevas lentillas. No me han cobrado nada y agradezco el trato tan profesional.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Margarita Aramendía",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU-oOe3xizqlHuCDuYy2-YnsxXi5JN-wLAhGkM8-rE5jE-s_5Eqjw=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Mejor atención a lo largo de los años imposible.\nGracias por todo , sois geniales.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jese",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL80HpRQ-qulbxCkO2enu57JtE4Hih5-QnarsLH3tpkyw-7wJpL=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Buscando una óptica lo menos racista posible acudimos a esta empresa pensando que podía ser local y amable.\nLa persona que nos atendió fue muy grosera e irrespetuosa, clasista y rac¡sta (En 3 ocasiones diferentes).\n\nLes  recomiendo a lxs hermanxs migrantes, lesbianas, no binaries, negras, gitanas, musulmanas, marrones, y en definida de las disidencias y los márgenes, QUE NO GASTEN SU DINERO (trabajo, esfuerzo, salud emocional, mental...etc.) en una empresa que no las va a tratar ni siquiera con el mínimo respeto.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "David",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWqIcoxqWKC1Z2JeYVfwIuSrZPkwNuT883Pbz5wWjcZWS6IqBb7=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Gracias a ellos una vida abocada a la ceguera se pudo evitar. Kepa Mendia tuvo el valor de poner lentillas a un niño de seis años y cuarenta y dos años después sigo viendo muy bien.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Elur9",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIkrEybgVo0eIZ5cY-CZQZU7-2Gsu9fl3BK3vpoHzzcq3gBCa4U=s120-c-rp-mo-ba5-br100",
+      Rating: 4,
+      Description: "Buena atención del chico que nos atendió. Siendo la segunda vez que acudía a probar gafas de sol, fué muy paciente y buen profesional. Al final me decidí por unas y no hizo falta una tercera visita.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Anngie vannessa Larrahondo lopez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ_8J6JPK1zBT7pBRCJ42q_rJqtl-Fuu430XEUOCVOp5AlE=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buen servicio,",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Iker Sine",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU5RKBqAQZG6HHsMJfjJU7pLu0RwL19wPlSN-W7jV311pE1BhtE=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Kalitatezko zerbitzua, esperientzia handiarekin eta euskaraz atenditua izateko aukera bermatzen du",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Gonzalo Bilbao",
+  category: "Óptica",
+  address: "Fundadora de las Siervas de Jesus Kalea, 23, 01001 Vitoria-Gasteiz, Araba",
+  description: "El único comentario sobre Gonzalo Bilbao destaca la profesionalidad del establecimiento.",
+  serviceRatings: {
+    atencionCliente: 3.5,
+    profesionalidad: 4.5,
+    precio: 3.5,
+    variedad: 3.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "16:45–20:00"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "16:45–20:00"
+    ],
+    martes: [
+      "10:00–13:30",
+      "16:45–20:00"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "16:45–20:00"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "16:45–20:00"
+    ]
+  },
+  website: "http://www.gonzalo-bilbao.com/",
+  phone: "945 27 28 28",
+  review_count: 1,
+  review_rating: 5.0,
+  latitude: 42.849018,
+  longitude: -2.675233,
+  user_reviews: [
+    {
+      Name: "Salud Rodriguez Velasco",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU_vna4VK_uq0AlbmX-HcumQk9xSm31wzr7sYHp-ZY8ICnd8Mw5Hw=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Profesionales",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "araba"
+},
+{
+  title: "TE VEO",
+  category: "Óptica",
+  address: "Gorbeia Kalea, 19, 01012 Vitoria-Gasteiz, Álava",
+  description: "Los comentarios sobre TE VEO son muy positivos, describiéndola como una óptica de referencia y confianza con un trato muy agradable. Los usuarios resaltan la excelente profesionalidad y el servicio técnico, el trato cordial y amable, y la simpatía de la dependienta. Se destaca la adaptación perfecta de gafas progresivas para la presbicia. En general, se percibe un trato maravilloso, gran dedicación y una formalidad asombrosa, convirtiéndose en la óptica de confianza en Vitoria-Gasteiz para varios usuarios.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.8,
+    precio: 3.5,
+    variedad: 3.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    martes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ]
+  },
+  website: "",
+  phone: "945 22 28 82",
+  review_count: 6,
+  review_rating: 5.0,
+  latitude: 42.851091,
+  longitude: -2.679788,
+  user_reviews: [
+    {
+      Name: "José Rz. de Larrínaga",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWDgItZhOpyN1MO0-YTJ0fjXtl4_x0ULVIX8R4SYcp6M1744y8=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Es mi óptica de referencia y confianza. El trato es muy agradable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Gotzon Fonseca",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXuJq0-ggvqYGpochzhS7ELLnGHoGS0vJ4UzMAuu_DSTmTp-8W7=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Excelente profesionalidad y servicio técnico. Trato cordial y amable. La dependienta muy simpática.\nVer bien es muy importante, tengo presbicia y uso gafas progresivas que me han adaptado a la perfección. Muchas gracias.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Benji Gómez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXsQaZuGhuAv0Xkqwhjnas5We3l28DneyYeIZnZcFCKcoI_XOF9=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Trato maravilloso, una gran dedicación y una formalidad asombrosa\n\nPara mí la óptica de confianza desde ahora en Vitoria-Gasteiz",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "J.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIQCH-TLZkeL7SNpOKKVdoF7cX0PVVEx335oq0Rw_45K7t6Onw0=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Isabel Soleto Vadillo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJhDWpX207zyu6mKo-rrmWgN0g-AX0DzPFeDtFyPtpenywJLQ=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ménade",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWw-JqmnGa9kWU4HJ03ZczsBckoRDJ7udgOcdg9kbhApTRpKKn0=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "JOSE LUIS OPTICO",
+  category: "Optometrista",
+  address: "Olaguibel, 20, 01004 Vitoria-Gasteiz, Álava",
+  description: "Los comentarios sobre JOSE LUIS OPTICO son extremadamente positivos, destacando el trato excelente, la profesionalidad y la gran satisfacción con las gafas adquiridas tanto para el trabajo como para la vida diaria. Los usuarios elogian la graduación exhaustiva y completa, la ayuda en la elección de monturas y la amabilidad recibida. Se menciona la buena atención, el asesoramiento, la calidad de las gafas y la profesionalidad del personal. Varios usuarios lo recomiendan y lo consideran su óptica de confianza.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.9,
+    precio: 3.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:00",
+      "17:00–20:00"
+    ],
+    lunes: [
+      "10:00–13:00",
+      "17:00–20:00"
+    ],
+    martes: [
+      "10:00–13:00",
+      "17:00–20:00"
+    ],
+    miércoles: [
+      "10:00–13:00",
+      "17:00–20:00"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:00",
+      "17:00–20:00"
+    ]
+  },
+  website: "https://www.joseluisoptico.es/",
+  phone: "945 26 44 72",
+  review_count: 34,
+  review_rating: 4.9,
+  latitude: 42.846105,
+  longitude: -2.668621,
+  user_reviews: [
+    {
+      Name: "Miguel Angel Pérez Vaquero",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLO0jXPE2FYjzFiz2-bSeUkwZoh7ckCh5cqOrdaGXg_bR0_Vg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Un trato excelente, profesionalidad y muy a gusto con la adquisición de las gafas para el trabajo y para la vida cotidiana",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sCIHM0ogKEICAgICXzs-ZaQ&fid=0x0:0xe3d0faf0cf5a72bd"
+      ],
+      When: "2024-10-16"
+    },
+    {
+      Name: "Lucia Arraiz Cuesta",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLKE6p1L5FPRbrtzQLc5Wg2lVjKeZJu31HSfVDbg1qzBcUo=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La graduación fue esmerada, exhaustiva y muy completa.  Te ayudan después con la elección de montura y todo ello con mucha amabilidad.   Recomiendo la óptica al cien por cien",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Nagore Puelles Emaldibarra",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLXMFLPihIHikYr41zlkVkmkxNdZ6XNQNaG6i09YqESDDRldA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy contenta por su buena atención y asesoramiento, gafas estupendas y a la última.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Luis Antonio Fuente Plaza",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLGU5UrOU7xVh_-pdLP13uvdpr92gKPPUaNsVzC48SLDIwwEQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Siempre muy profesionales y amables. Buscando la mejor opción para el cliente.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Julio Gonzalez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX3ADOjRoasS5YkUnXANk2QAAyvDFXQpM4h0BWSz-X0Ni5y160=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Muy buena atención,profesionales y por supuesto un producto excelente .Me asesoraron de maravilla .Seguire acudiendo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Iñaki Martinez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI9ejI1aOJqkiBs1wojAcH6m2oUv1WcPQBLB7PVQZaNqAGhVw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Un trato 100% profesional, y un resultado final excelente de la gafa elegida.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Tina Sota",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJrFVI5o1G90XGQa82qiFXeMM-WPQSBMCH3EHE6EkLFezMDqg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buenos profesionales y muy buena atención. Tuvimos algún problema y lo solucionaron.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Braulia Seco Aparicio",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK6yUQfqZVMlDN0PkkNkXm14vnKCjZJT3nrj3-5vmebRLAqyg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Unos profesionales buenísimos y un trato excelente! Gracias :)",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Medical Óptica Audición Boulevard",
+  category: "Óptica",
+  address: "Zaramaga Kalea, 1, 01013 Vitoria-Gasteiz, Álava",
+  description: "Los comentarios sobre Medical Óptica Audición Boulevard son mixtos. Algunos usuarios expresan insatisfacción con el servicio postventa y el trato recibido, mencionando largas esperas, falta de ayuda y cuestionamiento sobre el mantenimiento de las gafas. Otros usuarios tienen opiniones positivas, destacando la excelencia del servicio, la profesionalidad del personal (mencionando a Sonia y al director de la tienda), la buena calidad de las gafas y la exhaustividad de los exámenes oculares. También se mencionan experiencias negativas con la gestión de citas y la atención al cliente en general.",
+  serviceRatings: {
+    atencionCliente: 3.5,
+    profesionalidad: 4.0,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–21:00"
+    ],
+    lunes: [
+      "10:00–21:00"
+    ],
+    martes: [
+      "10:00–21:00"
+    ],
+    miércoles: [
+      "10:00–21:00"
+    ],
+    sábado: [
+      "10:00–21:00"
+    ],
+    viernes: [
+      "10:00–21:00"
+    ]
+  },
+  website: "https://medicaloptica.es/vitoria-gasteiz-boulevard",
+  phone: "945 56 79 18",
+  review_count: 150,
+  review_rating: 4.2,
+  latitude: 42.861943,
+  longitude: -2.668033,
+  user_reviews: [
+    {
+      Name: "Ignacio Kontu",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL2HfWsyc8lqo6JyA83fFoRK0jMrWLz1bg9GAUPIU5QpS9wDQ=s120-c-rp-mo-br100",
+      Rating: 2,
+      Description: "Compré varios pares cuando estaba en Vitoria tienda boulevar. Ahora no estoy en Vitoria y he adquirido gafas en Navarra, pedido mis datos, (ángulos…) no se han dignado a contestar. Servicio posventa a calificar por ustedes.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "daniel sanchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI-4CTF2spk_ZO0qssC4qpkA6wmtJ_c2rDrzrxn2rh24DmzDQ=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Trato bastante pésimo, tras llevar mas de medio año esperando para que me llamasen para cambiar las patillas de las gafas, que se me rompieron las dos a la vez, vamos que justitas de calidad, cuando he llegado el chico que me ha atendido, bastante desagradable para trabajar de cara al público, me ha dicho que eso no podía haber sido así que en todo me hubiesen dicho de mandarlas al laboratorio.\nNo contento con eso cuando le he dicho a ver si podía mirarme una patilla para ponerme, no se ha molestado en buscar una que fuese parecida, ha puesto la primera que ha visto que vale, aún teniendo yo otras gafas similares no ha probado si esas patillas valdrían, siendo las dos iguales.\nYa para rematar ha acabado diciéndome no si las gafas estas están de mírame y ni me toques, unas gafas que compre allí hace tres años y de eso tres no las he podido llevar durante uno por lo de patillas, asique en lugar de cuestionar el mantenimiento que le dan los clientes a las gafas tendrían que cuestionarse la calidad de sus productos y la atención al cliente, para no volver más a esa óptica",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "smail Erragragui",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJdQIXIY5djbzU0D9e4baTZzPD1T_R89TH3O0W2VMFZBokW=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buenos días. Todo estuvo excelente. El servicio fue bueno. Los trabajadores de Medical  optica son profesionales. En cuanto a los gaface , en general son buenos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maite Garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJBC7BeLuwSoE72m-CF0lwuqHSie4GctOeO6VTwJ9UfB2Y2gQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buenos días. Dar las gracias a Sonia por su profesionalidad, amabilidad y buen hacer en su trabajo. Muchas gracias!!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "PILAR HOCES",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKZyrj0K-9sffTNqfYDTs8prAqLakj-DHmt1605_o4mUmDqdA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente atención, muy especializada y orientada por parte del director de tienda. A su vez, la revisión ocular ha sido muy completa. Muy recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mertxe Castrillo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJG_m4fujAUKNrLGcx3PJXaM7MlnjtNL1es8DrnDigXzNVPQw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Yo acudí para hacerme una revisión ocular, que fue muy completa y la oculista muy atenta conmigo, en medical óptica en el boulevard de Vitoria.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "BEGOÑA IGLESIAS",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWlU2wBaS6Wl_wgvMaqB4iN0ntVMSFkVzg-kx1f8T_0uMD8zWJnaQ=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Cero en atención al cliente.\nMe he marchado.despues de estar esperando un rato y nadie atendía en mostrador",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Nerea",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLuSXIzuJ64WPNBtRp9npPXeWoaeta03JKIb1-1rvPO7A9khg=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Insatisfecha. Cita para la revisión de la vista a las 12:50. Yo me presento en tienda a las 12:55 (5' tarde) y no soy atendida, por lo que espero mi turno en la cola del mostrador. Una vez atendida, a la 13:01, la trabajadora me explica que el servicio de salud visual era hace 11 minutos. Yo le explico mi tardanza de 5' y que en el transcurso de los otros 6 ' nadie había acudido a atenderme. La trabajadora pone EN DUDA mi hora de llegada a tienda y me recrimina que el servicio se ejecutará 10' tarde. La otra compañera del mostrador, tras escuchar absurda conversación, le explica que ella había avisado para que alguien saliera a recibirme. Finalmente paso a la revisión visual que desafortunadamente realizó en breves 5 minutos.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Óptica \"Federópticos Oku",
+  category: "Óptica",
+  address: "Calle del Duque de Wellington, 24, 01010 Vitoria-Gasteiz, Álava",
+  description: "No hay comentarios disponibles para esta óptica.",
+  serviceRatings: {
+    atencionCliente: 3,
+    profesionalidad: 4,
+    precio: 5,
+    variedad: 3
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    martes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ]
+  },
+  website: "",
+  phone: "945 17 11 80",
+  review_count: 0,
+  review_rating: 0.0,
+  latitude: 42.864227,
+  longitude: -2.69469,
+  user_reviews: null,
+  emails: "",
+  province: "álava"
+},
+{
+  title: "óptica Alavesa",
+  category: "Óptica",
+  address: "C. de los Herrán, 84, 01002 Vitoria-Gasteiz, Álava",
+  description: "No hay comentarios disponibles para esta óptica.",
+  serviceRatings: {
+    atencionCliente: 3,
+    profesionalidad: 4,
+    precio: 5,
+    variedad: 3
+  },
+  open_hours: {},
+  website: "",
+  phone: "",
+  review_count: 0,
+  review_rating: 0.0,
+  latitude: 42.852094,
+  longitude: -2.666092,
+  user_reviews: null,
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Visionvitoria",
+  category: "Óptica",
+  address: "Calle Postas, 37, 01004 Vitoria-Gasteiz, Álava",
+  description: "No hay comentarios disponibles para esta óptica.",
+  serviceRatings: {
+    atencionCliente: 3,
+    profesionalidad: 4,
+    precio: 5,
+    variedad: 3
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    martes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ]
+  },
+  website: "",
+  phone: "945 12 11 82",
+  review_count: 0,
+  review_rating: 0.0,
+  latitude: 42.845714,
+  longitude: -2.667759,
+  user_reviews: null,
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Óptica Solvisión Vitoria El Boulevard",
+  category: "Óptica",
+  address: "EL BOULEVARD, Zaramaga Kalea, 1, C.C, 01013 Vitoria-Gasteiz, Álava",
+  description: "No hay comentarios disponibles para esta óptica.",
+  serviceRatings: {
+    atencionCliente: 3,
+    profesionalidad: 4,
+    precio: 5,
+    variedad: 3
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–22:00"
+    ],
+    lunes: [
+      "10:00–22:00"
+    ],
+    martes: [
+      "10:00–22:00"
+    ],
+    miércoles: [
+      "10:00–22:00"
+    ],
+    sábado: [
+      "10:00–22:00"
+    ],
+    viernes: [
+      "10:00–22:00"
+    ]
+  },
+  website: "http://www.solvision.com/",
+  phone: "945 20 10 03",
+  review_count: 0,
+  review_rating: 0.0,
+  latitude: 42.862682,
+  longitude: -2.669223,
+  user_reviews: null,
+  emails: "",
+  province: "álava"
+},
+{
+  title: "gafas.es CC Lakua",
+  category: "Óptica",
+  address: "Calle del Duque de Wellington, 6, 01010 Vitoria-Gasteiz, Álava",
+  description: "Los comentarios sobre gafas.es CC Lakua son mixtos. Un usuario destaca el buen precio, la calidad y el asesoramiento recibido. Sin embargo, otros usuarios reportan dificultades para contactar con la tienda, encontrarla cerrada en horario comercial, mala experiencia con las gafas nuevas que no permiten ver bien, sensación de engaño y problemas con la atención al cliente y la garantía. Un comentario positivo resalta la fantástica relación calidad-precio y la profesionalidad del óptico.",
+  serviceRatings: {
+    atencionCliente: 2.5,
+    profesionalidad: 3.5,
+    precio: 4.5,
+    variedad: 3.0
+  },
+  open_hours: {},
+  website: "https://marketing.net.gafas.es/ts/i4661476/tsc?amc=socialorg.brillende.501607.512285.55163&smc1=smc1=es-lp&rmd=3&trg=https%3A%2F%2Fwww.gafas.es%2Fstorepage%2F%3Fstore%3D23696",
+  phone: "",
+  review_count: 43,
+  review_rating: 4.0,
+  latitude: 42.861633,
+  longitude: -2.692906,
+  user_reviews: [
+    {
+      Name: "Mari Carmen Forcen",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVxHW_9pWQKC3OEsQHi_iauMcHIR8eQTxJ1S_2ZKDjxes0Bu6KG=s120-c-rp-mo-ba4-br100",
+      Rating: 4,
+      Description: "Es la 2da vez que compramos ahí gafas mi marido y yo y no hemos tenido ningún problema, es más te asesoran cual es tu mejor opción. Además el precio es súper bueno y la calidad es buena. Me la recomendó mi hermano que llevaba tiempo  cogiendo allí gafas para el. Yo la recomiendo a todos wue conozco y hasta hoy ninguno me ha comentado que hayan  tenido  algún problema",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "VIOLETA HERRAN OTEO",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKXEHLN8amCW6yuKvDxFBNSVUZSAeucaL2kueruoEea4tro8g=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Buenos días , tengo unas gafas que compre hace bastante tiempo para recoger y no se como ponerme en contacto con el centro porque no hay NINGUN Nº DE TELEFONO PARA INFORMAR DONDE HAY QUE IR A RECOGER LAS GAFAS.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Txarly. 3",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUsthTeiJtJYTYDSLKvjG_vMFShj6NL2buMqRV7vYfKEMJa0E0n=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "No sé que empresa es esta, que lleva la tienda toda la semana cerrada y no hay ni un cartel. Haber como arreglo unas gafas, que en 3 meses, y se le ha perdido un tornillo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Amaya De Garay",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVHn_xJkzx7PnF54xCd2zjg82R3U9TfVqmS67z1pYd_swQkP-DCPw=s120-c-rp-mo-br100",
+      Rating: 2,
+      Description: "Fatal, he venido hoy sabado 3 de febrero a recoger unas gafas a las 11:30  del medio día  y me he encontrado el establecimiento cerrado. Sin cartel por su ausencia ni nada.\nSe supone que según su horario debería estar abierto hoy sábado de 10:00 a 14:00\n\nEstoy llamando al teléfono de contacto y no coge nadie.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sCIHM0ogKEICAgIDtotzitgE&fid=0x0:0x1821c93f59ba1a52"
+      ],
+      When: "2024-2-3"
+    },
+    {
+      Name: "Yo yo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIKbT1Dg0toTJyyE8RgDexwJriKjk-lmvqxMqV6oK9KmJGagA=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "ESTAFA . ES  ME SIENTO TOTALMENTE ENGAÑADO NO ME LAS PONGO , NO RECOMENDARIA   LAS GAFAS ESTAN NUEVAS VEO PEOR CON ELLAS \" TIENES QUE ADAPTARTE \" COMENTARIO DEL CHICO   DEVOLVEZME  MI DINERO GRACIAS POR NADA",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Eml",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUObFx3PqmTLgEpOKbWRNb0SaYiiBuShFxRnFD8qjWVJZykuB-e=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Estafas.es\n\nFatal experiencia. Recogí unas gafas ayer. Imposible ver absolutamente nada con ellas. La dependienta me insiste en que \" debo adaptarme\" ( debe ser la coletilla para todo el mundo. La realidad es es que no puedo dar un paso con ellas. Lo de la graduación es una pantomima, te ponen graduación a bulto y al reclamar alegan que son baratas, cito textualmente: son gafas standar, y sin garantía. -Cómo!!??\nNo se responsabilizan de nada.  Estoy en tramitación de que se me dé solución a través de los medios legales al alcance de los consumidores.\n\nEspero que así sea, y dejen de engañar y jugar con la salud de la gente.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "María Gtz.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUF2qTuNNRob8-I0xjt98XcFdHEOLZfcMfUT5SbZ0ooVQITCuys=s120-c-rp-mo-ba4-br100",
+      Rating: 1,
+      Description: "Atienden dos personas, una mujer y un hombre. Ella muy muy desagradable, le pregunto al recoger las gafas por la garantía y me salta un \"te tienes que adaptar\". Ante mi insistencia, me dice que como mucho 6 semanas... Me gustaría que este tema esté visible y no tener que depender del empleado o franquiciado de turno que dice lo que quiere. No volveré... estos temas deben ser claros.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Elena 1717",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW-pj-4JS3aVodP4b-UT5UGDTAvUEvax9C7WIqvmi41y1Y0ExCK=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Acabo de comprar 2 pares de gafas progresivas (teniendo de base una alta graduación en miopía y astigmatismo). Fantástica relación calidad precio. Y lo mejor, la profesionalidad y atención del óptico que me ha atendido.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Centro de Optometría Especializada Ainhoa Ugarte",
+  category: "Optometrista",
+  address: "Pintor Aurelio Verá-Fajardo Kalea, 14, 01008 Vitoria-Gasteiz, Álava",
+  description: "Los usuarios destacan la profesionalidad y el trato estimulante de Ainhoa en el centro. Un testimonio detalla mejoras notables en la visión y habilidades de una niña tras el tratamiento.",
+  serviceRatings: {
+    atencionCliente: 5,
+    profesionalidad: 5,
+    precio: 3,
+    variedad: 3
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "8:30–14:00",
+      "16:00–20:00"
+    ],
+    lunes: [
+      "8:30–14:00",
+      "16:00–20:00"
+    ],
+    martes: [
+      "8:30–14:00",
+      "16:00–20:00"
+    ],
+    miércoles: [
+      "8:30–14:00",
+      "16:00–20:00"
+    ],
+    sábado: [
+      "Cerrado"
+    ],
+    viernes: [
+      "8:30–14:00",
+      "16:00–20:00"
+    ]
+  },
+  website: "",
+  phone: "635 75 49 96",
+  review_count: 2,
+  review_rating: 5.0,
+  latitude: 42.849823,
+  longitude: -2.682585,
+  user_reviews: [
+    {
+      Name: "Nieves Santa Cruz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUsGUP2zE0N6ffk0ifxIXD-mhVkHa8JswrtSnij7Pk6bCDo17cxOA=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Previo a que mi hija se pusiera en tratamiento con Ainhoa (entonces tenía 8 años), estaba diagnosticada de \"ojo seco\"; era \"torpe\" con los deportes de pelota; no sabía andar en bicicleta; le costaba entender los problemas de matemáticas que leía (no así escuchándolos); tenía una letra \"muy poco armoniosa\"; leía a trompicones.\nTras las dos primeras semanas de terapia, dejó de llorarle el \"ojo seco\"; al mes y medio, aprendió a andar en bicicleta.\nEstuvo realizando la terapia durante 8 meses, con un receso en verano.\nHoy día (14 años), cursa 3 ESO con bastante éxito. Y juega al voleibol.\nEsta terapia precisa de esfuerzo y constancia para obtener los resultados esperados, pero merece la pena, sin lugar a dudas.\nEl trato de Ainhoa siempre fue estimulante y muy profesional. Sabe manejar muy bien a l@s niñ@s.\nMe causa pesar que haya personas que podrían mejorar mucho su salud y su vida, y no conozcan la posibilidad de realizar esta terapia visual, cuyo mejor resultado no se encuentra en la vista.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pablo Carbajo Sánchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWVLlof-W7KVLb7g0K2ht_CARppUbUqJZircJMFNpRsGyhcBbMfHA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Ópticas Jaled S L",
+  category: "Óptica",
+  address: "Calle Postas, 16, 01001 Vitoria-Gasteiz, Álava",
+  description: "No hay comentarios disponibles para esta óptica.",
+  serviceRatings: {
+    atencionCliente: 3,
+    profesionalidad: 4,
+    precio: 5,
+    variedad: 3
+  },
+  open_hours: {},
+  website: "",
+  phone: "945 13 00 04",
+  review_count: 0,
+  review_rating: 0.0,
+  latitude: 42.845901,
+  longitude: -2.673019,
+  user_reviews: null,
+  emails: "",
+  province: "álava"
+},
+{
+  title: "ESPINOSA OPTICOS, S.C.",
+  category: "Comercio",
+  address: "Diputación Foral de Alava Kalea, 5, 01001 Vitoria-Gasteiz, Álava",
+  description: "Los usuarios destacan la buena atención al cliente, la variedad de gafas, la amabilidad del personal y la calidad de las lentes.",
+  serviceRatings: {
+    atencionCliente: 5,
+    profesionalidad: 4,
+    precio: 3,
+    variedad: 5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    martes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ]
+  },
+  website: "",
+  phone: "945 26 12 85",
+  review_count: 1,
+  review_rating: 5.0,
+  latitude: 42.84653,
+  longitude: -2.67419,
+  user_reviews: [
+    {
+      Name: "Johan Mendoza",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWA8g81JgX2Lyq7FdDYyPN1EiAB6lLAbLO0cNTQIKuvy4OjRW1s=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Buena atención al cliente. Gafas variadas, dependienta muy amable, distribuidores varios, lentes 10/10.\nUna de mis opticas favoritas.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Óptica Eroski",
+  category: "Óptica",
+  address: "Zaramaga Kalea, 1, 01013 Vitoria-Gasteiz, Álava",
+  description: "Los usuarios tienen opiniones diversas sobre Óptica Eroski. Algunos destacan la amabilidad y profesionalidad del personal, la buena atención y los precios asequibles. Otros mencionan problemas como la falta de entrega de la graduación, la lentitud en el servicio y fallos en los recordatorios de citas.",
+  serviceRatings: {
+    atencionCliente: 3,
+    profesionalidad: 3,
+    precio: 4,
+    variedad: 3
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–22:00"
+    ],
+    lunes: [
+      "10:00–22:00"
+    ],
+    martes: [
+      "10:00–22:00"
+    ],
+    miércoles: [
+      "10:00–22:00"
+    ],
+    sábado: [
+      "10:00–22:00"
+    ],
+    viernes: [
+      "10:00–22:00"
+    ]
+  },
+  website: "https://www.eroski.es/tiendas/servicios/eroskioptica/",
+  phone: "945 12 38 65",
+  review_count: 14,
+  review_rating: 3.3,
+  latitude: 42.861749,
+  longitude: -2.667933,
+  user_reviews: [
+    {
+      Name: "Christian Colorado",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXyOlFb1MsRUxphAGdo0tcBSFaJiSdGDSQUL2LBzawMzWeADYT-=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Hemos ido el lunes a qué no hicieran un presupuesto de una montura y unos cristales,había solo una dependienta,sin embargo al tener muchas   personas esperando,nunca perdió la calma ni la educación.Al final nos ha atendidó y nos dio toda la información qué requerimos.\nAl día siguiente hemos regresamos ya con cita para la evaluación ocular y ya habían dos dependientas(incluyendo la del día anterior).Nos han atendido de lujo ambas,súper amables,educadas y profesionales ,hemos pagado las gafas y seguramente regresaremos por muchos mas productos .Agradecemos a ambas chicas y sobretodo a Begoña por su amabilidad,profesionalismo a la momento de atendernos.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sCIHM0ogKEICAgIDJ9NjebA&fid=0x0:0x756931244b861432"
+      ],
+      When: "2023-7-11"
+    },
+    {
+      Name: "Victor Sanchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXa1pWzhZyWkuQ8w2w3WtYNS83lMIppZK5hHQElBoSZ2c8lGl8=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Cliente de hace años, tres gafas compradas a ellos, la última hace unos meses. En el momento no me dan la graduacion de la vista, aunque se lo solicito, y se vuelve a pedir un par de meses después y me indican que me la envían pero nunca lo hacen. Servicio nefasto. No recomiendo a nadie este servicio, mejor pagar un poco más y además, a 10 metros hay otra óptica.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Silvia Lopez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW5jjXx2MTCavGaK4tOU0guDD4Ii0aQ7GfAxRXUS4ieqWXIObQr=s120-c-rp-mo-ba2-br100",
+      Rating: 1,
+      Description: "Buenas tardes.\nHemos comprado aqui un par de gafas. El primer dia un chico majisimo nos atendió muy bien y fué muy correcto. Al contrario, cuando vinimos a buscar las gafas, habia dos personas decidiendose por unas gafas, mientras las personas se decidian, las dependientas, en vez de atender la gran cola que ya salia por la puerta, estaban sin hacer nada esperando que esas personas escogieran sus gafas. Le dije a las dos dependientas educadamente que solo queria recoger mis gafas e irme, y me dijeron que aún así teniamos que esperar. Perdimos 40 minutos, así como las 7 personas que estaban esperando.\nHay optometristas mucho mas eficientes buscando trabajo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "kamila Martinez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUv5LOdffGcf_RLd6Jfg6lW9Csn8acnt5uuGcOOp6N4hBZnsndz=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Muy bien la verdad, precios asequibles para los tiempos que vivimos, las dependientas que me han tocado todas muy amables. Aquí me compro lentillas y Gafas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Julia Antolino",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKdPP9UOJPiVgjhap6NIsqauN-D4u01ChppVU7FIegkxmPvIw=s120-c-rp-mo-br100",
+      Rating: 3,
+      Description: "Hola, pongo esta reseña por que no estoy conforme y me parece el mal hacer de que te den la información de tu graduación en un simple papelillo de tiket y la cita también, creo que queda muy feo y ordinario, porque se te pierde en cuanto te vas de allí, cosa que ni te llaman el día anterior para el recordatorio de la cita, puesto que así ,lo mas  fácil es que se te olvide y es una pena. A la espera de la mejoría ,para un bien de la empresa y los clientes. Un  saludo de una buena clienta que habla bien de vosotr@s y así quiere seguir  haciéndolo..... Gracias",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "vyacheslav estebanez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWkYgugjbYAxy7FUrLfm6U8IDWL6AiBDw3h0G_C1eugdQgwnqpE=s120-c-rp-mo-ba2-br100",
+      Rating: 1,
+      Description: "El servicio al cliente no es tan bueno. pedi una cita para el mes antes y  pedi que escribiera un recordatorio un día antes. Como resultado, recordé el día y que era de mañana,llege 30 minutos tarde. Cuando pregunté por qué no enviaron el mensaje un día antes, respondieron que no era su deber y que tengo que esperar 1,30 horas o al día siguiente. Y nadie estaba en el consultorio del médico en este momento.\nFui a otra óptica donde recibí una consulta y pedí lentes para la visión. a tiempo tardó 15 minutos. y me dijeron que enviarían un recordatorio al correo electrónico , whatsapp y telefono.\ny eroski optica perdió un cliente 180 euros y mi comentario.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Haizea Gonçalves",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWPPeub_-u6w3HiTe-qpCrsN5WPVJv-eMaB9eZyyyyDVrtF-nDt=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Una sola persona atendiendo un sabado , no da a basto y no respetan el orden de llegada de los clientes , 40 minutos esperando para preguntar a ver si habían llegado mis gafas después de mas de una semana para que me diga que están tardando por que han rayado un cristal y lo tienen que pedir otra vez dos minutos he tardado en resolver la duda .",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "serafin ruiz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIMsb8kw2wI4xwZC2Vxp4_y6lwzGD3OP3ApPa_-wVKpbD0iTA=s120-c-rp-mo-ba6-br100",
+      Rating: 4,
+      Description: "Una de las ópticas más económicas del centro comercial. Atención magnífica. Eso sí decir que el local está bastante anticuado.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Multiópticas",
+  category: "Óptica",
+  address: "General Alava Kalea, 11, 01005 Vitoria-Gasteiz, Álava",
+  description: "No hay comentarios disponibles para esta óptica.",
+  serviceRatings: {
+    atencionCliente: 3,
+    profesionalidad: 4,
+    precio: 5,
+    variedad: 3
+  },
+  open_hours: {},
+  website: "https://www.multiopticas.com/home/",
+  phone: "945 75 08 05",
+  review_count: 0,
+  review_rating: 0.0,
+  latitude: 42.844978,
+  longitude: -2.671306,
+  user_reviews: null,
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Bushnell Outdoor Products Spain",
+  category: "Óptica",
+  address: "C/ -08005, Bartzelona Kalea, 60, 01010 Vitoria-Gasteiz, Araba",
+  description: "No hay comentarios disponibles para esta óptica.",
+  serviceRatings: {
+    atencionCliente: 3,
+    profesionalidad: 4,
+    precio: 5,
+    variedad: 3
+  },
+  open_hours: {},
+  website: "",
+  phone: "934 86 48 00",
+  review_count: 0,
+  review_rating: 0.0,
+  latitude: 42.868058,
+  longitude: -2.690083,
+  user_reviews: null,
+  emails: "",
+  province: "araba"
+},
+{
+  title: "+Visión Vitoria",
+  category: "Óptica",
+  address: "General Alava Kalea, 26, 01005 Vitoria-Gasteiz, Álava",
+  description: "Los usuarios tienen opiniones variadas sobre +Visión Vitoria. Algunos valoran la buena atención, los precios accesibles y la amabilidad del personal. Otros reportan problemas con la atención al recoger las gafas, mala calidad de los cristales y problemas con la garantía.",
+  serviceRatings: {
+    atencionCliente: 3,
+    profesionalidad: 3,
+    precio: 4,
+    variedad: 3
+  },
+  open_hours: {},
+  website: "https://www.masvision.es/encuentra-tu-optica/gasteiz/mas-vision-vitoria?utm_campaign=gmb-website&utm_source=google&utm_medium=organic&utm_content=316-Gasteiz-General-Alava-Kalea-26&y_source=1_MTA4OTE4NzY1MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  phone: "945 13 07 04",
+  review_count: 20,
+  review_rating: 3.9,
+  latitude: 42.844731,
+  longitude: -2.670622,
+  user_reviews: [
+    {
+      Name: "Johan Mendoza",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWA8g81JgX2Lyq7FdDYyPN1EiAB6lLAbLO0cNTQIKuvy4OjRW1s=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Me gusta esta optica, precios accesibles, atención buena, se tomaron el tiempo de mostrarme marcos y de explicarme los tipos de lentes. Muy bien 😁",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria Castro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ_onnQ6ZEI7h2zhHVXBrCFOMPLzqXgzjUscp3O1AWJFeePFQ=s120-c-rp-mo-br100",
+      Rating: 3,
+      Description: "La atención recibida por parte de las dos chicas que había el día que compramos las gafas una amiga y yo, fue excepcional, salimos encantadas, del trato recibido por ambas dependientas. (Esto fue a primeros de este mes una tarde). Esta situación de satisfacción con la tienda cambio radicalmente cuando yo fui a recoger mis gafas (hoy día 23 de febrero por la mañana, sobre las 11), todo por la atención recibida por una chica, dependienta de la misma,   para comenzar a la hora de ajustarme las gafas fue de pie en el mismo mostrador, a continuación pedí porfavor una revisión de la tensión ocular y me la negó, por no tener el aparato y por último solicite una funda si podría ser de color diferente a la otra x diferenciar y me dijo que sólo tenían una funda de gafas, algo que no es cierto, dado q a mi amiga le dieron dos diferentes. Con todo esto quisiera dar un toque de atención y que no volviera a suceder dicha situación con más clientes, yo de estar ella, no volveré a dicha óptica.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Iker 5",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU8-TLdxM-9Ytq-wvbXO6L8WTFjn0GS583uEQjHLxf-61Bi1W2m=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Mucho cuidado cuando compréis las gafas, los cristales salen malísimos.En 2 años en mis gafas progresivas,con el dinero qué valen,no sirven para nada.Sabiendo qué el problema ha sido de ellos,me tengo que aguantar y comprar unas nuevas.Pero han perdido un cliente, gracias por nada.Muy irresponsables,me parece vergonzoso",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Belen Fajardo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIAjPJH5TswXPVWB0UpHkC7Oq80P8LAlaPSiADm39aTrIV3AA=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Informar a todos los clientes qué si van notando alguna mancha en el cristal vayan lo antes posible.A mí me ha reconocido la dependienta qué es defecto de fábrica qué el cristal se le ha ido el brillo pero por un mes se me ha pasado la garantía y no se puede hacer nada.Advertir cualquier cosa qué noten mal en el cristal vayan qué no les pase cómo a mí.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Estibaliz Lázaro Martín",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJjbAkyfXUOcPo_NlzdqBg8dGHeMCiIvg60w-EQY5I_phG6LQ=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Las gafas defectuosas por culpa de la tienda,no por mí culpa.Muy buenas palabras qué me habéis mandado el correo y después de 15 días no me habéis contestado.Necesito una contestación y una solución Belén",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "jaione Arjona Fuente",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXjfW6totx7AFYrE-iHZMDZu2D_KJoDUHpw9STOHXixXK2vJCC2=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Super bien atendida por Maria, un encanto de chica😇, majisima y super agradable, dadle un sabado libre porfavor, se lo ha ganado con la paciencia que ha tenido ayudandome a escoger🥰",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juana S",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLXnLrnu6wPRQnBO_BRv3iAvJ0wqElISCdGJYn6SaRFtiBDLg=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Fui a por una montura para mis gafas de sol graduadas, que se habían roto y la atención fue extraordinaria, profesionales y amables. Sin duda volveré",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Patxi",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVRtWMyKLI86gPjRK97nX4C-jWuVyq4_2FtMcctCx70YQnl_Oqa=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "El trato superior.  Yo fui para una pequeña reparación. Y volví al día siguiente a recoger. Ningún contratiempo y la reparación ok y gratis.    Muy recomendable yo soy cliente.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Optica2000 El Boulevard",
+  category: "Óptica",
+  address: "22+1.39, C/ Zaramaga, 1, 01013, Vitoria-Gasteiz (Álava), Local, número L1, 01013 Álava, Araba",
+  description: "No hay comentarios disponibles para esta óptica.",
+  serviceRatings: {
+    atencionCliente: 3,
+    profesionalidad: 4,
+    precio: 5,
+    variedad: 3
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–22:00"
+    ],
+    lunes: [
+      "10:00–22:00"
+    ],
+    martes: [
+      "10:00–22:00"
+    ],
+    miércoles: [
+      "10:00–22:00"
+    ],
+    sábado: [
+      "10:00–22:00"
+    ],
+    viernes: [
+      "10:00–22:00"
+    ]
+  },
+  website: "https://www.optica2000.com/buscar-opticas/vitoria-gasteiz/optica-2000-boulevard?cid=yext_GMB_website_vitoria_gasteiz_649&utm_campaign=gmb-website&utm_source=google&utm_medium=organic&utm_content=649-Vitoria-Gasteiz-Zaramaga&y_source=1_MTA5MTkyNTY1NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  phone: "679 78 95 11",
+  review_count: 0,
+  review_rating: 0.0,
+  latitude: 42.861954,
+  longitude: -2.66908,
+  user_reviews: null,
+  emails: "",
+  province: "álava"
+},
+{
+  title: "MULTIOPTICAS",
+  category: "Óptica",
+  address: "Calle Postas, 16, 01001 Vitoria-Gasteiz, Álava",
+  description: "No hay comentarios disponibles para esta óptica.",
+  serviceRatings: {
+    atencionCliente: 3,
+    profesionalidad: 4,
+    precio: 5,
+    variedad: 3
+  },
+  open_hours: {},
+  website: "http://www.multiopticas.com/",
+  phone: "945 75 05 99",
+  review_count: 0,
+  review_rating: 0.0,
+  latitude: 42.846025,
+  longitude: -2.673,
+  user_reviews: null,
+  emails: "",
+  province: "álava"
+},
+{
+  title: "Miranza Ókular",
+  category: "Clínica de oftalmología",
+  address: "Florida Kalea, 32, 01005 Vitoria-Gasteiz, Álava",
+  description: "Los usuarios tienen opiniones diversas sobre Miranza Ókular. Algunos destacan la rapidez en la atención, las explicaciones claras, la amabilidad y competencia de los médicos y el excelente servicio. Otros reportan desorganización, largas esperas, servicio apresurado y cobros adicionales tras la cirugía.",
+  serviceRatings: {
+    atencionCliente: 3,
+    profesionalidad: 4,
+    precio: 3,
+    variedad: 3
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "16:00–20:00"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "16:00–20:00"
+    ],
+    martes: [
+      "9:30–13:30",
+      "16:00–20:00"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "16:00–20:00"
+    ],
+    sábado: [
+      "Cerrado"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "16:00–20:00"
+    ]
+  },
+  website: "https://miranza.es/nuestras-clinicas/miranza-okular/?utm_source=googlemybusiness&utm_medium=info&utm_campaign=info_googlemybusiness_okular",
+  phone: "945 23 09 80",
+  review_count: 261,
+  review_rating: 4.2,
+  latitude: 42.842904,
+  longitude: -2.671308,
+  user_reviews: [
+    {
+      Name: "Xabier",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKsVJ9t28qTfJeQxYSXHEbG7PnQ_jEuHDPAB3YqVQw8clArHg=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Desorganización y poca profesionalidad. Aun teniendo cita te hacen esperar mas de una hora para después despacharte apresuradamente y de malas formas.\n\nSu tiempo sera valioso, el mio también. Si yo me molesto en ser puntual, no es de recibo hacerte esperar mas haya de los 15 minutos de cortesía.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Fernando Balerdi",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJyys0PFeRFHx-dtMeEn283ObaiT-H6X0c0-fVR08W30wYXcA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Nos han atendido muy rápido y nos han dado muchas explicaciones sobre lo que nos pasaba. El médico muy atento y competente, así como el resto del personal. Estamos contentos. Muchas gracias!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lorena Barrio",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIZKzd_fQbIydXgTNtmljUpzZwCCUg8hE9_d0hXxbYNoFwWfQ=s120-c-rp-mo-br100",
+      Rating: 3,
+      Description: "No cabe duda de que los médicos son estupendos y que todas las personas que atienden han sido simpáticas y atentas, pero todo esto no justifica las horas de espera que hay SIEMPRE en esta clínica.\nNo es de recibo que te hagan esperar 2 horas para atenderte algo que es de 5 minutos. Si hay huecos para citas que las den más tarde, pero es una falta total de respeto que hagan esperar a las gente más de una hora en una revisión. Esta situación no se me ha dado de manera aislada, han sido repetidas las ocasiones y es una falta total de responsabilidad y profesionalidad que hace que se te quiten las ganas de volver y más, teniendo en cuenta lo que se paga.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "David Otano Gorena",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocII9h2-lHwY3QAo1NHvdD_weQCw4OHuYa-UBLZGBN0fwj_XIQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy contento y satisfecho con la operación de PRK que me realizaron en febrero, son unos profesionales muy bien cualificados y con un servicio excelente, por último mención especial a la doctor Aramberri por su sencillez y determinación a la hora de explicar las posibilidades de operación en consulta más su gran destreza en la operación ensimisma.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Abibi",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIRAJdR3y5WijAkMZYht_61AnQZRVUfP0pOJT2p0gArEK0jdQ=s120-c-rp-mo-ba2-br100",
+      Rating: 1,
+      Description: "Después de tener todas las pruebas  realizadas, el tiempo de espera para que te vea el doctor, el mio concretamente, dos hora de reloj.\nMi tiempo, igual que el de todos es muy valioso!!\nY otra cosa a tener en cuenta, después de una operación de casi 6.000€ que te sigan cobrando las revisiones, 85€,  me parece de Vergüenza !!!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Blas Del cura",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJpBVTM0r1tacsXS3sJBV7WgYc4NDOFdGuPTl7eakQiUverxw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Soy paciente desde hace muchos años.La doctora Lorente una grandísima profesional, me aconsejó pedir opinión a la doctora Quiroga:hoy he vuelto a conocer a otra gran profesional que me ha hablado y aconsejado muy claro.Gracias!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mari Carmen",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWQOfRkYYSPxpuUR0bTMc6_cEYVoUetG4i0evvYMMou8_qGJ25boA=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Valorar muy positivamente la atención en Recepción, el personal en general y la empatia del Doctor Javier Muñoz , que me ha atendido.\nMuchas gracias por hacernos sentir tranquilos .",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jesus Mª Quintana Garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIB9z_4M6vdOi7r5pdjxLA6PpdgD_XPSK3TwK2e9xMHW2D3xA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Estoy muy satisfecho  del trato y de los dictámenes  rapidos de las pruebas efectuadas.\nFelicidades",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "álava"
+},
+
 ];
 
 const ProvinceDetails = () => {
