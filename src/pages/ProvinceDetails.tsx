@@ -50630,170 +50630,6 @@ const opticians: Optician[] = [
   province: "álava"
 },
 {
-  title: "Óptica \"Federópticos Oku",
-  category: "Óptica",
-  address: "Calle del Duque de Wellington, 24, 01010 Vitoria-Gasteiz, Álava",
-  description: "No hay comentarios disponibles para esta óptica.",
-  serviceRatings: {
-    atencionCliente: 3,
-    profesionalidad: 4,
-    precio: 5,
-    variedad: 3
-  },
-  open_hours: {
-    domingo: [
-      "Cerrado"
-    ],
-    jueves: [
-      "10:00–13:30",
-      "16:30–20:00"
-    ],
-    lunes: [
-      "10:00–13:30",
-      "16:30–20:00"
-    ],
-    martes: [
-      "10:00–13:30",
-      "16:30–20:00"
-    ],
-    miércoles: [
-      "10:00–13:30",
-      "16:30–20:00"
-    ],
-    sábado: [
-      "10:00–13:30"
-    ],
-    viernes: [
-      "10:00–13:30",
-      "16:30–20:00"
-    ]
-  },
-  website: "",
-  phone: "945 17 11 80",
-  review_count: 0,
-  review_rating: 0.0,
-  latitude: 42.864227,
-  longitude: -2.69469,
-  user_reviews: null,
-  emails: "",
-  province: "álava"
-},
-{
-  title: "óptica Alavesa",
-  category: "Óptica",
-  address: "C. de los Herrán, 84, 01002 Vitoria-Gasteiz, Álava",
-  description: "No hay comentarios disponibles para esta óptica.",
-  serviceRatings: {
-    atencionCliente: 3,
-    profesionalidad: 4,
-    precio: 5,
-    variedad: 3
-  },
-  open_hours: {},
-  website: "",
-  phone: "",
-  review_count: 0,
-  review_rating: 0.0,
-  latitude: 42.852094,
-  longitude: -2.666092,
-  user_reviews: null,
-  emails: "",
-  province: "álava"
-},
-{
-  title: "Visionvitoria",
-  category: "Óptica",
-  address: "Calle Postas, 37, 01004 Vitoria-Gasteiz, Álava",
-  description: "No hay comentarios disponibles para esta óptica.",
-  serviceRatings: {
-    atencionCliente: 3,
-    profesionalidad: 4,
-    precio: 5,
-    variedad: 3
-  },
-  open_hours: {
-    domingo: [
-      "Cerrado"
-    ],
-    jueves: [
-      "10:00–13:30",
-      "16:30–20:00"
-    ],
-    lunes: [
-      "10:00–13:30",
-      "16:30–20:00"
-    ],
-    martes: [
-      "10:00–13:30",
-      "16:30–20:00"
-    ],
-    miércoles: [
-      "10:00–13:30",
-      "16:30–20:00"
-    ],
-    sábado: [
-      "10:00–13:30"
-    ],
-    viernes: [
-      "10:00–13:30",
-      "16:30–20:00"
-    ]
-  },
-  website: "",
-  phone: "945 12 11 82",
-  review_count: 0,
-  review_rating: 0.0,
-  latitude: 42.845714,
-  longitude: -2.667759,
-  user_reviews: null,
-  emails: "",
-  province: "álava"
-},
-{
-  title: "Óptica Solvisión Vitoria El Boulevard",
-  category: "Óptica",
-  address: "EL BOULEVARD, Zaramaga Kalea, 1, C.C, 01013 Vitoria-Gasteiz, Álava",
-  description: "No hay comentarios disponibles para esta óptica.",
-  serviceRatings: {
-    atencionCliente: 3,
-    profesionalidad: 4,
-    precio: 5,
-    variedad: 3
-  },
-  open_hours: {
-    domingo: [
-      "Cerrado"
-    ],
-    jueves: [
-      "10:00–22:00"
-    ],
-    lunes: [
-      "10:00–22:00"
-    ],
-    martes: [
-      "10:00–22:00"
-    ],
-    miércoles: [
-      "10:00–22:00"
-    ],
-    sábado: [
-      "10:00–22:00"
-    ],
-    viernes: [
-      "10:00–22:00"
-    ]
-  },
-  website: "http://www.solvision.com/",
-  phone: "945 20 10 03",
-  review_count: 0,
-  review_rating: 0.0,
-  latitude: 42.862682,
-  longitude: -2.669223,
-  user_reviews: null,
-  emails: "",
-  province: "álava"
-},
-{
   title: "gafas.es CC Lakua",
   category: "Óptica",
   address: "Calle del Duque de Wellington, 6, 01010 Vitoria-Gasteiz, Álava",
@@ -50945,28 +50781,6 @@ const opticians: Optician[] = [
       When: ""
     }
   ],
-  emails: "",
-  province: "álava"
-},
-{
-  title: "Ópticas Jaled S L",
-  category: "Óptica",
-  address: "Calle Postas, 16, 01001 Vitoria-Gasteiz, Álava",
-  description: "No hay comentarios disponibles para esta óptica.",
-  serviceRatings: {
-    atencionCliente: 3,
-    profesionalidad: 4,
-    precio: 5,
-    variedad: 3
-  },
-  open_hours: {},
-  website: "",
-  phone: "945 13 00 04",
-  review_count: 0,
-  review_rating: 0.0,
-  latitude: 42.845901,
-  longitude: -2.673019,
-  user_reviews: null,
   emails: "",
   province: "álava"
 },
@@ -51140,50 +50954,6 @@ const opticians: Optician[] = [
   province: "álava"
 },
 {
-  title: "Multiópticas",
-  category: "Óptica",
-  address: "General Alava Kalea, 11, 01005 Vitoria-Gasteiz, Álava",
-  description: "No hay comentarios disponibles para esta óptica.",
-  serviceRatings: {
-    atencionCliente: 3,
-    profesionalidad: 4,
-    precio: 5,
-    variedad: 3
-  },
-  open_hours: {},
-  website: "https://www.multiopticas.com/home/",
-  phone: "945 75 08 05",
-  review_count: 0,
-  review_rating: 0.0,
-  latitude: 42.844978,
-  longitude: -2.671306,
-  user_reviews: null,
-  emails: "",
-  province: "álava"
-},
-{
-  title: "Bushnell Outdoor Products Spain",
-  category: "Óptica",
-  address: "C/ -08005, Bartzelona Kalea, 60, 01010 Vitoria-Gasteiz, Araba",
-  description: "No hay comentarios disponibles para esta óptica.",
-  serviceRatings: {
-    atencionCliente: 3,
-    profesionalidad: 4,
-    precio: 5,
-    variedad: 3
-  },
-  open_hours: {},
-  website: "",
-  phone: "934 86 48 00",
-  review_count: 0,
-  review_rating: 0.0,
-  latitude: 42.868058,
-  longitude: -2.690083,
-  user_reviews: null,
-  emails: "",
-  province: "araba"
-},
-{
   title: "+Visión Vitoria",
   category: "Óptica",
   address: "General Alava Kalea, 26, 01005 Vitoria-Gasteiz, Álava",
@@ -51267,72 +51037,6 @@ const opticians: Optician[] = [
       When: ""
     }
   ],
-  emails: "",
-  province: "álava"
-},
-{
-  title: "Optica2000 El Boulevard",
-  category: "Óptica",
-  address: "22+1.39, C/ Zaramaga, 1, 01013, Vitoria-Gasteiz (Álava), Local, número L1, 01013 Álava, Araba",
-  description: "No hay comentarios disponibles para esta óptica.",
-  serviceRatings: {
-    atencionCliente: 3,
-    profesionalidad: 4,
-    precio: 5,
-    variedad: 3
-  },
-  open_hours: {
-    domingo: [
-      "Cerrado"
-    ],
-    jueves: [
-      "10:00–22:00"
-    ],
-    lunes: [
-      "10:00–22:00"
-    ],
-    martes: [
-      "10:00–22:00"
-    ],
-    miércoles: [
-      "10:00–22:00"
-    ],
-    sábado: [
-      "10:00–22:00"
-    ],
-    viernes: [
-      "10:00–22:00"
-    ]
-  },
-  website: "https://www.optica2000.com/buscar-opticas/vitoria-gasteiz/optica-2000-boulevard?cid=yext_GMB_website_vitoria_gasteiz_649&utm_campaign=gmb-website&utm_source=google&utm_medium=organic&utm_content=649-Vitoria-Gasteiz-Zaramaga&y_source=1_MTA5MTkyNTY1NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
-  phone: "679 78 95 11",
-  review_count: 0,
-  review_rating: 0.0,
-  latitude: 42.861954,
-  longitude: -2.66908,
-  user_reviews: null,
-  emails: "",
-  province: "álava"
-},
-{
-  title: "MULTIOPTICAS",
-  category: "Óptica",
-  address: "Calle Postas, 16, 01001 Vitoria-Gasteiz, Álava",
-  description: "No hay comentarios disponibles para esta óptica.",
-  serviceRatings: {
-    atencionCliente: 3,
-    profesionalidad: 4,
-    precio: 5,
-    variedad: 3
-  },
-  open_hours: {},
-  website: "http://www.multiopticas.com/",
-  phone: "945 75 05 99",
-  review_count: 0,
-  review_rating: 0.0,
-  latitude: 42.846025,
-  longitude: -2.673,
-  user_reviews: null,
   emails: "",
   province: "álava"
 },
@@ -56396,50 +56100,6 @@ const opticians: Optician[] = [
   province: "albacete"
 },
 {
-  title: "Covi",
-  category: "Óptica",
-  address: "C. Gaona, 2, 02002 Albacete",
-  description: "Esta óptica ofrece sus servicios en Albacete.",
-  serviceRatings: {
-    atencionCliente: 3.5,
-    profesionalidad: 3.5,
-    precio: 3.5,
-    variedad: 3.5
-  },
-  open_hours: {
-    domingo: [
-      "Cerrado"
-    ],
-    jueves: [
-      "10:00–20:30"
-    ],
-    lunes: [
-      "10:00–20:30"
-    ],
-    martes: [
-      "10:00–20:30"
-    ],
-    miércoles: [
-      "10:00–20:30"
-    ],
-    sábado: [
-      "10:00–13:30"
-    ],
-    viernes: [
-      "10:00–20:30"
-    ]
-  },
-  website: "",
-  phone: "967 52 10 10",
-  review_count: 0,
-  review_rating: 0,
-  latitude: 38.99313,
-  longitude: -1.85397,
-  user_reviews: null,
-  emails: "",
-  province: "albacete"
-},
-{
   title: "TOP SOLAR GAFAS DE SOL SL",
   category: "Óptica",
   address: "C. María Zambrano, 1, 02006 Albacete",
@@ -56615,28 +56275,6 @@ const opticians: Optician[] = [
   province: "albacete"
 },
 {
-  title: "Centro Óptico",
-  category: "Óptica",
-  address: "C. Pedro Martínez Gutiérrez, 15, 02004 Albacete",
-  description: "Este centro óptico ofrece sus servicios en Albacete.",
-  serviceRatings: {
-    atencionCliente: 3.5,
-    profesionalidad: 3.5,
-    precio: 3.5,
-    variedad: 3.5
-  },
-  open_hours: {},
-  website: "",
-  phone: "",
-  review_count: 0,
-  review_rating: 0,
-  latitude: 38.994037,
-  longitude: -1.861266,
-  user_reviews: null,
-  emails: "",
-  province: "albacete"
-},
-{
   title: "GLASSTOR",
   category: "Tienda de gafas de sol",
   address: "Tesifonte Gallego, Calle Ancha, Nº 12, C.C, 02002 Albacete",
@@ -56715,55 +56353,6 @@ const opticians: Optician[] = [
       When: ""
     }
   ],
-  emails: "",
-  province: "albacete"
-},
-{
-  title: "Visionfast",
-  category: "Óptica",
-  address: "C. Albarderos, 1, 02004 Albacete",
-  description: "Esta óptica ofrece sus servicios en Albacete.",
-  serviceRatings: {
-    atencionCliente: 3.5,
-    profesionalidad: 3.5,
-    precio: 3.5,
-    variedad: 3.5
-  },
-  open_hours: {
-    domingo: [
-      "Cerrado"
-    ],
-    jueves: [
-      "10:00–13:30",
-      "17:00–20:30"
-    ],
-    lunes: [
-      "10:00–13:30",
-      "17:00–20:30"
-    ],
-    martes: [
-      "10:00–13:30",
-      "17:00–20:30"
-    ],
-    miércoles: [
-      "10:00–13:30",
-      "17:00–20:30"
-    ],
-    sábado: [
-      "10:00–13:30"
-    ],
-    viernes: [
-      "10:00–13:30",
-      "17:00–20:30"
-    ]
-  },
-  website: "",
-  phone: "967 22 01 91",
-  review_count: 0,
-  review_rating: 0,
-  latitude: 38.99469,
-  longitude: -1.85828,
-  user_reviews: null,
   emails: "",
   province: "albacete"
 },
