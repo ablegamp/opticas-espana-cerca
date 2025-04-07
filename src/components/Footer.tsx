@@ -1,10 +1,22 @@
 
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { useNavigate, useLocation } from 'react-router-dom';
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
+  const navigate = useNavigate();
+  const location = useLocation();
   
+  const scrollToSection = (sectionId: string) => {
+    const section = document.getElementById(sectionId);
+    if (section) {
+      section.scrollIntoView({ behavior: 'smooth' });
+    } else {
+      // If section not found in current page, navigate to home with hash
+      navigate(`/#${sectionId}`);
+    }
+  };
+
   return (
     <footer className="bg-optica-blue text-white py-8">
       <div className="container mx-auto px-4">
@@ -17,18 +29,30 @@ const Footer = () => {
           </div>
           
           <div className="flex space-x-6">
-            <Link to="/#sobre-nosotros" className="text-blue-200 hover:text-white transition-colors">
+            <button 
+              onClick={() => scrollToSection('sobre-nosotros')} 
+              className="text-blue-200 hover:text-white transition-colors"
+            >
               Sobre Nosotros
-            </Link>
-            <Link to="/#provincias" className="text-blue-200 hover:text-white transition-colors">
+            </button>
+            <button 
+              onClick={() => scrollToSection('provincias')} 
+              className="text-blue-200 hover:text-white transition-colors"
+            >
               Provincias
-            </Link>
-            <Link to="/#faq" className="text-blue-200 hover:text-white transition-colors">
+            </button>
+            <button 
+              onClick={() => scrollToSection('faq')} 
+              className="text-blue-200 hover:text-white transition-colors"
+            >
               FAQ
-            </Link>
-            <Link to="/#contacto" className="text-blue-200 hover:text-white transition-colors">
+            </button>
+            <button 
+              onClick={() => scrollToSection('contacto')} 
+              className="text-blue-200 hover:text-white transition-colors"
+            >
               Contacto
-            </Link>
+            </button>
           </div>
         </div>
       </div>
