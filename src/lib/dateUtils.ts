@@ -6,7 +6,11 @@
 /**
  * Parses a time string in format "HH:MM" to get hours and minutes
  */
-const parseTimeString = (timeString: string): { hour: number; minute: number } | null => {
+const parseTimeString = (timeString: string | undefined | null): { hour: number; minute: number } | null => {
+  if (!timeString) {
+    return null;
+  }
+  
   const match = timeString.match(/^(\d{1,2}):(\d{2})$/);
   if (!match) return null;
   
@@ -27,6 +31,10 @@ export const checkIfOpen = (openHours: Record<string, string[]>): {
   nextOpenDay?: string;
   nextOpenHours?: string;
 } => {
+  if (!openHours) {
+    return { isOpen: false, todayHours: [] };
+  }
+
   const daysOfWeek = ['domingo', 'lunes', 'martes', 'miércoles', 'jueves', 'viernes', 'sábado'];
   const now = new Date();
   const currentDay = daysOfWeek[now.getDay()];
@@ -57,7 +65,7 @@ export const checkIfOpen = (openHours: Record<string, string[]>): {
       isOpen: false, 
       todayHours,
       nextOpenDay: nextDay,
-      nextOpenHours: nextDayHours[0]
+      nextOpenHours: nextDayHours.length > 0 ? nextDayHours[0] : undefined
     };
   }
   
@@ -66,7 +74,10 @@ export const checkIfOpen = (openHours: Record<string, string[]>): {
     // Skip if it's "Cerrado"
     if (timeRange === "Cerrado") continue;
     
-    const [startTime, endTime] = timeRange.split('–');
+    const timeRangeParts = timeRange.split('–');
+    if (timeRangeParts.length !== 2) continue;
+    
+    const [startTime, endTime] = timeRangeParts;
     const start = parseTimeString(startTime);
     const end = parseTimeString(endTime);
     
@@ -88,7 +99,10 @@ export const checkIfOpen = (openHours: Record<string, string[]>): {
   for (const timeRange of todayHours) {
     if (timeRange === "Cerrado") continue;
     
-    const [startTime] = timeRange.split('–');
+    const timeRangeParts = timeRange.split('–');
+    if (timeRangeParts.length !== 2) continue;
+    
+    const startTime = timeRangeParts[0];
     const start = parseTimeString(startTime);
     
     if (!start) continue;
@@ -124,7 +138,7 @@ export const checkIfOpen = (openHours: Record<string, string[]>): {
     isOpen: false, 
     todayHours,
     nextOpenDay: nextDay,
-    nextOpenHours: nextDayHours[0]
+    nextOpenHours: nextDayHours.length > 0 ? nextDayHours[0] : undefined
   };
 };
 

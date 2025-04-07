@@ -8,7 +8,9 @@ interface OpeningHoursProps {
 }
 
 const OpeningHours = ({ hours }: OpeningHoursProps) => {
-  const { isOpen, todayHours, nextOpenDay, nextOpenHours } = checkIfOpen(hours);
+  // Ensure hours is properly initialized
+  const safeHours = hours || {};
+  const { isOpen, todayHours, nextOpenDay, nextOpenHours } = checkIfOpen(safeHours);
   const today = new Date().toLocaleDateString('es-ES', { weekday: 'long' }).toLowerCase();
   
   return (
@@ -43,7 +45,7 @@ const OpeningHours = ({ hours }: OpeningHoursProps) => {
       )}
       
       <div className="space-y-2">
-        {Object.entries(hours).map(([day, timeRanges]) => (
+        {Object.entries(safeHours).map(([day, timeRanges]) => (
           <div key={day} className="flex justify-between items-center text-sm">
             <span className={`font-medium ${day === today ? 'text-optica-blue' : 'text-gray-700'}`}>
               {formatDayName(day)}
