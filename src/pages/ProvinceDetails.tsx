@@ -46604,6 +46604,6908 @@ const opticians: Optician[] = [
   emails: "",
   province: "madrid"
 },
+//Listado Murcia
+{
+  title: "Óptica Alba Murcia",
+  category: "Óptica",
+  address: "Pl. Emilio Díez de Revenga, 4, 30008 Murcia",
+  description: "Esta óptica es altamente recomendada por su excelente trato y profesionalidad, especialmente en lo referente a lentillas Orto-K. Los usuarios destacan la amabilidad y la capacidad de Lola para resolver dudas y ofrecer soluciones efectivas, generando confianza a largo plazo.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "16:45–20:00"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "16:45–20:00"
+    ],
+    martes: [
+      "9:30–13:30",
+      "16:45–20:00"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "16:45–20:00"
+    ],
+    sábado: [
+      "Cerrado"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "16:45–20:00"
+    ]
+  },
+  website: "https://opticaalba.com/",
+  phone: "968 24 18 18",
+  review_count: 48,
+  review_rating: 4.8,
+  latitude: 37.991628,
+  longitude: -1.135153,
+  user_reviews: [
+    {
+      Name: "Ángel Fernández Tolosa",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIdjPJuR-eHsMX6l2JycELmQl6bllKzqipUbZoAgYqALcAv_Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy contento con las lentillas orto k, van muy bien!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria Navarro Rubio",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLa-f-XZIRZABYFS4KrFyhuNXXRk4B5IBDikcGZ_1lYWRMq=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Acudí a esta óptica por las buenas reseñas que aparecían en Google, a pesar de estar a 60 km de mi ciudad. La atención al cliente, desde el primer momento en el que llamé para informarme por teléfono, fue excepcional. En mi caso, necesitaba lentes orto K para superar el reconocimiento médico de oposición a FFCCSE.\n\nEl trato de Lola es excelente.\nLa explicación para el uso del producto fue minuciosamente detallado.\nEn mi caso, alcancé visión perfecta desde la primera noche con las lentillas.\n\n100% recomendados!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Fuensanta Andujar Lopez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVIaoDWvoIDKnUEmABkAAqzCkNO1uAliHMgLQX2p6_CmNn23DOJxw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Es mi óptica de confianza desde hace años, y a día de hoy cualquier duda que tenga o problema visual, lola me lo resuelve en el momento o lo antes posible, y siempre con una gran sonrisa y amabilidad por eso 22 años después sigo en óptica al alba\n\nLa recomiendo 100%",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Nuria Solé Carasa",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV9L-kY8X5PE_AEbYACorQvKY_mxAgT3im0y4MaucmE7cTgr6qF=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me compré allí mis gafas progresivas aconsejada por Lola que buscó los progresivos que mejor se adaptaban a mí. Y cómo siempre un 10 para Lola",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Álvaro Saura Alegría",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXxkZYOQEvLDah3dsugiadSJxPwmgHoAuU-_spJPf9hXDRIWReI=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Empecé a usar lentillas OrtoK con ellos, en 1 mes 0 problemas, un trato muy agradable y todo el proceso muy explicativo. En 1 mes ya tengo una visión del 100%, con productos de calidad como los que ofrecen los ojos se mantienen perfectos todo el día. Recomendado",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Joaquín Parejo García",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJkKDAcTX0buGEeEAaktSNY0wcI4I3yLf4bDLNQ9aB5lAc4QA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "El trato en óptica Alba ha sido excelente, les visité en relación con las lentillas Orto-K, para los requisitos de la oposición a policía y estoy muy contento, Lola es una gran profesional.\n\nLo recomiendo!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mamen Marín",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJv7JfHeXbztGwAuyMqlVI5B8PeQLeCcUgbQs35Ay5TFY13PQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato exquisito y una gran profesional . Mi óptica de confianza",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Antonio Ramon",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLMxd26bzUVq2TdP2-64HZcjgpngSipPfy0rTwHUvKGQ7bfvA=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Está es mi óptica desde hace muchos años. Tengo miopía magna y estoy muy contento con las soluciones que me dan",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Ópticas y Audiología LUPER Murcia",
+  category: "Óptica",
+  address: "C. Barítono Marcos Redondo, 2, 30005 Murcia",
+  description: "Se percibe que esta óptica ofrece un servicio de primera calidad, con profesionales como Miguel Ángel y Lucía que destacan por su amabilidad, paciencia y capacidad para explicar los detalles. Los usuarios se sienten muy contentos con la atención recibida y la profesionalidad demostrada, resaltando también la fabricación local de las monturas y la variedad de terapias ofrecidas.",
+  serviceRatings: {
+    atencionCliente: 4.8,
+    profesionalidad: 4.9,
+    precio: 3.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–14:00",
+      "17:00–21:00"
+    ],
+    lunes: [
+      "10:00–14:00",
+      "17:00–21:00"
+    ],
+    martes: [
+      "10:00–14:00",
+      "17:00–21:00"
+    ],
+    miércoles: [
+      "10:00–14:00",
+      "17:00–21:00"
+    ],
+    sábado: [
+      "10:00–14:00"
+    ],
+    viernes: [
+      "10:00–14:00",
+      "17:00–21:00"
+    ]
+  },
+  website: "http://luper.es/",
+  phone: "868 96 61 51",
+  review_count: 1069,
+  review_rating: 4.9,
+  latitude: 37.987305,
+  longitude: -1.132896,
+  user_reviews: [
+    {
+      Name: "Nicolas Pereira",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWt6aXqbsI-NahZdz4aNQ_JQIWdSE3qxW9yyRgDUbcBH2Ehz9o=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "¡Excelente servicio! Compré unos lentes aquí y la experiencia fue inmejorable. Miguel Ángel fue súper amable, paciente y explicó todo con mucho detalle, ayudándome a elegir la mejor opción. Se nota que conoce bien su trabajo y que le importa que el cliente quede satisfecho. Sin duda, volveré y lo recomiendo totalmente. ¡Gracias por la atención!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Monikk Golfarini",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXRc6HwNA6qy5XrDuXSwpi6Od7aNrN7OJFEZ1_G-atcCk1AGkSF=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Atención de primera en esta óptica. Miguel Ángel hizo que todo el proceso fuera fácil y claro, explicando cada detalle con mucha paciencia y profesionalismo. Se nota su experiencia y dedicación al cliente. Muy contento con mi compra y con el trato recibido. ¡Totalmente recomendado!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Laurel Blanc",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLlZe30AdSTgTmSZgN9zwIjlRa2VIiS4lnCWkXG4nxx-J4r6GI=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Atención al cliente inmejorable. Te hacen un estudio de la vista verdaderamente completo ofreciéndote la mejor solución para tu caso particular. No solamente ofrecen lentes, también diversas terapias para la vista y para problemas auditivos.  Me ha encantado saber que las monturas las fabrican en Murcia",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mary Ruiz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVmOLoSSuqYBmL4T4RfPCVkIn8XjZeDcfEC--kgL9wzg5yfyDA=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Solo tengo buenas palabras para Lucía, me hizo el examen visual y me  estuvo explicando cada detalle del examen y cada duda que tenía. Es una buena profesional, si vais a Luper de Marcos Redondo os recomiendo a Lucía aparte es una chica muy maja y simpática y el trato a sido de 100",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "ALMUDENA GARCIA AYALA",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIqt0iKV-39VDnAxGzexzOFx_QUnMwfns_4o2fbFmGjONbVTw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Un trata único y especial, Victoria ha sido la chica que me ha atendido y genial. Sin prisa por dedicar el tiempo que ha sido necesario, me ha explicado todo muy bien. Muy contenta. Sin duda volveré cada vez que lo necesite. Gracias Victoria por tu profesionalidad y amabilidad.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Inma Verdu Sanchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLAxjk_6wa4f21WLI5aDHoUxS0mnWdVn9rbpmW4l7oaQG31xw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Nos ha atendido Lucia está  mañana para unas gafas para mí hijo Andrés graduadas y con cristales filtro azul , montura muy actual y \"SI\" que se aplica la promoción , por un comentario que vi. Lucia ha sido encantadora y profesional ,gracias Lucía por tu atención . Quiero destacar que Buenos precios del mercado pues he comparado . Lo único que pido que lleguen lo antes posible porque han sido extraídas y las necesita para la Universidad . Por todo lo demás muy contenta de conocerlos , el servicio genial , funda, paño, botella de líquido especial cristales así como seguro de un año de robo y rotura del 50% y garantía de fabricación de 3 años . GENIAL .  Yo estoy lo pondría en el anuncio de LUPER EN LA 7 pues lo que ofrecéis no os lo dan en otras ópticas ,así que os animo a que vayáis y compréis , sus Fran variedad de monturas y posibilidades de cristales super actuales y todo de NUESTRA TIERRA , venga a qué esperas saldrás igual de contenta con el Gran ahorro que te llevas tan necesario en estos tiempos. Ah! Y espero que no cambies porque sino ....Saludos 👍",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Raul Fernandez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVcfYFP1a0jDMNP9CPcweRykrXDRSvdLahNbQ187YX3zCvbVSs=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Estafadores. Nada serios. Un horror. Compré unas lentillas. Han tardado dos meses en llegarme y evidentemente cuando las recibí ya me había ido a otra óptica y comprado lentillas y no me devuelven el dinero y es que ni siquiera un responsable da la cara. Se escudan en la pobre chica de la tienda para decirte que no hay devolución. Lamentable trato al cliente. Pasare a poner hoja de reclamación y llevar el caso a consumo\nLa respuesta que dais es totalmente falsa. Esas lentillas son genéricas y se pueden comprar en cualquier web a demás al 50% del precio que vosotros las vendéis….son una marca genérica con una graduación normal y corriente. A mi no me habéis hecho esas lentillas a medida. Así que os estáis retratando. A\nOs adjunto foto de las lentillas porque parece que no tenéis ni idea de las lentillas que he comprado. Y efectivamente si yo no digo y llamo para deciros que quiero las lentillas no se para que las mandáis dos meses después. Además si es que vosotros mismos os delatáis, porque la Chica cuando me llamó me dijo que llevaba toda la razón, que vosotros en vuestra web tenéis puesto que el envío se hace máximo en 72 horas y habéis tardado en cualquier caso más de 1 mes y dos desde el pedido.\nAquí los únicos que mentís y tenéis un servicio al cliente pésimo que no dais ni las cara sois vosotros.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Bea Leon",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXWUA-xH7uLO7_5_m1F84fPgHbsrk_ruDeoRolcYdF2MUvy909H=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Luper es una fiesta de gafas,gran variedad y a cual más bonita. El personal encantador y muy profesionales ,de primera. Muy contenta con mi compra y deseando estrenarlas.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Da Vinci Ópticas Puente Viejo",
+  category: "Óptica",
+  address: "C. Cartagena, 15, bajo, 30002 Murcia",
+  description: "Una característica de esta óptica es la profesionalidad y amabilidad de su personal, especialmente Ana, quien es mencionada por su excelente asesoramiento y trato cercano. Los comentarios resaltan la gran variedad de gafas modernas con buena relación calidad-precio y la atención personalizada que ofrecen.",
+  serviceRatings: {
+    atencionCliente: 4.8,
+    profesionalidad: 4.9,
+    precio: 4.0,
+    variedad: 4.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "http://davinciopticas.es/",
+  phone: "601 33 96 58",
+  review_count: 91,
+  review_rating: 4.9,
+  latitude: 37.980566,
+  longitude: -1.131357,
+  user_reviews: [
+    {
+      Name: "Maria Mar Lorenzo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU893TEuge2HyKoV9GOXDlDRx5K8bcGmZBjr6OdHF_k662W8H5W=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Hace muchos años que las descubrí y desde entonces no voy a otra. Muy profesionales. Excelente atención y servicio, además de tener una gran variedad de gafas modernas y con estilo con muy buena relación calidad precio.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "marga lopez del pozo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKGw0C9r2R-KkVv_TTC2FV8KE6daxgQcPuBKTCDISdSHOMVtg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Es mi óptica de confianza desde hace mucho, son fantásticas, siempre te aconsejan y pueden estar contigo el tiempo que haga falta, ofrecen calidad, variedad para aburrir, nunca defraudan, y Ana es un encanto, agradable y profesional como la copa de un pino...\nSiempre salgo encantada, para mí, la mejor óptica....",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "EMR",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW4WuKKYroUvdxfF2GbAZipap7S012IDVyrZTV-TlU_F6gn8fkt=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Estupendas profesionales ,cercanas y muy amables. A mi hijo le pusieron el tratamiento de orto- k ( lentillas nocturnas)y facilitaron mucho la adaptación con un trato muy personalizado. Para mi todos son ventajas , las recomiendo al 100%. Y Ana es un 10 en todos los aspectos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Zeila andrea Maldonado gallardo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJb955f9NeQmE4c25vhTr3IF2odv3rmp-2u43oF8chJ5Iw-Tg=s120-c-rp-mo-ba2-br100",
+      Rating: 1,
+      Description: "Muy mal trato, me acerque a este sitio porque me lo recomendaron muy ampliamente y me quedado decepcionada totalmente , para comenzar llegue y la chica ni se acerco conmigo, ni me dijo en algún momento que me atendía, nadaaa.\nAl momento de pedirle información me respondía de muy mala gana y en lo que yo pensaba cuando me quedaba bien la cita para hacer mis gafas comento \"sino estas segura, no te puedo poner una cita\", amm hola?? Solo estoy pensando que horario me va mejor ! 😠, muy mala experiencia, yo no recomiendo en absoluto pasar por aquí.\nAparte de que no dejaba de verme horrible al ver las gafas para ver si tenían alguna de mi agrado, que reitero jamás se acerco a mi a darme una buena atención ni información necesaria.\nSino les gusta su trabajo, cambien de trabajo. Nadie merece ser tratado de esa manera tan despectiva.\n\nY respecto a la respuesta:\n\nEso no es cierto , solo saludaron diciendo \"hola\" y jamas dijeron en este momento no podemos atenderte, incluso llego una pareja después de mi y les diste una muy buena atención y resolviste sus dudas y pasaste de mi , hasta que te dije \"amm hola, quisiera saber información porque quiero unas gafas\" y te explique mi caso, pero jamás tuvieron la amabilidad de decirme en este momento no podemos atenderte , más sin embargo yo lo entendí porque claro que tenias más personas ahí, pero yo esperaba un mejor trato hacia mi persona y más por la amplia recomendación qué me había hecho. No me interesa más sus servicios\nGracias por la cita. Espero que mejoren. Saludos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Raquel M.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIqhmBZSVXhi-2bJZQoiVbAnP1RBpXXWrtYyP1CXAlaDu_x=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Fuimos a hacerle unas gafas a mi hijo pequeño. Siendo viernes a última hora y a pesar de que se atiende con cita previa, Ana nos atendió y nos asesoró sin inconveniente. Tiene gran variedad de gafas infantiles, muchas más incluso que cadenas más conocidas; encontramos justo las que buscábamos. Las gafas tardaron sólo 2 días!! Trato muy profesional pero cercano. Tuvieron un detalle con el niño que hizo que se fuera muy contento. Ana nos trató muy bien en todos los sentidos, incluso nos guardó una oferta por si el niño cambiaba de graduación. Estamos muy contentos con el trato y el producto y volveremos. Creo que va a ser nuestra óptica a partir de ahora.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Esther Rodriguez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVjF6UsRpz1-_XiWi4SApoaRaS2QKaZUBNNQMXxtcjLuycd-SInRg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Llevo varias de gafas y lentillas con Ana y es una excelente profesional, hace buen diagnóstico y asesoramiento, lo explica todo muy bien y hace el seguimiento del producto, ajustando las gafas si se precisa, pruebas con diferentes lentillas... etc… Totalmente recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cristina Morillo Fulgueira",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI709XXnItems3Xjr9Otsp2LOLOAizcHhMh9W6w5smqjHV3Cw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La mejor óptica !! Ofrecen un trato cercano y atención personalizada, siempre esta Ana para solucionar las dudas proporcionándote la mejor opción. Tienen una gran variedad de modelos de gafas a precios muy competitivos. En definitiva, cuentan con personal muy cualificado y el trato es único y especial.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jonathan Troya",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL0azFtHN2v-Ah0TM69xzOOgweh_DGLkAaUT3M-LG7geVVlRA=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Trato excelente, valoración visual adecuada a cada problema. Precios competentes y atención sublime. Muy recomendado. Es mi óptica de confianza para toda mi familia. (Siete años acudiendo y sigue siendo referencia en el mundillo. Muy agradecido por las soluciones ofrecidas. Siempre profesional.)",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Óptica LARAVIA LARA LA FLOTA -Zas Visión",
+  category: "Óptica",
+  address: "C. Juan García Abellán, 2, 30007 Murcia",
+  description: "Los comentarios sobre esta óptica resaltan la profesionalidad y el buen trato recibido, tanto en la graduación de la vista como en el asesoramiento de lentes. Se destaca la seriedad del equipo y la amabilidad de profesionales como Ana y Guillermo, generando satisfacción en la compra de gafas.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 5.0,
+    precio: 3.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "9:30–13:30"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://www.opticaslaravia.com/",
+  phone: "968 90 01 77",
+  review_count: 15,
+  review_rating: 4.9,
+  latitude: 37.994399,
+  longitude: -1.119488,
+  user_reviews: [
+    {
+      Name: "Belén Castellanos González",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUhO16dHWFo1FS0SPWEX8M2XfK7hAmL-GIMHypzIxKpMd6TdEzu=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Hace años que mi familia y yo somos clientes habituales en esta óptica por su profesionalidad y buen trato. Desde el servicio de graduación de vista al de asesoramiento de lentes, ¡un 10! Excelente trabajo por parte de Guillermo y su equipo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lorena Gimeno",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJoridL_USyxdGjozuu-SHGduRosRMQyDaMiK2y-v2AgDds3g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Siempre que he ido a graduarme la vista y a adaptarme las lentillas han demostrado mucha seriedad y profesionalidad, estoy muy contenta con la atención recibida.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ángeles",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXPt9n9A4usi_CHOaNl-8xR74W1sWryiR3EmRe6RygnUopkbUE=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Son las terceras gafas que me compro allí, me encanta pero lo que más me gusta es la atención al cliente, Ana es muy profesional y agradable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Andres Rico Carbonell",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLsXxbw8wZeT8YzO1pIWknwtK2QHDiri3NgkoP-qHqGOIGeGg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fui a graduarme y a comprarme unas gafas de sol y estoy encantado. Un equipo muy profesional.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "joselu_ brnbe",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIuP3OU95NGP839-meY6YGpsj_RmwRu3cpkGJSfntnnzbkLfI0=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me atendieron muy bien, contento con mis gafas nuevas!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Raquel Mellado",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVYPg3G83DfRMX-7-1VglstelBQl6biD_TbhRVQFWQO1SItCQnV=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Óptica muy profesional. Me atendieron estupendamente",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Katy Lloret Blazquez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKJyD0-m3FDe6faDWiqMm-xfHsceP2hAtq12XPskoputTDmfQ=s120-c-rp-mo-ba4-br100",
+      Rating: 4,
+      Description: "Buena óptica tienen variedad y destacar el buen trato recibido\nRecomendable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose Luis Bernabe Fernandez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWchElejWxqT5OoX5tiRpA7Tb0hkqz0SKBFoW1FrHfccYX6soAWOQ=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Muy buen trato y gran profesionalidad.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Óptica Guadalupe",
+  category: "Óptica",
+  address: "Av. de los Jeronimos, 60, 30107 Guadalupe, Murcia",
+  description: "En general, se comenta que esta óptica brinda un trato excelente y profesional, con menciones especiales a la amabilidad y disposición de Victoria y Ana para ayudar y asesorar. Se destaca la variedad de gafas disponibles y la buena relación calidad-precio.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.8,
+    precio: 4.0,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "16:30–20:30"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "16:30–20:30"
+    ],
+    martes: [
+      "9:30–13:30",
+      "16:30–20:30"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "16:30–20:30"
+    ],
+    sábado: [
+      "Cerrado"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "16:30–20:30"
+    ]
+  },
+  website: "http://www.grupoverbien.com/",
+  phone: "968 83 50 91",
+  review_count: 17,
+  review_rating: 4.5,
+  latitude: 38.000163,
+  longitude: -1.17182,
+  user_reviews: [
+    {
+      Name: "Morella Peñafiel",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV53Yf-wiN7F1VJvZfFLOU-M2zkG72ytuouDrJWzu_4JkptUis=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Victoria es súper amable y muy profesional. Fui por un problema y me ayudo enseguida a solucionarlo. Da gusto encontrar a gente así.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "elisa nicolas nuñez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLuhtOXazOLOVAnimxLpkg4rWwFRaM2ZkkwFF3MLDkRXk9YXw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buen trato, la chica muy agradable, me asesoró a la hora de elegir la gafa y salí muy contenta. Precios asequibles, desde económico hasta grandes marcas con buena calidad. Sin duda volveré.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "paulaxp yt",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWM7WJ-WOv-qA1zQre2IB7BvNJ2k4tptylmBZ5VNtHGxh1mKFA=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Soy clienta desde el principio, siempre he estado súper agusto con la atención de Ana, desde que ella se fue solo he tenido problemas no soluciona los fallos que ellos cometen , por mi han perdido no solo una clienta si no toda una familia que íbamos",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Salud Nicolás",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ-44-WAJDEU2KjyeIXGmwLRh3LJ8fxtSARqrmwpxXBytsUlQ=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Trato excelente y profesional, se nota que tienen una larga experiencia. Destacar la variedad de gafas de todas las marcas y precios.\nMi óptica de confianza sin duda :)",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Fernando Escobar",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW5eZs8lZk0lPcawNimkoIthVVnecUQn88yaTPY8OaqNPMeUhnhWg=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "El martes por la mañana tuve una urgencia y la chica me tomo la presión intraocular y me mandó para urgencias de la Arrixaca. Me atendió excelente y no quiso cobrarme por la atención.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jhoana Guarnizo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWOQiFvTQUgO8PaktZ6PjebXtb9TZRo_i2kQad3c3VVmYIdmoT1UQ=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "La optometrista es un encanto. Siempre está dispuesta a solucionar cualquier cosica. Tienen variedad en monturas de vista y de sol. 👏🏻",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria Alcantara",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWgFhSP2tzOAVQ2Nrq8JUpAhWMIupR8gcUFtP98_8fzSOMxEQ55=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "La chica que te atiende es majísima. Siempre con una sonrisa en la cara.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juan Lopez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWfKzu_8RUV8sW7FBTNUysACcGc3nUua2_iMabeoio80fjIST0=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Ana, La chica que atiende, Excelente atención, alta profesiobalidad y de caracter humano...... 100 x 100 recomendable",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Óptica La Seda - Centro auditivo",
+  category: "Óptica",
+  address: "info@opticalaseda.com, C. San Antón, 10, 30009 Murcia",
+  description: "Esta óptica se distingue por su excelente atención al cliente y la alta profesionalidad de su personal. Los usuarios destacan el trato recibido durante la graduación de la vista, con explicaciones detalladas y soluciones efectivas desde el primer momento. Además, se menciona un amplio catálogo de gafas con precios asequibles.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.8,
+    precio: 4.0,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://opticalaseda.blogspot.com/",
+  phone: "697 44 73 15",
+  review_count: 39,
+  review_rating: 5,
+  latitude: 37.989394,
+  longitude: -1.139111,
+  user_reviews: [
+    {
+      Name: "Rebeca Cantó",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLq210V0t869Od_qlrS-LCuuRjDMZt6TV0ocklPaKUkU7P__ng=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He tenido una maravillosa experiencia en esta óptica. Por tanto no podía faltar una reseña positiva, porque el buen trabajo hay que valorarlo. Después de numerosos problemas en mi antigua óptica decidí venir a esta y he quedado encantada, me graduaron dándome toda serie de explicaciones sobre lo que me ocurría, el trato espectacular, me dieron solución desde el primer momento a mi problema. En mi caso me atendió Antonio, un chico súper simpático, que además sabe una barbaridad sobre su ámbito, te explica todo súper bien para que lo entiendas y además puedes preguntarle cualquier duda sin sentirte pesado porque te escucha y se toma muchísimo interés en lo que necesites. Es un lugar recomendado sin duda al 100%. ¡Bravo por vuestro trabajo!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alba Cañabate Jimenez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXcvm9qkdeyCsYEiS8yPClwR_S1q7OGTdEoV1dDu2wpou8Gfo8=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Atención inmejorable. Después de tantos años con gafas de ver, Antonio me ha confirmado que siempre hay algo más que saber. Volveré a ir y x1000 recomendado",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Administración Grupo Parlamentario Podemos Andalucía",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK3o0o0dJ7VeNglSJ-ut7zpvT7pmXebDCiGWZLQ9tPv6QHhbA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato inmejorable, profesionalidad, amabilidad!!. Un diez de diez, ya tengo óptica nueva y de confianza.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Fernando Espinosa Ortega Rey",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX4F2-YpiKpWNdMRVDe7WJnYAFerdu-dHSuJ0fRmrA1lUcdLbY=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buena óptica. Muy buenos profesionales. Entre las monturas había muchas que me gustaban. Recomiendo una montura que pese poco para que no se clave en la nariz. Muy contento con mis gafas normales y con mis gafas de sol. Además, me han dado consejos que nunca me dieron en otras ópticas. Y han acertado con todos mis problemas oculares. Muchas gracias, Daniel y Antonio.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria José Redal",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocINJzLT6kh0xiJbWeOq9edZow-CWK3n9pfbkHwAhAtwCLBoJw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Encantada con mis gafas y con el trato recibido. Grandes profesionales que te asesoran sobre la mejor opción para tus necesidades y la montura que más se adapta a cada uno. Recomiendo al 💯",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Johana Patricia Riveros G.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWxUxK06--ny36nLWAYdAr24XasjD0bSBCPC7cqI7u3AAi_PJTPAg=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "He comprado mis gafas y las lentillas de mi pareja y el trato ha sido increíble, el personal es muy amable y nos han dado muy buenos precios. De hecho, tuve que\u00a0 hacer un cambio en mis lentes, y me lo hicieron encantados sin costo adicional. Super recomendados.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alejandro Ballesta",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLRb9KZQKfaIKaxWSx1WHPiqEyF5DVA9f_k6qOt9mbytMoQPA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buen trato por parte del personal, quedé encantado con ellos, pedí mis lentillas y al día siguiente ya pude ir a recogerlas. Además tienen precios muy asequibles para cualquiera. A partir de ahora, mi óptica habitual sin duda.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "maria perez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIJemDgobxLarEY3D2TQ-XUkxwd9-jQ0gGfeF42pFJhn-62KA=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Recomiendo esta óptica sin duda! Trato inmejorable, te hacen un estudio muy exhaustivo de la vista, con varias máquinas.\nTienen un amplio catálogo de gafas tanto de vista como de sol y si las necesitas graduadas en el mismo día o a los pocos días las tienes.\nSin duda la mejor óptica a la que he ido",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Óptica Centrofama",
+  category: "Óptica",
+  address: "C/ Puerta Nueva, 8, 30001 Murcia",
+  description: "Se percibe como un establecimiento con un trato al público excepcional y un equipo de profesionales altamente cualificado. Los usuarios valoran especialmente la dedicación y el esmero en la búsqueda de las lentes perfectas, así como la disponibilidad de monturas a precios competitivos. Además, se destaca la variedad de estilos disponibles.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 4.9,
+    precio: 4.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "11:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://naturalopticsgroup.com/opticas/optica-centrofama_Murcia_2960.html?utm_source=google&utm_medium=mybussines&utm_campaign=murcia-centrofarma",
+  phone: "968 20 18 90",
+  review_count: 118,
+  review_rating: 4.9,
+  latitude: 37.988901,
+  longitude: -1.127133,
+  user_reviews: [
+    {
+      Name: "Raúl",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX1NMQfH0I7szEc59U59q-Wy_tMeCtM1u3ErwYr5nchgt_GdvQl=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Vine por recomendación de una amiga y no se equivocó: la atención en esta óptica es inmejorable. Quiero agradecer especialmente a Mamen por su dedicación y profesionalismo al realizar todas las pruebas necesarias para encontrar las lentes perfectas para mí. Además, encontré una montura de precio asequible y acorde a mis necesidades. En todo momento me sentí en buenas manos, con confianza y con todas mis dudas resueltas. Sin duda, una experiencia excelente. ¡Gracias!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Raul Jimenez Martinez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWCFM4hVTJcIcTqyGZ-v8cS9ClKB9M_BTWJVem5hMh52rpQg12o=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Más amables y profesionales imposible.\n\nNo encontraba gafas de sol a mi medida, así que me las hicieron, ofreciendo una opción genial y a muy buen precio. Además de un resultado impoluto, rápido y preciso, se aseguraron de que no hubiera problema para ver las pantallas de mi móvil y mi coche con las lentes polarizadas.\n\nVolveremos y recomendaremos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Isabel Alacid Lázaro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXsHkAL3apYKcMC_eW-Aq_8su_ldlLJMtEgE1vB_aa1wKdLq1pdcA=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Muy profesionales y amables. Elena nos ha atendido a mí hija y a mí con mucho cariño siempre y sabemos que estamos en muy buenas manos! Recomendadisimo!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Conchita Hernández Ayuso",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKacoWlOtnaHCO5Cty9Q8oMzyOx0YWp1eLV4IZLTx6gq-qx4g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Elena y Mamen son una profesionales excelentes. Calidad precio genial. Tienes mucha variedad donde elegir, para todos los estilos. Muchas gracias chicas",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Adolfo Vázquez Martínez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWyQIOcwkRVdpc7epaQj6UvU3uSgOg4o5Z27XyN6xhhbUe2tQI=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Sin duda unas grandes profesionales. Llevo años de cliente en este lugar. La atención es impecable tanto en la manera de analizarte la visión como en el asesoramiento a la hora de elegir las mejores monturas. Además tienen unos precios muy competitivos. Lo recomiendo 100%",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Laura Vermane",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKn3R_ojgbR4u7oJ1NMGE3LDYEyPKsX1f0TCuqrgS7xvAzvkg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Un lugar especial! El personal de 10, mi hija lleva las gafas desde los 5 años, y han conseguido que vaya a esta óptica muy tranquila y a gusto, la última vez hasta hizo un regalo a la chica que la atiende.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Amanda Álamo Buck",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXAGKpGHXginMfAa5TVVDpmttAbmJrjckcA2UjhySHTFxLAPZIA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "No puedo estar más contenta con el trato recibido, y el empeño que le han puesto en averiguar porque no podía ver correctamente, especialmente Mamen que se ha involucrado muchísimo. Llevo más de 20 años usando gafas, y es la primera vez que salgo tan contenta. Los precios están genial y las gafas me chiflan. Mil gracias Celina y Mamen!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Carmen Ayala",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJqKDvFAGt5XAOvtrP5UJ-52qId9knFkfg-5D014uU5qBmdRw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me han graduado la vista como nunca!!\nMonturas y gafas de calidad a un precio increíble. Trato cercano y personalizado.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Óptica y Centro Auditivo Soloptical Murcia Gran Via",
+  category: "Óptica",
+  address: "Gran Vía del Escultor Francisco Salzillo, 17, 30004 Murcia",
+  description: "Sobresale por brindar una atención al público excepcional, con un personal atento, amable y profesional. Los comentarios resaltan la ayuda recibida en la selección de gafas y lentillas, así como la buena relación calidad-precio de sus productos. Además, se menciona una considerable variedad de opciones.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 4.8,
+    precio: 4.3,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–15:00",
+      "16:00–21:00"
+    ],
+    lunes: [
+      "10:00–15:00",
+      "16:00–21:00"
+    ],
+    martes: [
+      "10:00–15:00",
+      "16:00–21:00"
+    ],
+    miércoles: [
+      "10:00–15:00",
+      "16:00–21:00"
+    ],
+    sábado: [
+      "10:00–15:00",
+      "16:00–21:00"
+    ],
+    viernes: [
+      "10:00–15:00",
+      "16:00–21:00"
+    ]
+  },
+  website: "https://www.soloptical.com/",
+  phone: "697 37 38 27",
+  review_count: 56,
+  review_rating: 5,
+  latitude: 37.985711,
+  longitude: -1.132175,
+  user_reviews: [
+    {
+      Name: "Miriam Martí Navarro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLxTFngq-xbF_yhGpIj2VK4waJcWM_otp55wMQVLlhZhKjU7w=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He tenido una experiencia muy positiva con esta óptica. El trato ha sido excepcional desde el primer momento, me explicaron todo con paciencia y me ayudaron a elegir las gafas y lentillas que mejor se adaptaban a mis necesidades. Las gafas son de muy buena calidad y las lentillas perfectas. Me siento muy satisfecha con el servicio y la atención recibida. ¡Sin duda, volveré y recomendaré esta óptica!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Toni Ruiz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUmPHBG1epLqnJN_tm-Wwr6yfNKIc16IQ2TccYm6s3TtGHCJXM=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Personal muy atento, muy amable y profesional. El trato recibido fue excepcional. Estoy muy contento con las gafas adquiridas. Buen precio y calidad. Sin duda repetiré con ellos. Pepe nos atendió de lujo en Soloptical de Gran Vía de Murcia.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Inmaculada Del Tránsito Fernández Partera",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJYVCNumPz49LKoHYdSxXzZLqnanb6fVsUaEnskcQaFZ_x2aA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato inmejorable. Fui porque en Soloptical de Córdoba me hicieron mal las gafas de vista y lo tuve que resolver en Murcia. Desde el primero momento me trataron bien, no me pusieron ningún problema. Rocio me ayudo de forma paciente y amable a escoger una nueva montura que se adaptara a lo que yo buscaba. Finalmente me lleve dos gafas y ambas son perfectas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "María Ángeles Pageo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJXY6tm4wxH-1RI5g9QYYXzJAY19lCYsw8CxTPGK2XAuy-p3A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Después de recorrer 3 ópticas (caras y con profesionalidad la justa)\u00a0 llegamos a soloptical gran Vía y desde el primer segundo un trato fenomenal, Pepe graduó a mí amiga y genial muy amable y después Rocío nos enseñó las gafas, nos aconsejo con mucha profesionalidad, paciencia y amabilidad. Compramos 2 gafas a muy bien precio y buena calidad por lo que volveré está semana con mi pareja para hacerle otras a él. Recomendado 100%",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marisol Pelluz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ0XrHAJy5odr-808p4-3QpzbACvk7UHxtRrGqiWzopOMblJA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy amables, atención personalizada, no solamente el tema de visión sino también audición. Una maravilla. Soy cliente desde hace años y no cambio de óptica. Han abierto esta tienda en Gran Vía, es espectacular. Muchas gracias por todo. Me he sentido como en casa.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Francisco Javier Carrillo García",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWWlzeSAlDiiA4nKhFOJoPhvn9_-A5h4ua9-uLuApfPVu7Wt5Fb=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Buenas gafas de buena calidad y ha buen precio. El trato recibido por los ópticos del centro fue magnífico y están muy atentos y te ayudan en todo lo que pueden. Lo recomiendo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "nerea manresa sanchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUyWTGyefLpzNA0oBSBwrtee7-vnUPIa0YM9sLL6yhy66R2zfLl=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Entré en busca de unas gafas nuevas y recibí un trato excelente por parte de Rocio y Pepe . Estoy muy contenta con ellas ya que e estuvieron aconsejando sobre el tipo de gafa que me quedaría bien y demás y sin duda volveré a por más !",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Khrystyna Honta",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKF3j6vVomEu8JC49dxmE_ubnkn0OhXqerMAYkfM_KCZaiRBg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Un trato increíble, con personal profesional y agradable. Buenas calidad y precio de los productos con mucha variedad. Un 5/5⭐ si buscas unas buenas gafas y simpatía de parte de los ópticos.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "óptica ALCÓN Audífonos",
+  category: "Óptica",
+  address: "Rda. de Levante, 21, 30008 Murcia",
+  description: "Esta óptica destaca por su excelente asesoramiento, especialmente en lentes progresivas, donde explican todo con paciencia y ayudan a elegir la mejor opción. También ofrecen servicios como tapones personalizados para piscina, valorados por su comodidad y ajuste. Los usuarios mencionan una adaptación rápida y cómoda a las gafas progresivas y resaltan la profesionalidad y amabilidad del personal, como Isa y Diego, quienes brindan una atención inmejorable y se muestran muy atentos y serviciales.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.0,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–18:00"
+    ],
+    lunes: [
+      "9:30–18:00"
+    ],
+    martes: [
+      "12:00–20:30"
+    ],
+    miércoles: [
+      "9:30–18:00"
+    ],
+    sábado: [
+      "Cerrado"
+    ],
+    viernes: [
+      "9:30–18:00"
+    ]
+  },
+  website: "http://www.opticaalcon.com/",
+  phone: "604 40 24 00",
+  review_count: 87,
+  review_rating: 5,
+  latitude: 37.992072,
+  longitude: -1.125965,
+  user_reviews: [
+    {
+      Name: "Antonio Martinez Lorca",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKP4WdPCX5VM8Rjg31Z5GrIhKzFxfHcf3r61wl7zvlQrPTVzg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Era la primera vez que usaba lentes progresivas y tenía mis dudas, pero Isa me asesoró genial. Me explicó todo con paciencia y me ayudó a elegir la mejor opción para mí. Ahora veo perfecto en todas las distancias. Además las lentes cambian de color y se oscurecen en el sol, lo llevo todo en uno. ¡Comodidad total! Muy agradecido por la atención y el trato profesional. Sin duda, volveré.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Norberto Martinez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI_wicvltF_sQgNOdVAJe79LTuKl5waNoXXMS53XTygvNvkXA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me hicieron unos tapones personalizados para la piscina y no puedo estar más contento. Se ajustan perfectamente, son cómodos y evitan que me entre agua en los oídos. Además, el proceso fue rápido y el trato en la óptica fue excelente. Los recomiendo al 100% para quienes buscan protección y comodidad en el agua.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Emilio Pujante Vicente",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKqLBvDE9BYvqtVP5zpno-xajYRv6S4MeI_Dn6W9A9jKteiAw=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Compré unas gafas progresiva y no podría estar más contento. He tenido una adaptación rápida y cómoda. Isa me asesoró y explicó todo a la perfección. Sin duda repetiré en el futuro. ¡Totalmente recomendada!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Sandra Sanchez Alfocea",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLsJ7H4pwdD1Pa-DiPkIf2_gcdy3KUc1hb8D8qRL4zqyLSe8Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Para nosotros un trato inmejorable, tanto Diego como Isa son profesionales y personas de  10.\nMuy atentos con todo  y nos han servido de muchísima ayuda.\nSiempre le estaremos muy agradecidos.\nLos recomiendo 100%",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mar Jara",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX-XV5CYTH7CFuGmDhOxOgfxDNrCQ2fL67JkxGPYJ1UUN6py_MT=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Es una óptica 100% recomendable, Isa es una excelente profesional,muy competente, en graduación  es la mejor que he conocido. Es atenta, las revisiones son super completas, además aconseja a la perfección a la hora de elegir unas gafas para llevar cómodas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Andrea Martínez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVTS-dzVlI_74NVpqCxndFLpjKXefrh6MQojq2PiV8MEWoGIvQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "De las mejores ópticas sin dudarlo, el trato hacia mi ha sido excelente y los precios y calidad ni te cuento, las gafas y las lentes de buenísima calidad además que el personal súper profesional. Muchas gracias Diego y Isa!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Isabel Palazon",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI4J72SxG9g5Cg4dZdQdbHVni2CLrvCUKqFAVFfgoFDjnUsJQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Renové mis gafas de lejos y cerca y fue todo un acierto. Mis gafas de lejos fotocromática se adaptan a la luz a la perfección y las gafas de cerca me han devuelto la comodidad al leer. La atención de Isa fue cercana y profesional, sin prisas y con ganas de ayudar. Calidad, estilo y buen asesoramiento.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rosario Jiménez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUmptI8vu1Dd6SjTvCyLeWXSXy48O9OQkeXuE5mbPSXuWC94H4=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Profesionales 100%, supercompetentes, una óptica de confianza, lo recomiendo totalmente. Diego te aconseja y te gradúa a la perfección, muy serio y si hay cualquier problema se implica, para dar la solución. Isa es un solete competente, amable muy profesional.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Óptica Óptima",
+  category: "Óptica",
+  address: "Gran Vía del Escultor Francisco Salzillo, 4, 30004 Murcia",
+  description: "Se puede decir que esta óptica cuenta con profesionales como Gissela y Belén, quienes ofrecen una gran ayuda en la elección de monturas y realizan estudios de la vista detallados. Sin embargo, algunos comentarios señalan problemas con la gestión de pedidos y la atención al llegar sin cita previa. A pesar de esto, muchos valoran el trato excepcional y la variedad de gafas disponibles.",
+  serviceRatings: {
+    atencionCliente: 3.8,
+    profesionalidad: 4.5,
+    precio: 3.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–20:30"
+    ],
+    lunes: [
+      "9:30–20:30"
+    ],
+    martes: [
+      "9:30–20:30"
+    ],
+    miércoles: [
+      "9:30–20:30"
+    ],
+    sábado: [
+      "9:45–20:30"
+    ],
+    viernes: [
+      "9:30–20:30"
+    ]
+  },
+  website: "https://optica-optima.com/opticas/murcia/",
+  phone: "868 99 85 85",
+  review_count: 105,
+  review_rating: 4.6,
+  latitude: 37.983939,
+  longitude: -1.131627,
+  user_reviews: [
+    {
+      Name: "Alta Luz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVl6mWNpKOEOFLwzMzFZfKpQW82V_2ZCoM2x85VlYVaCHAs6Dx2=s120-c-rp-mo-ba2-br100",
+      Rating: 1,
+      Description: "Absolutamente mantente alejado de eso. Primero pagas, luego dicen que no tienen las gafas ni el modelo alternativo que se eligió, pero se quedan con el dinero \"según tus reglas\" durante 14 días. Así que, en lugar de conseguir gafas, ya no tienes dinero, tienes que esperar unas semanas y empezar de nuevo en otro lugar. pedido HSGOIZPVZ",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Daniel Laurero Cerezo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUSo9fRyHPhx9M737brTn59LP3GayTD-qcH66xhw5aO1a1Kbknmvg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Estaba muy indeciso con mi nueva montura y Gissela me ayudó muchísimo a elegir mis nuevas gafas, al igual que me aconsejó poner una ayudita para cerca por mi trabajo y fue todo un acierto. Si vas, pregunta por ella porque no te va a decepcionar.\n\n#gissela #opticaoptimamurcia #gafasnuevas",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipO9sUcPEVmke5_n-012OAQ8-MwGTJk3MlcmszEt&fid=0x0:0x9d69c92d7ee1c64"
+      ],
+      When: "2024-5-16"
+    },
+    {
+      Name: "Inma López",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKPGiBqlapcBMZ3BOAY8drf9JcUk4E_ugz8p_qv7_ozIkcU_3E=s120-c-rp-mo-ba4-br100",
+      Rating: 1,
+      Description: "He estado esta mañana. Pues no me ha gustado el trato. Llegué a la hora citada. Y cuando estaba ya esperando a que atendieran ha entrado una señora a la cual han atendido antes que a mi sin cita y sin nada. Obviamente me he ido sin ser atendida. No volveré. Ya he encontrado la optica que me llegó a ayudar.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria Dolores García Ponce",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUjg_rFRttcFJw4yLKCkrUM-MTCnXICFtz9WL4gNIaI07TBTZZK4A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Óptica elegida por casualidad y me ha encantado por su profesionalidad y su atención ( atendida por Belén). Muchos modelos donde.elegir.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Antonio J. Perez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLjmWDm8ZO6eAgb0i7H0Ro-B-OFKi-ErRIquEcPJLACNuuKnw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Primera experiencia y magnífica. Un trato excepcional por parte de Carmen y Lucia.  Gran variedad de gafas y siempre intentando agradar y solucionar cualquier tipo de problema. Muchas gracias y os deseo un gran éxito ya que os lo merecéis.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Iván Pérez Cañas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWDYbwGP23cYXhlvjS0FMDK0AVmN-cKb_BxwYJRQ-ZK4GYBTHRt=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Me compré unas Ray-Ban, y a pesar de que tenía muchísimas dudas entre cuál escoger, Carmen María me aconsejó bastante para ayudarme a tomar la decisión.\nSinceramente no tengo dudas que la próxima compra que haga de unas gafas, la haré aquí por el trato cercano, la profesionalidad y la calidad; y ni que decir del precio al que se me quedaron jeje\n\nRepetiré sin duda!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Triana delapuente",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIrI45Q7bLkYXmJPkKfSD3XGuqTlGbs2aNtork6Hcrk0yZptg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Servicio y trato excepcional! Recomendable al 100%, sinónimo de éxito",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Dulce Lopez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWXzqG2-0_tu30lab78sjyg-uckzuI2psTm7JcnV-I7GWa5oFZR=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Desde el primer momento sabía que estaba en el sitio adecuado para encontrar unas buenas gafas. Quiero destacar el trato de Belén, una gran profesional, que desde el primer momento supo que gafas me iban a sentar mejor. Si no hubiera sido por ella, no me hubiera probado las que al final me llevé.\nEl estudio de la vista que me hizo Belén fue muy detallado y me lo explicó todo de forma muy clara.\nDa gusto ver que hay profesionales tan implicados en sus trabajos. Muchas gracias, Belén, muchas gracias Óptica Óptima.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Optica Constitucion",
+  category: "Óptica",
+  address: "C. Lepanto, 3, 30008 Murcia",
+  description: "Esta óptica es considerada por muchos como una excelente opción, resaltando el trato familiar y agradable, así como la profesionalidad de su equipo. Los usuarios mencionan una gran variedad de modelos de gafas, tanto de vista como de sol, y un servicio de envío a domicilio rápido. Además, se destaca la atención detallista y la amabilidad de las profesionales, quienes ofrecen buenos consejos y soluciones a problemas.",
+  serviceRatings: {
+    atencionCliente: 4.8,
+    profesionalidad: 4.9,
+    precio: 4.0,
+    variedad: 4.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:45"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "",
+  phone: "647 77 09 31",
+  review_count: 469,
+  review_rating: 5,
+  latitude: 37.990705,
+  longitude: -1.131075,
+  user_reviews: [
+    {
+      Name: "Jorge Serna",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKQw0Q91NJ1gL4UwJ_YVp4ETcKZqe7gmotoKMSLxGenBmQRSg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "El sábado recogí mis nuevas gafas de vista y estoy encantado con todo. Era la primera vez que iba, por las buenas referencias, y no me equivoqué, conforme fui ya salí con mi gafa y lentes escogidas. La graduación está perfecta! me adapté enseguida. Además me entregaron unas lentillas de prueba con la nueva graduación. Son muy atentas, estoy muy agradecido con el trato tan cercano y amable!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "myriam suarez fernandez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocITmtqd9nrehbdGK3thgm_4x-ETfU4xMD1oRyr8HJW9irHRgA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "No soy de Murcia pero merece la pena echar el viaje a comprarse una gafas con ellas. Mucha variedad de modelos tanto de ver cómo de sol, envío a casa muy rápido y lo mejor la atención de las chicas! Un trato estupendo por parte de todas que cuidan todos los detalles 😊",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Isabel López Peñalver",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJheZea7ba2wpAQzIPChyuQVKT3g32pYTKXMC0I7fYrdwNw6Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Una óptica con trato familiar y muy agradable en el centro de Murcia. Aparte de irte de allí con unas gafas chulísimas, también te vas de buen humor. Siempre tienen detalles con sus clientes.\n¡Tres grandes profesionales!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "JUAN CARLOS CORDOBA TAQUINAS",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL0OKY4Mv6ZSWvf5EtT03EBN3b6pBWVyBT9ryU8L_YqaisUTA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Magnífica atención, buen trato y t solucionan todo, a mí se me cayeron los imanes de las gafas de sol y me lo han solucionado, gracias!",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipNMPnZriU4Xssh0pdPrMhnVw50jpGd_mHbx_oXa&fid=0x0:0xb771650a0593dbbd"
+      ],
+      When: "2024-11-20"
+    },
+    {
+      Name: "Ana María Barba Espín",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX6L6Qu2V9ddnZYqpbZjg8xVtjtmSOocwc5Z7mNIbWJYDFfKxk=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He comprado mis gafas hace unos días y estoy muy contenta. Me asesoraron muy bien, son todas majísimas! Buen trato, Buenos precios y calidad. Ya estoy pensando en las próximas!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Laura LR",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKlqVemvvPF5QWdP0ipQVidEi5fgEbm-spLOs25dGJ18r2XNw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La MEJOR ÓPTICA sin duda. Por sus productos, calidad, precios fabulosos... y, más allá de eso, por el trato recibido por las chicas tan profesionales que siempre te atienden con una sonrisa y con el mejor consejo. Esta vez he comprado unas gafas y lentillas para frenar miopía y todo fenomenal. Os animo a que os acerquéis a esta óptica y comprobaréis que lo que digo es totalmente cierto. Gracias chicas por todo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Carmen Maria Andreu",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLg9u7kyXUjSrT3L0oeROCsZWmVUzVjdC16oCKJA_iQrJP1sw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He salido muy contenta!! me atendieron superbien , las chicas son muy profesionales, atentas y muy simpáticas, te sientes como en casa. La compra que hice salí muy contenta me encanta las gafas y me comentaron varias opciones de que hacer con mis gafas viejas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alesandra Aznar G",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLkxha4pb-m2o2Fd8LYbkypg-ZdHzjTvxG7JsrfL4Rk3VLtRA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato muy profesional y amable. Son chicas muy simpáticas que ofrecen productos de calidad y a muy buen precio. A mí me atendió Azucena y fue genial. Recomiendo esta óptica!",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "General Óptica",
+  category: "Óptica",
+  address: "Av. de la Constitución, 5, 30008 Murcia",
+  description: "En General Óptica, algunas opiniones mencionan una atención amable y soluciones rápidas ante problemas con las gafas. Sin embargo, también se encuentran comentarios negativos sobre la política de cobro por la revisión visual si no se realiza una compra, así como quejas sobre los precios y la atención recibida en algunos casos, incluyendo largas esperas y posibles inconsistencias en los precios. A pesar de esto, otros usuarios destacan la buena disposición del personal y la disponibilidad de ofertas en lentillas.",
+  serviceRatings: {
+    atencionCliente: 3.2,
+    profesionalidad: 3.5,
+    precio: 2.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–20:30"
+    ],
+    lunes: [
+      "9:30–20:30"
+    ],
+    martes: [
+      "9:30–20:30"
+    ],
+    miércoles: [
+      "9:30–20:30"
+    ],
+    sábado: [
+      "9:30–20:30"
+    ],
+    viernes: [
+      "9:30–20:30"
+    ]
+  },
+  website: "https://www.generaloptica.es/es/?utm_source=gmb&utm_medium=organic&utm_campaign=Murcia&utm_term=1061",
+  phone: "968 24 80 96",
+  review_count: 123,
+  review_rating: 4.2,
+  latitude: 37.989977,
+  longitude: -1.131819,
+  user_reviews: [
+    {
+      Name: "Inma López",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKPGiBqlapcBMZ3BOAY8drf9JcUk4E_ugz8p_qv7_ozIkcU_3E=s120-c-rp-mo-ba4-br100",
+      Rating: 1,
+      Description: "Pues fatal. Fui a revisarme la visión y al principio muy bien pero claro..  me dijo que tenía que pagar 20€ o me lo descontaba de la compra. Efectivamente te obligan a comprar. Fatal. No vuelvo pq me \"obligan\" a comprar allí.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "victor lenis",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXzbFl5fKuk5A54OntjgmUOXwPUadXEKkZvY5KrkfN-9dONm3kg=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Fatal la atención de esta gente cobran demasiado y la atención. Es una porquería!!! están buenos pero para no volver mas. no les pongo cero estrella por que no deja mala atención de parte de la mayoría de las dependientas a parte te dicen un precio para cobrar el triple",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Andrea M",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLCln766wY8_jqNqtXK0Ri5iUtACKmb84xz-QSbSflcoLXcxg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Una maravilla. Estaba de viaje y se me rompió una patilla de mis gafas (eran de otra óptica). Las chicas que estaban allí me atendieron genial y me buscaron una solución al momento. Sin duda volveré en un futuro",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Concepcion Monerri",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU2kOxAnCaXChx00QV2Y-_x3vUWN-vLj6d-CL_oF1IdtHYmqGD1=s120-c-rp-mo-ba2-br100",
+      Rating: 1,
+      Description: "Pésima atencion. Me dijeron q los sábados por la mañana apenas tenían gente y q fuera.     Me han dicho que al menos debía esperar una o dos horas,  estaban esperando, y no llegaba, una cita",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Laura",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUt7jZ9nHoUUathhvrsJeqWGYzlmQEEsjPLDFhFUTzZai7cwaU=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Personal muy amable. Me acerqué porque tuve un accidente con las gafas de sol y se me estropeó la patilla, y una chica joven muy apañada me las arregló en el momento con mucha maña. Mil gracias. Suelo comprar aquí también las lentillas porque tienen buenas ofertas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Nancy Made",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVvSmdvDRExlGoDnboqk6cy3I9Q1W9ErfMR_DMZuneZ1sYFoOc=s120-c-rp-mo-ba6-br100",
+      Rating: 5,
+      Description: "Siempre te asesoran muy bien y están atentos a tus necesidades. Mi óptica de confianza.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Teresa Sánchez Pérez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKEjLoQILH5eWriI9eVMfvDQ37NgrFpryZL2SUeXrS1SkV6WQ=s120-c-rp-mo-ba3-br100",
+      Rating: 3,
+      Description: "Soy clienta desde hace muchos años y siempre he quedado satisfecha, tanto con el trato y profesionalidad como por la calidad de los productos. Pero de un tiempo a esta parte y a pesar de la buena voluntad del personal que atiende y en especial Consuelo que es quien me ha atendido en las últimas ocasiones, se nota una bajada en la calidad de la atención debido a la falta de personal para atender a toda la afluencia de público. Hoy por ejemplo habia una cola de más de 10 personas esperando ser atendidas, porque solo estaba Consuelo atendiendo fuera y dos o tres empleadas más que entraban y salian, porque hacían las pruebas. Todas las mesas ocupadas, esperando ser atendidas y ni una silla para que se puedan sentar personas que lo necesiten por edad o problemas de movilidad,mientras se está en la cola. Asi se resiente la calidad de la atención y eso pasará factura, por no reaccionar a tiempo. Y si se sostiene a día de hoy es por el esfuerzo y calidad del personal, pero que a todas luces es insuficiente",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mario Renjel",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVIcicauWjBSBtJx8DyggH4qVYBpwFhV8218inaOrTHsN5Xzfc=s120-c-rp-mo-ba3-br100",
+      Rating: 2,
+      Description: "No me ha gustado nada mala atención y precios elevados",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "General Optica - Visión y Audición",
+  category: "Óptica",
+  address: "Alameda de Colón, 3, 30002 Murcia",
+  description: "Esta óptica es reconocida por su magnífica atención al cliente y la amabilidad de su personal. Los usuarios destacan la profesionalidad y experiencia de los empleados, quienes ofrecen un trato exquisito y se toman el tiempo necesario para asesorar a los clientes. Además, se menciona la buena relación calidad-precio y la disponibilidad de una amplia variedad de monturas y cristales.",
+  serviceRatings: {
+    atencionCliente: 4.3,
+    profesionalidad: 4.6,
+    precio: 3.8,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "16:30–20:30"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "16:30–20:30"
+    ],
+    martes: [
+      "9:30–13:30",
+      "16:30–20:30"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "16:30–20:30"
+    ],
+    sábado: [
+      "9:30–13:30"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "16:30–20:30"
+    ]
+  },
+  website: "https://www.generaloptica.es/es/?utm_source=gmb&utm_medium=organic&utm_campaign=Murcia&utm_term=1108",
+  phone: "968 21 36 42",
+  review_count: 38,
+  review_rating: 4.7,
+  latitude: 37.981103,
+  longitude: -1.130884,
+  user_reviews: [
+    {
+      Name: "Elsa Intriago",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIYVBt7fNelWFkMtzExy18ZrjhK4uQW8S7aFq11hzvORft8wQ=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Somos clientes de allí muchos años y nos han atendido magníficamente..pues hoy justo hemos estado allí..y la persona que nos atendió.. fué muy amable...recomendado totalmente.. gracias..",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Santi Bernal",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVJIKziEq34mj9UtY2jsEykWWCmdvyK4o00qCELTxG2KK5j5Gx9mA=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Las empresas las hacen las personas y he aquí un claro ejemplo. Son un grupo de grandes profesionales. Especial mención a Consuelo. Los precios son super asequibles y además tienes seguro de imagen, seguro de rotura y cambio de cristales por dos años, ... Conviene entrar e informarse.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pgiera",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUAnMNp9GvIv7f2UNZ7sAE5Q6k8Xlg5CyH9rwJKMHLWIVP_FNMp=s120-c-rp-mo-ba5-br100",
+      Rating: 4,
+      Description: "Soy cliente de Gral Óptica muchos años. Y el motivo no es sentimental, sino satisfacción con el servicio prestado, con calidad, rapidez y cercanía.  Hoy les tengo que agradecer un \"arreglo\", gratuito, que me permite usar unas gafas deportivas, a las que se le acopla un suplemento con cristales adecuados a mi graduación. MUCHAS GRACIAS, de un cliente convencido.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLPSxKaZnAh98SU_5RBbw50MYQOC1oEjUXi2I_4HgFnaBi-mw=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Es la OPTICA, no una optica. Soy cliente mas de 30 años y llegue a ella con un problema optico que no sabian ni querian solucionar en otros sitios, ellos apostaron por solucionar y garantizandome la completa devolucion del precio pagado si no me iba bien. Me fue bien y no  los cambio por ninguna otra...aunque me regalasen media docena de gafas. En cuanto a precio no se sale de lo normal, tienes monturas y cristales para todos los bolsillos y la atencion del personal es buena, se toman el tiempo necesario para graduarte y elegir montura y cristales y cuadrar precios. No pretenden venderte cualquier cosa. Ya digo es LA OPTICA, al menos para mi.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Soledad Saura",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL_R_zL79HeV_Fkqvon9saFc3c3EUQ3Fja8DgWVNQ_9KoFGnw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy responsables y experimentados. Además expertos en audifonos.  En los dos casos ,para mi son geniales.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Angeles Martínez Ortiz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJREaQ7HMhjxwF2dZSLFL8gZjKo65P5YWcNj6bhogkwffJ-rA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Te asesoran muy bien muy profesionales y buen trato",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "ISCO MAN",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUJr567x91-i9IhFK54mVBsro6h5KL2IIzDCF9dMoxgf4FZ_XC01Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "El trato de las dos empleadas fué exquisito, en especial  aquella   que me hizo las comprobaciones oculares para ajustar los parametro opticos ideales para mi vista, en definitva una gran profesional, recomiendo esta empresa.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Luis Alfonso Gomez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWvgzi4bLbk6kEQF-HAZiplR4plcqr4pvyIxSsxMa5E0tIYr0Ig=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Siempre he tenido una atención magnífica y cuando he tenido algún problema siempre lo han solucionado con rapidez y profesionalidad.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Óptica Yepes Murcia",
+  category: "Óptica",
+  address: "C. Ceballos, 5, 30003 Murcia",
+  description: "Este establecimiento ha recibido comentarios mixtos. Por un lado, algunos usuarios destacan la profesionalidad y la atención recibida, mostrando gratitud por el asesoramiento y la eficacia del personal. Por otro lado, se han reportado experiencias negativas relacionadas con la calidad de los productos y la gestión de problemas post-venta, generando insatisfacción en algunos casos.",
+  serviceRatings: {
+    atencionCliente: 3.0,
+    profesionalidad: 3.8,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "9:45–13:30"
+    ],
+    viernes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "http://www.opticayepes.com/",
+  phone: "968 90 97 90",
+  review_count: 177,
+  review_rating: 3.7,
+  latitude: 37.98293,
+  longitude: -1.12713,
+  user_reviews: [
+    {
+      Name: "O. P.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW0oSDVmAPU1nGamznJBgzONygXCBIBWPBg1S4wmxlPM8fWtEc=s120-c-rp-mo-ba3-br100",
+      Rating: 1,
+      Description: "He comprado lentillas y gafas  alguna  veces. Y siempre  bien. Pero hoy 10:30 am del  30 de septiembre 2024. Voy a la óptica  por que se me había roto  una pata de las gafas que les había comprado meses antes..El chico de la recepción me atiende  y me da dos opciones  pues yo elijo cambiar el marcó por 30 euros y bien. cambia las lentes de marcó precionandolos para sacarlos y ponerlos en el nuevo  marco..y hasta alli parecia todo bien....pago  agradezco y salgo de la óptica. en la puerta  las quiero  ver  como  quedaron.( error mio  no revisarlas en ese momento.  pues parecía que todo iba bien) y me doy cuenta que una de lentes tenia una raya. Que al final resultó estaba  rota..regreso pensando  que me iba a dar alguna  solución  me dice que ya estaban así..pues que indignación yo que soy el que las uso.. hasta  minutos  antes.. y derrepente  están así  después  de cambiar  de marcó.. le digo que no.  que estaban bien. Si las  hubiera  tenido  así. No me importaría decir que me las cambie..pero el. que no y que no. que me devolvía  el dinero  si quería. Y que además además tenia camaras  de seguridad.( como si una cámara de seguridad  me iba a mostrar que el lente estaba roto) y no seria tanto por el lente  roto que podría haberla cambiado como creo que otro dependiente al verlas asi  lo hubiera  avisado antes de cambiarlas de marco.  incluso  por el solo hecho venderte y darte un mejor servicio. Una pena de verdad un trato poco profesional. ..",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipMGgPbAzQd4ah-9Ecices_g1WkBUfdV7-NkbTnG&fid=0x0:0x70eb76d98062a229"
+      ],
+      When: "2024-9-30"
+    },
+    {
+      Name: "JOSE ANTONIO PARAPAR CAZÓN",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKOfhsnqgYpuZn6JfskL7npWYAaRXYrwQNy4MPqlm3s78Leww=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Quería dejar constancia de mi gratitud y satisfaccion por la atención que siempre recibo por parte de esta ESTUPENDA Óptica (calle Ceballos), la gran profesionalidad e inmejorable trato de todo el personal. GRACIAS a Araceli y Tamara, por su asesoramiento sin escatimar tiempo, por su experiencia y eficacia sobresalientes.  La mejor Óptica, con el mejor personal. Inmejorables. Muy contento y agradecido.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mar López Lillo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJb1Rr2OPR7f06xFb-JNWOG_clenVvCkgdEDgDotSqvAt7mf1k=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Hace poco fui a comprar unas gafas progresivas y aproveché para comprar otras pero de sol, al elegirlas (eran un poco curvas) la chica le preguntó al dueño sí valdrían para las lentes progresivas, él dijo de no había problema, cuándo fui a recogerlas no veía del todo bien, eran un poco raras la chica me dijo que las probara para ver si me adaptaba a esas gafas, con las otras todo bien, sin problemas, como seguía sin ver bien fui a la óptica y el dueño simplemente me señaló un letrero en el que dice que no aceptan devoluciones. Cuidado al elegir las gafas, son baratas, a mí me han salido muy caras gracias al dueño de la óptica.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipMjCiETKpARtWQ1hFhzNSvbpF04-0KcUapo7lbz&fid=0x0:0x70eb76d98062a229"
+      ],
+      When: "2018-12-4"
+    },
+    {
+      Name: "Judit Gullon",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKK2U74VdEkTAPOV7Y6K59n8Favlfgb6MSJJXRZLlRYwd1dwg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Son super agradables, cercanas y simpáticas, en concreto Ana, estuve super a gusto con ella.\nFui un lunes y tenían las gafas hechas 3 días después, bastante rápidos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Elena Magdalenas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ02chAF93jkHhenken1ZZgPzfkagPb-j1FPEl7FUS-JorU_g=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Primero me hicieron unas lentes sin tomarme el centro de visión, y como veía mal volví. Me hicieron otras, cerraron la óptica en agosto sin avisarme. Cuando conseguí que llevarán las lentes a la otra óptica de gran vía, me las colocaron mal, y tenía el eje desfasado 20°. Estos errores me han costado 3 meses de mareos y muchas preocupaciones, además de una consulta al oftalmólogo. No son profesionales.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Arni Alcalá",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ-iL0JKHzwVcF44HLT2-FFiSRQC_RCLBZmZV0aP56BEboMIQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fui el viernes a hacerme la prueba de la vista me atendieron muy rápido y muy amables, fue todo bastante rápido y cualquier duda me daban repuesta, encargué las gafas que necesitaba y ayer fui a recogerlas y están perfectas, muy satisfecho y contento por el trato y la rapidez.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cristina Sánchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVQ5Dyipr-_QQt9C7h4JYGIYmAmdoxHsMRkjuNNiLNmomHUg7w=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Pongo una estrella porque no puedo poner ninguna. Fui a esta óptica para cambiar los cristales de mis gafas dejándome engatusar por sus económicos precios (que al final me ha acabado saliendo más caro). Llevo un mes viendo mal, con mareos, vértigos... Al principio me dejaron las gafas torcidas y me dijeron que eso era lo que me provocaba el mareo, después supuestamente me las pusieron rectas pero nada que ver, doblan un poco la pata y te dicen que ya está correcto cuando lo que tienen que hacer es desmontar la gafa entera y poner la pata en su sitio, no doblarla. No volveré JAMÁS",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose botia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVHZxI1RdmsyBZ336gutEK0HSEuq50dr0vcO373S8nkznpQhzZr=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy bien servicio desde bullas voy hasta murcia solo para hacerme allí las gradas económicas y de buena calidad, por enviármelas a bullas solo son 6 euros",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Óptica Zarandona",
+  category: "Óptica",
+  address: "C. Miraflores, 1, 30007 Murcia",
+  description: "Este negocio recibe comentarios muy positivos sobre su atención y trato maravilloso.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 4.5,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {},
+  website: "",
+  phone: "658 55 74 66",
+  review_count: 3,
+  review_rating: 5,
+  latitude: 38.004658,
+  longitude: -1.115611,
+  user_reviews: [
+    {
+      Name: "Jessica Marcial",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUpEeaMDTrNiFfjno7GzQ26zpiJIt-4nfWDj5ArSUV-e1rAIik=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Todo siempre muy bien , y un trato maravilloso",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Antonio Angel Fernández",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJFS2_CYDzebqe1lcPKHwf602T76mOxtM0lFg2c8VkTOqM4=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Mejor atención imposible!!👏👏😊",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juana Maria Martinez Garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK4ZMda7BqaFpTJDK4rzy94-Ug94MEOJs2GGHtqz7JErK9V=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "gafas.es Alejandro Séiquer",
+  category: "Óptica",
+  address: "C. Alejandro Seiquer, 11, 30001 Murcia",
+  description: "En este establecimiento, la atención del personal, especialmente de las chicas de Alejandro Séiquer y Mariana, es muy valorada por su amabilidad y profesionalidad. Se destaca la rapidez en el servicio y la disponibilidad de ofertas y una buena variedad de gafas a precios económicos. Sin embargo, algunos usuarios han reportado problemas con la calidad de los cristales y el servicio postventa.",
+  serviceRatings: {
+    atencionCliente: 4.3,
+    profesionalidad: 3.5,
+    precio: 3.8,
+    variedad: 3.8
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–14:00",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:30–14:00",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:30–14:00",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:30–14:00",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "Cerrado"
+    ],
+    viernes: [
+      "9:30–14:00",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://marketing.net.gafas.es/ts/i4661476/tsc?amc=socialorg.brillende.501607.512285.55163&smc1=smc1=es-lp&rmd=3&trg=https%3A%2F%2Fwww.gafas.es%2Fstorepage%2F%3Fstore%3D23695",
+  phone: "",
+  review_count: 197,
+  review_rating: 4.6,
+  latitude: 37.986346,
+  longitude: -1.128059,
+  user_reviews: [
+    {
+      Name: "javier FERNANDEZ DE VALDERRAMA BOTELLA",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWb1pNcPk8e9S_SeAg8h3rDdeTmXJio05bKkkD8t_4kcD_HiZbD=s120-c-rp-mo-ba3-br100",
+      Rating: 1,
+      Description: "Adquirí los cristales graduados progresivos de mis monturas en 2.020 en 2.024 acudí para que me revisaran las lentes pues se han deteriorado como si se hubieran quemado. Como habían pasado más de 3 años no había garantía aunque fuera problema de fabricación.\nPodrían solucionarlo adquiriendo  otros nuevos  asumiendo yo el coste, pero adquiriendo la montura también pues en la actualidad carecen de  taller.\nINDIGNANTE.\nACONSEJO A TODOS LOS POSIBLES CLIENTES QUE ANTES QUE TERMINE EL PERIODO DE GARANTIA ACUDAN A REVISAR SUS LENTES ( CRISTALES).\nY ADVIERTO A LOS POSIBLES NUEVOS A DESISTIR DE ESTA MALA FRANQUICIA.\nCARENTE DE CONTROL DE CALIDAD.\nY PESIMA CALIDAD.\nAPRECIEN USTEDES Y JUZGUEN EL DETERIORO DE ESTAS LENTES LAVADAS CON AGUA TODOS LOS DIAS Y SECADAS CON LAS GAMUZAS Y PAÑOS HOMOLOGADOS.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipMib74nvm52Z4-92QqJqlgvBxasuIFy1egw_BzM&fid=0x0:0x1d880699a8479976"
+      ],
+      When: "2024-9-23"
+    },
+    {
+      Name: "Ana Laura Caparrós",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUnErN8m8vw3x66R55DC3dWqLZ5616OFY4T0f_YrWd2HJVQ1EhyYQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente atención, servicio y precio.\nMe sentí muy cómoda. Volveré si lo necesito y lo seguiré recomendando. Gracias",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Paco Cruz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWsLb9XsgXCIThn7PE8o6k_SHNdhsUSkYVxjbiViXst-bdY7pYlSA=s120-c-rp-mo-ba4-br100",
+      Rating: 1,
+      Description: "Por lo visto no soy el primer cliente al que se le deteriora la capa de antireflejante y al que no le dan una solución.\nAdemás la montura de las gafas de sol se quebró de llevarla en el coche. Casi nunca las uso.\nLa empresa debería reponerlos y dar una solución.\nEn 45 años llevando gafas no me había pasado nunca.\nNo recomiendo la marca.\nEstá franquicia tiene productos de baja calidad y mal servicio posventa.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "ALICIA MARTINEZ GOMARIZ",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU8lGtW_n1E-xKcHLdlR6NR4e63vk1e-7gLFD14BWZVM8-J2JhHjw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Estupenda la atención de las dos chicas de Alejandro Seiquer. Todo muy rápido y muy contenta. Lo recomiendo cien por cien. Precio muy económico y unas gafas súper chulas. Sin duda, volveré a repetir.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipNeCDcNoAL8VbBoDCqpdYLwl3QxJ0MKKPov3_gn&fid=0x0:0x1d880699a8479976"
+      ],
+      When: "2024-6-28"
+    },
+    {
+      Name: "Ángel María Pérez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVm5jTHUn9RrQc_a-zR0XZnpxQlq191-qKxvNmHoL_SNzU5Dcm4Yw=s120-c-rp-mo-ba7-br100",
+      Rating: 5,
+      Description: "He ido solamente a consultar precios y promociones. Pero Mariana me ha atendido tan bien y me lo ha explicado todo con tanto detalle que he terminado por decidirme. 👌🤓\nUna amplia gama de precios y monturas para que te gastes lo justo y necesario. Por poner un \"pero\", no tienen lentillas y el tiempo de entrega para mis bifocales es de 15 días.\nGracias Mariana!! 👏😎 Nos \"vemos\" pronto (chiste malo de ópticas) 😅",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipOhDNkqlPc529PtFeAHss4toc_rLwsBlOz70RoW&fid=0x0:0x1d880699a8479976"
+      ],
+      When: "2022-9-28"
+    },
+    {
+      Name: "LOLA L.M",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVfVdbnWJIyn1_aIVrbMFMJkzb0V4VuYNRMfQJurFX9XXy7lmQIWw=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Esta mañana he estado  en la tienda de Murcia de Alejandro Seiquer. Para recoger unas gafas.\nDespués de hacer un encargo a finales de julio. A las dos semanas voy y estaba cerrado sin información.\nLa dependienta de la tienda ha sido muy profesional, capeando todas las entradas de personas como yo, que se habían quedado sin servicio y sin acceso a ninguna información durante más de 15 días. La tienda estaba con 4 personas esperando. El acceso a internet se le colgaba, no tenía acceso a la ficha de los clientes.\nMe han servido las gafas, después de esperar un buen rato para poder pagar.\nLa factura me llega al correo al instante. Pero el resguardo del pago, me aseguraba la dependienta que me llegaría también.\nPero no me ha llegado.\nSolo espero que las nuevas gafas progresivas me funcionen bien,\nSinceramente, siento un mal servicio, como la óptica de confianza, no hay otra.\nUn aprendizaje caro. 😒",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipNEce-Hr70-nptuN12Ger9H5x9K6secYALHyErZ&fid=0x0:0x1d880699a8479976"
+      ],
+      When: "2023-8-16"
+    },
+    {
+      Name: "Santi Garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUfoabrChlIqMf1Xmap6EbF9TtJ1AH2qSJaQOoTRPCG3kzeEKm33A=s120-c-rp-mo-br100",
+      Rating: 4,
+      Description: "La chica es muy amable y atenta , los precios o las ofertas son espectaculares y tienen una buena variedad de gafas. La única pega es que estuve mucho tiempo esperando",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ma Isabel Tárraga",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVGAd5w-nnzMC0w5iMRpkHLiWSSBT9zpzNzvCCo8gvRDn2EW8Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Gran atención  por parte del personal a cargo",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipP-PfpbTAg5zpzzwUk-kxwcAm2jofRqeOpx57Qv&fid=0x0:0x1d880699a8479976"
+      ],
+      When: "2025-1-23"
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Ópticas y Audiología LUPER Murcia",
+  category: "Óptica",
+  address: "Av. de Canalejas, 3, 30002 Murcia",
+  description: "Esta óptica sobresale por su excepcional atención al cliente, donde el personal, incluyendo a Victoria, Luis y Eduardo, es descrito como cercano, amable y profesional. Los usuarios valoran el estudio de la vista completo y las recomendaciones personalizadas. Se comenta también la eficiencia y la satisfacción general con el servicio y los productos.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.8,
+    precio: 3.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–14:00",
+      "17:00–21:00"
+    ],
+    lunes: [
+      "10:00–14:00",
+      "17:00–21:00"
+    ],
+    martes: [
+      "10:00–14:00",
+      "17:00–21:00"
+    ],
+    miércoles: [
+      "10:00–14:00",
+      "17:00–21:00"
+    ],
+    sábado: [
+      "10:00–14:00"
+    ],
+    viernes: [
+      "10:00–14:00",
+      "17:00–21:00"
+    ]
+  },
+  website: "https://luper.es/",
+  phone: "868 96 61 51",
+  review_count: 400,
+  review_rating: 4.9,
+  latitude: 37.982464,
+  longitude: -1.131381,
+  user_reviews: [
+    {
+      Name: "Elisabeth Illan",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVXvVvs4vNbuEneQrtPPXFzzzrcikS2c4f-mqbfFl82c3tmzSU=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Vengo desde hace tiempo y cada vez que vengo, me llevo mínimo 2 gafas! El trato excepcional. Hoy con Victoria, Luis y Eduardo muy cercanos, recomendándome siempre lo mejor!! Sin lugar a dudas, recomendado 100% y en breve volveré",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ursula Maria Sanchez Parra",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI0XDiwYmMtMcHdAsR1Mf3BIjhyPuJ_0YBGNmJD0jxj21rxog=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me he comprado mis gafas en Luper con  una atención por parte de Victoria inmejorable. Te hacen un estudio de la vista verdaderamente completo ofreciéndote la mejor solución para tu caso particular. Estoy encantada con mi montura y sobretodo con el trato personal y profesional ofrecido por Victoria. Seguro que volveré y recomendare la óptica.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "ANA BELEN GIMENEZ PENIN",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWIZke_0f5kKDlCWxnXfAFxIiHRdYAq-HnMN7m6Jnl_tufYrc5i=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Equipo profesional y trato excelente. Mi hija ha realizado terapia visual con Luis y Eduardo por una diplopía y los resultados en cuatro semanas han sido Excelentes. Muchas gracias por vuestra labor.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "ana fernandez andreu",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLWtJ_PCDo7FDB2uccgm9c2ttn9FhKry-sutEjvDRI06UYMww=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Victoria ha sido tan amable y agradable tanto a la hora de hacerme la revisión ocular y recomendarme tanto gafas como lentillas, que siempre es un encanto volver a Luper! Luis es un chico encantador, súper atento para darte sus consejos. Siempre agradecida de cuidar mis ojos con vosotros!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Francisco Jose Costa Noguera",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKcfX_ESjLOZTa4Y1pRuQGZbIR3VsgFuEdTJAFomg1Nv9kRdw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fui a hacerme una revisión ocular para ver mi nueva graduación de las gafas y el trato de Victoria fue espectacular, super amable y atenta y ayudándome con la elección de la montura en todo momento. Mi óptica de confianza!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rosa María Párraga",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWVRViGyXzOLK9IXjM0IMFJOjWzBUDC8qJvnAJdysgYhNRKncBi=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Siempre un trato excelente.. Llevo unos años con ellos y la VERDAD que aunque me pille mas lejos no puedo dejarles porque son estupendos todo el equipo. Gracias Luper de la Avenida Camacho por TODO LO ESPECIAL QUE SOIS Y COMO ME ATENDEIS. NO HAY DUDA ALGUNA DE QUE SOIS LOS MEJORES. NO TENGO NECESIDAD DE BUSCAR OTRO SITIO.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cari Albaladejo Mora",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKIOqjCeVD_EtzufhLfyZFGtgbx4v9Rm0tfbHSOrflb301z8g=s120-c-rp-mo-ba2-br100",
+      Rating: 1,
+      Description: "Poco profesionales, rompen la montura al montar unas gafas de niño, se equivocan en la graduación, tardan en entregar el producto ... y más. NO LO RECOMIENDO A NADIE",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "NOEMÍ MATEOS GONZÁLEZ",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV2lcEqviMjrB3KKsKcO9NQEFOHHxlf7RLtjdKKi_QzrWTTPVM=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La atención ha sido perfecta. Eduardo es muy amable y me ha explicado en detalle todo. Recomendable 100 %",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Optica en Murcia. Optica Romana",
+  category: "Óptica",
+  address: "C. Madre de Dios, 2, 30004 Murcia",
+  description: "Esta óptica es elogiada por su excelente atención al cliente, la rapidez en la entrega y sus buenos precios. El personal, en particular Nacho, destaca por sus recomendaciones útiles y su enfoque profesional. Los usuarios también aprecian la estética de la tienda.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:30–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "http://opticaromana.es/",
+  phone: "635 26 25 62",
+  review_count: 83,
+  review_rating: 5,
+  latitude: 37.984343,
+  longitude: -1.130914,
+  user_reviews: [
+    {
+      Name: "Juan Carlos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLiGtMExSqT5YaQSkyYuGN53FRX-SUCUVMuHCMrSh_BDSLZxw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Contento con mis gafas nuevas! Llegaron muy rápido y muy bien de precio! El trato y la recomendación de Nacho fue excelente! Sin duda recomiendo! Además muy bonita la tienda",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipOmMTVOe8vOWYpiRsXSpInX2AczgkUuon-AFG0G&fid=0x0:0x531895d17d4eb717"
+      ],
+      When: "2025-2-13"
+    },
+    {
+      Name: "Conchi Mulero Morales",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ6-Oc8xtzN1_dI3rnhktCoiTN2c_h6BSeVcfXzdoeN_9r3Ww=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buena experiencia. Atención inmejorable y cercana. Gran cantidad de modelos para elegir, tanto de gafas normales como de sol, actuales, elegantes y de calidad. Me he puesto progresivas y no he tenido problemas de adaptación. Volveré.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Guillermo Cánovas y Álvarez de las Asturias",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKKgM4vzh-eLybw8p4z4AQqKPNkpCMgLr11H-0n9rVJfpssSw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Para mi la mejor óptica de Murcia. Nacho es un gran profesional, trato excepcional y cercano. Tiene modelos distintos y muy actuales, gran variedad de gafas de sol y vista. Yo ya he comprado 4 pares. Seguiré comprándote, amigo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jesús Bravo solis",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIu07UC2IAJO0qwFBbsYgxCvzH7ystgub16H29rBjfSyboQeA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Nacho es un gran profesional. No suelo dejar reseñas, pero esta vez creo que hay que ser justos y valorar el trabajo de este chico.\nGafas diferentes a lo que vemos en otros sitios y a un precio muy bueno.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipNF3GJOp2LMFsrcyo8stKTIn2LfDFWeSYknU4_G&fid=0x0:0x531895d17d4eb717"
+      ],
+      When: "2024-7-16"
+    },
+    {
+      Name: "manuel lopez ortiz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV7C9eSNpBr8QsYujT02HZ_rKCNdzOwg4-UPXm6ivLDqN12y0oL_g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Compré unas gafas de sol para regalo de Navidad y quedé tan encantado con el trato ,la profesionalidad ,la calidad de las gafas y el precio, que mi pareja y yo desde ese día llevamos compradas tres pares más de gafas.\nGracias Nacho por tu eficacia y por tu saber hacer.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "José Manuel",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIM2DpY1LV79g3MGgdYyN3SwrJv28Exifhue1WyNTCUoqneog=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Mi experiencia con Ignacio ha sido excelente. Además de ofrecerme un asesoramiento personalizado que no he tenido en otras ópticas, dispone de un catálogo de gafas de diseño muy amplio. Muy recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "CARMEN MOLINA GIMENEZ",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLKoaz7sOhGhtI49UoatH1G3Tzzp5QliY7qfdYbYlScyLdF8w=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Nacho es un optico y un  profesional de 10. Me ha graduado la vista perfectamente, mucho mejor que en otras ópticas que había ido antes. He estrenado las gafas hoy y voy magnifica desde el minuto 0.Ademas su trato al cliente y su asesoramiento es tb de 10.\nLo recomiendo encarecidamente.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Conchi Moratón Baeza",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJlfBHEdkqjOFZj8MGCz1bZ_drBUT_3_9v3TwgIF5Y7s3lwaA=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Fuimos toda la familia a ver gafas y salimos todos con lentes nuevas. Muy chulas, de calidad y muy buen precio. Muchas gracias Óptica Romana por estar aquí 😊",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Óptica LAIN",
+  category: "Óptica",
+  address: "Gran Vía del Escultor Francisco Salzillo, 24, 30004 Murcia",
+  description: "Este establecimiento es altamente recomendable por la magnífica cualificación de los profesionales que atienden, así como por la tecnología innovadora empleada para graduar la vista. Se destaca la amabilidad y la garantía de todos sus productos. Las gafas de su propia marca son señaladas como una excelente elección.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–20:30"
+    ],
+    lunes: [
+      "10:00–20:30"
+    ],
+    martes: [
+      "10:00–20:30"
+    ],
+    miércoles: [
+      "10:00–20:30"
+    ],
+    sábado: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    viernes: [
+      "10:00–20:30"
+    ]
+  },
+  website: "https://lainopticos.com/",
+  phone: "633 47 99 76",
+  review_count: 125,
+  review_rating: 4.9,
+  latitude: 37.986903,
+  longitude: -1.132042,
+  user_reviews: [
+    {
+      Name: "Ángeles Fernández palmero",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI3mLRlAtqd-K4xyjiLano6diXq94s1NFCkB7zZ5wvIXvFVu1gH=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Es una óptica 100% recomendable por la magnífica cualificación de los profesionales que nos atienden, así como por la innovadora tecnología empleada para graduarnos. Destaco la amabilidad por supuesto, y la garantía de todos sus productos.\nLas gafas de su propia marca son un ACIERTO SEGURO, te cautivarán sin lugar a dudas.\nLos murcianos estamos de suerte, LAIN  en el centro de la ciudad!!! 🥳",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipPy2qMyIvyHlWfNNh47gSKSySodvKo-EwaCEUnA&fid=0x0:0x674d3f9b87a8b72c"
+      ],
+      When: "2024-6-13"
+    },
+    {
+      Name: "Sonia Sanz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXXLrZ0ooUZLKmVxKvmGXYJlBmA2iEORddluTfNLSCnenm-PPr5=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Entre de casualidad en esta óptica ya que no vivo en Murcia y solo quería preguntar, tengo que decir que a sido un gran descubrimiento.\n\nMe graduaron, me asesoraron y lo cierto es que estoy muy contenta con el servicio recibido.\n\nHan enviado la compra que hice en perfecto estado y en un breve espacio de tiempo.\n\nHay que sumar que tienen precios muy competitivos.\n\nA si que os recomiendo óptica LAIN en Murcia",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipN9TG32_ggM0NaSJuiUO5aoLfNvMKyMvuF4Otfd&fid=0x0:0x674d3f9b87a8b72c"
+      ],
+      When: "2024-5-28"
+    },
+    {
+      Name: "DOMINGO HERNANDEZ CARAVACA",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIbwkZJ8XgmmPRx8ina0HDagcVmp1W88JIW9bR94VaFpIlb2Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Tienen una gran variedad de gafas, muy buenos precios y sobre todo un trato al cliente inmejorable. Fuimos en su momento y hemos repetido ahora de nuevo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ángel González",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK16TA98dhN2cOFu34Bt1HwtrVx0rvivTdQXu3MovbK2BcEog=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Un trato y una profesionalidad excelente, mejor precio que en varias ópticas donde había preguntado, y una gran variedad de gafas.\n100x100 recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marta Díaz Sáez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLdeBuhggl8mHqa9dOD5oNCncw_u3Ie-hRDFhhUzhQYBhmOwA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Segunda vez que nos graduamos y compramos allí y tan bien y fácil como la primera. Y Lucía e Ylenia son tan agradables y profesionales! Y la posterior atención es excelente.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pedro Araez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWCynE9Qa8CmEvrsOzvHIv4NNAPw47aXfw5ywZe0ROwo33qQ5jg_g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Sitio super recomendable!! Las empleadas super amables, muy profesionales, y unos precios más baratos que los de la competencia, encima tienen su marca, diangi, que es buena bonita y barata! vuelvo 100%!!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "pollitopiollo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLQNmTIbwASjjxA-UZ7NyjifN3VB0crYumr0Fy2WlQ6MwP-97E=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Atención magnífica,  muy profesionales , atentas , amables, buen precio, estoy muy contento con mi producto, gafas guapísimas, gracias.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipPYBeBEOi1u-InXW4Zk96DLLEwgT0MlNeang2k8&fid=0x0:0x674d3f9b87a8b72c"
+      ],
+      When: "2025-1-10"
+    },
+    {
+      Name: "Moon Padel Indoor, sl",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWKSMr0tdFhKIfcJBDNhBvqcInIHg6Lm4Wyjtq1RUeJiDwSsOc=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trabajamos con ellos en nuestra tienda y su variedad de producto es increíble. Material deportivo de última generación con diseños muy buenos y acabados increíbles por precios muy ajustados. Un placer colaborar con vosotros.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Noveno B",
+  category: "Óptica",
+  address: "P.º la Fuente, 3, 30007 Murcia",
+  description: "Esta óptica destaca por su trato personalizado y su personal experto, Fátima y Jorge, considerados grandes profesionales. Ofrecen gafas modernas y de diseño a precios fantásticos. La atención al público es constantemente elogiada, así como la rapidez en la entrega de los pedidos.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ]
+  },
+  website: "https://novenob.es/",
+  phone: "968 20 51 61",
+  review_count: 201,
+  review_rating: 5,
+  latitude: 37.999975,
+  longitude: -1.128983,
+  user_reviews: [
+    {
+      Name: "nani reverte",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKQYTj6FQSm0Myd4xYdbAq1VqcCoOC11oSGqLGaO1P0pni7yg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Sin lugar a dudas los mejores, Fatima y Jorge son grandes profesionales. Gafas modernas, de diseño, y lo mejor a un precio fantástico. Si queréis profesionalidad, calidad y buen precio visita esta Optica os va encantar. Os pongo una imagen para que veáis nuestra última adquisición.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipPOSO3B4wjUubhcRKT9V-2gi-oPyyMS3SORC_hS&fid=0x0:0xced26d3b93b2ce28"
+      ],
+      When: "2025-3-9"
+    },
+    {
+      Name: "Alberto Torrecillas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJrCAd4IjILwKYztMZyf_zKkHw2W4QLlSyAk7Ua8XnpBneRH-I=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "El trato personalizado en Noveno B es lo mejor.\nSon expertos, se preocupan por ti y te atienden como si fueras de su familia. Y como tienen de todo y a buen precio, son totalmente recomendables.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rosa María Alguazas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUx2H5PjcL3-faV7aR0GfCpkaQDGt9cyfINBemCbOx5Bh1ZQqn0=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Los mejores consejos técnicos y estéticos, tras muchos años, los he encontrado aquí de parte de Fátima y Jorge. Relación calidad precio insuperable con el colofón de una atención encantadora.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marta Rodríguez Delgado",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJAPdo39NcpkdnnB_ZBzIXEa-5LbVUb0GkaH151AO4FJiQSiw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato al cliente excelente y muy rápidos en traer los pedidos. 100% recomendable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pedro José Cano Bermejo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJBJNvVFg9T_s2DS9XWnP3RAnDEcTQrC3xvMRFtnEhd6VBMWA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buena atención. Iba buscando unas gafas deportivas fotocromáticas y me propusieron una opción muy interesante con un precio muy bueno. Además me regalaron un spray para que no se empañen las gafas practicando deporte, lo cual se agradece. Muy recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "EVA MARIA PEREZ MOLINA",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKg4zhrjNh23mofn2Gp2-Lfz4aAriESQ07ekK410TY61dDxjA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La mejor experiencia, el mejor servicio y asesoramiento técnico y estético, para toda la familia. Siempre confiamos en nuestros vecinos de Noveno B !!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pepe F. Campos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL7OB7NGd9gah0QUIjwA-0mJnZywDQwl29iViVtNlIGczeMog=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "El pasado sábado 21 de septiembre rompí  inadvertidamente  la patilla de la montura de mis gafas progresivas. En la óptica Fatima, que no me conocía de nada, me atendió con una profesionalidad y amabilidad increíbles, después de buscar, buscar y rebuscar encontró una montura  apta para mis cristales. Salí de la óptica con el apuro solucionado y totalmente fidelizado por el trato recibido.\nGRACIAS",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juan Francisco Morales arroyo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV9FMol28ocvGHrkV0Ukfd1a94aOpfs-wboYE_o6pDfxiDKV0w=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Siempre atentos, siempre dando soluciones y ayudándote a elegir lo mejor…Es mi óptica de referencia para todo, ¡hasta para tunear mis Rayban con un cambio de cristales!",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "VISTAOPTICA Murcia",
+  category: "Óptica",
+  address: "C. Torre de Romo, 25, 30002 Murcia",
+  description: "Este establecimiento es reconocido por su buena atención y la confianza que genera en sus visitantes. Se destaca la gran atención personalizada ofrecida por su equipo, considerado muy agradable y profesional. Además, los precios son competitivos tanto en gafas como en lentillas de gran calidad.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 4.9,
+    precio: 4.0,
+    variedad: 3.8
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://vistaoptica.es/detalle/122-murcia_barrio_del_carmen",
+  phone: "623 47 50 61",
+  review_count: 54,
+  review_rating: 5,
+  latitude: 37.978212,
+  longitude: -1.127074,
+  user_reviews: [
+    {
+      Name: "J.L. Mendieta",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUwJwH5cL1Vr2-fyzXH6aYjEY-vc-o1zzUu7e2bWMADRC4m5MwO=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Buen lugar, donde hay una buena atención y generan confianza, son los lugares donde da gusto ir, muchas gracias mi hija esta contenta con sus lentillas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marina Ortega",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUJWkla4AK_ANx74Di3HDJCbOZjaCGSoobed_v1KbM9BTyb-NbZ4Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La mejor, se ha convertido en mi óptica de referencia en Murcia. Entré de casualidad y me quedé por la gran atención personalizada que ofrecen Ana y Martín. Muy agradables y grandes profesionales. Precios muy competitivos en gafas y lentillas de gran calidad, se ajustan a tus necesidades y superan tus expectativas.\n¡Apoyemos el comercio de barrio y proximidad!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "jhon lima",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI6_CnkYrGkDtEY8KsqvBKfgFdumgu41FrlSyp6JNoD7cj62w=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Son unos magníficos profesionales, atentos y resolutivos. La atención es inmejorable. Te sientes muy comodo en todo momento y te resuelven las dudas que tengas, sin duda la mejor experiencia\n# VISTAOPTICA 100% recomendable\nEstoy muy contento con mis gafas nuevas\nGracias por todo 😉",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipNv7FmSGaoYg3CD_N_2SQ9vw07nF0P7Qg0m9oDa&fid=0x0:0x73f20da119e9c8b8"
+      ],
+      When: "2021-8-25"
+    },
+    {
+      Name: "Antonio Serrano Bajes",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKI_oDLwJPJk0wttjYa0xF9bboW1d0QRlH8q-LJED7sRmJ4PQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buen lugar para renovar las gafas personal atento y buena experiencia con ellos",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Isabel Cerezo Rodriguez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLAqn8W2R2Hdzt5u070t2dFeJhrs-Htyq1fcU5jJ1_K6rYcZw=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "El trato ha sido perfecto, me recomendaron muchos modelos distintos y al final me decanté por unas de vogue.\nMuy recomendado, me ha encantado 🥰",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipMnWk-DR3lckUxTNYkrfo7aC9tVDhjTDAeEjVe_&fid=0x0:0x73f20da119e9c8b8"
+      ],
+      When: "2023-4-21"
+    },
+    {
+      Name: "Arisa Rodríguez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVXx4KSFDrr5j4EhnxAu4joiK2AY1iwG1lfoMJin5Uumy8j8KspnQ=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "El trato y la profesionalidad excelente. Me han guiado en todo momento para elegir unas lentillas que se adapten a lo que necesito. Además el estudio para ver las dioptrías muy completo. Estoy encantada y los recomiendo. Muchas gracias por todo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Berenice Bucio",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWOBMDeawysQQGw81Gq2nOKy-LK8R76h_Shez7NlUU6IEHwrYc=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente trato, Ana y Martin son unas personas muy atentas y sobre todo muy profesionales, en todo momento resolvieron nuestras dudas, nos aconsejaron en cuanto a modelos de gafas y nos dieron opciones para financiamiento. La verdad es que se a convertido en nuestra optica de cabecera. Recomendable al 100 x100.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Sergio David Troya",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVM4RgNU_hyKL0GC8oIq8oCn2LDGQvl_Zp8CoNfrP1_YzwjU0GV=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Una óptica de lo más profesional y atenta contigo.\nEmpezé con ellos el tratamiento de las lentillas Orto-K y estuvieron guiándome y aconsejando desde el primer momento.\nAdemás de las revisiones y controles para que todo estuviera correcto.\nSin duda cien por cien recomendables.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Óptica Sociedad",
+  category: "Optometrista",
+  address: "C. Sociedad, 9, 30004 Murcia",
+  description: "Se caracteriza por ofrecer un servicio muy amable y cercano, donde el personal se muestra atento a las necesidades individuales. Los usuarios destacan la profesionalidad y la capacidad de asesoramiento para encontrar las gafas perfectas. Además, se valora positivamente la variedad de modelos y la excelente relación calidad-precio.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 4.9,
+    precio: 4.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "",
+  phone: "968 22 50 97",
+  review_count: 37,
+  review_rating: 5,
+  latitude: 37.98473,
+  longitude: -1.131123,
+  user_reviews: [
+    {
+      Name: "lacookileria",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJSxlo8fQRb3jFFTX_Qjr6Xft-_w08VbP0mB9aZnP-x4ewxpQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Servicio súper amable y cercano. Soy una persona muy indecisa y en todo momento la dueña estuvo pendiente de encontrar las gafas perfectas que se amoldaran a mi cara y a la misma vez cumplieran con mis preferencias. Lo recomiendo 100%",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Inma López",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKPGiBqlapcBMZ3BOAY8drf9JcUk4E_ugz8p_qv7_ozIkcU_3E=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Me ha atendido Natalia. Una gran profesional... se le nota que le gusta su trabajo. Encantada con el trato. He salido muy tranquila y me he sentido muy ayudada. Recomiendo. Excelente. Gracias Natalia. 😊👍🏻🤍",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pedro Martinez Garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVZW8gpy3LW5IU5zb5MUVu5BQwRg6SRPpy7Lp4ZTLssPUkbQPWy=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "muy contento con el resultado , natalia nos ha asesorado genial , es una gran profesional , muy amables y buen trato , hemos comprado varios modelos y son monturas muy modernas y a muy buena relacion calidad precio.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Claudia Cavone",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVlTlZIAAtRdKDQk74yMICZCmil0Z5Prxdc-WcXt3_O2kn7OL0=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Encantada del sitio y encantada de Natalia… número 1",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jesus Sánchez Navarro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWrXl8QBuOTcit21WxSCnGGs0pUTv-oOvAOEe6IUC7lyu47bRjK=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Un trato estupendo para buscar gafas, la idea de que te sepan indicar que estilo de gafas debes usar y la profesionalidad que hay en ayudarte a tener una ayuda tan necesaria como lo son las gafas, es lo que todos buscamos y necesitamos.\nSin duda de diez y la mejor que he encontrado en Murcia.\nGracias",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "ilona ilona",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ2BN0RJty8RwDQv7ulcgDiOUub4tXU3NhU7Y11DWOgb0jiIQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Una óptica acogedora, con gran variedad de modelos! Fui con mi niño y nos encantó. Natalia es muy amable, paciente y una gran profesional, que aconseja y asesora cualquier duda!!! Volveremos sin duda",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "OKSANA BOYKO",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJstPy0_E7WNN14H0tgzg2__5f4bgDFmDY4VZ5myLl2PGXwPA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Sin duda alguna un trato magnifico,muy personal y cercano. Gran variedad de gafas. La relación calidad-precio excelente. Muy a gusto con el servicio recibido.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Francisco Javier Alarcon Vera",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVhO4mUWVzNk3qMrQNs_PFnbSdClNU8nYEHHGiFw7_2ZRbdwqqM=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Profesionalidad y trato excelentes. Soy cliente desde hace muchos años. Ahora mis hijas están probando unas gafas para frenar la miopía y todo muy bien",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},{
+    title: "Óptica en Murcia | Óptica San Pedro",
+    category: "Óptica",
+    address: "C. Jiménez Baeza, 5, 30004 Murcia",
+    description: "Este negocio es valorado por su alta calidad y la excelencia de sus profesionales. Los usuarios destacan el trato amable y el impecable servicio recibido, resaltando la satisfacción y el bienestar del cliente. Se percibe una amplia oferta de monturas con precios variados.",
+    serviceRatings: {
+      atencionCliente: 4.7,
+      profesionalidad: 4.9,
+      precio: 3.5,
+      variedad: 4.0
+    },
+    open_hours: {
+      domingo: [
+        "Cerrado"
+      ],
+      jueves: [
+        "9:45–13:30",
+        "17:00–20:30"
+      ],
+      lunes: [
+        "9:45–13:30",
+        "17:00–20:30"
+      ],
+      martes: [
+        "9:45–13:30",
+        "17:00–20:30"
+      ],
+      miércoles: [
+        "9:45–13:30",
+        "17:00–20:30"
+      ],
+      sábado: [
+        "9:45–13:30"
+      ],
+      viernes: [
+        "9:45–13:30",
+        "17:00–20:30"
+      ]
+    },
+    website: "http://www.opticasanpedro.com/",
+    phone: "968 21 97 29",
+    review_count: 43,
+    review_rating: 4.8,
+    latitude: 37.984657,
+    longitude: -1.133762,
+    user_reviews: [
+      {
+        Name: "Leo",
+        ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK0GKySL6_U0gu0Plv915TlacQsdlOtOTgM5TJfqdvQqoFvfiCl=s120-c-rp-mo-br100",
+        Rating: 5,
+        Description: "Óptica de alta categoría, te ofrecen la mejor calidad, excelentes profesionales, es mi óptica de confianza, Leo, Sefi, Miguel, gracias por vuestro trato amable, por vuestro impecable servicio y atención. Y sobre todo porque veláis por la satisfacción y bienestar del cliente con el mejor trato humano y simpatía. Felicidades por vuestro trabajo y buen hacer. Nos vemos pronto. Un saludo a todos.",
+        Images: null,
+        When: ""
+      },
+      {
+        Name: "Mayte Garcia",
+        ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLFwfChIrOsIK6zvzHTsZ4mjgI8KVBQ7fXJhR1HDxmqd5jeVw=s120-c-rp-mo-br100",
+        Rating: 1,
+        Description: "Ponen en venta on line gafas de sol que NO tienen. Te reembolsan el pago pero les da igual, las siguen vendiendo aunque segun ellos estan descataligadas y no las van a tener. Una perdida de tiempo.",
+        Images: null,
+        When: ""
+      },
+      {
+        Name: "Escarlata López",
+        ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVqeI0zjtxviSAP41P3M4ief_0sanyJO5n5oMTBT1_6vD6X0s5n=s120-c-rp-mo-br100",
+        Rating: 5,
+        Description: "La mejor óptica de toda Murcia.\u00a0 Miguel, Sefi y Leo son unos grandes profesionales. Llevamos en casa yendo ya 3 generaciones y seguiremos confiando en ellos. 🫶",
+        Images: null,
+        When: ""
+      },
+      {
+        Name: "pablo Velilla",
+        ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVsO-sRWVGniwGTebwytv_6xOU5C8gybVO09ipAssyMy1YukqQx=s120-c-rp-mo-ba5-br100",
+        Rating: 5,
+        Description: "Excelente atención. Siempre que he necesitado una óptica el equipo capitaneado por Miguel me ha atendido con gran cordialidad y demostrando conocer no solo el producto que venden sino las tendencias y modas del mercado, estando a la última de los materiales y las lentes de última generación tanto en gafas de ver como solares. El diseño de la tienda es elegante y actual, y se está muy confortable cuando por ejemplo te tienes que hacer la graduación de la vista. Un 10. 100% recomendable",
+        Images: null,
+        When: ""
+      },
+      {
+        Name: "JUAN ANTONIO BLAYA FAJARDO",
+        ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVLO_0I6C1RUURVWp5elQBSigPO-MaezTrX3DbTZTq4cHIj9JyK=s120-c-rp-mo-br100",
+        Rating: 5,
+        Description: "La mejor atención al cliente de la ciudad. Te sientes en tu casa. Gracias Leo.",
+        Images: null,
+        When: ""
+      },
+      {
+        Name: "Rvdo. P. Santiago Zamora (Yago)",
+        ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVa709zfnhhSXRg2a2IO1Vs6rimLjVkE4wpc3HhTXm0w9bMfJazgw=s120-c-rp-mo-ba6-br100",
+        Rating: 5,
+        Description: "Es una de las mejores ópticas existentes en esta capital, y posiblemente, de las más antiguas ( pues llevan 70 años operando en esta ciudad ). Tienen al Sr. Leo de coordinador y, como gran profesional y maestro que es, prepara e instruye muy bien a las dependientas. Leo es un zorro viejo en esta profesión, eso me consta. Pero a su vez, es una persona muy correcta, afable, y muy amigo de toda una amplia y extensa clientela.\nHace años que lo conozco y sé muy bien de lo que hablo.\nTan solo me queda por decir que, les deseo a Óptica San Pedro, que cumplan otros 70 años más, e infinitos logros y éxitos, arreglando la visión de toda la ciudadanía murciana, y que sean éstos, muy longevos. Se lo merecen, la verdad. Saludos de vuestro amigo, Rvdo Santiago Zamora.",
+        Images: null,
+        When: ""
+      },
+      {
+        Name: "Marta García",
+        ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVFBZGs_WQe_hCoJ23R8dC7h4hyIBD3VB0Ps6TpkqGMv3KMP4dCsg=s120-c-rp-mo-br100",
+        Rating: 5,
+        Description: "La mejor óptica por la que he pasado nunca. Personal muy amable y atento, con mucha experiencia en el sector, te asesoran y te hacen cualquier prueba necesaria para que tu diagnóstico sea el adecuado. Después te hacen una oferta personalizada y adecuada tanto a tus necesidades visuales como a lo que te quieras gastar, teniendo monturas de gamas y precios muy variados. Te ofrecen los mejores productos del mercado, con una calidad excelente y al mejor precio, yo ya no creo que me cambie o vaya a otra óptica nunca más.",
+        Images: null,
+        When: ""
+      },
+      {
+        Name: "Cristina L.B.",
+        ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWg7ZqQFV9n1X15JSKP4uvuhvlnupRhxbWc2ZYzP1nVCFnt85FQ=s120-c-rp-mo-ba4-br100",
+        Rating: 2,
+        Description: "Vaya clavada de sitio. Pretendían cobrarme por unas lentillas alrededor de 100 euros, cuando yo normalmente pago por ellas 57 en otra óptica, pero no podía ir al estar cerrada temporalmente.\nLes dije lo que pagaba en otra óptica y me bajaron el precio a 75. ¿En qué quedamos? ¿No costaban casi 100? ¿Ahora que te lo digo entonces me bajas el precio? No me parece serio",
+        Images: null,
+        When: ""
+      }
+    ],
+    emails: "",
+    province: "murcia"
+  },
+  {
+    title: "Paraoptic Meca S L",
+    category: "Óptica",
+    address: "P.º de Florencia, 8, 30010 San Benito, Murcia",
+    description: "Al no disponer de suficientes comentarios de usuarios, no se puede generar una descripción detallada.",
+    serviceRatings: {
+      atencionCliente: 3.5,
+      profesionalidad: 3.5,
+      precio: 3.5,
+      variedad: 3.5
+    },
+    open_hours: {
+      domingo: [
+        "Cerrado"
+      ],
+      jueves: [
+        "9:30–14:00",
+        "17:00–20:30"
+      ],
+      lunes: [
+        "9:30–14:00",
+        "17:00–20:30"
+      ],
+      martes: [
+        "9:30–14:00",
+        "17:00–20:30"
+      ],
+      miércoles: [
+        "9:30–14:00",
+        "17:00–20:30"
+      ],
+      sábado: [
+        "10:00–13:45"
+      ],
+      viernes: [
+        "9:30–14:00",
+        "17:00–20:30"
+      ]
+    },
+    website: "",
+    phone: "968 34 16 19",
+    review_count: 1,
+    review_rating: 5,
+    latitude: 37.969346,
+    longitude: -1.13285,
+    user_reviews: [
+      {
+        Name: "Farmacia Farmacia",
+        ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIzfLUxXWfUQKmoHhARmYhxpBHPnxY5YjfX4pwUzKzxGUmX-g=s120-c-rp-mo-br100",
+        Rating: 5,
+        Description: "",
+        Images: null,
+        When: ""
+      }
+    ],
+    emails: "",
+    province: "murcia"
+  },
+{
+    title: "Las Gafas de Lennon Óptica",
+    category: "Óptica",
+    address: "C. San Antón, 24, 30009 Murcia",
+    description: "Esta óptica se caracteriza por su excelente y personalizada atención al público. El dueño es frecuentemente elogiado por ser muy profesional, amable, paciente y por explicar todo detalladamente. Muchos resaltan sentirse bien asesorados y aprecian los descuentos ofrecidos en monturas y cristales, lo que resulta en una buena relación calidad-precio. Es considerada una óptica de confianza y muy recomendable, siendo para algunos su óptica favorita gracias al trato atento y honesto.",
+    serviceRatings: {
+        atencionCliente: 5.0,
+        profesionalidad: 5.0,
+        precio: 4.5,
+        variedad: 4.0
+    },
+    open_hours: {
+        domingo: [
+            "Cerrado"
+        ],
+        jueves: [
+            "10:00–13:30",
+            "17:15–20:15"
+        ],
+        lunes: [
+            "10:00–13:30",
+            "17:15–20:15"
+        ],
+        martes: [
+            "10:00–13:30",
+            "17:15–20:15"
+        ],
+        miércoles: [
+            "10:00–13:30",
+            "17:15–20:15"
+        ],
+        sábado: [
+            "Cerrado"
+        ],
+        viernes: [
+            "10:00–13:30",
+            "17:15–20:15"
+        ]
+    },
+    website: "https://lasgafasdelennon.com/",
+    phone: "622 55 08 73",
+    review_count: 46,
+    review_rating: 5,
+    latitude: 37.991513,
+    longitude: -1.140691,
+    user_reviews: [
+        {
+            Name: "MariaDolores VM",
+            ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK8JbTOAM126TxZgza3n1rt3Hnf_vznxQsDGI3v0DANvy2tVg=s120-c-rp-mo-br100",
+            Rating: 5,
+            Description: "Acompañé a mi marido a comprarse unas gafas, y salimos encantados. El dueño es muy profesional y amable, paciente y te explica todo super bien. Íbamos con la idea de llevarnos solo unas gafas pensando que se subiría de precio.. y al final nos llevamos 2! Ya que el chico te hace descuentos en monturas… cristales.. para que te salga super bien de precio.",
+            Images: null,
+            When: ""
+        },
+        {
+            Name: "Julia Moreno Guillen",
+            ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLx-DlaCb1h3nIIFnTRWq0zA6gGkNOV8h_8mzbBJ0AHC03kMg=s120-c-rp-mo-br100",
+            Rating: 5,
+            Description: "Por fin he encontrado mi óptica de confianza. Javier es un gran profesional, llevo gafas desde los 13 años y nunca me habían explicado y aconsejado tan bien como él. Un trato maravilloso desde el minuto uno.",
+            Images: null,
+            When: ""
+        },
+        {
+            Name: "Melanie Méndez",
+            ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJOtm5nXmXNK3DbPhQTzHaIc4Ba0SjCElEw29XDj5xKMO_bPA=s120-c-rp-mo-br100",
+            Rating: 5,
+            Description: "Sin duda mi Optica favorita y de confianza . Un trato genial ya que el mismo te aconseja lo que te queda bien y lo que no . Aparte de que tiene variedad de gafas tanto de ver cómo de sol , toda mi familia pedimos siempre ahí incluso recomiendo a mis amistades que vayan ahí.",
+            Images: null,
+            When: ""
+        },
+        {
+            Name: "Pilar Rejon Lopez",
+            ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLwSImd0u3mUWpVLzdiMr-XOe5qcNCRuVLAYibC-eA47HSu7RI=s120-c-rp-mo-ba3-br100",
+            Rating: 5,
+            Description: "Un lugar con encanto que no solamente se caracteriza por su atractivo nombre, si no también por la dedicación personalizada en el trato, calidad en la atención y honestidad. Mi hijo ha salido encantado. Para mí se ha convertido en mi óptica de confianza. Gracias Javier.",
+            Images: null,
+            When: ""
+        },
+        {
+            Name: "Sandra",
+            ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU9UCJCcMNyRmiCo8i5D-JbS1MEDl0sTe0xBTqxXG0tR73srz5e=s120-c-rp-mo-br100",
+            Rating: 5,
+            Description: "Me llevé unas gafas de las que me enanamoré, con los cristales en forma hexagonal, y otras negras polarizadas que la uso mucho para conducir. El dueño es muy atento. Muy buen servicio y calidad.",
+            Images: null,
+            When: ""
+        },
+        {
+            Name: "Esther Murcia Gomicia",
+            ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVA41qDMbTvcIuKeeGoBX_2rlANPU756Xe6lTGH8bF8llzAiYrYKQ=s120-c-rp-mo-ba4-br100",
+            Rating: 5,
+            Description: "Profesionalidad inmejorable y por encima de eso, que no es poco mejor persona. Javi es increíble, te atiende y vende lo que necesitas y va contigo, no es de los de hacer caja. Es de los de hacer amigos y eso lo caracteriza por ser una persona extraordinaria. Gracias",
+            Images: null,
+            When: ""
+        },
+        {
+            Name: "Samuel DVO",
+            ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIeL_Z0OnYhOunqi3qBx1ucEUE4WAoYsgUSLiymMfps_bl_Ag=s120-c-rp-mo-ba2-br100",
+            Rating: 5,
+            Description: "Contentísimo con mi visita a Las Gafas de Lennon. Atención excelente, maxima profesionalidad y compromiso. Así da gusto ir a un lugar donde te atienden tan bien y con alguien que se compromete como hace Javier mirando por las mejores opciones del consumidor. 100% recomendable y volveremos. Después de una mala experiencia en una franquicia grande, Opticalia para ser concretos, la mejor decisión fue acercarme a Las Gafas de Lennon.",
+            Images: null,
+            When: ""
+        },
+        {
+            Name: "Stella",
+            ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXmEUTx3dEytKqH5IxJEXbr6CHH3HGX46iFdWqonK0GhCVEnQyaXQ=s120-c-rp-mo-ba3-br100",
+            Rating: 5,
+            Description: "De trato excelente. Gran profesional al servicio del cliente. Con mucha paciencia y \"saber hacer\" ha atendido a nuestro hijo de 7 años. Precios sin competencia.\nVolveremos seguro!",
+            Images: null,
+            When: ""
+        }
+    ],
+    emails: "",
+    province: "murcia"
+},
+{
+    title: "AchoGafas",
+    category: "Óptica",
+    address: "",
+    description: "Esta óptica cuenta con una retroalimentación muy limitada, con la única reseña existente ofreciendo una valoración positiva.",
+    serviceRatings: {
+        atencionCliente: 3.5,
+        profesionalidad: 3.5,
+        precio: 3.5,
+        variedad: 3.5
+    },
+    open_hours: {
+        domingo: [
+            "Cerrado"
+        ],
+        jueves: [
+            "Abierto 24 horas"
+        ],
+        lunes: [
+            "Abierto 24 horas"
+        ],
+        martes: [
+            "Abierto 24 horas"
+        ],
+        miércoles: [
+            "Abierto 24 horas"
+        ],
+        sábado: [
+            "Abierto 24 horas"
+        ],
+        viernes: [
+            "Abierto 24 horas"
+        ]
+    },
+    website: "http://www.achogafas.com/",
+    phone: "",
+    review_count: 1,
+    review_rating: 5,
+    latitude: 35.67445,
+    longitude: -6.8143,
+    user_reviews: [
+        {
+            Name: "diego perez",
+            ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVZIvRUYTDlcReWMxdWyy5fvBbhatNxQknzJJKIyDKjbO6l6f8=s120-c-rp-mo-br100",
+            Rating: 5,
+            Description: "",
+            Images: null,
+            When: ""
+        }
+    ],
+    emails: "",
+    province: "murcia"
+},
+{
+    title: "Sánchez Ópticos Zas Visión",
+    category: "Óptica",
+    address: "Rda. de Garay, 33, 30003 Murcia",
+    description: "Se puede apreciar que esta óptica es conocida por su excepcional servicio y profesionalidad. Muchos resaltan el trato amable y servicial del personal, quienes son descritos como muy profesionales y atentos desde la primera visita. También se valora la calidad del asesoramiento en cuanto a lentes. Un usuario con una larga trayectoria como cliente destaca su excelente profesionalismo en pruebas y soluciones oftalmológicas.",
+    serviceRatings: {
+        atencionCliente: 5.0,
+        profesionalidad: 5.0,
+        precio: 4.0,
+        variedad: 3.5
+    },
+    open_hours: {
+        domingo: [
+            "Cerrado"
+        ],
+        jueves: [
+            "10:00–13:45",
+            "17:00–20:30"
+        ],
+        lunes: [
+            "10:00–13:45",
+            "17:00–20:30"
+        ],
+        martes: [
+            "10:00–13:45",
+            "17:00–20:30"
+        ],
+        miércoles: [
+            "10:00–13:45",
+            "17:00–20:30"
+        ],
+        sábado: [
+            "Cerrado"
+        ],
+        viernes: [
+            "10:00–13:45",
+            "17:00–20:30"
+        ]
+    },
+    website: "http://www.sanchezopticos.es/",
+    phone: "968 22 19 48",
+    review_count: 51,
+    review_rating: 4.7,
+    latitude: 37.984351,
+    longitude: -1.122933,
+    user_reviews: [
+        {
+            Name: "ESTEFANIA Garcia",
+            ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ3ieALxRKdkivj5qF1DYKwABP7yYr7PZ8w3GwoWrSGwWabPw=s120-c-rp-mo-ba3-br100",
+            Rating: 5,
+            Description: "Servicio excepcional.\nMi hija se puso lentillas gracias a ellos con 7 años. Y ha sido la mejor decisión.",
+            Images: null,
+            When: ""
+        },
+        {
+            Name: "Ana P",
+            ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJxhTqMxT4Z3DorZ30mtHhhIL62XwuGiLpmFVA6huMd4Q_O8w=s120-c-rp-mo-br100",
+            Rating: 5,
+            Description: "Desde la primera visita el trato recibido fue excepcional.\nSin lugar a dudas la amabilidad y profesionalidad les definen preocupándose en todo momento por el cliente.\nLos recomiendo al 100%",
+            Images: null,
+            When: ""
+        },
+        {
+            Name: "rosa navarro",
+            ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ4QU7s7G2r6D_FbtiGcnmXi43oEuWi7Qs0TU4mxSXNlzoErQ=s120-c-rp-mo-br100",
+            Rating: 4,
+            Description: "Gracias a unos grandes  profesionales  que saben hacer bien su trabajo, me aconsejaron muy bien el tipo de lente que tenía que utilizar.\nAdemás resaltar su calidad humana y su trato formidable.\nMe dejaría aconsejar por ellos en cualquier momento.\nDesde luego recomiendo a cualquier persona ponerse en sus manos.\nGracias por todo .",
+            Images: null,
+            When: ""
+        },
+        {
+            Name: "MGee Simon",
+            ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJcJ-5Xbj_a-l3ADVNQOC0g_Dgo6Ormr-0H7N73_1QpTt30WQ=s120-c-rp-mo-br100",
+            Rating: 5,
+            Description: "No conocía esta óptica pero el trato desde el primer momento fue muy familiar. Además, la relación calidad-precio es inmejorable y la revisión ocular es completa al 100%. Estoy segura de que volveré pronto.",
+            Images: null,
+            When: ""
+        },
+        {
+            Name: "José Pintado",
+            ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVL8KWjP3IUxnrXP55yJ_3UybZpe294F_8Psu2-m57ejxzW3-0=s120-c-rp-mo-ba3-br100",
+            Rating: 5,
+            Description: "Excenlente trato!!muy profesionales! Totalmente recomendado!",
+            Images: null,
+            When: ""
+        },
+        {
+            Name: "Emilio Soriano",
+            ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXRMF06rCfaEwPxeA-9CQclQPdDAVbNJaq2FgRZLA2E8YiLNBQL=s120-c-rp-mo-ba3-br100",
+            Rating: 5,
+            Description: "Excelentes profesionales.  De lo mejor en pruebas y soluciones oftalmológicas y audición. Soy cliente 37 años. Creo que está todo dicho.",
+            Images: null,
+            When: ""
+        },
+        {
+            Name: "Estenova Clínica Veterinaria",
+            ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUQvOqag3M5dbyE5RU8w4vxRWpTK0x_WtVmI6XOuogELm74uL7-=s120-c-rp-mo-ba3-br100",
+            Rating: 5,
+            Description: "Experiencia, profesionalidad y trato inigualable. Llevo toda la vida usando lentillas y gafas y sin duda alguna son los mejores ópticos de todos los que he conocido. No hay mejores profesionales a los que confiar tu visión",
+            Images: null,
+            When: ""
+        },
+        {
+            Name: "FPA FPA",
+            ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU9xsKjkx7v1s1mxepg4Z_rCI4882peVDvap4eH8G7UNj8EcIlx=s120-c-rp-mo-ba4-br100",
+            Rating: 1,
+            Description: "Ningún interés en atender al cliente.\nDe hecho me parece que no volveré, tras la experiencia en mi última visita, habiendo sido cliente desde sus inicios, por el trato recibido por la nueva dirección.",
+            Images: null,
+            When: ""
+        }
+    ],
+    emails: "",
+    province: "murcia"
+},
+{
+  title: "Óptica en Murcia | Óptica San Pedro",
+  category: "Óptica",
+  address: "C. Jiménez Baeza, 5, 30004 Murcia",
+  description: "Este negocio es valorado por su alta calidad y la excelencia de sus profesionales. Los usuarios destacan el trato amable y el impecable servicio recibido, resaltando la satisfacción y el bienestar del cliente. Se percibe una amplia oferta de monturas con precios variados.",
+  serviceRatings: {
+    atencionCliente: 4.7,
+    profesionalidad: 4.9,
+    precio: 3.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "9:45–13:30"
+    ],
+    viernes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "http://www.opticasanpedro.com/",
+  phone: "968 21 97 29",
+  review_count: 43,
+  review_rating: 4.8,
+  latitude: 37.984657,
+  longitude: -1.133762,
+  user_reviews: [
+    {
+      Name: "Leo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK0GKySL6_U0gu0Plv915TlacQsdlOtOTgM5TJfqdvQqoFvfiCl=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Óptica de alta categoría, te ofrecen la mejor calidad, excelentes profesionales, es mi óptica de confianza, Leo, Sefi, Miguel, gracias por vuestro trato amable, por vuestro impecable servicio y atención. Y sobre todo porque veláis por la satisfacción y bienestar del cliente con el mejor trato humano y simpatía. Felicidades por vuestro trabajo y buen hacer. Nos vemos pronto. Un saludo a todos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mayte Garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLFwfChIrOsIK6zvzHTsZ4mjgI8KVBQ7fXJhR1HDxmqd5jeVw=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Ponen en venta on line gafas de sol que NO tienen. Te reembolsan el pago pero les da igual, las siguen vendiendo aunque segun ellos estan descataligadas y no las van a tener. Una perdida de tiempo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Escarlata López",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVqeI0zjtxviSAP41P3M4ief_0sanyJO5n5oMTBT1_6vD6X0s5n=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La mejor óptica de toda Murcia.\u00a0 Miguel, Sefi y Leo son unos grandes profesionales. Llevamos en casa yendo ya 3 generaciones y seguiremos confiando en ellos. 🫶",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "pablo Velilla",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVsO-sRWVGniwGTebwytv_6xOU5C8gybVO09ipAssyMy1YukqQx=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Excelente atención. Siempre que he necesitado una óptica el equipo capitaneado por Miguel me ha atendido con gran cordialidad y demostrando conocer no solo el producto que venden sino las tendencias y modas del mercado, estando a la última de los materiales y las lentes de última generación tanto en gafas de ver como solares. El diseño de la tienda es elegante y actual, y se está muy confortable cuando por ejemplo te tienes que hacer la graduación de la vista. Un 10. 100% recomendable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "JUAN ANTONIO BLAYA FAJARDO",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVLO_0I6C1RUURVWp5elQBSigPO-MaezTrX3DbTZTq4cHIj9JyK=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La mejor atención al cliente de la ciudad. Te sientes en tu casa. Gracias Leo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rvdo. P. Santiago Zamora (Yago)",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVa709zfnhhSXRg2a2IO1Vs6rimLjVkE4wpc3HhTXm0w9bMfJazgw=s120-c-rp-mo-ba6-br100",
+      Rating: 5,
+      Description: "Es una de las mejores ópticas existentes en esta capital, y posiblemente, de las más antiguas ( pues llevan 70 años operando en esta ciudad ). Tienen al Sr. Leo de coordinador y, como gran profesional y maestro que es, prepara e instruye muy bien a las dependientas. Leo es un zorro viejo en esta profesión, eso me consta. Pero a su vez, es una persona muy correcta, afable, y muy amigo de toda una amplia y extensa clientela.\nHace años que lo conozco y sé muy bien de lo que hablo.\nTan solo me queda por decir que, les deseo a Óptica San Pedro, que cumplan otros 70 años más, e infinitos logros y éxitos, arreglando la visión de toda la ciudadanía murciana, y que sean éstos, muy longevos. Se lo merecen, la verdad. Saludos de vuestro amigo, Rvdo Santiago Zamora.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marta García",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVFBZGs_WQe_hCoJ23R8dC7h4hyIBD3VB0Ps6TpkqGMv3KMP4dCsg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La mejor óptica por la que he pasado nunca. Personal muy amable y atento, con mucha experiencia en el sector, te asesoran y te hacen cualquier prueba necesaria para que tu diagnóstico sea el adecuado. Después te hacen una oferta personalizada y adecuada tanto a tus necesidades visuales como a lo que te quieras gastar, teniendo monturas de gamas y precios muy variados. Te ofrecen los mejores productos del mercado, con una calidad excelente y al mejor precio, yo ya no creo que me cambie o vaya a otra óptica nunca más.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cristina L.B.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWg7ZqQFV9n1X15JSKP4uvuhvlnupRhxbWc2ZYzP1nVCFnt85FQ=s120-c-rp-mo-ba4-br100",
+      Rating: 2,
+      Description: "Vaya clavada de sitio. Pretendían cobrarme por unas lentillas alrededor de 100 euros, cuando yo normalmente pago por ellas 57 en otra óptica, pero no podía ir al estar cerrada temporalmente.\nLes dije lo que pagaba en otra óptica y me bajaron el precio a 75. ¿En qué quedamos? ¿No costaban casi 100? ¿Ahora que te lo digo entonces me bajas el precio? No me parece serio",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Paraoptic Meca S L",
+  category: "Óptica",
+  address: "P.º de Florencia, 8, 30010 San Benito, Murcia",
+  description: "Al no disponer de suficientes comentarios de usuarios, no se puede generar una descripción detallada.",
+  serviceRatings: {
+    atencionCliente: 3.5,
+    profesionalidad: 3.5,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–14:00",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:30–14:00",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:30–14:00",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:30–14:00",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:45"
+    ],
+    viernes: [
+      "9:30–14:00",
+      "17:00–20:30"
+    ]
+  },
+  website: "",
+  phone: "968 34 16 19",
+  review_count: 1,
+  review_rating: 5,
+  latitude: 37.969346,
+  longitude: -1.13285,
+  user_reviews: [
+    {
+      Name: "Farmacia Farmacia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIzfLUxXWfUQKmoHhARmYhxpBHPnxY5YjfX4pwUzKzxGUmX-g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Las Gafas de Lennon Óptica",
+  category: "Óptica",
+  address: "C. San Antón, 24, 30009 Murcia",
+  description: "Esta óptica se caracteriza por su excelente y personalizada atención al público. El dueño es frecuentemente elogiado por ser muy profesional, amable, paciente y por explicar todo detalladamente. Muchos resaltan sentirse bien asesorados y aprecian los descuentos ofrecidos en monturas y cristales, lo que resulta en una buena relación calidad-precio. Es considerada una óptica de confianza y muy recomendable, siendo para algunos su óptica favorita gracias al trato atento y honesto.",
+  serviceRatings: {
+      atencionCliente: 5.0,
+      profesionalidad: 5.0,
+      precio: 4.5,
+      variedad: 4.0
+  },
+  open_hours: {
+      domingo: [
+          "Cerrado"
+      ],
+      jueves: [
+          "10:00–13:30",
+          "17:15–20:15"
+      ],
+      lunes: [
+          "10:00–13:30",
+          "17:15–20:15"
+      ],
+      martes: [
+          "10:00–13:30",
+          "17:15–20:15"
+      ],
+      miércoles: [
+          "10:00–13:30",
+          "17:15–20:15"
+      ],
+      sábado: [
+          "Cerrado"
+      ],
+      viernes: [
+          "10:00–13:30",
+          "17:15–20:15"
+      ]
+  },
+  website: "https://lasgafasdelennon.com/",
+  phone: "622 55 08 73",
+  review_count: 46,
+  review_rating: 5,
+  latitude: 37.991513,
+  longitude: -1.140691,
+  user_reviews: [
+      {
+          Name: "MariaDolores VM",
+          ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK8JbTOAM126TxZgza3n1rt3Hnf_vznxQsDGI3v0DANvy2tVg=s120-c-rp-mo-br100",
+          Rating: 5,
+          Description: "Acompañé a mi marido a comprarse unas gafas, y salimos encantados. El dueño es muy profesional y amable, paciente y te explica todo super bien. Íbamos con la idea de llevarnos solo unas gafas pensando que se subiría de precio.. y al final nos llevamos 2! Ya que el chico te hace descuentos en monturas… cristales.. para que te salga super bien de precio.",
+          Images: null,
+          When: ""
+      },
+      {
+          Name: "Julia Moreno Guillen",
+          ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLx-DlaCb1h3nIIFnTRWq0zA6gGkNOV8h_8mzbBJ0AHC03kMg=s120-c-rp-mo-br100",
+          Rating: 5,
+          Description: "Por fin he encontrado mi óptica de confianza. Javier es un gran profesional, llevo gafas desde los 13 años y nunca me habían explicado y aconsejado tan bien como él. Un trato maravilloso desde el minuto uno.",
+          Images: null,
+          When: ""
+      },
+      {
+          Name: "Melanie Méndez",
+          ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJOtm5nXmXNK3DbPhQTzHaIc4Ba0SjCElEw29XDj5xKMO_bPA=s120-c-rp-mo-br100",
+          Rating: 5,
+          Description: "Sin duda mi Optica favorita y de confianza . Un trato genial ya que el mismo te aconseja lo que te queda bien y lo que no . Aparte de que tiene variedad de gafas tanto de ver cómo de sol , toda mi familia pedimos siempre ahí incluso recomiendo a mis amistades que vayan ahí.",
+          Images: null,
+          When: ""
+      },
+      {
+          Name: "Pilar Rejon Lopez",
+          ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLwSImd0u3mUWpVLzdiMr-XOe5qcNCRuVLAYibC-eA47HSu7RI=s120-c-rp-mo-ba3-br100",
+          Rating: 5,
+          Description: "Un lugar con encanto que no solamente se caracteriza por su atractivo nombre, si no también por la dedicación personalizada en el trato, calidad en la atención y honestidad. Mi hijo ha salido encantado. Para mí se ha convertido en mi óptica de confianza. Gracias Javier.",
+          Images: null,
+          When: ""
+      },
+      {
+          Name: "Sandra",
+          ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU9UCJCcMNyRmiCo8i5D-JbS1MEDl0sTe0xBTqxXG0tR73srz5e=s120-c-rp-mo-br100",
+          Rating: 5,
+          Description: "Me llevé unas gafas de las que me enanamoré, con los cristales en forma hexagonal, y otras negras polarizadas que la uso mucho para conducir. El dueño es muy atento. Muy buen servicio y calidad.",
+          Images: null,
+          When: ""
+      },
+      {
+          Name: "Esther Murcia Gomicia",
+          ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVA41qDMbTvcIuKeeGoBX_2rlANPU756Xe6lTGH8bF8llzAiYrYKQ=s120-c-rp-mo-ba4-br100",
+          Rating: 5,
+          Description: "Profesionalidad inmejorable y por encima de eso, que no es poco mejor persona. Javi es increíble, te atiende y vende lo que necesitas y va contigo, no es de los de hacer caja. Es de los de hacer amigos y eso lo caracteriza por ser una persona extraordinaria. Gracias",
+          Images: null,
+          When: ""
+      },
+      {
+          Name: "Samuel DVO",
+          ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIeL_Z0OnYhOunqi3qBx1ucEUE4WAoYsgUSLiymMfps_bl_Ag=s120-c-rp-mo-ba2-br100",
+          Rating: 5,
+          Description: "Contentísimo con mi visita a Las Gafas de Lennon. Atención excelente, maxima profesionalidad y compromiso. Así da gusto ir a un lugar donde te atienden tan bien y con alguien que se compromete como hace Javier mirando por las mejores opciones del consumidor. 100% recomendable y volveremos. Después de una mala experiencia en una franquicia grande, Opticalia para ser concretos, la mejor decisión fue acercarme a Las Gafas de Lennon.",
+          Images: null,
+          When: ""
+      },
+      {
+          Name: "Stella",
+          ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXmEUTx3dEytKqH5IxJEXbr6CHH3HGX46iFdWqonK0GhCVEnQyaXQ=s120-c-rp-mo-ba3-br100",
+          Rating: 5,
+          Description: "De trato excelente. Gran profesional al servicio del cliente. Con mucha paciencia y \"saber hacer\" ha atendido a nuestro hijo de 7 años. Precios sin competencia.\nVolveremos seguro!",
+          Images: null,
+          When: ""
+      }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "AchoGafas",
+  category: "Óptica",
+  address: "",
+  description: "Esta óptica cuenta con una retroalimentación muy limitada, con la única reseña existente ofreciendo una valoración positiva.",
+  serviceRatings: {
+      atencionCliente: 3.5,
+      profesionalidad: 3.5,
+      precio: 3.5,
+      variedad: 3.5
+  },
+  open_hours: {
+      domingo: [
+          "Cerrado"
+      ],
+      jueves: [
+          "Abierto 24 horas"
+      ],
+      lunes: [
+          "Abierto 24 horas"
+      ],
+      martes: [
+          "Abierto 24 horas"
+      ],
+      miércoles: [
+          "Abierto 24 horas"
+      ],
+      sábado: [
+          "Abierto 24 horas"
+      ],
+      viernes: [
+          "Abierto 24 horas"
+      ]
+  },
+  website: "http://www.achogafas.com/",
+  phone: "",
+  review_count: 1,
+  review_rating: 5,
+  latitude: 35.67445,
+  longitude: -6.8143,
+  user_reviews: [
+      {
+          Name: "diego perez",
+          ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVZIvRUYTDlcReWMxdWyy5fvBbhatNxQknzJJKIyDKjbO6l6f8=s120-c-rp-mo-br100",
+          Rating: 5,
+          Description: "",
+          Images: null,
+          When: ""
+      }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Sánchez Ópticos Zas Visión",
+  category: "Óptica",
+  address: "Rda. de Garay, 33, 30003 Murcia",
+  description: "Se puede apreciar que esta óptica es conocida por su excepcional servicio y profesionalidad. Muchos resaltan el trato amable y servicial del personal, quienes son descritos como muy profesionales y atentos desde la primera visita. También se valora la calidad del asesoramiento en cuanto a lentes. Un usuario con una larga trayectoria como cliente destaca su excelente profesionalismo en pruebas y soluciones oftalmológicas.",
+  serviceRatings: {
+      atencionCliente: 5.0,
+      profesionalidad: 5.0,
+      precio: 4.0,
+      variedad: 3.5
+  },
+  open_hours: {
+      domingo: [
+          "Cerrado"
+      ],
+      jueves: [
+          "10:00–13:45",
+          "17:00–20:30"
+      ],
+      lunes: [
+          "10:00–13:45",
+          "17:00–20:30"
+      ],
+      martes: [
+          "10:00–13:45",
+          "17:00–20:30"
+      ],
+      miércoles: [
+          "10:00–13:45",
+          "17:00–20:30"
+      ],
+      sábado: [
+          "Cerrado"
+      ],
+      viernes: [
+          "10:00–13:45",
+          "17:00–20:30"
+      ]
+  },
+  website: "http://www.sanchezopticos.es/",
+  phone: "968 22 19 48",
+  review_count: 51,
+  review_rating: 4.7,
+  latitude: 37.984351,
+  longitude: -1.122933,
+  user_reviews: [
+      {
+          Name: "ESTEFANIA Garcia",
+          ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ3ieALxRKdkivj5qF1DYKwABP7yYr7PZ8w3GwoWrSGwWabPw=s120-c-rp-mo-ba3-br100",
+          Rating: 5,
+          Description: "Servicio excepcional.\nMi hija se puso lentillas gracias a ellos con 7 años. Y ha sido la mejor decisión.",
+          Images: null,
+          When: ""
+      },
+      {
+          Name: "Ana P",
+          ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJxhTqMxT4Z3DorZ30mtHhhIL62XwuGiLpmFVA6huMd4Q_O8w=s120-c-rp-mo-br100",
+          Rating: 5,
+          Description: "Desde la primera visita el trato recibido fue excepcional.\nSin lugar a dudas la amabilidad y profesionalidad les definen preocupándose en todo momento por el cliente.\nLos recomiendo al 100%",
+          Images: null,
+          When: ""
+      },
+      {
+          Name: "rosa navarro",
+          ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ4QU7s7G2r6D_FbtiGcnmXi43oEuWi7Qs0TU4mxSXNlzoErQ=s120-c-rp-mo-br100",
+          Rating: 4,
+          Description: "Gracias a unos grandes  profesionales  que saben hacer bien su trabajo, me aconsejaron muy bien el tipo de lente que tenía que utilizar.\nAdemás resaltar su calidad humana y su trato formidable.\nMe dejaría aconsejar por ellos en cualquier momento.\nDesde luego recomiendo a cualquier persona ponerse en sus manos.\nGracias por todo .",
+          Images: null,
+          When: ""
+      },
+      {
+          Name: "MGee Simon",
+          ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJcJ-5Xbj_a-l3ADVNQOC0g_Dgo6Ormr-0H7N73_1QpTt30WQ=s120-c-rp-mo-br100",
+          Rating: 5,
+          Description: "No conocía esta óptica pero el trato desde el primer momento fue muy familiar. Además, la relación calidad-precio es inmejorable y la revisión ocular es completa al 100%. Estoy segura de que volveré pronto.",
+          Images: null,
+          When: ""
+      },
+      {
+          Name: "José Pintado",
+          ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVL8KWjP3IUxnrXP55yJ_3UybZpe294F_8Psu2-m57ejxzW3-0=s120-c-rp-mo-ba3-br100",
+          Rating: 5,
+          Description: "Excenlente trato!!muy profesionales! Totalmente recomendado!",
+          Images: null,
+          When: ""
+      },
+      {
+          Name: "Emilio Soriano",
+          ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXRMF06rCfaEwPxeA-9CQclQPdDAVbNJaq2FgRZLA2E8YiLNBQL=s120-c-rp-mo-ba3-br100",
+          Rating: 5,
+          Description: "Excelentes profesionales.  De lo mejor en pruebas y soluciones oftalmológicas y audición. Soy cliente 37 años. Creo que está todo dicho.",
+          Images: null,
+          When: ""
+      },
+      {
+          Name: "Estenova Clínica Veterinaria",
+          ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUQvOqag3M5dbyE5RU8w4vxRWpTK0x_WtVmI6XOuogELm74uL7-=s120-c-rp-mo-ba3-br100",
+          Rating: 5,
+          Description: "Experiencia, profesionalidad y trato inigualable. Llevo toda la vida usando lentillas y gafas y sin duda alguna son los mejores ópticos de todos los que he conocido. No hay mejores profesionales a los que confiar tu visión",
+          Images: null,
+          When: ""
+      },
+      {
+          Name: "FPA FPA",
+          ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU9xsKjkx7v1s1mxepg4Z_rCI4882peVDvap4eH8G7UNj8EcIlx=s120-c-rp-mo-ba4-br100",
+          Rating: 1,
+          Description: "Ningún interés en atender al cliente.\nDe hecho me parece que no volveré, tras la experiencia en mi última visita, habiendo sido cliente desde sus inicios, por el trato recibido por la nueva dirección.",
+          Images: null,
+          When: ""
+      }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Óptica Siglo XXI Murcia",
+  category: "Óptica",
+  address: "Av. Marqués de Los Vélez, 56, 30007 Murcia",
+  description: "Se puede observar que esta óptica es altamente valorada por su excelente atención y la profesionalidad de su equipo. Muchos mencionan específicamente la amabilidad y la ayuda recibida por parte del personal, destacando su capacidad para resolver problemas y ofrecer muy buenos consejos. También se comenta una gran variedad de monturas y modelos disponibles, así como precios competitivos.",
+  serviceRatings: {
+      atencionCliente: 5.0,
+      profesionalidad: 5.0,
+      precio: 4.0,
+      variedad: 4.5
+  },
+  open_hours: {
+      domingo: [
+          "Cerrado"
+      ],
+      jueves: [
+          "10:00–14:00",
+          "17:00–20:30"
+      ],
+      lunes: [
+          "10:00–14:00",
+          "17:00–20:30"
+      ],
+      martes: [
+          "10:00–14:00",
+          "17:00–20:30"
+      ],
+      miércoles: [
+          "10:00–14:00",
+          "17:00–20:30"
+      ],
+      sábado: [
+          "10:00–14:00"
+      ],
+      viernes: [
+          "10:00–14:00",
+          "17:00–20:30"
+      ]
+  },
+  website: "https://www.opticasigloxxi.es/",
+  phone: "968 23 18 06",
+  review_count: 65,
+  review_rating: 4.8,
+  latitude: 37.999187,
+  longitude: -1.13183,
+  user_reviews: [
+      {
+          Name: "Belén Sánchez-Migallón Ramírez",
+          ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWSeDHznlxhhOXb3e2q-gYtaYPupOgJpSYMhnJnqJyKMs-viqx4=s120-c-rp-mo-br100",
+          Rating: 5,
+          Description: "Encantada con Raquel y todo el grupo que allí trabajan , grandes profesionales, en mi caso hacía mucho tiempo que quería ponerme lentillas y no podía por mi alta graduación, aquí tras probar varias veces lo conseguí y la verdad que estoy encanta. Amables y muy resolutivas. Una gran óptica.",
+          Images: null,
+          When: ""
+      },
+      {
+          Name: "Jose Antonio Fernández Giménez",
+          ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIHzttLNkbmXFesiXUYKdSk2n6JVZLT_SmrPBeKQ7kH5ndC=s120-c-rp-mo-ba3-br100",
+          Rating: 5,
+          Description: "Muy satisfecho con la compra que he hecho en esta óptica. Desde el principio me han tratado muy bien, el personal que me atendió fue muy profesional y agradable. Me graduaron gratuitamente y me aconsejaron en los modelos que me favorecían con mis rasgos faciales y mi graduación, con una variedad tremenda de marcas y modelos. Además, tienen diferentes ofertas que me descontaron, dejándome un precio de locos. Ahora veo de maravilla y con estilo personal 😎.",
+          Images: null,
+          When: ""
+      },
+      {
+          Name: "dMencia",
+          ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLPHt8s3fEjGZCpfdhHwq3tDFcsAghr5Pjf_YQV-jHE3QvaaA=s120-c-rp-mo-br100",
+          Rating: 5,
+          Description: "El chico que me ha atendido ha sido super atento, amable y servicial ojalá me tratasen en más ópticas como me han tratado aquí.\n5 estrellas se queda corto para el valor que tiene esta persona.",
+          Images: null,
+          When: ""
+      },
+      {
+          Name: "Andres Martinez Abenza",
+          ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWpw6VZXsAxulc_8NRKMQnGgnYbEq-tLXr50EsaS2IYMJjQ8Sck=s120-c-rp-mo-ba3-br100",
+          Rating: 5,
+          Description: "Gran variedad de modelos profesionales como la copa de un pino!",
+          Images: [
+              "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipPNZFE7HhTNXzHUs1fOadfV16KdvechJXXn8oJf&fid=0x0:0x37dc8734f3beb5a3"
+          ],
+          When: "2025-1-4"
+      },
+      {
+          Name: "Fátima Blanco Seoane",
+          ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJuGN_qvRikSZRrJNiPziIuZXDug5lr5G-RV_MYdUvuvhOn_iaH=s120-c-rp-mo-br100",
+          Rating: 5,
+          Description: "Trato inmejorable. Muy profesionales y amables. Gestionan rápido, precios muy competitivos, un montón de variedad.\n¡¡Un 10!! ¡Gracias!",
+          Images: null,
+          When: ""
+      },
+      {
+          Name: "alvaro palazon bermudez",
+          ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUj_yoDUvVpUYQGgQym4KB9XuaZ-_CXVdv1EOLRss57p_qaoVBhYw=s120-c-rp-mo-br100",
+          Rating: 5,
+          Description: "Muy amables y atentas. Primera vez que iba por una arreglo y la chica fue muy resolutiva y rápida. Gracias!",
+          Images: null,
+          When: ""
+      },
+      {
+          Name: "Carmen Rangel Forteza",
+          ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKW67dSGH8096zaPCdU_5qUZYUlNgvzWuZwEurSRdjwbwgHpQ=s120-c-rp-mo-br100",
+          Rating: 5,
+          Description: "Siempre voy a esta óptica porque son muy profesionales y el trato es excelente. Además tienen modelos de gafas súper chulos.",
+          Images: null,
+          When: ""
+      },
+      {
+          Name: "Almudena Revelles",
+          ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJAJNPcEte1Q-M2XdUFPq19BHV9snyQ9sv5MDPumxGHuapyvQ=s120-c-rp-mo-br100",
+          Rating: 5,
+          Description: "Muy grata experiencia, atendida y aconsejada de manera impecable. Óptica con muchos modelos de todo tipo de gafas para elegir. Trato, calidad-precio, servicio todo perfecto. Repetiría sin duda.",
+          Images: null,
+          When: ""
+      }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Óptica Espinardo Farmaoptics",
+  category: "Óptica",
+  address: "C. Mayor, 74, 30100 Murcia",
+  description: "Esta óptica a menudo recibe elogios por su servicio al cliente amable y atento, donde los clientes se sienten bien atendidos. El personal es descrito como profesional, ofreciendo productos de calidad a precios razonables. Muchos agradecen la ayuda y la paciencia mostrada, particularmente por Esther y Yolanda. Sin embargo, hay un caso de un cliente que informa una experiencia negativa con respecto a la profesionalidad durante un examen de la vista.",
+  serviceRatings: {
+    atencionCliente: 4.0,
+    profesionalidad: 4.0,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "17:00–20:00"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "17:00–20:00"
+    ],
+    martes: [
+      "9:30–13:30",
+      "17:00–20:00"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "17:00–20:00"
+    ],
+    sábado: [
+      "Cerrado"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "17:00–20:00"
+    ]
+  },
+  website: "",
+  phone: "968 85 93 90",
+  review_count: 13,
+  review_rating: 4.5,
+  latitude: 38.010038,
+  longitude: -1.153173,
+  user_reviews: [
+    {
+      Name: "Inma Cano",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVb_OnQxsSFU1Ka-UERku-jx0ou6PnVmwAAorRFDzEZyBPBr50=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Llevo años confiando en Óptica Espinardo y siempre me han hecho sentir como en casa. Trato sencillo y familiar. Buenos profesionales con productos de calidad a buen precio. Muchas gracias Esther! y también a Yolanda! Siempre disponibles! Un saludo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alvaro Lujan",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUXR4wnqzXIanOwFj_Avsha1TqZ70rV05S1is7z7V3_-r0bNqqZ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Una óptica excelente, con un trato al cliente magnífico, y el personal una maravilla, con muchísima paciencia, atendiendo a cualquier cosa, y las pruebas para aprender a poner y quitar las lentillas un lujazo, Recomendadisimo!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mónica Gonzalez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWaph6m7U9jcb19q1YD9eb46eUVVlQz4OzVgJPy5_QlEBzrRBow=s120-c-rp-mo-ba6-br100",
+      Rating: 5,
+      Description: "Atención de lujo, toda una profesional Esther, siempre te aconseja lo mejor para ti aunque ella no gane, eso no lo hace nadie y con gafas de primeras marcas, todas preciosas, me llevaría un saco.\nSiempre que puedas vete que merece la pena y precio a competir",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Arturo Castillo Martinez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXrNUeAB2fbzUfGUZsJ7plHS73NwOmzPdltvtgAYSDNsyPQzLSb2w=s120-c-rp-mo-ba4-br100",
+      Rating: 1,
+      Description: "Voy a una óptica para que me mida la visión desde un punto de vista profesional, no paró de repetirme que estaba ciego (por lo menos 10 veces conté yo). Eso no es trato a un cliente, ya me he dado cuenta que no veo bien y por eso acudo a usted, una supuesta profesional, no dudo de la titulación sino de la profesionalidad. Nefasto el trato, y jamás se me volvería a ocurrir entrar. Me faltó la pintura, porque la chapa me la dieron.\nGracias",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pedro Alfonso Lopez Sanchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKEEZkWxd4MKBnQD5MJSKx9I29sekULYAe8uZOZ050zvjDKow=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Unos profesionales con experiencia y con un trato muy personal. Tienen una amplia variedad de gafas de sol y monturas donde elegir.\nSiempre que necesito unas gafas acudo a ellos",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "María Galindo Nicolás",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI9RS1e3XyjlDgHHQ_vI-pnHvA2cPOjIXpwK4G9kje3gf5f0Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Destaco sobre todo la gran profesionalidad y amabilidad a la hora de tratar a la clientela a la vez de demostrar una gran calidad humana. Recomendable totalmente, saben aconsejarte y son un personal muy atento.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Sergio",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKMIKLnJau0LkLIr3yvT17Pzob2DLTbonqURvnWkWYyqVqSQA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La mejor óptica de Murcia, y cuenta con las mejores profesionales. Yolanda y Esther gracias por vuestra ayuda y paciencia conmigo. 😉",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Loli MM",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIJBiVPs-MglFzEIS1D7wtT28L3ybXO3PvVKqYiECYv9ITRbg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Grandes profesionales y mejores personas. Todas mis gafas son de aquí. Muchas gracias..",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Terapia Visual Murcia",
+  category: "Optometrista",
+  address: "Pl. Emilio Díez de Revenga, 4, 30008 Murcia",
+  description: "Este optometrista es muy valorado por la excepcional profesionalidad y el amplio conocimiento demostrado por José. Los clientes, incluidos aquellos de otros países, aprecian las explicaciones claras y pacientes, los ejercicios personalizados proporcionados y la dedicación para ayudar a personas con diversas afecciones visuales, como la ambliopía y la exotropía. El servicio de consulta en línea también es muy valorado.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "16:45–20:00"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "16:45–20:00"
+    ],
+    martes: [
+      "9:30–13:30",
+      "16:45–20:00"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "16:45–20:00"
+    ],
+    sábado: [
+      "11:00–13:30"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "16:45–20:00"
+    ]
+  },
+  website: "https://terapiavisualmurcia.com/",
+  phone: "968 24 18 18",
+  review_count: 48,
+  review_rating: 5,
+  latitude: 37.991622,
+  longitude: -1.135168,
+  user_reviews: [
+    {
+      Name: "María José Jara",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIZnYXi3lR9bALctHJWKfsGLRFNJPaLCB71c4ZK_jpLOQjKLw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Estoy feliz de haber contactado a José para hablar de la ambliopía de mi hija, aprendí y entendí como poder mejorar esta condición y que mi hija pueda mejorar su visión. Muchísimas gracias por todo lo aprendido.\nRecomiendo la posibilidad de optar a una videoconsulta para quienes no viven tan cerca de donde está su clínica, cómo nuestro caso que somos de Chile\nExcelente atención y un gran profesional para explicar cada duda y cada ejercicio que debemos hacer.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "daniela valenzuela",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKf8bXOIQSY6b8Gak9Y1-JWahYek3QzvZFm_Y-vr_19EAxFtg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Es un excelente profesional... mucho conocimiento... claro en explicar , paciencia para responder y se da todo el tiempo del mundo para la atención!\nLo recomiendo al 1.000 porciento! Soy de Chile y tenia mucho temor que no fuera real .  Pero sí!  Muy muy recomendado",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "MARIELA RAMIREZ N.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWE0ldcVebN9v7doBeK3OxF4ES1U7saiyAaCpUXSQAe9oZaOPaG=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buscando ayuda de un optometrista encontré videos de un profesional que con las característica de motivación, empatía, conocimientos y ganas de ayudar en cada caso se compromete ayudando en conocer el caso de quienes lo requieren y busca ejercicios personalizados ..,en mi caso lo contacte desde chile y me dio varias ejercicios visualmente que sin duda en dos meses seguiré poniendo en marcha. Ser constante en todo ayuda. Material para imprimir , ejercicios, consejos de ayuda en cualquier momento. Lo recomiendo totalmente. Es comprometido con  quienes buscamos un tratamiento complementario de visión Felicitaciones José y su Equipo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Tatiana Aguirre",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVAaxZZulVPJIJTZGYG7RT1KymLJCQZua98vy9oKk0i5NNBlM43Xg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Acudimos a Jose para pedir una segunda opinión online,  ya que no estábamos muy seguros del tratamiento que le habían mandado a nuestra peque. Después de la consulta quedamos totalmente tranquilos y seguros de qué era lo mejor para ella y el porqué . La manera en que te explica las cosas, lo atento, profesional y el tiempo que te dedica no se encuentra en otra parte ! La verdad que totalmente contentos!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "adam adam",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK_9h7a0mviYvopkGsSyByXN4u0srK40aoK7k8uZ2UTWgjaJw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Una consulta online de 1h en la que al final doctor José me dedico un poco más de su tiempo. después de leer y ver tantos vídeos para buscar una posible solución o mejoría para mi hijo con hipermetropía encontré un vídeo de José en YouTube donde daba consejos para mejorar la visión de personas con este problema. agradezco el esfuerzo y las ganas que tiene de buscar trucos y ejercicios para ayudar a nuestros pequeños.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ele",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLmdMrS4EbEBGW_KafrFkvbN2l8fIhp3knvmDCv2cUT_oVu4g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Gran profesional. La consulta ha sido muy interesante, todo muy bien explicado y detallado(ejercicios,juegos....). Sin duda repetiré. Llegué a él por una exotropia de mi hija pequeña y sin duda alguna quiero que Jose realice seguimiento a mi pequeña Muchas gracias.Lo recomiendo 100%",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mihaela",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWnIqo_WVDePcF-Izx7jzfg7UmYPv_UxAhP4m89PDfOza622swo=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He contactado Jose por correo por qué tenía impresión de tener un pequeño estrabismo, desde el minuto uno siempre ha respondido rápido y me ha explicado que es lo que puede ser y como poder arreglarlo.\nDespués he hecho una consulta online y puedo decir que en todo momento me ha explicado todo con precisión y me ha dado las indicaciones para resolver mi problema de estrabismo. Y confío que con su ayuda voy a resolver mi estrabismo.\nJosé es un gran  profesional y os lo recomiendo con los ojos cerrados.\nNo dudéis en contactarlo si tenéis dudas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Víctor M R M",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLdOx2FT6suHUfn1qTMrSPiFdSFk8TbzThveJopxYVhZTJUxA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "José es un profesional que adora su trabajo y eso se nota en el buen hacer que tiene con sus pacientes. Además de resolver las dudas que tenía al respecto sobre la mejor forma de tratar a mi hija y que ejercicios llevar a cabo , derrocha empatía con sus pacientes y con los papás/mamás de los mismos. Totalmente recomendable para tratar cualquier duda o problema que tengas con tu visión o la de tus peques.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Óptica Oro",
+  category: "Optometrista",
+  address: "Av. San Juan de la Cruz, 6, 30011 Murcia",
+  description: "Este centro óptico es reconocido frecuentemente por su excepcional servicio al cliente, con muchos clientes leales de más de 20 años. El personal, particularmente Maite, a menudo se describe como profesional, empático y muy útil. Las personas aprecian los exámenes de la vista exhaustivos y el asesoramiento personalizado proporcionado al seleccionar gafas, incluidas las progresivas y las de sol. Además, algunos revisores han notado la disponibilidad de buenas ofertas.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:30–20:00"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:30–20:00"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:30–20:00"
+    ],
+    miércoles: [
+      "10:00–13:30"
+    ],
+    sábado: [
+      "11:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:30–20:00"
+    ]
+  },
+  website: "",
+  phone: "968 34 63 05",
+  review_count: 144,
+  review_rating: 5,
+  latitude: 37.979443,
+  longitude: -1.12252,
+  user_reviews: [
+    {
+      Name: "Mariage",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJZ_IHTlXuZTQ6aPROXQuZ-WcBOKedVeQcIOlb-ZjhB73wtrQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Es mi óptica de confianza después de casi más de 20 años. Maite es un encanto y muy profesional. Te atiende siempre con una sonrisa y me dejo aconsejar por ella ya que es la experta. Muy recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana Luisa Gonzalo Vivancos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXyGGosEZZF56pDajkXxtsn65Vn2SPnN9kl-d8jHJ_ge40SIWjf=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Gradúa muy bien, cosa muy importante, sobre todo cuando se trata de cristales progresivos. Además, el trato es excelente. Estoy muy contenta de que sea mi óptica de toda la vida. Es una garantía de que mis ojos están bien cuidados",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Javier Mtz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXItf09MMc5iFFETGrMBCrHAYghDDdSO8bnDXR9NUmvCTflexzk=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "El mejor trato al cliente que puedes tener en una clínica, tras más de veinte años siendo cliente puedo decirlo sin miedo a equivocarme. Si quieres cambiar de gafas o lentillas y quieres un buen asesoramiento no lo dudes.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipNQChb-WrG25gyYmTZtR96oF8cHn5ilnVULIoWS&fid=0x0:0x3289df9310edaf1e"
+      ],
+      When: "2024-7-18"
+    },
+    {
+      Name: "Elena",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKlABRczgBoW0YQ7i-eUhXgksm2g2oFkEYcgFfkcbm_wOqdFg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Soy clienta de esta clínica desde hace muchos , pero que muchos años, y aún viviendo en la otra punta del mundo seguiría acudiendo a ella. Mayte rebosa profesionalidad, empatia, excelente trato, paciencia y se adapta a tus necesidades aconsejándote siempre lo mejor. No lo dudes , está es tu Optica de confianza.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria Luisa Ballester",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX2Iz3VvtCqe2fRcwn7RvS-JGbzVsoXJFk2njAiQ7W8ds3ZqNo=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Hace años que compro las gafas de sol en Óptica Oro, pero este verano fui a por gafas para presbicia y estoy muy contenta con ellas. Mayte es además de muy profesional, simpática. Escucha al cliente y sus necesidades y te ofrece lo que cree que se ajusta más a tus necesidades. Buenas ofertas también.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ariadna marin garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVzgef3VgDhFJSR7fcaGYUWKtIqN0I_tlJpg-k9ymFdXVACiXgm=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buena experiencia! Me hacía falta graduarme la vista y cambiar los cristales a mis gafas. Maite lo hizo atentamente y me quedó una graduación perfecta!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "mercedes pozo hernandez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIam_eaJ7sis7D_aPtQPiic2QUDoeLpyV4HvgQaB4LXDc4v=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente óptica, muy recomendable, un trato muy profesional  por parte de Maite,  paciente, meticulosa, simpática y encantadora, todo un acierto.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jeniffer Irene",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXd-io3cmDWkNVWbtZ3y3-czlvh3Wu0HjhT-rNRMsPntnRjvi5FwQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Mi optica de confianza! Llevo años y seguiré yendo a la misma. Buen trato de parte de Mayte que es una profesional que ama lo que hace sus clientes!",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Óptica y Centro Auditivo Soloptical Murcia Atalayas",
+  category: "Óptica",
+  address: "Calle de Molina de Segura, 10, Local B11 41/40, 30007 Puente Tocinos",
+  description: "Este establecimiento óptico se distingue por la amabilidad y profesionalidad de su personal. Los usuarios han destacado la eficacia del servicio postventa y la atención recibida por parte del encargado y sus compañeras. Se valora positivamente el trato hacia los clientes, incluyendo a los más jóvenes, y se menciona una buena relación calidad-precio. Además, los visitantes han encontrado una selección variada de gafas, incluyendo opciones para niños.",
+  serviceRatings: {
+    atencionCliente: 4.5,
+    profesionalidad: 4.0,
+    precio: 3.8,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–22:00"
+    ],
+    lunes: [
+      "10:00–22:00"
+    ],
+    martes: [
+      "10:00–22:00"
+    ],
+    miércoles: [
+      "10:00–22:00"
+    ],
+    sábado: [
+      "10:00–22:00"
+    ],
+    viernes: [
+      "10:00–22:00"
+    ]
+  },
+  website: "https://soloptical.net/es/soloptical-atalayas/?utm_source=google_my_business&utm_medium=boton_sitio_web",
+  phone: "638 76 96 39",
+  review_count: 443,
+  review_rating: 4.8,
+  latitude: 37.992001,
+  longitude: -1.112489,
+  user_reviews: [
+    {
+      Name: "Mamen Fdez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKgrkmxmGgRvPhH1qll0UdLFTRp8DQno42NhNyAX0UpV12iZQ=s120-c-rp-mo-ba3-br100",
+      Rating: 3,
+      Description: "Hemos ido esta mañana a la óptica, nos ha atendido una chica, rubia con el pelo largo, que ha estado todo el tiempo, masticando chicle. La que me ha graduado la vista, muy agradable y profesional, un diez para ella.\nPero de verdad, alguien debería decirle a la chica del chicle, que no puede atender así a las personas, que es una falta de educación.\nAdemás cuando tenía que hablar y no masticaba chicle, se lo dejaba quieto en la boca, y no sé qué era mas desagradable ,si el ver cómo masticaba chicle, como si no hubiera un mañana o verlo pegado en un diente mientras hablaba. Una pena",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "J A",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKa71JLZSYnqn6cU2bnnRZYoQbix42KDVu-4NW9MSKfP7U71Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Una vez más el servicio posventa, ha sido genial y estupendo, pues se me rompieron mis lentes. Tanto el trato, como la atención por parte del encargado y sus compañeras ha sido muy eficaz. E incluso pensando en comprarme unas nuevas....\nMuy contento con esta óptica que recomiendo 💯x💯 .",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juan Antonio Turpin Lopez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL-Eqww27udjafEdxszGQChZXK0SM0swkDWZ6Di_TAC8AqN7g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He estado esta tarde en vuestra óptica y me he venido súper contento por el trato que habéis tenido hacia mi hija. Sobre todo una chica baja, rubia que si no me equivoco se llama Almudena es la primera primera vez que voy y me voy super satisfecho por el trato y calidad precio.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Vanesa muñoz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJMLv5KPjniefjJHNDHK3INKkcHzpT4dRgHmHQw1RjgsQMz1w=s120-c-rp-mo-br100",
+      Rating: 4,
+      Description: "Nos atendió Almudena, una chica muy agradable y eficaz , tuvo mucha paciencia con nosotros porque no teníamos muy claro que tipo de gafas llevarnos . Por el contrario la que parecía su encargada , Soraia se acercaba a ella para meterle prisa de mala manera delante de nosotros, los clientes.\nElla solo nos dedicó el tiempo necesario, ni más ni menos . No veo bien la manera en la que habló Soraia a su compañera Almudena , ella solo nos estaba ayudando a elegir bien unas gafas , nos estábamos llevando dos , no es algo que se pueda coger a la ligera .\nLa óptica muy recomendada y la atención al cliente excelente .",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Concha Espinosa Bernal",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU2A2wx_7vYH_Zsps7l42gMGSWNDeTzKo3Yx6u1hzUpDz5zr3A9=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Esta óptica se encuentra ubicada en el Centro Comercial de Ociopia.\nMe ha resultado gratamente que los sábados por la tarde puedas acudir a una óptica.\nLas empleadas son encantadoras y muy amables.\nY hay multitud de gafas para elegir y lo que más me ha gustado es que habían gafas para niños( kids).",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipNu0SD6TFCHjNHFtJobzAEG8SUnXrPbeQimCm5r&fid=0x0:0x6a43cfd8c7104c1f"
+      ],
+      When: "2023-10-1"
+    },
+    {
+      Name: "Francisco Gómez García",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL-032a_ykxGPhXjqcYEpt1QK3mW0_WZLH0MQ7ZTudW9_A0ug=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Las personas que me atendieron muy profesionales, agradables y de un trato exquisito. La empresa debe sentirse orgullosa de contar con ellas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose Egidos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWMoFYIXp6C7ApFPccc7pjB6i73Sg4cd-lYVZour_OPm92jbqrH=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente trato y servicio. Nunca había usado lentillas y el encargado me lo ha explicado todo amablemente y de forma clara y sencilla. Un 10!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "ivan perezgarcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXDu4TBfy2G-po2wwikyWsvmUOQy1whGxbWxMDi_YZbLbSm6szoAw=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "\"Visita satisfactoria a Soloptical: Buena selección y servicio atento\"\n\nEn mi reciente visita a Soloptical, encontré una selección razonable de gafas y gafas de sol que, aunque no era excesivamente amplia, ofrecía suficientes opciones para considerar. Fue agradable ver una variedad de estilos y marcas que se adaptaban a diferentes gustos y necesidades.\n\nLo más destacado de mi experiencia fue sin duda la atención brindada por el empleado. Su amabilidad y profesionalidad fueron constantes, y al hacer recomendaciones sobre gafas y soluciones para lentillas, mostró un conocimiento sólido y una confianza en lo que aconsejaba. Esta actitud me proporcionó tranquilidad y ayudó a que la decisión de compra fuera más fácil y segura.\n\nAprecié la combinación de una selección de productos adecuada con un servicio al cliente de calidad. Estos factores hacen que Soloptical merezca una visita para aquellos que buscan productos ópticos. La competencia y seguridad del personal en su conocimiento del producto mejoraron mi experiencia y me dejaron con una impresión positiva. Consideraré volver a Soloptical para futuras necesidades ópticas, basándome en el servicio atento y la selección satisfactoria de productos.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipP0W18YV9FgKpHFTz3boku3OO-MYM6MkUACGLIZ&fid=0x0:0x6a43cfd8c7104c1f"
+      ],
+      When: "2024-2-10"
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Centro Óptico Sánchez",
+  category: "Óptica",
+  address: "Av. Príncipe de Asturias, 1, 30007 Santiago y Zaraíche, Murcia",
+  description: "Este centro óptico sobresale por su excelente atención y el trato profesional y amable de su equipo, especialmente Dani y Ana Cristina. Los visitantes han quedado muy satisfechos con la calidad de las gafas y la profesionalidad demostrada. Se destaca la amplia variedad de monturas disponibles, con opciones modernas y elegantes, así como los precios competitivos. Los usuarios también resaltan la honestidad y la dedicación del personal para ofrecer el mejor servicio.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.9,
+    precio: 4.5,
+    variedad: 4.7
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–14:00",
+      "17:00–21:00"
+    ],
+    lunes: [
+      "10:00–14:00",
+      "17:00–21:00"
+    ],
+    martes: [
+      "10:00–14:00",
+      "17:00–21:00"
+    ],
+    miércoles: [
+      "10:00–14:00",
+      "17:00–21:00"
+    ],
+    sábado: [
+      "10:00–14:00"
+    ],
+    viernes: [
+      "10:00–14:00",
+      "17:00–21:00"
+    ]
+  },
+  website: "https://sanchezcentrooptico.com/",
+  phone: "968 96 70 11",
+  review_count: 39,
+  review_rating: 4.9,
+  latitude: 38.000209,
+  longitude: -1.137521,
+  user_reviews: [
+    {
+      Name: "Gines Valera Sanchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLc1FSrJw7uQgg8YVbdZb-MYMV9GwsqYDtBR4G-hLxBEs0NNA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He tenido una experiencia excelente en esta óptica. Tanto Dani como Ana Cristina son muy profesionales y amables, siempre dispuestos a asesorarte teniendo una atención personalizada. La variedad de monturas es amplia, además de tener muy buenos precios. Cuentan con opciones modernas y elegantes para todos los gustos. Además, el proceso para elegir mis gafas fue muy rápido y sencillo. La calidad de los productos es excelente y la atención al cliente es de primera. ¡Definitivamente la recomiendo para quienes busquen buenas gafas y un servicios de calidad!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rafael Escamez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUokpnfiMm0jQ9WDNmq9miBdBQrpkycb0ExEQgI3tj9wPO_zsI=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Jóvenes, pero muy profesionales y honrados, y se preocupan por dar el mejor servicio. Desde que los descubrí es mi óptica de referencia. Me alegra mucho ver que no soy el único que piensa así.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Carmen Espín",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIKpVpeN0HIgrLmSUt2Ecur88gZkn3g1LQrktUQ7qO9mS-3Xw=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Mi experiencia en centro óptico Sanchez, ha sido muy buena, contentísima con mis gafas y muy agradecida con el trato recibido y profesionalidad, gracias",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Isa Gallego",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ5kL6PAu4hDVaHbB_qInPwDQ2pNbN6jVTKO-1avrJVXXH5GD4=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Brillan en profesionalidad✨ Mis padres y yo hemos ido tanto a comprar gafas de ver, gafas de sol, así como a revisiones de la vista  y el trato siempre es de 10!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Michael Sanchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV2AEw2h-VFezt7r_FZZRspRucvbB8BGpZ96v8n0ILXP0310p93=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Recomiendo la óptica Sánchez por sus gafas y por los consejos de Daniel y Ana! 🙏🏼🤗",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana Belén Mínguez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW2vUHwzjb9dgPvsu5XyhSUrVWou00xoL9NuW81s0IvfBhNIwg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Llevo gafas y lentillas toda la vida y son, sin duda, la mejor óptica de Murcia por muchos motivos.\nLa variedad de modelos, los  precios son increíbles, su servicio post venta, el trato, la profesionalidad, humanidad, honestidad, fidelización del cliente y seriedad.\n¡Son encantadores!\nMe la recomendaron hace años y ahora yo la recomiendo a todo mi entorno.\nNo van a sacarle al cliente el dinero, te aconsejan lo más ventajoso, muchas veces en detrimento de su beneficio.\nFácil aparcamiento en la zona y gratuito, amplio horario.\nRecomendo 200%",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose Alberto Egea Larrosa",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLruAXDa5YAmtPB09DqWPdWsc4pDB0YosC846zi71Qcp1N4MQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelentes en trato, profesionalidad y honestidad. Siempre buscando lo mejor para el cliente y ofreciendo toda la información sin escatimar en tiempo dedicado o número de pruebas realizadas. Fue un gran descubrimiento y son ya mi óptica desde hace años.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rebeca Munara",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXHJPOfR6k4yuV5NARFS35vHkYqHajNC-pRX8CYQ7o0cL4rdp8f=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Recomiendo Centro Óptico Sánchez; tiene una gran variedad de productos de calidad y a muy buen precio. Pero lo mejor son Ana y Daniel, dos profesionales que conocen su trabajo y se nota que les gusta. Empatizan, te atienden el tiempo que sea necesario y te asesoran hasta que te marches con lo que verdaderamente necesitas. ¡Mis nuevas gafas en 48 horas! Muchas gracias por todo. Aquí tenéis a una nueva clienta.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Prodevisión",
+  category: "Óptica",
+  address: "Cam. de Enmedio, 131, 30006 Puente Tocinos, Murcia",
+  description: "Esta óptica online es valorada por sus precios competitivos, especialmente en gafas de sol y lentillas, así como por la rapidez en la entrega de los pedidos. Algunos usuarios han destacado la buena atención recibida a través de correo electrónico y teléfono, así como la calidad del embalaje. No obstante, se han reportado incidencias relacionadas con la calidad de los productos y la respuesta ante problemas postventa.",
+  serviceRatings: {
+    atencionCliente: 3.8,
+    profesionalidad: 3.5,
+    precio: 4.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Abierto 24 horas"
+    ],
+    jueves: [
+      "Abierto 24 horas"
+    ],
+    lunes: [
+      "Abierto 24 horas"
+    ],
+    martes: [
+      "Abierto 24 horas"
+    ],
+    miércoles: [
+      "Abierto 24 horas"
+    ],
+    sábado: [
+      "Abierto 24 horas"
+    ],
+    viernes: [
+      "Abierto 24 horas"
+    ]
+  },
+  website: "https://prodevision.com/es",
+  phone: "617 35 75 88",
+  review_count: 17,
+  review_rating: 4.3,
+  latitude: 37.990343,
+  longitude: -1.100249,
+  user_reviews: [
+    {
+      Name: "Mj Ros",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXG4HF0ByWI-TBLlG91iFtFvX2cBIB_RIXwjfbSdASnUvP2-x94=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Compré hace 1 semana unas gafas de TOUS y he de decir que volveré a comprar en esta tienda.\n1° Por el embalaje. (muy protegido)\n2° La rapidez del envío y la logística. (1 semana en recibirlo y envían mensaje para todo) ((Lo que da confianza y seguridad))\n3° Los precios 💯\nAsí que… la recomiendo.✌🏻",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Antonio Diéguez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLoaeRMj1SxmSaPKS9jgeteW1ysibSXPHFERpZCM8afYEQj2w=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Compré unas gafas Ray Ban y, con un uso normal, en poco tiempo los cristales están llenos de rayaduras. Reclamo a prodevisión y me dicen que el fabricante alega que no es un defecto de fabricación y no entra en la garantía. Se ve que Ray Ban ya no fabrica productos de calidad y prodevisión vende estas gafas de calidad de mercadillo con precio de gafas de marca. No volveré a comprar en esta tienda y no lo recomiendo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juan Mendes",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUeOOHHF6AxcqvLs5COCTTDkwX07CZ3JEGSKaON1VPyMXS6oMWW=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Muy buena experiencia. Tiene los precios en gafas de sol más baratas que en Madrid por eso me decanté por comprar aquí. Además, las lentillas están al 40% más baratas. Hice el pedido y en menos de 15 días las tenía en mi oficina. Muy contento y volveré a comprar!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "francisco manuel montañés rosa",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUTh8seeI354bPZSiekj66Gc0NBHA9qfa6_FXFLzoLEclBJY0s=s120-c-rp-mo-br100",
+      Rating: 2,
+      Description: "De momento hice una compra el día 10. Me mandan un email diciendo que me llegarán en 5 o 10 días laborales.\nSeñores que son unas gafas no un sofá a medida. Eso en 24 horas tiene que estar en casa del cliente.\nDe momento dos estrellas. Cuando lleguen ya veré lo que le pongo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Tize True",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW1aUl1Wgb5oHi8r54Hnst3mkDY_gGqKBSwBW8UgDMsMMLkYpj4Og=s120-c-rp-mo-ba6-br100",
+      Rating: 5,
+      Description: "Excelente empresa donde ofrecen y dan un trato estupendo a todos sus clientes, gran atención vía e-mail y telefónica al igual que sus precios que es lo que lo hace aún más atractivo comprar en su página web.\n\nHe comprado muchas veces recibiendo los productos en tiempo récord, bien embalado y con código de seguimiento de la mercancía.\nMuchas gracias!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Renatta Bolta",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKQ_bL9KGbyUifq1po1xpL8-RFS5FMqZfaFEMTTVDTwYiWlyg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Compre unas gafas hace poco,muy buen trato...cualquier duda que tuviese me la solucionaron al instante. Calidad-precio de lo mejorcito. Envio perfecto, en 2 dias ya tenia mis gafitas en casa. Muy satisfecha",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juan Pedro Lora",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJhrOYgfxYQFMSbhGsQ7BS2KgVQD7J2lZzzdiSCA-O2q7A9-A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Hice el pedido un viernes y el lunes ya lo tenía en casa. Muy buenos precios y buen servicio. Volveré a repetir  con ellos sin duda.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alfredo B.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVtUDtqV8SBKd_yHDlTkbZqbC1SMb-6QnZpbhLYwWGI8KsNdk9sWg=s120-c-rp-mo-ba3-br100",
+      Rating: 1,
+      Description: "Si todo va bien, no hay problema (como en todos los sitios), pero ojo con que surja la más mínima pega, que entonces NO RESPONDEN. MUY MAL\nNO SE FIEN DE ESTA EMPRESA",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Alain Afflelou Óptico y Audiólogo Murcia Avda Constitución",
+  category: "Óptica",
+  address: "Av. de la Constitución, 6, 30008 Murcia",
+  description: "En este establecimiento óptico, la atención al público es consistentemente elogiada, con menciones frecuentes a la amabilidad y profesionalidad de empleados como Pilar, Cristina y Joaquín. Los usuarios valoran el asesoramiento recibido y las ofertas disponibles, incluyendo descuentos y promociones en múltiples gafas. Además, se destaca la variedad de productos ofrecidos.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.7,
+    precio: 4.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–14:00",
+      "17:00–21:00"
+    ],
+    lunes: [
+      "10:00–14:00",
+      "17:00–21:00"
+    ],
+    martes: [
+      "10:00–14:00",
+      "17:00–21:00"
+    ],
+    miércoles: [
+      "10:00–14:00",
+      "17:00–21:00"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–14:00",
+      "17:00–21:00"
+    ]
+  },
+  website: "https://www.afflelou.es/opticas/murcia/afflelou-calle-gran-via-escultor-francisco-salzillo-5-30004?utm_campaign=gmb&utm_medium=organic&utm_source=google_gmb",
+  phone: "968 41 65 16",
+  review_count: 103,
+  review_rating: 4.9,
+  latitude: 37.990091,
+  longitude: -1.131509,
+  user_reviews: [
+    {
+      Name: "Mary",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXticGiClYc5OBm5acgXzEZ8YEbWxcYdAi6sAJ_nSuVyjMKT-QmBQ=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Pilar es muy buena dependienta, la experiencia ha sido muy buena y me han ofrecido los mejores descuentos y asesoramiento. Servicio muy rápido.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "XY J",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXrYz4gRvnj3iigy2K13pB7TZqCrLzt9jXb9odl-HS800Ixoa_e=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "El chico y la chica (Cristina) que estuvieron el 29 de noviembre a las 19:30 (la hora de mi cita), han sido realmente amables, me han aconsejado según mis preferencias y han hecho la experiencia mucho más amena y llevadero, ya que suelo der muy indecisa para elegir una montura. Estaba ahí para renovar mis gafas con la increíble oferta que tienen por Black Friday💖\n\nMuchas gracias por todo, estoy a la espera de que lleguen mis gafas 🥸.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipPTT6Zm8ROg-UrM4ipAasONSK5lp7uuuFN4V5jF&fid=0x0:0x5c5d1ab01e08a46c"
+      ],
+      When: "2023-11-30"
+    },
+    {
+      Name: "Rocío Martín Sevilla",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXeZFPPfeuevalDDHsTMq-ne8HA56jKmiAI6W3sBuzXCH-vJ9bP=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fui a acompañar a una amiga a comprarse unas gafas y ya aproveche yo también la promoción de 3 gafas. Por otro lado, me gustó el trato profesional de Cristina y el asesoramiento, además también estaba Joaquín y muy majo también. Volveré sin duda.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Xincheng Ji",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWYgUxEN79Vw1IM8twA3-NK1DvoGeV0TyF9vgtShYa0r-5rtdw=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Muy atentos y amables. Nos atendió un chico (lo siento, no pregunté tu nombre) y Cristina. Los dos se comportaron muy bien. Llegamos en el último turno que había y Cristina se quedó con nosotras hasta más de la hora de cierre, el chico se tuvo que ir porque terminaba su turno.\nTienen la opción de ponerte lentillas para poder ver mejor a la hora de elegir la montura. Te ayudan con todas tus dudas y los precios. Pillamos la oferta del Black Friday por descuento en la montura y Clips Magic. Óptica súper recomendada. No dudaría en volver.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Danna López",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXtl0FE-wtkcBI6UMcdbIkKO_cgMQUHZxYaB9si5yee5RT-IglN3g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Lo primero que destacar de este lugar es el trato excepcional por parte de los ópticos Cristina y Joaquín, grandes profesionales y, de segundo, los buenos precios de sus productos, lo de las segundas/ terceras gafas a 1 euro es un chollo 🤯. La verdad que me ha sorprendido para bien está cadena.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Tammy hdez cano",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKxrBEG-WZVktjyjBowXxtWdDxNVVbnJgIN5BVsemuGWNgpvw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "El trato excelente y la variedad también. Me encantó cómo me atendió Pilar. Sin duda volveré siempre.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose Manuel Galvez Cas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU1smXssH40AiDi5Y5-KknyLQ9Q3369fH07y7vVGXRjtqkAwYowrA=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "He realizado varías compras allí y sólo puedo hablar de profesionalidad por parte de Joaquín, que en todo momento me ha asesorado en mi beneficio y no el suyo propio.\nSon formas de trabajar que hacen que hable bien de esta empresa y recomiende a mi círculo de confianza. Buenos precios y personal de 10.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marcio Más",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWPoY1zGzDRMd7qNn2Z3fw_kI5vAKm3c9tR91DRT0Lip-qkPGmI=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Lo mejor sin duda la atención al cliente por parte de Pilar (sino recuerdo mal el nombre). Totalmente personalizada, con buen criterio, e ideal para indecisos como yo a la hora de escoger gafas.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "MIOPTICO ZARAICHE Óptica y Audiología",
+  category: "Óptica",
+  address: "Av. Miguel de Cervantes, 106, 30009 Murcia",
+  description: "Esta óptica se distingue por la atención muy correcta y profesional que ofrece su personal, quienes demuestran un amplio conocimiento en el sector. Los usuarios destacan la inmejorable atención recibida y el trato genial por parte del equipo, incluyendo profesionales como Javier. Además, se percibe una buena variedad de gafas y una excelente relación calidad-precio.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 5.0,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–14:00",
+      "17:00–21:00"
+    ],
+    lunes: [
+      "10:00–14:00",
+      "17:00–21:00"
+    ],
+    martes: [
+      "10:00–14:00",
+      "17:00–21:00"
+    ],
+    miércoles: [
+      "Cerrado"
+    ],
+    sábado: [
+      "10:00–14:00",
+      "17:30–20:00"
+    ],
+    viernes: [
+      "10:00–14:00",
+      "17:00–21:00"
+    ]
+  },
+  website: "http://www.miopticomurcia.com/",
+  phone: "868 10 54 69",
+  review_count: 117,
+  review_rating: 4.6,
+  latitude: 38.001637,
+  longitude: -1.141544,
+  user_reviews: [
+    {
+      Name: "Julián",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWkPgq6qjAVMcB1LbHA_O9XuutLz09FGL1G-RkzrDwLmhciCg0=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Desde hace algo más de un año que voy a esta óptica y siempre me han atendido de forma muy correcta y profesional, se nota que saben lo que hacen.\nVolveré sin lugar a dudas",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipML7fWfPCoEklKW5q0Pav5iLmLKfPsQ1lrUsKMw&fid=0x0:0xa1139ca17603cc89"
+      ],
+      When: "2025-2-12"
+    },
+    {
+      Name: "Irina Esteban Comes",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUGmdE3bkfCyOFyQ6_LpoYyddfV8nQl2T5qNYvhsOkutsK5FI9U=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "El otro día fui a la óptica en busca de unas gafas y la atención fue inmejorable. Me aconsejaron tanto con el modelo como con el tipo de cristales, puesto que paso muchas horas con el ordenador. Estoy deseando ir a recogerlas y estrenar las gafas. Una óptica de 10! Sin duda volveré",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "David Hortal",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJicw4bxA1md4RAyaMNlEW6Cv-DoIXKrC4HiXQsm_nBcmjiTQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He ido varias veces y siempre he tenido un trato genial por parte del personal. Estoy encantado con las gafas y lentillas que les he comprado . 100% recomendable .",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Tere AC",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKmOlU03JlEV2_TFXAjv0Ke-BkStg2GS83ygzVZj3lUv5_HZg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato excelente por parte de Javier, gran profesional. Llevé a mi hijo de 10 años para graduación de la vista y renovación  de cristales y montura y salimos encantados con su atención.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rosario Vicente",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIFQKoyX4CqF-UwDDmIP1dDd7C_rcvLmpY0rhnLa_PSgpFTNA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato excepcional por parte de Fran y Javier. Muchas variedad de gafas y muy buenos precios. Sin duda repetiremos mi marido y yo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "maria jose martinez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLH5Znd-Ogl9IokZso6HKmrys4kngJYdY41_GMyaBT_1GuPFQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fui a comprar unas gafas de sol y ademas de tener una variedad muy buena me trataron de maravilla, Javier un magnífico profesional informándome de todo con amabilidad y gran profesionalidad, facilitándome las pruebas y la compra, sin duda volveré.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria Lopez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJQAOOR2JMMpRB9B32bgQtZaOrpJsJOVscsuXelykOtMjB1xw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Tenía un caso algo complicado y me asesoraron súper bien. La calidad de los productos es excelente, y el trato fue inmejorable, son super majos. Sin duda, volveré. ¡Muchas gracias!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juan carlos Gómez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKyIyKMhwyblmCllfm2lR-H0u6BZELnWhBYt7Z4LdWzt90GLw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me ha parecido genial. El trato estupendo. Y en cuanto calidad-precio le doy un 5 de 5 .Seguiré pasando por mi óptico de zaraiche.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Meca Ópticos Princesa",
+  category: "Óptica",
+  address: "C. Princesa, 9, 30002 Murcia",
+  description: "Se percibe que esta óptica ofrece un trato al público que destaca por ser personal, responsable y cercano. Los usuarios valoran la profesionalidad del equipo, especialmente a Carmen, y la capacidad para solucionar problemas de visión complejos. La atención recibida es calificada como fabulosa, amable y muy profesional.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "9:45–13:30"
+    ],
+    viernes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "http://www.mecaopticos.com/",
+  phone: "968 21 58 06",
+  review_count: 67,
+  review_rating: 4.9,
+  latitude: 37.980094,
+  longitude: -1.127832,
+  user_reviews: [
+    {
+      Name: "Francisco Fernandez Cozar",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLHv_UUH6HKr23XSUgQy5douhuBnGEaJUBQuKc2sVf19ibRuQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Desde que me uní a Carmen y todo su equipo por recomendación de que eran las mejores, solo he recibido un trato personal, responsable y cercano. Me han ayudado mucho en el proceso de la oposición con las lentes oculares, y han aportado su grano de arena en este proceso. Les recomiendo totalmente este equipo de profesionales, estoy muy contento con los resultados obtenidos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cristina Chuni",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWxgrUV-TZd-UtgUKBsNQOUxAVQzq9483H9aocvuItOCh2aJgHB=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente óptica, muy profesionales y me ayudaron a darle solución a mi problema de queratocono, me habían dicho que mi caso era de operar, pero aquí en esta óptica me dieron una solución más factible económicamente y que no implicaba ninguna cirugía. Me recomendaron unas lentillas rígidas y voy genial veo mejor de lo que veo con lentes y me están ayudando mucho en el proceso de adaptación. Encantada con el trato y la profesionalidad con la que trabajan.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Antonio Caballero",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVVYo5Z-TZVXxQPklzBPH9j33OZVFc7f3eAcrUdokIh21n1DbPD=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Atención fabulosa. Amables y muy profesionales. He ido a cambiar de gafas. Me he probado varias monturas, me han aconsejado y medido el centro de las gafas de varias formas para asegurar que me quedarán perfectas.\nMuy atentos.\nUna apuesta segura.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Isabel Maria Martinez Lopez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJgDwXS-t60TgrfIivThaZrP-0OWAhquoUzlNvNuZoTaJxSFA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente trato y profesionalidad. Me adaptaron una lente de ortoqueratologia y he pasado la prueba de agudeza visual de la oposición sin ningún problema! Recomendables 100%.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIIB1uIqd-0I56H6kLfyAaMaXhTwSrGhKDiEg6IbE3lwatyfA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Os recomiendo esta óptica, son muy amables y sobre todo efectivos, ah y además guapasss jajaja",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "MISTER X",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUGh43_-PD4c75Ce2ZaNA5OjdCE_rkzj5iBtSPbWVdmh3cs9rlw=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Magnifica óptica Carmen es encantadora una profesional  como la copa de un pino me adaptaron mis lentillas y de maravilla vuelvo siempre alli.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipPy3GCknmeBVqA5GZN6F9mfZdT4i0kMA0ybrWMC&fid=0x0:0x8e32c70ca9dc381f"
+      ],
+      When: "2021-7-15"
+    },
+    {
+      Name: "Vanesa Aguaza",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKIGQzSeoMTTkdvl8K1JVg8TOqWLfoLLv-q7z2T9qURQUMOaQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Profesionales increíbles, llevo recorriendo ópticas desde los 13 años y tengo 46, y nunca había tenido la suerte de encontrar profesionales con esta experiencia y saber hacer. Encantada es poco! La recomiendo totalmente.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Toñi Puche",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI2eoOj3er3zBU4Je1zd7YcVzcm8F1_l6QjXBZKYs81V12ZnQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me recomendó esta óptica mi oftalmóloga. Me dijo que era la mejor que había en Murcia. A día de hoy, sinceramente, creo que se quedó corta. No solo han conseguido adecuarme las gafas a la complejidad de mi vista, si no que el equipo humano que la forma es ESPECTACULAR.\nLa he recomendado a toda mi familia y amigos, y los que se han decidido a ir, están igual o más contentos que yo..",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Real Óptica",
+  category: "Óptica",
+  address: "C. Sta. Teresa, 11, 30005 Murcia",
+  description: "En general, esta óptica parece tener aspectos positivos como un envío rápido y buena comunicación a través de redes sociales. Algunos usuarios destacan la amabilidad del personal y la buena relación calidad-precio, así como la calidad de los materiales. Sin embargo, se han reportado experiencias negativas relacionadas con la falta de profesionalidad y problemas con la adaptación de las gafas.",
+  serviceRatings: {
+    atencionCliente: 3.0,
+    profesionalidad: 3.0,
+    precio: 4.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://realopticaoficial.es/",
+  phone: "626 59 93 50",
+  review_count: 16,
+  review_rating: 4.6,
+  latitude: 37.986979,
+  longitude: -1.134026,
+  user_reviews: [
+    {
+      Name: "Francia Bb",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ0mxpNIX3F-1GTvxk_gWNZp9_sSopbUlqADD3Hx8-DwOGwDg=s120-c-rp-mo-ba3-br100",
+      Rating: 2,
+      Description: "Pues parece ser que yo he tenido mala suerte!!! No lo recomendaría.😔\nA tu respuesta te comento, no es una sensación es realidad y sabes que no puedo ir ya que no vivo en España y dudo mucho que por teléfono me arregléis lo que no hicisteis personalmente sigo levantándome las gafas para leer de cerca (gafas progresivas)y la de sol me siguen haciendo herida en el arco de la nariz y eso que me las arreglasteis poniéndome unos \"parchecitos\".",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Raquel Garcia Iñiguez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWb3Vu-PWzbrAi_HRmAVcqnfZcT-LxN4C7SKl2TVLR14oCx6Hbi=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buscaba un modelo concreto de gafas para regalar y lo encontré aquí de casualidad. El envío fue rapidísimo, la comunicación con la óptica a través de Instagram fue instantánea. Se preocuparon de que el envío llegara y estuviera todo correcto. Por cierto, las gafas Ray-Ban las compré al mejor precio de todo internet. Gracias por todo!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Paloma Rebollar Marin",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWZ63ym-oC7YGRbbGviRx6vhsocrxDRnF6YoGGn-MhwDLHaYVU=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Hola soy Paloma soy clienta habitual y el trato que tienen las optometristas conmigo es excepcional , me realizan una gran cantidad de pruebas con muy buen material para comprobar mi graduación y finalmente elijo el mejor diseño de gafas con una muy buena relación calidad precio .\nY mis nuevas gafas llegarán en pocos días .\nSi quiere quedar satisfecho vaya a Real óptica .",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipOZx2YruHMA-VGet6-4ETZq-FFnHmdMKTaVMM8c&fid=0x0:0xf34fbef39ddf7059"
+      ],
+      When: "2023-6-14"
+    },
+    {
+      Name: "María Cristina Gómez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXHGJVcrrwhfEGKirhoP3tmHSUmIV8H1MMfdWxTswGwBVYrwnE=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy agradables las dependientas, las gafas son de calidad y precio estupendo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Patricia Gaztañaga",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVFQHsFZBTj4-Lgpfs_sgE_AuR2QgLcfbigUhCSkj2SA9EiAeI3bA=s120-c-rp-mo-ba3-br100",
+      Rating: 1,
+      Description: "Cero profesionalidad.\nAcompañé a mi pareja y me di cuenta de que el trato es pésimo:\nUna de las oculistas dejo de responder a los mensajes cuando supuestamente llevaba un seguimiento con unas lentillas de prueba, al poner y quitar las lentillas no hidrataba el ojo a pesar de saber que estaba muy reseco, no informaba sobre el material de las lentillas...\nLa otra, al ver que yo estaba sentada esperando a que mi pareja saliera de la sala me dijo: “Si tanto te aburres te pongo a limpiar”.\nPara mi gusto un trato absurdo, no lo recomiendo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria Gomez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX5g7ldFQjXOQixkCSODUepRUVKgn9K7JZZLd44Y8wPS2ECkBw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Las chicas muy amables. Muy buen servicio precio calidad",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Carmela Perez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIP2flws1AGdcOj2MosVTwGgbMAkFnDIIoz5tIMFVwiSgjCJK-N=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato excepcional. Profesionalidad. amabilidad y buena atención.  Recomendable sobre todo para quien empiece a experimentar con lentillas!! Paciencia infinita y transmisión de confianza.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jaime Gómez Puche",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL6es1lDnIsJ82gfYfJSNq83IZQO_puw1S3zYqzu00NK6gMJw=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Grandes profesionales, buen trato, recomiendo esta óptica, yo me gradué unas gafas de vista y otras de sol y todo perfecto.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Óptica Tenvisión",
+  category: "Óptica",
+  address: "C. Platería, 10, 30004 Murcia",
+  description: "Generalmente, se comenta que esta óptica ofrece un servicio profesional y cuenta con personal amable y atento. Los usuarios se muestran encantados con las gafas progresivas y destacan un fantástico servicio postventa con una excelente relación calidad-precio. Además, se valora el amplio muestrario de gafas y el asesoramiento de los profesionales. Sin embargo, un caso particular menciona un mal trato y problemas con la graduación de las lentes.",
+  serviceRatings: {
+    atencionCliente: 4.5,
+    profesionalidad: 4.5,
+    precio: 4.0,
+    variedad: 4.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    lunes: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    martes: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    miércoles: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    sábado: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    viernes: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ]
+  },
+  website: "",
+  phone: "968 35 50 61",
+  review_count: 19,
+  review_rating: 4.8,
+  latitude: 37.985496,
+  longitude: -1.13179,
+  user_reviews: [
+    {
+      Name: "Tomás",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWmdB0jZGIXg6jmPh9v5Do46z9_Taro4NMjWnxNGS4Ee0O1v9YFEw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy contento con mis nuevas gafas, se nota el servicio profesional y que saben lo que hacen.  Amables y majos",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Inma López",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKPGiBqlapcBMZ3BOAY8drf9JcUk4E_ugz8p_qv7_ozIkcU_3E=s120-c-rp-mo-ba4-br100",
+      Rating: 1,
+      Description: "Lo mio es un caso particular. Fui allí pq conozco al gerente me hizo el año pasado unas lentes graduadas... este año viendo que no ha pasado ni 1 año pase a comentarle que no veía bien.. me decía que me mirara la glucosa .. que me relajara y etc de contestaciones que me asombraban. Ya se ve que se canso de que pasará por allí a decir que no veia bien y únicamente me revisó con una máquina me graduó en menos de tres minutos y me dice q me ha subido del tirón 2 dioptrias... total me hago cristales nuevos ( carisimos) y sigo yendo pq esta vez veia menos... las veces que iba.. no estaba nunca el que me atendió y quien había me decía que no estando él no podían hacer nada. Nunca estaba.. el servicio malisimo porque si no estaba no me solucionaba el problema. ( increible)  finalmente voy al oftalmólogo profesional y evidentemente están mal graduadas las lentes.\nPase a que me devolviera el dinero.\nResumen. Mal trato. La persona si no está no te atienden. NO VOLVERE JAMAS",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "E. García",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJWCODsFcMcPeYVTIFDMXPKXQUUtwUmhVusJJmRNrety5ugmQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Encantado con las progresivas desde el primer día. Personalizadas con realidad virtual, se ve bien en todas las distancias.\nSiempre solucionan cualquier rotura o desajuste inmediatamente.\nServicio postventa fantástico, relación calidad/precio excelente.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana Galian",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLQlh3uy57QBFef8-HUaSNeG3FUc0h97UtxHb7yfyqDn7bLzg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La mejor óptica de toda Murcia, trato espectacular y relacoon calidad precio inmejorable, y solucionan todos los problemas vamos un 10 en todo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "ISABEL PEDREÑO LÓPEZ",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLqPEBtyjxJBIskWzX0c48txRp-BhHSkzZRKc57WSX3SuN_yQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me encanta Tenvisión, tiene un muestrario increíble, siempre a la última y es imposible no llevarte algo. Además tienen un equipo de profesionales que te asesoran muy bien.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marcos Nicolas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXvEwUrtRuGWpHsLlBD7WTJNQcUoepdBwr-xSKcqpZ9a-prVYA=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Muy atentos y muy profesionales además de buenos precios y gafas de todo tipo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Zococan Murcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVf6o_kDjfQGYzQHxewyJm-I38ndVJavgK44pjgM0TdmhYsnNsQnQ=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Recomendación máxima,el más amplio surtido en gafas de marcas y calidad,un servicio profesional esmerado y único,con una atención y trato magnifico,son encantadores y al vez muy serios,ya son varias las familias de conocidos que les visitan , por su excelente trabajo,calidad y variedad,al mejor precio ya que disponen de extraordinarias ofertas en gafas de primeras marcas,todo un chollo,recomiendo siempres su visita,son geniales....",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marquesa Floridablanca",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI39iXmvz1xOmEKOv8O5jLz1g6wt-0HQzqfAu_4RySO2rXtGw=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Óptica en calle Platería, pleno centro de Murcia que dispone de gran surtido de gafas de moda. Son muy buenos profesionales en todo lo referente al cuidado de la visión.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Alain Afflelou Óptico y Audiólogo Murcia Avda Constitución",
+  category: "Óptica",
+  address: "Av. de la Constitución, 6, 30008 Murcia",
+  description: "Esta cadena de ópticas es altamente valorada por su excepcional atención al cliente, donde destacan la amabilidad y profesionalidad de empleados como Pilar, Cristina y Joaquín. Los usuarios mencionan haber recibido muy buenos descuentos y un asesoramiento personalizado, además de un servicio rápido. Se destaca la disponibilidad de una amplia variedad de productos y la existencia de ofertas atractivas.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 4.5,
+    precio: 4.0,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–14:00",
+      "17:00–21:00"
+    ],
+    lunes: [
+      "10:00–14:00",
+      "17:00–21:00"
+    ],
+    martes: [
+      "10:00–14:00",
+      "17:00–21:00"
+    ],
+    miércoles: [
+      "10:00–14:00",
+      "17:00–21:00"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–14:00",
+      "17:00–21:00"
+    ]
+  },
+  website: "https://www.afflelou.es/opticas/murcia/afflelou-calle-gran-via-escultor-francisco-salzillo-5-30004?utm_campaign=gmb&utm_medium=organic&utm_source=google_gmb",
+  phone: "968 41 65 16",
+  review_count: 103,
+  review_rating: 4.9,
+  latitude: 37.990091,
+  longitude: -1.131509,
+  user_reviews: [
+    {
+      Name: "Mary",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXticGiClYc5OBm5acgXzEZ8YEbWxcYdAi6sAJ_nSuVyjMKT-QmBQ=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Pilar es muy buena dependienta, la experiencia ha sido muy buena y me han ofrecido los mejores descuentos y asesoramiento. Servicio muy rápido.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "XY J",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXrYz4gRvnj3iigy2K13pB7TZqCrLzt9jXb9odl-HS800Ixoa_e=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "El chico y la chica (Cristina) que estuvieron el 29 de noviembre a las 19:30 (la hora de mi cita), han sido realmente amables, me han aconsejado según mis preferencias y han hecho la experiencia mucho más amena y llevadero, ya que suelo der muy indecisa para elegir una montura. Estaba ahí para renovar mis gafas con la increíble oferta que tienen por Black Friday💖\n\nMuchas gracias por todo, estoy a la espera de que lleguen mis gafas 🥸.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipPTT6Zm8ROg-UrM4ipAasONSK5lp7uuuFN4V5jF&fid=0x0:0x5c5d1ab01e08a46c"
+      ],
+      When: "2023-11-30"
+    },
+    {
+      Name: "Rocío Martín Sevilla",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXeZFPPfeuevalDDHsTMq-ne8HA56jKmiAI6W3sBuzXCH-vJ9bP=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fui a acompañar a una amiga a comprarse unas gafas y ya aproveche yo también la promoción de 3 gafas. Por otro lado, me gustó el trato profesional de Cristina y el asesoramiento, además también estaba Joaquín y muy majo también. Volveré sin duda.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Xincheng Ji",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWYgUxEN79Vw1IM8twA3-NK1DvoGeV0TyF9vgtShYa0r-5rtdw=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Muy atentos y amables. Nos atendió un chico (lo siento, no pregunté tu nombre) y Cristina. Los dos se comportaron muy bien. Llegamos en el último turno que había y Cristina se quedó con nosotras hasta más de la hora de cierre, el chico se tuvo que ir porque terminaba su turno.\nTienen la opción de ponerte lentillas para poder ver mejor a la hora de elegir la montura. Te ayudan con todas tus dudas y los precios. Pillamos la oferta del Black Friday por descuento en la montura y Clips Magic. Óptica súper recomendada. No dudaría en volver.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Danna López",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXtl0FE-wtkcBI6UMcdbIkKO_cgMQUHZxYaB9si5yee5RT-IglN3g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Lo primero que destacar de este lugar es el trato excepcional por parte de los ópticos Cristina y Joaquín, grandes profesionales y, de segundo, los buenos precios de sus productos, lo de las segundas/ terceras gafas a 1 euro es un chollo 🤯. La verdad que me ha sorprendido para bien está cadena.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Tammy hdez cano",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKxrBEG-WZVktjyjBowXxtWdDxNVVbnJgIN5BVsemuGWNgpvw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "El trato excelente y la variedad también. Me encantó cómo me atendió Pilar. Sin duda volveré siempre.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose Manuel Galvez Cas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU1smXssH40AiDi5Y5-KknyLQ9Q3369fH07y7vVGXRjtqkAwYowrA=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "He realizado varías compras allí y sólo puedo hablar de profesionalidad por parte de Joaquín, que en todo momento me ha asesorado en mi beneficio y no el suyo propio.\nSon formas de trabajar que hacen que hable bien de esta empresa y recomiende a mi círculo de confianza. Buenos precios y personal de 10.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marcio Más",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWPoY1zGzDRMd7qNn2Z3fw_kI5vAKm3c9tR91DRT0Lip-qkPGmI=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Lo mejor sin duda la atención al cliente por parte de Pilar (sino recuerdo mal el nombre). Totalmente personalizada, con buen criterio, e ideal para indecisos como yo a la hora de escoger gafas.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Salzillo óptica",
+  category: "Óptica",
+  address: "C. García Alix, 7, 30005 Murcia",
+  description: "Esta óptica es reconocida por la excelente atención brindada por su personal, en particular por un profesional llamado Emilio, quien se dedica a asesorar a los clientes para encontrar la mejor opción, dedicando el tiempo necesario para que se sientan seguros y bien atendidos. Los usuarios también destacan la calidad del servicio.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "http://salzillooptica.com/contacts/",
+  phone: "670 10 74 70",
+  review_count: 17,
+  review_rating: 5,
+  latitude: 37.985695,
+  longitude: -1.137988,
+  user_reviews: [
+    {
+      Name: "Juan Mart",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIbaAaTfvj6Mch29i2FTiKktM8BH-NapqRwhVfSQGJMqv0EEQ=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Excelente trato de Emilio, asesora ante todo la mejor opción para el cliente, invierte el tiempo necesario para que te sientas como en casa y totalmente convencido y seguro de la compra, valorando como digo siempre la mejor opción para el cliente. Soy cliente desde hace 30 años de su padre antes y ahora desde hace ya varios años de él y así seguirá siendo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "encarni garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI1ipTnLAsIqC-THT3JD_sGBJWkgK2Gt_EAIk_9czjH6z7Ztg=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "La mejor combinación posible PROFESIONALIDAD Y AMABILIDAD. La semana pasada estuve con mi hija, esta semana con mi hijo. Emilio nos ha aconsejado según nuestras necesidades la mejor opción. Que más se puede pedir. Calidad y precio inmejorable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Eva Martinez Santos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLuGiqolfBpV-UVzADifpaoIVXLUGvBMS5jGQSNrnAWPKxDyw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Calidad de asistencia, variedad de género, amabilidad y buen precio.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose Manuel Muñoz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLt_tszPLLRZSxkjBPAuDWZ4v1WUYXp1EHUR3pKysochCoVBSpx=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "La mejor óptica de Murcia, tienen las mejores marcas, Emilio y José son auténticos profesionales, te asesoran perfectamente y la ayuda a la adaptación a las nuevas gafas es excelente.  En precios son los más económicos de Murcia.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Amparo García Sánchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKqSwM0PS_YyzNTfMgc8FKIp8XsPNr454uiI2PBVKQQsMQIaw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Una atención siempre amabilísima, trabajo impecable, excelentes profesionales, los mejores",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Natalia Belmar Asis",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKcqBt65g14YH0NoyBz6p24Jg4EmrhkkFlqQvyRuB6X5Yom7A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Grandes profesionales, trato inmejorable\nBuenos precios",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Manuel Argudo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJRinSSTNo5eopQW78cfhM5yvvvAGsdkm2CU1ltjxi09jwz3Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Profesionalidad , atención , calidad y buen precio.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "javier castañón",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW82rQDukJDNoz6G6VBFHaXSRxx9_ng0m5vzEyB2qddmRguhgND=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato exquisito y gran profesionalidad.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Óptica Mínguez",
+  category: "Óptica",
+  address: "C. Escultor Roque López, 3, 30008 Murcia",
+  description: "Los clientes valoran el trato personalizado y profesional que reciben en esta óptica, destacando la amabilidad y competencia de su personal, especialmente de una profesional llamada Olga. Se menciona un ambiente acogedor donde los clientes se sienten valorados. Además, resaltan la rapidez y eficiencia del servicio, la calidad de los productos y los buenos precios. También se destaca la variedad de monturas disponibles.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:45",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:45",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:45",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:45",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "Cerrado"
+    ],
+    viernes: [
+      "10:00–13:45"
+    ]
+  },
+  website: "",
+  phone: "968 90 90 57",
+  review_count: 27,
+  review_rating: 4.9,
+  latitude: 37.990616,
+  longitude: -1.132039,
+  user_reviews: [
+    {
+      Name: "Monica Galdana Perez Morales",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLVcXgwolbbOldXqI8x5wlcpxo1_KekVwemU6_VsRswXQzgcA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La Óptica Minguez es un auténtico hallazgo para quienes buscan un trato personalizado y profesional en un ambiente cercano y amable. En mi experiencia, me atendieron con una dedicación excepcional, escuchando todas mis necesidades y asegurándose de que eligiera las gafas perfectas. A pesar de ser un comercio pequeño, la calidad de su servicio supera con creces a muchas grandes franquicias. Lo que más destaco es el trato humano que recibí, algo que es difícil de encontrar hoy en día. Es un lugar en el que puedes confiar plenamente y donde te hacen sentir como en casa. Sin duda, un lugar al que regresaré.\"",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Paco S.C.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIm9WKF7-_WKk0aFErqPTUx1PqsFw2JwSx0QU66x5S7FTUoSOw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Hace poco tuve el placer de visitar Óptica Minguez, y mi experiencia fue excepcional. Desde el momento en que entré, fui recibido con una sonrisa cálida y una atención personalizada que hizo que me sintiera valorado como cliente.\n\nEl ambiente de la tienda es acogedor, con una excelente disposición de los productos. La variedad de monturas disponibles es impresionante, abarcando desde opciones elegantes y sofisticadas hasta estilos más modernos y vanguardistas. Además, cuentan con una amplia gama de marcas reconocidas y modelos exclusivos que se adaptan a todos los gustos y presupuestos.\n\nFui atendido por Olga, sin duda, uno de los mayores activos de Óptica Minguez, altamente competente. Durante mi consulta, se tomó el tiempo necesario para explicarme cada paso del proceso y responder a todas mis preguntas con paciencia y conocimiento.\n\nUno de los aspectos que más me impresionó fue la rapidez y eficiencia del servicio. Pude recoger mis nuevas gafas en un tiempo récord, y el ajuste fue perfecto desde el primer momento. Además, ofrecen un servicio de postventa excelente, asegurándose de que los clientes estén completamente satisfechos con su compra y dispuestos a realizar ajustes gratuitos si es necesario.\n\nEn resumen, Óptica Mínguez destaca por su atención al cliente impecable, su amplia selección de productos de alta calidad y su equipo profesional y amable. Sin duda, es un lugar al que volveré y que recomendaré a mis amigos y familiares para todas sus necesidades ópticas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Dorin Galatean",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIuGA3rjxvzq8RAw8TWGcpx_rnUh1hZpN1xDNpvM_SXUgLeCw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Hace unos días buscaba una tienda de óptica para  aconsejarme en hacerme unas gafas y encontré la Óptica Minguez.\nDesde cuándo entre me recibí Olga una gran profesional y con mucha amabilidad.\nEn poco tiempo me explico y me convenció que tipo de lentes necesitó.\nMuy contento con el servicio y también calidad -precio.\nRecomiendo el 100% Óptica Minguez.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Arantxa Morales",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIFo7lu_BpRjVa6EJDoDkGR0lUlvdPAFcRXJKerO1-ilnrPig=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La experiencia fantástica.\nMuy amables y profesionales.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "JOSE CARLOS Pérez Alarcón",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJACNpP3yMpX0PbJoZC2Cgu6Xc2_yMtXD8D55jZ2mI_DsT7qQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Óptica pequeña pero con bastante variedad de productos, buenos precios y sobre todo con muy buena gente. Eran mis primeras gafas de presbicia y Olga estuvo resolviendo todas mis dudas con mucha paciencia y amabilidad. Muy contento con el servicio y las gafas",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Verónica Salido",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU9dj73OafiIXlFkIDN800-FCtzNo-bbSDwTr7UiawWYlvhGB8u=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Atención inmejorable y muy profesional. Me hice unas progresivas y el resultado fue estupendo, en producto y precio. La chica, simpatiquísima por cierto, me explicó todo de maravilla y enseguida entendió mis necesidades.\nSin duda recomendaré esta óptica... y por supuesto repetiré!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Elena Minana",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI9Sq_70ljuOswV8wf5QbtrkdxUiTgaBRNuvdI9itL0eYzsQQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Mi hijo de tres años necesitaba llevar gafas y el trato fue excelente, salimos los dos muy contentos. Desde entonces Óptica Mìnguez se ha convertido en nuestra óptica de confianza.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cristina Griñán González",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUC3tkiD9KpSYCtZHbJk2nRXP7OJ6ei9HkQgjYpQvC_HHd8Bmef=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Un trato excelente, cercano y totalmente centrado en mis necesidades. Muchas gracias por todo ☺️ y mis gafas \"Flipo\" una pasada ligeras, bonitas y cada día cambio de color con mis clip.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Óptica Yepes",
+  category: "Óptica",
+  address: "C. Maestro Alonso, 4, 30005 Murcia",
+  description: "Los usuarios resaltan la gran atención al cliente recibida por parte del personal, como Sonia y Alejandro, quienes son descritos como muy amables y profesionales. Se destaca la buena calidad de las gafas a precios asequibles, así como la rapidez en la realización de pruebas y la entrega de las gafas. Algunos clientes mencionan ofertas interesantes, como la posibilidad de adquirir dos pares de gafas a buen precio. También se valora el asesoramiento recibido sobre diferentes tipos de lentes. En general, se percibe un trato personalizado.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 4.5,
+    precio: 5.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:45–20:30"
+    ],
+    lunes: [
+      "9:45–20:30"
+    ],
+    martes: [
+      "9:45–20:30"
+    ],
+    miércoles: [
+      "9:45–20:30"
+    ],
+    sábado: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    viernes: [
+      "9:45–20:30"
+    ]
+  },
+  website: "https://opticayepes.com/",
+  phone: "868 71 62 45",
+  review_count: 12,
+  review_rating: 5,
+  latitude: 37.987915,
+  longitude: -1.131558,
+  user_reviews: [
+    {
+      Name: "Anthony Solano",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIh62i_pslw9n-xGxHssZKlfA1PHbPqgCcOVqJaxm6x0aGV5w=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fui con muchas dudas sobre precios, tipos de gafas, mi graduación y hasta de lentillas, pero afortunadamente Sonia me ayudó muchísimo con todo y en muy poco tiempo.\nMuy buena calidad de gafas para lo baratas que están y gran atención al cliente de Sonia",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lucía",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIZd_AVMxhshSXefReayv6gKQ4G60814BYWd2T6vcQbfr3-QxQ=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Mi experiencia en Ópticas Yepes de la calle Maestro Alonso ha sido excepcional gracias a la atención de Alejandro. Desde el primer momento, me ha demostrado una profesionalidad impecable y un profundo conocimiento en el cuidado de la visión. No solo me ha recomendado la mejor opción de lentillas y gafas para mi caso, sino que lo ha hecho con una simpatía y empatía que realmente me ha hecho sentir en confianza. Sin duda, volveré y lo recomiendo a todos aquellos que busquen una atención de calidad y un trato humano excepcional.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alba N. San mateo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKG5TTBmsbSBr8UHGC3uFUMQxiafRBNanCh9MaZn3TpSI0nYw=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Me compré un par de gafas graduadas por 80€. Si quieres hacerte solo unas puedes hacerlas, y más adelante te dejan hacer las segundas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Belén Otero",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXrz9_reXubJMJR3P2HTOTU2xlO77CcrEuBPAZwlAckbFTli0Km=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Estoy muy contenta con esta óptica en particular. He podido comprar dos gafas por 93 euros en total, una de ellas con el cristal reducido! La chica rubia que está allí es muy amable y me ha explicado todo genial. También estoy cogiendo allí las lentillas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pedro Ortuño",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJa_f3BhVUsiyV3AJBbqfvEUiQ-cL2brDxXLhVUWzAV0ymUOg=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Super majos, precios insuperables, graduación prácticamente instantánea y recogida en pocos días. Muchas gracias.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Victor Cano",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVOhUoJYvmMIIlM1EiG_3H720FYkcxr-4uZxaThrpj92KPJOTLj=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Buena Información, gestión, consejos recibida por parte de Raúl con la relación de calidad y precios de la gafas progresivas de varilux que me llevo ¡\nGracias chic@s !",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipNLl_ixc8TJQbSJkKd0K97UQq13y9DnSwPsg1yr&fid=0x0:0x6e1bb0de3ca9a152"
+      ],
+      When: "2024-5-14"
+    },
+    {
+      Name: "Pedro César",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWpVf6hvq6gQDBtogBB8n5-X2-yemVIUKjA4oKDWocc2NuvzGAt=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente óptica. Prueba de que el pequeño y mediano comercio puede competir en calidad, precio y, sobre todo trato personalizado, con las franquicias (de las que personalmente no soy nada partidario).\nTienen una oferta en gafas de sol de primeras marcas por 30 EUR (y dos por 50) que además, si eres jubilado, empleado de El Corte Inglés o familiar de funcionario, te las llevas con otro 20% de descuento.\nComo he dicho, inigualable en relación calidad-precio, y como añadido apoyas el comercio local tan necesario para nuestros barrios. Volveré pronto.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "MARÍA JESÚS GARCÍA-LEGAZ QUESADA",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVyKVKTdv7k5n9DaBIZNBEomMYST3DUdAAGpKGdMGOY_Zirnrc7Ig=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Quisiera decir que estoy verdaderamente feliz y contenta con la experiencia en la optica yepes de calle maestro alonso. Una optica que cubre al 200% mis expectativas . Gracias a optica yepes he vuelto a poder disfrutar al cien por cien de ls lis del día. Cuando no pensaba q encontraría algo q me haría dar un cambio a mi vida…. Decir que tanto la calidad del material que me ofrecen y como no ls calidad del trato humano es excepcional extraordinario . de hecho se lo he recomendado a muchísima gente . a todo aquel q me pregunta q les recomiende por una óptica no lo dudo OPTICA YEpes es y será mi optica . siempre siempre . Las personas que te atienden al entrar es tal la amabilidad que es como estar en Familia . GRACIAS GRACIAS y mil veces GRACIAS",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Óptica Yepes",
+  category: "Óptica",
+  address: "C. San Pedro, 18, 30004 Murcia",
+  description: "Esta óptica se distingue por su excelente trato al público y la calidad de sus productos a buen precio. Los usuarios destacan la atención atenta y el buen asesoramiento recibido al elegir gafas de sol y graduadas. Se menciona un trato genial y la adaptación a los gustos de los clientes. Sin embargo, una experiencia aislada señala una falta de proactividad por parte de una empleada ante la necesidad de una mascarilla. En general, los clientes valoran positivamente la atención personalizada y la amabilidad del personal, como Aitor y Raúl.",
+  serviceRatings: {
+    atencionCliente: 4.8,
+    profesionalidad: 4.7,
+    precio: 4.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "9:45–13:30"
+    ],
+    viernes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://opticayepes.com/",
+  phone: "968 02 47 57",
+  review_count: 20,
+  review_rating: 4.8,
+  latitude: 37.984578,
+  longitude: -1.134251,
+  user_reviews: [
+    {
+      Name: "Fernando",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJykbL9iFEapb0HBoci9YPQx-8Fnz9K9BsMvqZe-JAU6lWWJKSw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buena atención al público y productos, con calidad y buen precio.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marina García",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjValmjnXjpsqeneKhzmgHrvWC87KhUdwcfLlFAe0Uh-xDxkIkRo=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente servicio, los chicos muy atentos y me aconsejaron super bien, elegí unas gafas de sol y me atendieron genial, muy contenta con la experiencia",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Gonzalo Roca Ibañez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIwkzG6Nbw_OBO03xLxnpXQ5BgEd2YOjfRWrG8dEkR0-4hHQA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Un trato genial! Me graduaron y aconsejaron para comprar las mejores gafas y me ofrecieron siempre lo que mejor se adaptaba a mis gustos. Sin duda repetiré cuando lo necesite!\n\nGracias chicos!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Raquel FG",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKJub1Cg8v7uaaz_IdWKp5RftJEjL2rQ69O0Jna17kd9nuwrA=s120-c-rp-mo-ba2-br100",
+      Rating: 2,
+      Description: "Un tanto decepcionada hoy al ir por primera vez a la óptica de la calle San Pedro. Siempre había ido a la principal donde está el dueño del negocio y siempre me habían atendido muy bien. Pero al llegar hoy con mi hija para hacernos cada una dos pares de gafas, nos enteramos de que era obligatorio el uso de mascarilla por considerarse una óptica un local sanitario. No llevábamos mascarilla. Le pregunté a la empleada si tenían mascarilla para darnos y me dijo que no. Le contesté que entonces tendría que quedarme sin gafas y dijo que lo sentía. Yo me imagino que el dueño del negocio, preocupado por las ventas, me habría sugerido acercarme a una farmacia cercana y comprar unas. Pero esta empleada no se molestó en encontrar una solución . Se ve que cobra lo mismo a fin de mes, venda más gafas o menos. Una pena.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Belen Martinez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKXehiMX-N5gEBUWkEdgg8jHX97p0_aHAiHbdrt5vqAB1zMUA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Las mejores gafas que me he comprado han sido en este lugar. Una atención inmejorable por parte de Aitor. Muchas gracias.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Luis Martinez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXYXCqxrAimsT3rWo4AjLQ4c0B_-yqxWr_D0L22huYWj8BORA5U=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Genial óptica donde me aconsejaron muy bien. Las chicas son muy atentas y simpáticas. Aceleraron mucho la compra de unas gafas de bloqueo de luz azul y me llamaron justo cuando les llegó. Sin duda una óptica que luce en la atención al cliente. Recomendado 100%",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria Rios",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLZ8tdtn4e_wP5x7kzNv3pJP408uJ1E0sipIDWY8eOoCrbNqA=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Me ha encantado .El trato personalizado ,buenos profesionales ,muy amables y la verdad un gran surtido de gafas .",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Begoña Sanchez Prior",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJLmv7SOb0SHKXFX3ydlSxQesUkOLB6i_loz8w-EVci4gzg0A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buen servicio, gafas muy económicas con buena calidad y el chico que nos atendió, que se llama Raúl muy simpático y atento.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "TODOOPTICAL - SALUDVISUAL",
+  category: "Óptica",
+  address: "C. Mayor, 21, 30011 Los Dolores, Murcia",
+  description: "Esta óptica es altamente recomendada por el trato estupendo y profesional de todo su personal a lo largo de los años. Los usuarios resaltan la atención inmejorable desde el primer momento, la ayuda en la elección de gafas de sol perfectas y el asesoramiento personalizado. Además, se destaca su profesionalidad en revisiones completas y la satisfacción con las gafas adquiridas. La amabilidad y cercanía de José Miguel y Begoña también son muy apreciadas. Se menciona la capacidad de encontrar las lentillas adecuadas y la actualización constante para mejorar.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.2,
+    variedad: 4.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:40",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:40",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:40",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:40",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:40",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://www.todooptical.com/",
+  phone: "968 25 38 02",
+  review_count: 79,
+  review_rating: 4.9,
+  latitude: 37.978528,
+  longitude: -1.105641,
+  user_reviews: [
+    {
+      Name: "Maria Fuensanta Oltra Meseguer",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUjSnOB__107_9qmt_ov-feCJImwSTd7vaKRyqbfz0f_72eSp6Dcg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato estupendo de parte de todo el personal. Enhorabuena por vuestro trabajo. Llevo muchos años yendo y lo recomiendo 100%.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria Muñoz Manzanares",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLao2rH8wUBymWdBKVLVR-V4GV4kbtwGsfw6wed--xgQYR1BA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Desde el primer momento he recibido un trato inmejorable. Me ayudaron a elegir unas gafas de sol perfectas, recibí un asesoramiento personalizado para que el modelo se adaptase lo mejor posible a mi rostro. Además, cuenta con un equipo profesional que ofrece las últimas novedades en salud visual.\nSi queréis descubrir todo esto, os invito a seguir a la cuenta todooptical.sv en sus redes sociales.\nSin duda, si tengo que volver a elegir una óptica y recomendarla a alguien, escogería todooptical-saludvisual.\n¡Gracias por un servicio tan impecable!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "LRN",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJvOCBZnipx6QWQlY5hZ9Pnj6UCIppRSzWqytJ2sIvfgvONKA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me decidí por ellos por el estilazo de gafas que vi en su IG. Llegué muy perdida porque son mis primeras gafas de vista. Recibí un trato exquisito. Me hicieron una revisión súper completa, comprobando su gran profesionalidad. Decir que estoy encantada con mis gafas, y que los recomiendo 100%.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Angelina",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKl4kTxxQzNCHWg-BHxERCAvjxJVC-DKM291-jKqGaL-jZc-g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Gracias por ayudarme a entender y dar solución a todos los problemas que estaba teniendo a nivel visual y que tanto me agobiaban...por vuestra profesionalidad y rapidez.\nY sobre todo, gracias José Miguel y Begoña por vuestra amabilidad y cercanía.\n100% recomendable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "isabel salmerón Fernández",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJNtrmaGa-ibcNqr0p5AL6sSBs1zEfN2TU6whuGyLx5TMs8Bw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "El trato es inmejorable e inigualable, además de ser unos profesionales como la copa de un pino.\nEstán contigo el tiempo que sea necesario para encontrar lo más adecuado a ti, a las características de tu cara y tus ojos.\nLlevaba un año sin poder ponerme lentillas y gracias a ellos he encontrado las adecuadas a las características de mis ojos.\nRecomendable 100%, no puedo estar más contenta.\nGRACIAS.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "tatiana Arce",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXlftpU3AIKdmSrRIqsOVLDlPW9QXd_UUtAR8M6yMDvlgMcTmI=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Espectacular.\nTrato excelente.\nMuy entendidos.\nMuchísimas gracias por todo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Paco",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLAbvFP6oW9_zJAKKWowq0OK0qoI0tw6YpgU3Bbq8XOQRiDnQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Llevo con ellos muchos años, son muy profesionales y atentos, siempre están actualizándose para mejorar, da gusto tratar con gente así, los recomiendo 100%.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Irene Monreal",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVj0cqjT5-rTlNKyha9PkZMU22yZP2o8doAFtcw6yNJF6oT9OrW=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Es nuestra óptica de confianza de toda mi familia desde hace más 25 años. Son muy profesionales y están en los últimos avances, lo explican todo detalladamente , buena calidad de producto y dan soluciones rápidas. confío en ellos plenamente.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Mayor Óptica",
+  category: "Óptica",
+  address: "C. Mayor, 142, 30006 Murcia",
+  description: "Los usuarios tienen una experiencia impecable en esta óptica, destacando la cortesía y el criterio en el asesoramiento para la compra de gafas y lentillas. Se menciona un trato profesional y de confianza por parte de Antonio a lo largo de muchos años, desde la graduación hasta consejos estéticos, con un catálogo actualizado. La amabilidad y profesionalidad son resaltadas, con menciones de un servicio rápido y una gran satisfacción con la calidad y el precio. Se percibe un trato familiar y profesional, con un servicio inmejorable y consejos acertados.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.8,
+    variedad: 4.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:45",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:45",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:45",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:45",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:45"
+    ],
+    viernes: [
+      "10:00–13:45",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://antoniomrtz.github.io/MayorOpticaWeb/",
+  phone: "968 30 23 25",
+  review_count: 17,
+  review_rating: 5,
+  latitude: 37.995137,
+  longitude: -1.097756,
+  user_reviews: [
+    {
+      Name: "Claudio Ramirez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWf6Z0wGMUMyV4HgZCet15yZ0Ggr8SrMHYVsRVEH5NOMnul2vc=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He comprado aquí gafas normales para el día a día, gafas de deporte y lentillas. Tanto mi experiencia como la de todos a cuántos he recomendado esta óptica es impecable, te atienden con cortesía y aconsejan con criterio. Volveré pronto",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Aitor Monedero Saiz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLll5t9vCKmuhUG4H0Uz9LU-V3UT2nYC5xi2XpGXqxZ5YD0Xw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Óptica Mayor es mi óptica de referencia desde hace 12 años. Antonio siempre me ha tratado con una profesionalidad màxima y confianza plena. Desde graduar a consejos estéticos. Siempre con un catálogo actualizado lleno de novedades 10/10",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "pilarsomori 01",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKxxfgdFicXsZfmwhaWE170NEMh1ySIXr5oWIpaNcdJ5FfrKWY=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Vamos toda mi familia a esta óptica porque es 10/10.\nAntonio es súper profesional, muy bien trato y muy amable. Pondría 100 estrellas si se pudiera.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "by.films by.films",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVBNk8amNE8nKrJ7mLFZum4lUwjGyb7i5W7BH_UvP92kHSWuqGE_g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Ayer fuí a graduarme la vista y comprar unas gafas,Antonio me atendió y hoy ya tengo mis gafas y veoperfectamente,rapidez pero sobre todo una gran satisfacción,calidad y precio,lo recomiendo\nez,trato inmejorable y",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose Dato",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKwGZDSxUgDy0-SGlZUhdj5_x5pNj9K2n9wN-l6Q-bktWbUjEw=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Como siempre un trato tanto familiar como profesional. Dos gafas de un dia para otro!!!\nExcelente. Gracias Antonio.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Belén Carmona",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVt08pluk_HIfOxqHr8KsiMmw_Fdtbnyp1eDjb6mBpgeK-NW9k=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Antonio es un profesional increíble, cómo persona excelente y un servicio inmejorable, venir no os arrepentiréis",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria Elena Aranaz Soria",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXiFBrKWvzPnUJJmuc8zife4IdSPiJ_1t5tNXT4cXoHCyD_u-dWWQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Servicio y atención inmejorable.De máxima confianza y buen consejo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mariano Zambudio",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLzV1JnlWZqiULbhFCF7PwtdXu8tnkLBC0eXkQoXrCPPEKkf5Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Estupendo trato exquisito.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "óptica Granvisión",
+  category: "Óptica",
+  address: "Alameda de Capuchinos, 6, 30002 Murcia",
+  description: "Esta óptica es considerada por muchos como la mejor, donde toda la familia confía. Se destaca la profesionalidad de Julián y la excelente atención del resto del equipo. Sin embargo, una opinión aislada menciona una posible inexactitud en la graduación de unas gafas. A pesar de esto, otros resaltan la capacidad de Julián para resolver problemas oculares complejos y la atención profesional y amable de Julián y Juani. Se valora especialmente el servicio postventa y la rapidez en la entrega de gafas de calidad. En general, se percibe un trato inmejorable y un equipo de profesionales muy cercano.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.8,
+    precio: 4.3,
+    variedad: 4.2
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://opticagranvision.es/",
+  phone: "968 93 73 86",
+  review_count: 14,
+  review_rating: 4.7,
+  latitude: 37.978184,
+  longitude: -1.128213,
+  user_reviews: [
+    {
+      Name: "EGAN",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIw1Db_Q3fGeW8mXOPc114uDq5dQ_xPBp-Mt_mFlJVEM1g6Kn0=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La mejor óptica, toda mi familia vamos allí. La profesionalidad de Julián y la excelente atención de las dos otras chicas es inmejorable!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Gines Lopez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIIEWl86Se5onXi-HXXxDmGZ6MsFL0adF5ykVTRUYL_V1kzHw=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "El dependiente le mando hace unos tres meses gafas a mi hija que segun el necesitaba y le compre alli en la optica y ahora resulta que el oftalmologo dice que no necesita gafas.No lo recomiendo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pascual Azorin Pascual",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI9lGcz9769PmLs8rKhIw9umIUgtTnuehioXwQ9D20O0Pvdlw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Optica muy muy recomendable. Mi hija tenia continuo dolores de cabeza y tras visitar varias clinicas oftamologicas, Murcia, Alicante  y especialistas hasta en Madrid, Julian nos recomendo unos nuevos cristales  progresivos y hemos conseguido que desaparezca el dolor de cabeza... Estamos muy contentos y volveremos. Atención y profesionalidad de 10.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "M Carmen Lop",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIoDWF7UHCShDuTMQ7Q1BSEUYcKC3UvigOw1yMa1NIJTMHalQ=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Julián resuelve problemas oculares complicados, poner en sus manos a mi familia hace más de 20 años fue y sigue siendo un acierto, es óptico vocacional y eso en cualquier profesional de la salud se agradece.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "David Cools",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX0OGv2fOJk_Yd1hWpw656GgxC17bmX5EFeior9BhtUEzwGTHGP=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "La mejor optica que yo conozco. Julian y Juani dan un servicio profesional y amable. Se merecen todo el éxito del mundo con su optica!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "FRANCISCO ESPINOSA",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK6y7nW2q99D_uCcmDyhodkVr6RirvYGYRslal2FUWxQUGE7Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "LLevo muchos años siendo cliente de esta óptica. El trato es inmejorable y son encantadores. Lo que más valoro es su servicio postventa.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Luis Gómez Ruiz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVpNTOvJstoCPU7ai5KLCL9TSRz7MMoNziQvj2dp1l42oENAfvo=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy profesionales y simpáticos. Gafas graduadas nuevas al día siguiente de máxima calidad.\n\nMuy contento con el trato y el resultado",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "VANESA LOZANO ALBA",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIFzq-H-TaLE3Qy8UfL5N8_edzat5IzRYnMVo3rYqEskgErjw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato inmejorable. Equipo de profesionales con un trato muy cercano. Llevo 10 años llevando a mi hija. No cambiaré nunca.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Meca Ópticos Ronda Sur",
+  category: "Óptica",
+  address: "detrás del hospital Mesa Del Castillo, P.º de Florencia, 8, 30012 Murcia",
+  description: "Este establecimiento recibe múltiples elogios por su excelente trato y la maravillosa atención de su equipo, especialmente Ignacio. Se destaca su gran profesionalidad y la capacidad de hacer un gran bien a las personas. Los usuarios se muestran felices con sus prótesis oculares y muy agradecidos por la ayuda recibida. Además, se menciona la rapidez y la buena calidad de los productos, como las gafas ocupacionales. Los precios son considerados buenos y el servicio muy atento, generando una alta recomendación.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.6,
+    variedad: 4.3
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "http://www.mecaopticos.com/",
+  phone: "968 34 16 19",
+  review_count: 33,
+  review_rating: 4.8,
+  latitude: 37.970686,
+  longitude: -1.127944,
+  user_reviews: [
+    {
+      Name: "Pilar Aviles",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXT0BmhxdJ6HdDyTpgs28LeZdFNpL1WEjxQtb7ZGhyfDKJFJtGFvg=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Me faltan estrellas para poner!!!!\nGracias a Ignacio y a todo su equipo son personas maravillosas y muy profesionales,ni se imaginan el bien que hacen a personas como yo,feliz con mi prótesis ocular nueva, espectacular!!!!\nMil gracias por todo y por tanto💚\nSois unos \"ARTISTAS\"",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pablo Vuelta Diaz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKKUKBmbscwkRBEYW_wKYyYParbGFJpxWsL6iA-YB8ynwLtZg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy profesionales. Gran trato y rapidez. Totalmente recomendables.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mariajose fernandez garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWsnVfvH8aZZMz_IZF5NbIKCqLhxjVutXICX3A2wByNRGDj_JaO=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente trato,  calidad y rapidez,  muy contenta con mis nuevas gafas ocupacionales",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Raúl Pascual Ramos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVCYIGsLUq7tyzM3B1vLAID6cw_b4oQisPKJShslpYO_rX5-Rh1=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Muy buenos precios. La persona que nos atendió, muy servicial y atenta en todo momento. Da gusto que te traten así. Recomendado 100%. Al final 3 pares de gafas adquiridos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "CARMEN MARIA LEAL MARTINEZ",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWaTeye25wiPEDT6CKqFHuWkmI7uqsRjfSzazKk_yGlszP9CaUw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy contenta por el trato y por la ayuda recibida. Por fin consigo que alguien me gradúe la vista bien y me de soluciones rápidas. Encantada con el trato.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "jaroca1@gmail.com L",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL4Uck859FY-ipxCaLi5dlcrOCElpZWaV-mebPoEV5gdRqSIg=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Han pasado 37 años desde que visité la óptica que tenía enfrente de mi instituto (Saavedra), en Avenida San Juan de la Cruz... Necesitaba cambiar de gafas y además,  mi primo Pepe trabajaba allí... Ayer fui a sus instalaciones en Ronda Sur a recoger mi enésimo pedido de lentes de contacto, y mi hijo, por primera vez, se probó unas porque quiere hacer un cambio... Hace unas semanas, mi mujer pasó a recoger sus nuevas gafas graduadas... En fin, toda una vida al lado de Doña Carmen Meca y su equipo. Profesionalidad y un trato exquisito y cercano, definen perfectamente su idiosincrasia. Saludos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pedro Montesinos Navarro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJbK5zyxu0BwbHvdLdS1696KEOo4-EsrDG6MsSrjwUWEftm-g=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Es mi óptica de toda la vida y el trato ha sido siempre muy familiar. Me han sabido recomendar cuando lo he necesitado y nunca me han dejado una pregunta sin responder. ¡La mejor óptica de Murcia!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Youssouf Diamanka",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVfGbSOzVrLVIMoZxWg8ghL0jnVAV6y6t9Ti4dO0hIj_78f3x4EhQ=s120-c-rp-mo-br100",
+      Rating: 4,
+      Description: "Muy contento con el trato recibido por parte de todo el personal. Son unos grandes profesionales ☺️☺️😊😊🥰😘",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Óptica Belo Visual Ópticos",
+  category: "Óptica",
+  address: "C. Platería, 4, 30004 Murcia",
+  description: "Este establecimiento se caracteriza por su inmejorable relación calidad-precio y un trato amable y cercano. Los usuarios destacan la buena atención recibida y la resolución de problemas. Se percibe un interés máximo por parte del personal y precios muy competitivos. Es considerada una buena óptica donde se encuentra lo que se busca rápidamente.",
+  serviceRatings: {
+    atencionCliente: 4.8,
+    profesionalidad: 4.7,
+    precio: 4.8,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ]
+  },
+  website: "",
+  phone: "968 21 32 02",
+  review_count: 13,
+  review_rating: 4.7,
+  latitude: 37.985325,
+  longitude: -1.132404,
+  user_reviews: [
+    {
+      Name: "Antonio",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVYULSUADOFEq0qHOfhObVHGlhwnG-7nFzs-ATjQj1_sDtgNi-Z=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Muy mal que no avisen al estar cerrado de vacaciones.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ediberto Garcia “Tonetti”",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ0YZR8eAj_micTu4ZtCqvUM1hib_-mNAjdXVCbedsxpVz-6S0Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Mi Óptica de toda la vida precios-calidad inmejorable y amabilidad sin lugar a dudas. Recomendable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "luna franco",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXjcqFXGN80es-Lmc4-WA0HxxhWDRBswSXqIMl8nt2HXUHsax4=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato bueno y buena atención , encontré lo que quería enseguida",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose Vicente Campos Galindo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ5is86kvEW7Iw3zuuMz7ybJbKtD8HreBDmuqh6jXeaqoRVbQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Son encantadores. Muy profesionales. Actúan con el máximo interés. Precios súper competitivos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana Zueco",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXVA4nu368hE3OnNgr4z_-1nqYmhnzcBdRd8zP_J4ZjiT9d1zo=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Da gusto contar hoy día con sitios como óptica Belo en los que te dan un trato personal y cercano.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marita m-c p",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLM4D_RcB-da3JqOzXvt2sftsjvewJKufKxyQfy033NXwn6Ag=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Resolución de problemas y atención 10!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "k.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUheWjBveyfy7jmFV65bB7DUnYpM0W5a8M-eeEDkRknOsHCwzjP=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buena optica",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "J. Alejandro Cantabella Sánchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU1gDISmrZlzNxBu6jsDynuz1uNO2DxunDCmwLBM6HxwhkTR0mY=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Multiópticas",
+  category: "Óptica",
+  address: "P.º Marqués de Corvera, 9, 30002 Murcia",
+  description: "Este negocio es valorado por su excelente atención y profesionalidad a lo largo de los años. Los usuarios mencionan un trato fenomenal y agradecen los consejos y la simpatía del personal. Se destaca la honradez y la sensatez en el asesoramiento, incluso recomendando no comprar gafas nuevas si las actuales aún son válidas. Además, se ofrecen buenas ofertas y el servicio de graduación es gratuito. Aunque una opinión sugiere que algunas gafas pueden ser costosas, en general, se percibe una atención cercana y personalizada, siendo una óptica recomendada.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.8,
+    precio: 4.0,
+    variedad: 4.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "9:45–13:30"
+    ],
+    viernes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://www.multiopticas.com/es/home",
+  phone: "968 71 23 27",
+  review_count: 14,
+  review_rating: 4.9,
+  latitude: 37.978049,
+  longitude: -1.129881,
+  user_reviews: [
+    {
+      Name: "M. Pilar Martínez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXmjv42awO8Cn9G-FtKiqTtHoIfLfiyH__kMeI3pvqJ-105M0vlmw=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Somos clientes desde hace once años. Siempre nos han tratado fenomenal.\nHace una semana fui a graduarme la vista y cambiar de gafas. Y por supuesto el trato no ha cambiado.\nMuchas gracias por su trato y profesionalidad.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ignacio Bautista",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUUNMdQZZIcGV1BvDasC1-Ry0_MaRj3VgB_PSaXotFBCb9oJugz=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Aparecí sin cita para hacerme una revisión y rápidamente me hicieron un hueco y me atendieron  fantásticamente. Muy agradecido por los consejos y simpatía de Yolanda. Vuelvo  la semana que viene a por mis gafas!!!! Amplia gama de gafas para elegir con muy buenos precios y ofertas jugosas! Acabas llevándote 2 en lugar de 1 porque al final merece la pena :)",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alex Cifuentes",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLih88wU9ulTDQfMgJh3kKiHQiSaH7G7EzeBdxKtVOoF8jyHQ=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "La señora es muy profesional y honrada; te asesora con sensatez y te atiende amablemente. Todo esto lo digo, porque primero, en la mañana fui yo, me hicieron él examen, y todo super bien. En la tarde fue mi esposa, vieron su ficha, le hicieron el examen y le dijo que las gafas que le recetaron hace un año todavía le valían y le regaló un cordón para que las llevase siempre encima y se las pusiese (perfectamente pudo haberle vendido otras nuevas. Y no sabían que ella era mi esposa)",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Negro Vallano",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXbLTRdBq1wjzMFXXkfkpXdrHRDUl556w0LMjEfsU2JeB2ToK4I=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Servicio sobresaliente. Exquisita amabilidad, profesionalidad y paciencia con el cliente. Mención especial a la optometrista Mari Carmen, que es un encanto. Ya tengo óptica de referencia en Murcia.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "C. Leo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXMxGxR88wa9rbfpUzR1E0KMUkQ3II_D-BuHlaU7gLanDnLAGZk=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Buena atención y mejores ofertas.\nFui a renovarme mis gafas y el servicio de graduación fue completamente gratis.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "amigos de murcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJTqgImsfxYxlrsaHUsi4AUqDwgIkyDHALyUMyLVhQ0G5pQQw=s120-c-rp-mo-br100",
+      Rating: 3,
+      Description: "clientes de hace tiempo y las ultimas gafas siento que he pagado una gafa a precio de oro",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Francisco José Robles Garrido",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWkmWikGVsIxm84LQi6pv0W8qcLlnwC9_qyAZq_Z8wk-tOKEVzu=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Muy buena atención: cercana y personalizada. Buen trato durante la graduación y venta. Óptica para recomendar.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "El Cuentass",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXY6UHJjBR0aHTRaAxerHhmQA1dmZXqY0Yif2aUN9DT9ea8vTuJ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Experiencia super buena...un trato de 10.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Óptica Yepes",
+  category: "Óptica",
+  address: "P.º Ing. Sebastian Feringan, 1, 30007 Murcia",
+  description: "En esta óptica, los usuarios destacan la buena atención al cliente y las excelentes recomendaciones recibidas. Se valora la profesionalidad y el esmero del personal, como Carmen y Raúl, quienes se toman el tiempo necesario para asesorar a los usuarios. La rapidez en la entrega de las gafas, incluso con promociones, es muy apreciada. Además, se destaca la gestión eficiente de garantías y la resolución de problemas. Los precios son considerados competitivos y la variedad de monturas es notable, convirtiéndola en una opción de referencia para muchas familias.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.8,
+    precio: 4.5,
+    variedad: 4.7
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "9:45–13:30"
+    ],
+    viernes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://opticayepes.com/",
+  phone: "968 23 30 85",
+  review_count: 14,
+  review_rating: 4.6,
+  latitude: 37.994277,
+  longitude: -1.123941,
+  user_reviews: [
+    {
+      Name: "Paula Martinez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXBo4xPpwCEDPFkb3OvZbfLQcAKBe4D3CZvNoYA0J7NF6KZwW-w=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me he hecho varias gafas ya en esta óptica y estoy muy contenta con ellas y con el resultado. La atención al cliente es muy buena y tienen buenas recomendaciones. Definitivamente volveré cuando necesite nuevas gafas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mari Angeles Guerrero Ruiz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKD1ZXkv4lJVFd-bKxOcvEF79_veQMppmKsk1XB-yKbhELzdg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Hoy he ido a la óptica y Raul y Carmen me han atendido super bien y me han aconsejado a la hora de escoger las gafas, ya he ido varias veces y estoy super contenta con el trato que he recibido de ellos.\n\nYa he recomendado a mis familiares que vayan ya que el trato es super bueno!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Nany",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLXwZzFvIX3jhvhz1ccm78J2l9VIyNhdAZhwLg56ax9ZjDcXJMr=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me encantó ésta óptica, la profesionalidad y esmero de Carmen increíble, solo han tardado dos días en entregarme las gafas nuevas y además con promoción. Para mi de 10 =))",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rafael Lopez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWepmjyvb6iWU9R3x22w7WddSiwwqtaEPflzb8ZHsjP-UjVmoCS=s120-c-rp-mo-ba6-br100",
+      Rating: 1,
+      Description: "El sábado 4 de febrero recibí un SMS a las 13:30 informándome de que mis gafas ya estaban listas. Me pareció extraño, dado que el horario de la tienda es hasta las 13:30. Por suerte, estaba justo al lado, así que llegué en menos de un minuto. En ese momento, había otras dos personas recogiendo sus productos.\n\nCuando me atendieron, me informaron de que no podían entregarme las gafas porque \"tenían la caja cerrada\" y que, si las hubiera pagado previamente, sí podría haberlas recogido. Al preguntar a qué hora abrían por la tarde, me respondieron que no abrían hasta el sábado siguiente.\n\n¿En serio? Me envían un SMS el sábado a las 13:30, llego en horario de apertura, y aun así me dicen que no puedo recogerlas hasta dentro de tres días. Esto no es un servicio centrado en el cliente, ni refleja responsabilidad hacia los consumidores. Una experiencia decepcionante que deja mucho que desear.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipMdvuK4pYt36uLNZKndkWaNmxijEjZpZYiu48wv&fid=0x0:0x2425cd42f58595a"
+      ],
+      When: "2025-1-4"
+    },
+    {
+      Name: "Pascual Peñalver",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJx_UvhqZCOtCoScxSKlY44ma5gA3Vv-gJZemuPXQ0CJfJU3w=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Quería felicitar y agradecer el trabajo de la gestión en garantía de una pata de unas gafas que compré en otra óptica Yepes de la ciudad, entre a recoger unas gafas de un familiar y pregunte si me podía conseguir la patilla de las gafas ,en la otra tienda me fueron dando largas  hasta que me dijeron que estaban descatalogadas y no había recambio,\nPues en este caso Raúl me dijo que lo miraría y a la semana me llamó pues había conseguido el recambio que la otra tienda me dijo no había disponibilidad pues estaban descatalogadas..\nPor eso mi mayor agradecimiento a Raúl por su gestión tan eficiente..",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Belén Gómez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVRU4pd2AHFYyhpfsHHo4-M_73pwnR7o6WgfYH0Cjo87z0xRmi5=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me he comprado unas gafas progresivas, lleve a mi madre a que se comprara también otras progresivas, a los pocos días mi hermano se compró dos gafas graduadas y por último mi marido y yo nos hemos comprado gafas de sol. Los precios me parecen competitivos y el trato excelente, tanto de Raúl, como de su compañera.Tienen una gran variedad de monturas. Mientras sigan ofreciendo buenos precios y un trato amable y profesional, como hasta ahora, será la óptica de referencia de toda la familia. La recomiendo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Angela Pastor",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLxUj_uOazED4mdNMsGDIgMYv21LtNhL8ZCFWGgUWD3KlhNHg=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Fui con mi madre hace poco a probar la promoción que tienen de 2 gafas graduadas por 80€, de la cual tienen bastante variedad de modelos para elegir. El chico que nos atendió (no me acuerdo del nombre 😅) fue muy simpático y nos aconsejó muy bien. Han tardado unos 5 días laborales en llegar. Muy contentas con la atención y la experiencia, repetiremos sin duda!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juanjo Toral",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLqwxRdiipkFbNvvvaEsB044j6VkWfS-0bv9Wi4_k3Ykuvbxw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "El lunes 16 visitamos la óptica mi\nMujer y yo para renovar sus gafas, al final optó por unas lentes fotocromáticas, el sábado21 ya estaban listas para recoger (a pesar de tener contratado envío a domicilio pasamos a recogerlas aprovechando un viaje a la capital) estupenda atención por parte de Raul y su compañera. Hemos quedado encantados. Totalmente recomendable.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Multiópticas",
+  category: "Óptica",
+  address: "C. Barítono Marcos Redondo, 7, 30005 Murcia",
+  description: "En esta óptica, los usuarios generalmente expresan satisfacción con el trato y la profesionalidad, destacando la atención de empleados como Yolanda. Sin embargo, algunas reseñas mencionan experiencias negativas, incluyendo comportamientos groseros o molestos por parte del personal, especialmente al acercarse la hora de cierre, y casos de no permitir la entrada a clientes con perros. También se menciona una situación donde se cobraron artículos sin haber sido solicitados previamente.",
+  serviceRatings: {
+    atencionCliente: 3.5,
+    profesionalidad: 4.0,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    viernes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://www.multiopticas.com/es/home",
+  phone: "968 20 82 38",
+  review_count: 19,
+  review_rating: 4.5,
+  latitude: 37.987077,
+  longitude: -1.133246,
+  user_reviews: [
+    {
+      Name: "TATIANA FERNANDEZ",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIYjjhv-sKiFEs2PepJIo8T0WTuoohr15x3fWmrcAxzR0LXcw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Encantada con el trato y la profesionalidad. Nunca nadie se ha tomado tanto interés en ayudarme a encontrar las gafas perfectas para mí. Era un chica muy simpática, con el pelo rizado y con unas gafas grandes y originales. Sin duda acudiré a ella la temporada que viene cuando necesite otras gafas de sol. Mil gracias",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Amparo Ruiz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVr3O3oYmywmRUp5C5PZ7b36xp2tebCJ3Plrl7go9925gXT5eUr=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Hace unos días fui a esta óptica con el fin de     renovarme unas gafas me atendió una chica   que se llama Yolanda, me graduó de maravilla y la capacidad que tuvo para captar lo que como clienta yo buscaba. Muy buena atención, asesoramiento y trato profesional que como optometrista me demostró. Sin duda la recomiendo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jimena Romo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVPOAIFqY9445uLiNEh31HesanhqdmsAhG-Z4ThYT8dlbGWk-sW8Q=s120-c-rp-mo-ba3-br100",
+      Rating: 1,
+      Description: "Recientemente fui a la óptica por unas gafas de sol. A la tienda le faltaba 10 min para cerrar pero su dependienta nos recibió con una actitud grosera y molesta. En base a la actitud que tenía, decidimos retirarnos, no dimos ni dos pasos del local y nos lanzó la persiana. Muy decepcionante la experiencia!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "luis vicente",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJmOkCamhy3KAKflWcNHf1Rd4GjVN9oFlovOgZlHwyt2y6R1Q=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "dependienta muy maleducada y desagradable, iba con perro y de muy malas formas no nos dejó entrar. Un cliente menos",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "MARIA DOLORES RUBIO PEREZ",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJzgSXAaeCaexc7MJDuMzHXVjrUeSnbiP3tJYGlMeQPsMektg=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "El trato inmejorable, me atendió Yolanda. Me graduó y, sinceramente, las gafas que me mostró en primer lugar eran las que mejor me quedaban. Mi pareja se llevó unas gafas de sol y también tuvo ojo a la primera. Sin duda, cuando tenga que renovarlas volveré a esta óptica",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Gelas Sanchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJfDmfXbo3iTgsJKbQe6Up0vqwwU7UIFVRm37SSytC23-zwBA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Todo muy bien. Encantada con el trato y la profesionalidad de esta óptica. Siempre que tengo que renovar mis gafas busco a Yolanda. Me ayuda a elegir las que mejor me sientan y es majísima. Sin duda repetiré.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana Carmen Flores Nicolas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLT7WZm8xTIgssMo_9H1sa1UhLsJo-gS6sDVk-ydGxVSdOgBw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Super amables y serviciales!!!!\nDa gusto encontrar cercanía y amabilidad en las profesionales de este comercio",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Carmen M",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJh5XcNX0h4SJoPIhlGJug7MMO2V7Dq8EJwAICeRtRbdRjrFFc=s120-c-rp-mo-ba3-br100",
+      Rating: 3,
+      Description: "Desde pequeña he ido siempre a multiópticas y muy bien, pero la última vez que fui a comprar unas lentillas, me metieron dos botes de suero sin preguntarme si los quería o no. Yo pensaba que se incluían en el precio de las lentillas pero no.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Ivisual Ópticos",
+  category: "Óptica",
+  address: "P.º Duques de Lugo, 0, 30009 Murcia",
+  description: "Los usuarios de esta óptica destacan el buen asesoramiento adaptado a sus necesidades y un trato cercano y profesional. Proporcionan información detallada y fácil de entender. La atención es calificada como muy buena y agradable, y los clientes suelen encontrar el modelo de gafas que buscan a precios razonables. Se valora la excelente relación calidad-precio y la confianza generada por la calidad del servicio a lo largo de muchos años. También se menciona la rapidez y calidad en la gestión de encargos con prescripciones importantes.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.0,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ],
+    sábado: [
+      "10:30–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ]
+  },
+  website: "",
+  phone: "968 29 73 92",
+  review_count: 8,
+  review_rating: 4.8,
+  latitude: 37.999114,
+  longitude: -1.147376,
+  user_reviews: [
+    {
+      Name: "XiXaRX “Chicharrerico”",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJOC679C2lOOUPNc0VMu2vz8qSZ0IdOjCf0MNjqotN_oCxGL8lM=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Asesoramiento acorde a mis necesidades, trato cercano sin perder la profesionalidad. Ante cualquier duda, ofrecen una información detallada y entendible para los que no controlamos de cierta terminologia óptica. 100% recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Edu",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL-m_b6HXBE4i4NJrFKqxcUzMFPLVjkyNUTB2n_061IXRyNPQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La atención es muy buena y agradable, y siempre encuentro allí lo que necesito en cuanto a modelo de gafas. Precios razonables.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Patricia Moreno Pina",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV2jKAwugmdt08IPX736nwBODwksyyLDpdGwJ7VTdC7-Be-HRw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato muy agradable y profesional, con una excelente relación calidad-precio en las gafas. Muy recomendable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "S H",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJmTaMXVM9G2-o_hm_JxmeRsEugJBl0sR3TF5FLfyjItkwveQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "El trato y la calidad del servicio es inmejorable, de total confianza. Son casi 20 años como clienta y seguiremos con ella.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "MARGA TOURS MURCIA",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXxYkaAvePsWAVjHZ9wVo8h1YeIu5qOWJ7AyK63L10paVYUg-Fv=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Soy vecina del barrio del Ranero quería felicitar a la óptica por el trato profesional, calidad y rapidez. Mi hija usa gafas con una graduación importante y las perdió, y su gestión fue impecable. Seguro que volveremos, además tiene gafas de marca, moda, y te aconseja genial. Os recomiendo que vayáis. Cristina Mora",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cajón Desastre",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXPUL5J_D-fUJXesxEbMoCzxmFgz0MioLK3RFc_97FQik7P5yg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "beatriz Belda Cano",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI48_1nzDke7dO_9SkTOjV9Y44q1yNGxvSmUh_tAne4Iksg_A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Siempre unico (Vincent Van Good)",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUMHP6j79xoMqiAjJM-h2rcu5xhTxTa5yNw-eJYSzabz43MjZpvgw=s120-c-rp-mo-ba8-br100",
+      Rating: 3,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Centro Visión Pío Xii S Cv",
+  category: "Óptica",
+  address: "C. Pío XII, 5, 30012 Murcia",
+  description: "Esta óptica es descrita como un establecimiento de barrio que ofrece un buen trato a sus clientes.",
+  serviceRatings: {
+    atencionCliente: 4.0,
+    profesionalidad: 3.5,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {},
+  website: "",
+  phone: "968 25 77 29",
+  review_count: 2,
+  review_rating: 4.0,
+  latitude: 37.973063,
+  longitude: -1.122824,
+  user_reviews: [
+    {
+      Name: "Pedrossi",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUDiLjFiT2KBoIXr2dFkj-Rekm9Q8v6iKllcshcgwo7KmGKuUo4=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Buen trato.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Guille M",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUKX_CoOB8eT4gBlsiCWUHy2dK_yc0NZmW87t0IK-51FIyKU-hRsg=s120-c-rp-mo-ba6-br100",
+      Rating: 3,
+      Description: "Óptica de barrio",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Optica2000 El Corte Inglés Avenida de la Libertad",
+  category: "Óptica",
+  address: "Av. de la Libertad, 1, 30009 Murcia",
+  description: "En esta óptica, los usuarios están muy satisfechos con la atención recibida, especialmente por parte de profesionales como Noelia, Angela y Alicia, quienes son descritas como amables, profesionales y dispuestas a ayudar a los clientes a encontrar las gafas adecuadas y solucionar problemas de visión. Se destaca la calidad del trato y el asesoramiento personalizado. Sin embargo, una reseña menciona un coste elevado en la reparación de unas gafas en comparación con otras ópticas.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 3.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–22:00"
+    ],
+    lunes: [
+      "10:00–22:00"
+    ],
+    martes: [
+      "10:00–22:00"
+    ],
+    miércoles: [
+      "10:00–22:00"
+    ],
+    sábado: [
+      "10:00–22:00"
+    ],
+    viernes: [
+      "10:00–22:00"
+    ]
+  },
+  website: "https://www.optica2000.com/buscar-opticas/murcia/optica-2000-el-corte-ingles-murcia?utm_campaign=gmb-website&utm_source=google&utm_medium=organic&utm_content=32-Murcia-Avenida-de-la-Libertad-1",
+  phone: "968 29 35 96",
+  review_count: 38,
+  review_rating: 4.3,
+  latitude: 37.989381,
+  longitude: -1.133045,
+  user_reviews: [
+    {
+      Name: "Leticia Gozalo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUfNRJkP2Ylx1e8nMKiOnzhWZrG8ZaeW3MiWr9g_RCFS-NXvW_BMw=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Hemos comprado gafas tanto mi pareja como yo. Nos ha atendido Noelia y ha sido un encanto. Nos ha hecho una pequeña revisión, nos ha aconsejado sobre qué era mejor para nosotros y nos ha ayudado a elegir el modelo de gafas perfecto. Salimos muy contentos y deseando tener nuestras gafas nuevas ☺️",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Sory So",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUgaiPUqU37NlDpflBcr5-DJs_I7J42_Ew2q1cyilpdDNaal2w=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato espectacular por parte de Angela Gallego. Tenía dolores de cabeza y me levantaba con el ojo inflamado, tras su consejo probé lentillas más hidratantes y gotas diarias y SOLUCIONADO! Además del trato inmejorable, da gusto contar con profesionales competentes y con ganas de desarrollar su trabajo. Conmigo han ganado un cliente y buscaré a Angela siempre. Enhorabuena por su personal",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Antonio Pagán Molina",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL3ofEMiwFtBfpOgVz2WcBxezACwzDrLOYBiyFy0iZc0LYXpg=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Hemos sido atendidos extraordinariamente bien por una muy buena profesional muy buena comercial y se nota extraordinaria persona estamos hablando en cuestión de Noelia.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose Carlos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLoGDN5Qa9B_aOg1KjTvVU5Si3aF5oZAUtN2fk0DLfy09_9Yg=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Alicia es una gran profesional, con un trato muy agradable y excepcional, ha cuidado en todo momento los detalles para que pudiese elegir las gafas que mejor se adecuaban a mí. Recomendable 100%, volveré seguro.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipNZfeiVozjD7d_7N4BV34TOPeSHxx8rwecQ794b&fid=0x0:0x4a4d151291a8c21b"
+      ],
+      When: "2024-7-30"
+    },
+    {
+      Name: "Joaquín Pastor",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ3liKHuc68JhTUqQLA5jTjGR5Y_sqCNZHCM_UoHbOmzyx6bQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Encantados con el trato recibido por parte de Noelia Sánchez super amable y muy simpática todo muy bien explicado,la recomiendo 100X100",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Oscar Lizarazo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJx-ujmkiAKQRoLYtoaGxMAkFUdWKsQYBrI9U-HfuvBQa_o6A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente atención por parte de Noelia. Recomiendo la óptica y el servicio.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "NANDO FER",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJdeZVdXg11G45LbJ5TtqtBCZu21qCnv6C7Y5qFI9J-UHt61bS9=s120-c-rp-mo-ba3-br100",
+      Rating: 1,
+      Description: "MI EXPERIENCIA con está sección de el Corte Inglés,,\nLlevé unas gafas para un puntito de soldadura en la patilla,,y lo primero que me dice la chica que me atendió,que me interesaba más una montura nueva 🥺,les indique que prefería soldarla( pues son gafas de suplencia) y me comentaron, que me costaba 30€,,las dejé para reparar.A la semana siguiente me llamaron para indicarme que me costaba 60€.🤨,,les dije que no las repararán,,las lleve a una Óptica en Murcia ,en dos días las tenia y me costaron 10€,,,,,,y no se observa el punto de soldadura ,incluso le maquillaron ese puntito de soldadura para que no se notara!!!.\nQue cada barco aguante su vela,,pero es un despropósito y un abuso!!!😡 Me hubiese costado una montura nueva,,o 60€ y dos semanas sin gafas de suplencia,,\nEl C Ingles,,para mí, de mal en peor, por admitir esta política comercia, entre otras cosasl!!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Francisco Hdez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUF5qGQyBtzVzC4Wf99RM0bNL2jf3gu1w92S3p-nA65fqCDM9K46A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Atendido por Noelia.\nMuy satisfecho y trato súper profesional.\nGracias",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Óptica Ferao",
+  category: "Óptica",
+  address: "C. Andrés Baquero, 13, 30001 Murcia",
+  description: "Esta óptica destaca por su excelente atención al cliente y la amabilidad de su dueño y personal. Los clientes aprecian los diseños innovadores y únicos, así como la alta calidad de las gafas. La tienda también ofrece buen asesoramiento y un eficiente servicio postventa. Las instalaciones se describen como modernas y bien ubicadas.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 3.5,
+    variedad: 5.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:30–14:00",
+      "17:00–20:00"
+    ],
+    lunes: [
+      "10:30–14:00",
+      "17:00–20:00"
+    ],
+    martes: [
+      "10:30–14:00",
+      "17:00–20:00"
+    ],
+    miércoles: [
+      "10:30–14:00"
+    ],
+    sábado: [
+      "11:00–14:00"
+    ],
+    viernes: [
+      "10:30–14:00",
+      "17:00–20:00"
+    ]
+  },
+  website: "https://opticaferao.com/",
+  phone: "968 23 37 91",
+  review_count: 13,
+  review_rating: 4.8,
+  latitude: 37.98697,
+  longitude: -1.127886,
+  user_reviews: [
+    {
+      Name: "Inés Morán",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI3_BOGAcdDrun2pCpA7UpUZxI8c5gKMAK8Sk4SUROLClCPSg=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Sin duda, las mejores gafas que he tenido y llevo muchos años de experiencia. Diseños muy chulos, diferentes, muy buena calidad, asesoramiento y amabilidad  Responden además  muy bien si hay alguna incidencia. Llevo ya varios pares de gafas con ellos y realmente merece la pena.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Emilio Hernandez L. Guide",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWMNY6JQWpX2Qq8cbnaMQnGatAT8IncpQq0YgekOEj1kFnsFJc=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Es una fantasía de óptica!!! Que gafas y el dueño es encantador. Sin duda una de las tiendas más recomendadas de Murcia.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Encarna González",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJi_1LJZ3PZ2EGdjdvKmWCecWMuUSM0O2LcW61eaqf8-ddYBQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Sencillamente me encantan sus diseños, la atención y el asesoramiento. Modelos con diseño exclusivo muy originales",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alberto Hernández Jiménez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKfyxJqCiTcU0D3opiZRPyAi2b43I6ZOu0UniRfU7VCpLUx=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Una óptica innovadora, diferencial, especialista. Servicio de optometría superlativo: tecnología y conocimiento, precisión. El trato y las recomendaciones de Jorge y su equipo, magníficas. Y por supuesto, lo obvio: diseños de montura en tendencia, de las mejores firmas independientes. Ha sido mi primera compra de muchas. Muy agradecido a Jorge y su equipo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Siempre unico (Vincent Van Good)",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUMHP6j79xoMqiAjJM-h2rcu5xhTxTa5yNw-eJYSzabz43MjZpvgw=s120-c-rp-mo-ba8-br100",
+      Rating: 4,
+      Description: "El local es muy bueno, amplio y con un diseño moderno. Estupenda su imagen exterior y fantasticos sus escaparates. Su ubicacion todo un acierto.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipNv36xQBiQOsf8Hxs6CABXxYriMtGUMfes3d_aJ&fid=0x0:0x2ff4261ab77722f8"
+      ],
+      When: "2016-10-3"
+    },
+    {
+      Name: "Santiago C.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXoIZnEKZIrkVgx4lrggeBHap8i_MWq5maToGhlzc-jVj2KmQbZ=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Excelente óptica con diseños innovadores y únicos. Además cuentan con una atención de lo más cuidada. Antonio es un gran profesional",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Encarna L",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKDy2B3_I_6aDeGL5PH1FUnT8BvDMu0M29bO2X5cY7SUJA4Sg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Gafas especiales, trato personalizado, amable y profesional. Atentos y eficaces en la venta y posventa. Totalmente recomendado!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "M B",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJwqgYNjwH0xRvdAb26GFDvhDhwEwlSIq3tPdlO5_k6JlZl-CA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Atención excelente, tienda de nivel, modelos de gafas exclusivos. Experiencia fantástica, muchas gracias por el trato.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Óptica Universidad",
+  category: "Óptica",
+  address: "C. Santo Cristo, 9, 30001 Murcia",
+  description: "Esta óptica es conocida por su trato personalizado y amable, con un personal muy útil a la hora de ayudar a la gente a elegir las mejores opciones de gafas. Muchos clientes mencionan la excelente y profesional atención al cliente, junto con explicaciones detalladas y buen asesoramiento. La relación calidad-precio se considera buena, y el servicio de graduación se describe como perfecto y eficiente.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "http://www.opticauniversidad.es/",
+  phone: "968 23 63 64",
+  review_count: 33,
+  review_rating: 4.9,
+  latitude: 37.987937,
+  longitude: -1.127353,
+  user_reviews: [
+    {
+      Name: "Ruben Gonzalez Costa",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUJfRMwUcME7-wwozE1tr_5gCoHV9vONudfXXK03qfdFeotRSk=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me recomendaron esta óptica y fue todo un acierto, trato personalizado y familiar. Me ayudaron a elegir la mejor opción de gafas y me aconsejaron en todo momento,calidad -precio bastante acertado ! Sin duda alguna recomiendo esta óptica por que hacen una labor fantástica y se implican con sus clientes.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pablo Campos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJj7s-qqGxcEtA6x5V7GOZw16FUmeK9X6YHjoaDNYVxK0wJPQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Óptica recomendada al 100%. Llegué con molestias en las gafas y me solucionaron el problema. Gracias al excelente trato y atención personalizada que tuve se ha convertido en mi clínica de confianza. ¡Y los precios inmejorables!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pedro Aranega",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXKwr_W4N8hFtFAhNNvIug_aFKm0L-U26LtOZvJDf9hpqKrVV-k=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Atención al cliente profesional y amigable. Me explicaron detalladamente las opciones de lentes y monturas, y me ayudaron a elegir las gafas perfectas para mis necesidades. Recomiendo encarecidamente a Óptica Universidad y agradezco a Alfredo y al equipo por su excelente servicio.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juanjo Zafra",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW6iZ_WVhyKdQMYhQ6YP6PwN3Qb9d1_3g1JECOQFwadVThsOkcH=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Sitio, genial, trato inmejorable. Me asesoraron muy bien sobre que necesitaba.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ignacio Salvador",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVKyuqotDeszjmiv6YWlhtqHY5GKW95MWpVdUdxPIf8FrKVFQnY=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "estaba de camino a recobrar mi vision hasta que me negaron el acceso por suspuestamente \"no tener remedio\"( tengo perro guia) la fachada era muy bonita la veo muy bien. visto esta actitud conmigo no veo otrq forma de colocar una reseña para la vean todos, yo no puedo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alvaro Guerrero",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJbC0e11tDUkmCJpgACqI596FnWKEHs_0fO1ZWRb4QPhXJX0A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "El trato es de 10 desde el momento que entras por la puerta, que te asesoran y ayudan en todo lo que necesites.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juan Luis",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLaw7ckNl7Xr-x5dhOK3tv0zz8jdnp6zRIJ5CfJfiqOAx-q1w=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me han atendido de maravilla, graduación perfecta, no me gustaban nada las progresivas por malas experiencias y después de la excelente graduación de Alfredo y el trato exquisito de Eva y Olga, no puedo pasar sin mis gafas progresivas...además de tener un precio \"10\"  gracias por todo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "ALEJANDRO FORCA CARRILLO",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLsDfPUPyUujyavAZ2xGivFP2L3yEgGjLXM0vXvGe0LYBXP3A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Son muy profesionales, agradables y eficientes. De un día para otro, precio muy razonable y calidad. Muchas gracias",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Central de Óptica",
+  category: "Óptica",
+  address: "central de óptica, Av. de la Constitución, s/N, Ed.Murillo Bajo, 30008 Murcia",
+  description: "Los clientes elogian constantemente el servicio profesional, amable y cercano proporcionado por el experimentado equipo de esta óptica. Aprecian el asesoramiento objetivo que se ofrece al comprar gafas nuevas, destacando la ausencia de presión para comprar. También se resalta la eficiencia de la revisión ocular.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "",
+  phone: "968 24 71 32",
+  review_count: 2,
+  review_rating: 5,
+  latitude: 37.990646,
+  longitude: -1.131223,
+  user_reviews: [
+    {
+      Name: "Juan",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIOr3KlVqo5AjSno_Ks_-vGRkW4sYpcdDSDVEREwOzi_cR7vA=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Experiencia muy satisfactoria en términos generales, destacando especialmente el trato profesional, amable y cercano por parte de un equipo veterano que se nota a la hora de desenvolverse con el cliente. Agradezco también la objetividad a la hora de adquirir mis nuevas gafas, donde noto que no existe afán recaudatorio alguno, sino todo lo contrario. Me gustaría también hacer mención a la eficiencia por parte del señor Hernández Mora a la hora de graduarme la vista. Creo que no es su primera vez en esta especialidad...\nRecomiendo este lugar y escribo esta reseña porque estoy agradecido por el servicio en su totalidad.\nMuchas gracias una vez más a \"Central de Óptica\".",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juan Pérez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJPkqjSuB4sOyYLt1r-6NG3NHwGNn6A72lDX8E91KNzTJ7gxg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
+{
+  title: "Federopticos Vistalegre",
+  category: "Óptica",
+  address: "C. Maestra María Maroto, 14, 30007 Murcia",
+  description: "Esta óptica es reconocida por su muy buena y espectacular atención al cliente, con un servicio postventa inmejorable. Se les considera especialistas en visión, ofreciendo buenas soluciones para problemas oculares específicos y proporcionando un excelente asesoramiento. La gente también aprecia el trato profesional y amable y la original variedad de gafas disponibles.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 3.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "9:45–13:30"
+    ],
+    viernes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://federopticosvistalegre.com/",
+  phone: "968 24 17 26",
+  review_count: 152,
+  review_rating: 4.6,
+  latitude: 37.995779,
+  longitude: -1.128699,
+  user_reviews: [
+    {
+      Name: "Daniel Martin",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXIJ2_WgM-ThU58MYjeg2AGuciLd4V6Cwoy4WxddTgPvOrYQ3Gg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buen trato, tenía un problema con la vista poco más especial y me dieron una buena solución, recomendable.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipPWpBGfzVcK_D4d73kCfg8mvDzftqLGAT4HBgNS&fid=0x0:0xbc71794d77050471"
+      ],
+      When: "2025-1-9"
+    },
+    {
+      Name: "JOSE ANTONIO MEDINA GALAN",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWY_yYGwzvQFw9pVwOTE9Pj8jF6K1Cxtjx16eoeViiRCRH9fiBl=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "El trato es espectacular, el servicio postventa inmejorable. Desde luego no es solo una óptica. Es mucho más.\nSi vas a otro sitio, te estarás equivocando.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipP_bC5Nx_ahLvsaiP_ITYl8JAlk5bCkiMNyV95S&fid=0x0:0xbc71794d77050471"
+      ],
+      When: "2024-8-24"
+    },
+    {
+      Name: "Nono Carrillo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIje8mMVxvwLoSDW9wYVi_PqxmN32_skp7tuVai-HiDFvx2Rw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Mi óptica de confianza desde hace muchos años, trato inmejorable y profesionalidad. Tienen un surtido de gafas muy original, para los que nos gusta lo diferente.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "carla moreno donat",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ6I5pYlBCUGsM0I5rWu44x46fTsFnXzmptXWdjnyCZC2gezA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "me ha encantado la profesionalidad y el trato humano , son especialistas en la visión, recomendable 100 % .",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Beatrix Bernhard",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU8IsOXovREvumSgfSJY38RsAA2DMYhGJD-z_C17PE6i-4IhnQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me voy divinamente con mis gafas, estupendo todo",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipPapGkCoMe3zBk2AlCwG0rOkXgIsx6TwEftNkoO&fid=0x0:0xbc71794d77050471"
+      ],
+      When: "2025-1-24"
+    },
+    {
+      Name: "Yolanda Casanova Aparicio",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK3Od8DJA1aTG8QHFYOD-acJMF8uhB15Mp57qhzBKsUURdN-Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Inmejorable  atención,  personal comprometido con tus necesidades y asesoramiento tanto en gafas graduadas como de sol, además de una inmensa variedad en ambas, lo recomiendo 100%",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pablo Esquer",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKjDKeq3AyORq6iZNDTZAVmhv46Ex7FAyg8z4uZHhDOkJz_eA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Espectacular recomendación de Pablo, una pasada las gafas Evil Eye",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipOpGuWVIEaVaRA44Zx1ropAXp5SBPgtvr01uS85&fid=0x0:0xbc71794d77050471"
+      ],
+      When: "2025-2-4"
+    },
+    {
+      Name: "Marta Bermejo Ruiz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX3p633IDeSYg1nMLwpRE79b52ZeXINRIhktluVmGZN5rHem44=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Voy a este sitio a que Pablo me venda las gafas desde que soy pequeña. El trato es inmejorable. Un 10!!",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "murcia"
+},
 ];
 
 const ProvinceDetails = () => {
