@@ -51450,6 +51450,5494 @@ const opticians: Optician[] = [
   emails: "",
   province: "álava"
 },
+//Listado de Albacete
+{
+  title: "Óptica Lola Marín",
+  category: "Óptica",
+  address: "C. Dionisio Guardiola, 23, 02003 Albacete",
+  description: "Esta óptica destaca por su trato muy profesional y amable. Los usuarios valoran la rapidez y eficiencia, incluso en situaciones urgentes, donde el personal se esfuerza por ofrecer soluciones en tiempo récord. Además, los clientes se muestran muy satisfechos con la variedad de monturas disponibles y la calidad tanto de las gafas como de las lentillas, todo ello a precios razonables.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.0,
+    variedad: 5.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ],
+    sábado: [
+      "10:30–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ]
+  },
+  website: "http://www.opticalolamarin.es/",
+  phone: "640 87 46 62",
+  review_count: 20,
+  review_rating: 5,
+  latitude: 38.991736,
+  longitude: -1.857022,
+  user_reviews: [
+    {
+      Name: "María Tárraga",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK6mHU0cRXEpbcPyGFY5oqpiBiONyedsXIfFQNE51tj33Ey3w=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me ha parecido un trato muy profesional y amable, no dudo en recomendarlo. Acudí porque necesitaba una solución un pelín urgente y Vicente se puso manos a la obra y en menos de 24 horas tenía mis gafas! Solucionó ese problema y ahora tengo otro... me gustan todas las monturas que tiene! Estoy contentísima con mis gafas y lentillas y con el trato!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Vanessa González González",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKW6Rtq_MEHy15MzVNjbapGvQGjkfbTLZI-bq7qnu0P_04WsA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me encanta esta Optica por la profesionalidad y amabilidad de Vicente, siempre encantador y además tiene buena variedad a buen precio. Recomendable 100%.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juani Gascon",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIYbVdTf6tyvmmTVLSh8S6Ovj-oa1LACxs5k2tPuVB7ssnUHA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Vicente es un gran profesional,  aparte de buena persona,  siempre te asesora y ayuda de la mejor manera,  lo recomiendo cien por cien",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Feli Gómez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX_Uo1grCKS6J5LT1_PdFwnEpU4ZNDBjaZC-jUjyV5aGg1otO3M=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente profesionalidad, cercanía y empatía. Muy agradecida por el trato recibido.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVrkTUFyd9MvikJa25HYI7jRJGwUfZPa-a5fEVS5QvepilMjdwgQA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buen servicio, muy amables, muy rápido y muy profesionales\nEstoy muy contenta con esta óptica. Súper recomendable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lola Honrubia Gómez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWtMgNuJA9FrwnXZrSePaz1m9bFeG1Saw9OvDQc9TDUyqs1HLIa=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "gran trato al cliente, rapidez y calidad.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Eva maria Llamas arenas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLMqap_RBeMITPNwm2EuD5l0NkR0wQb6LAGCW_8EBcueC2uLA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La atención es exquisita al igual que el trato muy eficientes",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Javier Navaq",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW03NnWUrfoAxxhxHpUwiDuAyVLKbzCMMY6DmlvQ4KihHyOQVlRkA=s120-c-rp-mo-ba8-br100",
+      Rating: 5,
+      Description: "👌👌👌",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Luis Díez Ópticos",
+  category: "Óptica",
+  address: "C. Tesifonte Gallego, 16, 02002 Albacete",
+  description: "Se distingue por ofrecer un trato super amable en un ambiente exclusivo. Los usuarios resaltan la profesionalidad de su equipo, que les ayuda a encontrar las gafas adecuadas. Además, cuenta con las marcas y modelos más modernos, ofreciendo un excelente asesoramiento en la elección de monturas y cristales. La calidad del servicio y la atención al detalle son aspectos muy valorados.",
+  serviceRatings: {
+    atencionCliente: 4.5,
+    profesionalidad: 4.5,
+    precio: 4.0,
+    variedad: 5.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "Cerrado"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://www.luisdiezopticos.es/",
+  phone: "967 24 77 54",
+  review_count: 363,
+  review_rating: 5,
+  latitude: 38.991931,
+  longitude: -1.855863,
+  user_reviews: [
+    {
+      Name: "María José López Íñiguez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWl1C2C9k9h17xW8RCgp_y5M1VT7fdyKdic9_7blSi1cx9FfjDG=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Decidí ir a esta óptica por recomendación de una amiga. Tenía algo de dudas referente al precio, pero me ha sorprendido para bien, mucho más económico de lo que mi anterior óptica. El trato ha sido excelente e insuperable y el presupuesto final ha sido muy acorde con el servicio que ofrecen. Tengo claro de que lo que pago es CALIDAD!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Aurora Monroy Parrón",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIyQHslo6eXrcO7Eg74HisDsWuP02XT3rkU6nCyw_Nhp5RBoQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato super amable en un ambiente exclusivo, me ayudaron a mí y a mis hijos a encontrar las gafas adecuadas para nosotros.\nLlevo muchos años con ellos y los recomiendo por su profesionalidad y por el trato q dan.\nTanto Luis como Fernando con excelentes personas",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Emilio Alguacil Juarez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV1yu56KdYJa6UVRupnV3JJhFSwPTrrswngpl8-8AjsYy5bttA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Increíble profesional. Vamos desde Granada ya que se preocupan de nuestra salud visual prestando el mejor servicio con los mejores medios y profesionales . Inmejorable trato . Un 30 de puntuación.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "P T",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJNzldFUmh4wsBITzm3GudOHLLR-6jUnW0uAoCMYOgUEt-EAQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Luis Díez Ópticos tiene las marcas y  modelos más modernos del mercado.\nMe atendió Luis Alemañy con una gran profesionalidad que me aconsejó en el modelo y cristales... Un trato excelente.\nSúper contento con mi nueva adquisición.\nRecomendable, sin duda alguna.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Almudena Cózar",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVnO1QJi-1wUNL2R8EW2W16ZAXeKNrdPoeZ2O3zWrKC_TDsdRyvAw=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Llevo algunos años como clienta de la óptica y tanto la calidad como el servicio siempre han sido excelentes. Las instalaciones han ido mejorando cada año, añadiendo las ultimas novedades en lentes, lentillas y \"maquinitas\" para mejorar la graduación, además de tener diseños de gafas para todos los gustos, monturas desde las más clásicas a las más arriesgadas. Se nota que les gusta su trabajo, grandes profesionales y personas, un gran equipo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Sergio Requena Megias",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLWovKTz6HtRVWx370-r8mFyOqCNlKSMUkmOzI5eOMs3pOYVw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Llevamos toda la vida con ellos y no podemos encontrar ningún defecto. Un equipo muy profesional y trato siempre cercano. Por supuesto siempre a la última en tecnología y moda. Mi enhorabuena. Muy recomendado.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Julia Lopez Sanchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK6RI3ocvtLWlffKkTBIWCAQ6KJrQCBqB5xLMwf3iUc_blVKw=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "INFORMALES Y POCO PROFESIONALES. Estoy esperando unas lentillas desde antes de Navidad y he ido una par de veces , me dicen que me van a llamar pero no lo hacen. Pregunté también por gafas fotocromáticas y tampoco me dieron demasiada información. Así que he ido a otra óptica donde me informaron de todo con mucha profesionalidad y finalmente me he comprado las gafas fotocromáticas con lentes zeiss . En casa llevamos todos gafas y hubiéramos sido muy buenos clientes",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Susana reflexologa",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWnyvUfdZSF9iCP6zIcaCgrAOdwc1c-vVYnhwD4XOUBDWkWQsjn=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente trato y trabajo de graduación muy minucioso. El resultado, unas gafas con unas lentes de altísima calidad para una perfecta visión, muy contenta con el resultado y con el trato recibido, gracias Luis.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "MarpeEstilo - Óptica Albacete",
+  category: "Óptica",
+  address: "C. Hermanos Jiménez, 9, 02004 Albacete",
+  description: "Esta óptica es altamente valorada por su excelente atención y el trato personal que ofrece. Los usuarios destacan la gran profesionalidad de su equipo y la calidad de sus servicios. Además, los precios son considerados muy competitivos, lo que, junto a la comodidad y eficacia de sus soluciones visuales, genera una gran satisfacción entre quienes la visitan.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 5.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:30–13:30"
+    ],
+    viernes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "http://www.marpe-estilo.com/",
+  phone: "967 50 20 88",
+  review_count: 25,
+  review_rating: 4.9,
+  latitude: 38.995272,
+  longitude: -1.867227,
+  user_reviews: [
+    {
+      Name: "Pilar Nieto",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKPKAUv3-b7vcyHnJ3KWP9Ypo0yHPQiItaroGuMLFMJ_LyqQg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fui para q me revisase la vista porque veía un poco borroso (ya q parece q no me acostumbro a las progresivas) y tras un estudio me dijeron q la graduación correspondía a mis gafas, q estaba bien, al mes fui a q me hicieran unas solo de lejos, (ya q fueron tan legales) y aparte de ofrecerme el mejor precio, me van estupendamente, parece q no llevo nada y no se q tipo de cristales son pero es q no me molesta el sol de frente, llevo gafas desde pequeña y nunca había estado tan comoda",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Carmen Herrera",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJMqxBVYa6LOTKtlvW8FuWCGPr7fuzOajKAsE0lIU5H65Uyvg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La atención es excelente. Tanto mi familia como yo estamos encantados. Estoy segura de que si alguien no los conoce y va por primera vez saldrá tan encantad@ como yo. Enhorabuena.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Teresa Valls Cantos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWJY7YzfMFn4EUUUbSy2AfvP8OwPTF0CkLPoFZHNV5ywWKLmxMNQw=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Trato personal excelente, buena calidad y un servicio inmejorable. Grandes profesionales. Si quieres cuidar tu salud visual lo recomiendo 100%",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Carlos C",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJpYcZDQhXvprHRIJ63IiUZCYlV-YVm5NQFiUcvC6n_AvUw8Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente trato y grandes profesionales. Sobran las palabras, estoy muy contento.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Noelia Catalán Miralles",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLGbhXNohBc2uPZOIcUl4xWhJQ_FYD3_ZJnjbdm1EjD7VjC=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelentes profesionales y un trato magnífico",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Laura García",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVkss_Uy37QhpbOEw8cdzjcygd0fUpRttSB7Je_5lsX_Z4KcC5Gcg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Mejor trato y personal imposible. Tengo las lentillas aquí y nunca ha habido ningún problema y nunca me han faltado. ¡No cambien!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "pekannibal",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKwOInfGpQDCMxLnumJjjSUCWRiju4BIzHVuhnjmOBpBgX6J-I=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buena atención por parte de todo el personal",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Nieves Miralles Rivera",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK93ANghh7foZLEdQMLY-7AxwRscdpVVm8ABAKcoMvT_wNkYgk=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Súper profesionales!! Sin duda la mejor Óptica en Albacete . Muchas gracias a este gran equipo por la atención .",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "GLASSTOR Ópticos - Óptica en Albacete",
+  category: "Óptica",
+  address: "Av. de España, 3, 02002 Albacete",
+  description: "Esta óptica se distingue por su excelente atención al cliente, donde los profesionales se toman el tiempo para escuchar y ofrecer el mejor asesoramiento. Los usuarios destacan la exhaustividad de sus exámenes de graduación y la buena relación calidad-precio. Además, resaltan la profesionalidad y amabilidad del personal, así como la gran variedad de monturas disponibles.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.5,
+    variedad: 4.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:45–13:30",
+      "16:45–20:30"
+    ],
+    lunes: [
+      "9:45–13:30",
+      "16:45–20:30"
+    ],
+    martes: [
+      "9:45–13:30",
+      "16:45–20:30"
+    ],
+    miércoles: [
+      "9:45–13:30",
+      "16:45–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "9:45–13:30",
+      "16:45–20:30"
+    ]
+  },
+  website: "http://www.glasstor.com/",
+  phone: "967 55 07 19",
+  review_count: 57,
+  review_rating: 4.9,
+  latitude: 38.989804,
+  longitude: -1.856046,
+  user_reviews: [
+    {
+      Name: "Guille Lopez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWd2H0wNcCgOGV3ICAOElpk-0rsgYnYdORNLNhkrtJg4WhysAqs4w=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Muy recomendable,Mejor imposible! Desde el principio una atención exquisita, me escucharon y supieron ofrecerme y aconsejarme en mis últimas gafas y a la hora de la graduación me hicieron un examen super completo q en anteriores sitios no me habían hecho detectandone algo de astigmatismo. Muy buena relación Calidad/precio y sin duda ya tengo ópticos de confianza. Gracias Javier y Manuel, gracias Glasstor Ópticos",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maxi Montero López",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUbkG9W-TCQO6U9Iid8Hh-hvTGNgdjdcgIohpzNRTD3cnLVTIQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelentes profesionales! Tomé la opción de ORTO K para la oposición de policía nacional y la verdad es que fue un acierto, todo controlado al milímetro y siempre disponible para resolver cualquier duda o problema.\nRepetiría sin dudarlo, recomendable 100%. Gracias Javi !!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juanjo Martinez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUmYqzuLWb-z-RHDEoFTEc_2tTKw_cfKB3CZ5zf0ys-q_75o-A=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Fui recomendado por mi amigo Toño, y la verdad que he quedado muy satisfecho.    Grandes profesionales Javier y Manu, te asesoran muy bien, gafas de calidad y un trato de 10 👌🏻",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pedro Tunaman",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLaZ49unn1f9DzSEH_oybisypuAEtFoy0S4300fuxnGkzTEuQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He sido un cliente algo puñetero con mil dudas para comprar mis primeros progresivos, porque venía de otra óptica donde me metieron mil miedos. No diré nombres por privacidad, pero el chico que atiende en tienda me ha orientado genial, me ha buscado el mejor precio posible y ha estado para todas mis preguntas con toda la paciencia (incluso al teléfono). Y por otro lado el especialista que gradúa, siendo una situación que me suele agobiar, es el primero que me ha hecho sentir tranquilo durante las pruebas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Adrián Morcillo García",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVAGqEBDH1YDc14luyJKl8_u3eeZlbxbldCCo9vY6b9x5kE2P8=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Glasstor Ópticos es de las mejores ópticas en atención al cliente de la zona. Unos grandes profesionales que te ayudan en todo momento hasta elegir las mejores monturas. Gran variedad de monturas para elegir. Muy buena gente y con un trato muy cercano hacen que te vayas de allí con una sonrisa y unas gafas nuevas. Precios muy competitivos. 100% recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juan Carlos Navarro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVmye3mZWFnGt_5NZBaTIhguiM7mPwNgUN7adZJSkqYXI6DXJfK=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "No encontrarás mejor trato ni más profesional. Desde que los conozco siempre voy a ellos y estoy encantado",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Julian Velez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVHG1qvoFhv0JGwbtr4fJtC_LPT5ISrUshBFhGJJfdPClPHE_IUvQ=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Grandes profesionales,en menos de 12 horas me graduaron la vista y me entregaron las lentes nuevas,desde luego lo recomiendo cien por cien,amabilidad y simpatía,y con una gran variedad de monturas de grandes firmas y sobre todo buenos precios.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Angel Almendros",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWqghyrjkKuag8VAQ_bWzMZW0lem9R8wRoyvfBBt6MzDSZzVwI=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Una variedad de gafas fantastica. Siempre tienen lo último y hay modelos y marcas que no se encuentran en ningún otro sitio. La atención en sus opticas es de primera. Técnicamente muy avanzados, los mejores opticos en la ciudad. Te recomiendan, te explican y te aconsejan con mucha profesionalidad.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Multiópticas",
+  category: "Óptica",
+  address: "C. Tesifonte Gallego, 4, 02002 Albacete",
+  description: "Los usuarios que han visitado esta óptica destacan la excelente atención recibida y la gran diversidad de modelos disponibles. El personal es descrito como atento y detallista, esforzándose por encontrar el modelo que mejor se adapte a cada persona. Además, la gestión de citas para la graduación es eficiente y respetuosa con los tiempos.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 4.5,
+    precio: 3.5,
+    variedad: 4.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ],
+    viernes: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://www.multiopticas.com/es/home/",
+  phone: "967 10 80 30",
+  review_count: 80,
+  review_rating: 4.9,
+  latitude: 38.993052,
+  longitude: -1.85538,
+  user_reviews: [
+    {
+      Name: "Irene Campos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLUKg6JgGkOEKckI9hhRwtRdfCpLSjuvRy_wms8UY2dvo3dew=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La mejor óptica de Albacete. Tienen modelos para todos los gustos, precios muy buenos y la atención es excepcional. Muy contenta con mis nuevas gafas ¡muchas gracias chicas! Volveré a por las de sol 😎",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Inés Blanc",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW_ChLmjygAO-05SwpnpQ8o0VkWU36oZzHKzIWJ-v_AgQNH5KSnHQ=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Trato atento y una gran variedad de modelos.\nTodo el personal te atiende con mucho detalle y hace lo posible para que encuentres el modelo que más te encaje.\nPara la graduación tienes que pedir cita y te lo hacen en un momento, por lo que respetan mucho los turnos y no te hacen esperar.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Eva López Álvarez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXZOWAQxYlKPxNtZV2DIrBtHQvP4zk3aDWD-48PMLk8nOH14OqiRQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Impecable trato recibido. Absoluta empatia con las necesidades y rapidez y eficacia. Sin duda he encontrado mi óptica de confianza.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Beatriz Trujillo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI_QKVm9d8qj581l83y8qR1ImBK7hdzBEXKXjf8ePMwKNHW5g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Mi optica de confianza desde hace unos años! La atencion super buena, las chicas muy amables y te ayudan en todo! He tenido varios problemas con unas gafas y me lo han solucionado siempre rapido y sin problemas!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Luis Vega",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIw4mb_fhcUlI6fCcPuB8jCam0OqcK6O32nBCrmRwUp0Hg0SA=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Fui por primera vez a por un modelo de gafas e iba bastante perdido. Ana me atendió fenomenal y me sacó del almacén modelos con colores para encontrar exactamente lo que mejor podía quedarme.\nRecomendable 100%",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Angela Moreno",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW2OwUBI8jmunbCHhlsdlG8krKT1Cn90fmZx0PVvgc-AazsNbuT=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He venido por primera vez a esta óptica y la recomiendo totalmente. Aparte del céntrico lugar en que se encuentra y la variada exposición, lo mejor es el trato educado y agradable de Paula. Me he convertido en una clienta. Gracias.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "José Luis Fdez-Pacheco Martínez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXiNvBd_mSVmw2DHJ35a6Txpxi1gRzLBz9TnbrWG7qU5i9kS9AFXw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He estado en el centro y me ha encantado el trato,la profesionalidad y las instalaciones están genial con la última novedad en equipos opticos",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pilar Juan",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWec-gb_-NhHAV5nJSDF_PdekeOWSjt69V8-q9HzWGch25KvpQO=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Todo el personal de la nueva tienda es muy profesional y agradable. En época de navidades con la tienda a tope dedicaron a cada cliente el tiempo necesario. El tiempo hasta graduarlas fue menos del esperado. Lo recomiendo.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "General Optica - Visión y Audición",
+  category: "Óptica",
+  address: "C. Tinte, 1, 02001 Albacete",
+  description: "Esta óptica recibe comentarios mixtos. Por un lado, algunos usuarios elogian la profesionalidad y la empatía de optometristas como Silvia, así como el trato atento y la paciencia del personal. Sin embargo, también hay menciones de falta de profesionalidad y mala educación en la resolución de problemas. En general, se destaca un buen trato al cliente y una atención rápida.",
+  serviceRatings: {
+    atencionCliente: 4.0,
+    profesionalidad: 4.0,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "16:30–20:30"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "16:30–20:30"
+    ],
+    martes: [
+      "9:30–13:30",
+      "16:30–20:30"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "16:30–20:30"
+    ],
+    sábado: [
+      "9:30–14:00",
+      "17:00–20:30"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "16:30–20:30"
+    ]
+  },
+  website: "https://www.generaloptica.es/es/?utm_source=gmb&utm_medium=organic&utm_campaign=Albacete&utm_term=1063",
+  phone: "967 24 25 42",
+  review_count: 137,
+  review_rating: 4.4,
+  latitude: 38.993332,
+  longitude: -1.856801,
+  user_reviews: [
+    {
+      Name: "María Dues",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJlw8xu_YDBiBvOwCBw5JCNluGwtr2miZi7O2Hm64dz7dTVpw=s120-c-rp-mo-ba3-br100",
+      Rating: 1,
+      Description: "Falta de profesionalidad, comerciales no son buenos profesionales. Muy mala experiencia. Mala educación cuando surgen problemas. Nada recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria Jose Ramirez Gonzalez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKtk0d3dYh297bGnlRc8sxgpWgLUz_8NKz0aOtNtqbw_ZNltg=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Silvia la optometrista es una gran profesional con mucha empatia y paciencia.\nSin duda volvere",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "lourdes Hernandez Cruz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI7b2pxP6_Gl2iw575jtNF2ySWW8pJCDCtij0Qe9jOek4LqVA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato exquisito. Me graduó Silvia con toda la paciencia y cariño del mundo y luego María para escoger gafas y tomar el resto de medidas y detalles. Muy muy contenta. Mil gracias",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Llanos Rosa",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIT12aDGHvMKMvhDwxClERja2o5lxseQd2C9V9LxRbEp9Yzeg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy atenta la atención recibida!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "angel gonzalez valera",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVU091IGB3Juk28orlSx0N4Jn5aPHQlOY0NDdvzBknXp7nmanBDOw=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Es la óptica de toda la familia ,trato amable y de calidad",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Verónica Córdoba Navarro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKQFaE4CrGSm7wsMCB3h4be4v2glj8FcGTwgmhtEnAr1vRCog=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato excepcional. Me atendieron Ángel y Silvia. Muy recomendable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cucamon",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXI54gRNE_n1Dvk0dk1q5ptz6y_x0rCgZdVsaEpsR1Va-RQv8fm=s120-c-rp-mo-ba6-br100",
+      Rating: 5,
+      Description: "En general buena óptica, un pelín cara pero claro si quieres calidad hay que pagarla. El trato fantástico nos atendió Tere, muy amable y agradable, muy profesional. Rapidez en traer las gafas una vez que las piden. Quizás al gastarte 1600 euros esperas un detalle, aparte de la tarjeta, etc. Pero bueno esto es como la cerveza la tapa no es obligatoria, pero siempre gusta. En general lo recomiendo, por profesionales y calidad.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "fatima",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL9hcrWGim2i0FnB22m8CfWRLCeFTxi-K9nHQ2SwbeQCkFB1Q=s120-c-rp-mo-ba5-br100",
+      Rating: 3,
+      Description: "Buen trato al cliente si necesitas algo en seguida te atienden",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Multiópticas (Óptica y Centro Auditivo en Albacete)",
+  category: "Óptica",
+  address: "C. Alcalde Conangla, s/n, 02006 Albacete",
+  description: "Se percibe una gran satisfacción general en esta óptica, donde los usuarios destacan el trato amable y simpático de las trabajadoras. Se menciona la buena atención, la disponibilidad de monturas con promociones como 2x1 y la eficacia en la graduación y el asesoramiento. Los usuarios se sienten bien atendidos y valoran la relación calidad-precio.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 4.5,
+    precio: 4.0,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "10:00–22:00"
+    ],
+    jueves: [
+      "10:00–22:00"
+    ],
+    lunes: [
+      "10:00–22:00"
+    ],
+    martes: [
+      "10:00–22:00"
+    ],
+    miércoles: [
+      "10:00–22:00"
+    ],
+    sábado: [
+      "10:00–22:00"
+    ],
+    viernes: [
+      "10:00–22:00"
+    ]
+  },
+  website: "https://www.multiopticas.com/es/optica-detalles/?storeID=1389&page=storelocator&utm_source=google&utm_medium=gmb&utm_campaign=cc-albacenter",
+  phone: "967 22 55 30",
+  review_count: 624,
+  review_rating: 5,
+  latitude: 38.990844,
+  longitude: -1.847782,
+  user_reviews: [
+    {
+      Name: "Alicia Garcia Sanchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIvIFIbZOuRiNdPG2JtHp8QG3A1P90MtOl6lR7kY4FZJ8g2Hg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato muy bien,muy amables,simpáticas y todo correcto.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipMEyKKIf5gSFJ6eID0ubk8H7-2FlbcNz9ngbCKj&fid=0x0:0xf21fd4c966f29551"
+      ],
+      When: "2025-2-17"
+    },
+    {
+      Name: "Daniel Ros Parejo (Vallas)",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUqsdcoewNJkRIlWBBV8jKMkm8KbBKBa-CJVWo2mLrz22ss_q8=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buen trato de sus trabajadoras y simpáticas",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipMyBqozfi1-rf0k8Q7Ug0liD_Hw9MrVZt4LYa08&fid=0x0:0xf21fd4c966f29551"
+      ],
+      When: "2025-2-17"
+    },
+    {
+      Name: "Sandra lopez garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJj_kSs8ZAVss_kLelzt2sbh1raenBm-mF0k4zmqCEuMu-VZg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buena óptica en centro comercial Albacenter. El trato de sus trabajadoras Celia y Mari Sol es estupendo. La recomiendo 100%",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipPyEn8RcgbLRi4l11UmdJzVbQF9g6kVKjM0ZkP5&fid=0x0:0xf21fd4c966f29551"
+      ],
+      When: "2025-1-20"
+    },
+    {
+      Name: "Merce Lozano",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWJDMaMR5miTPH_7EpJK1YgVoD3IBV4qi5HAZaObeNvHzMeFEYI=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Muy buena atención. Monturas 2x1, muchos modelos para elegir. Te gradúan y aconsejan. Recomendable.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipNa4QoI0OMjdrGtWq8IFlnxOwnh1gghERWyWHm5&fid=0x0:0xf21fd4c966f29551"
+      ],
+      When: "2024-8-1"
+    },
+    {
+      Name: "Gonzalo Alonso",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKO-0uC-zsPaQaQ2LKwBpmv8pbk3Mmt625rEIexpgMiiqljSw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy contento de haber venido. Me atendieron muy bien y son muy amables. Sin duda un acierto",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "maria ortiz lerma",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWAl_L4Fw0HiYOfAOPBWNCmdRLpsFYKNXmaxLtRHkr9G0VZr-cZ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Las dependientas son muy simpáticas, tienen en cuenta tus necesidades y se ajustan a tus tiempos. Son muy simpática y agradables e intentan hacer tu experiencia lo mejor posible. Calidad precio merece muchísimo la pena.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Gema Panadero Onrubia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWOe6FXDzMGU5EDWWpy9oL7e1JdN82tG-nDC--KU2rz1UhqdkCuHw=s120-c-rp-mo-br100",
+      Rating: 4,
+      Description: "Muy buen trato recibido, excelentes profesionales",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipMeEQ3EQ0dpJYyyFG9FyqRZK2FNjf0VpwyW8JnO&fid=0x0:0xf21fd4c966f29551"
+      ],
+      When: "2025-2-6"
+    },
+    {
+      Name: "Maria José Jerez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWAE4s7P6hXH32JCFvf6YMhonIjEHHLeYbmKikcti1NrX9i4knMWg=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Me atendieron con mucha amabilidad y orientándome sobre la mejor opción para mí, un encanto",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipOvCk4FJj6hdEKhCtg0YHZQIfm_0qPidDwKEj4K&fid=0x0:0xf21fd4c966f29551"
+      ],
+      When: "2024-7-19"
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Óptica Albacete",
+  category: "Óptica",
+  address: "C. Dionisio Guardiola, 30, 02003 Albacete",
+  description: "En pleno centro de Albacete, esta óptica es reconocida por sus excelentes profesionales y su trato atento. Los usuarios destacan la gran variedad de gafas de calidad superior, incluyendo modelos exclusivos y diseños innovadores. A pesar de una opinión negativa sobre la garantía y la durabilidad de los cristales, la mayoría aprecia el asesoramiento y la profesionalidad del personal, así como la disponibilidad de precios asequibles.",
+  serviceRatings: {
+    atencionCliente: 4.5,
+    profesionalidad: 4.5,
+    precio: 3.0,
+    variedad: 5.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "http://www.opticasalbacete.com/",
+  phone: "967 22 66 52",
+  review_count: 17,
+  review_rating: 4,
+  latitude: 38.992391,
+  longitude: -1.85838,
+  user_reviews: [
+    {
+      Name: "Pepe Paramo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUCJpH413bz_Tk8mZd9UWdQ_UwT64S2x_XC-5pqrIpBPz1iqzc6CA=s120-c-rp-mo-ba7-br100",
+      Rating: 5,
+      Description: "Excelente óptica en pleno centro de Albacete, infinidad de gafas con una calidad superior, tanto el empleado como la propietaria muy profesionales y atentos, recomendable %.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipOpA5ARgPOS82hztzRDaUnl-X52rh7imoGhH0h3&fid=0x0:0x58a54b1e0173905f"
+      ],
+      When: "2020-1-6"
+    },
+    {
+      Name: "edu Salas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIvHv1KvMbg0tVF517rPYpgpmcEhygeY2yHB-vc9f8tFD-z3Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente profesionales. Siempre pensando en el cliente y nunca ganar dinero\nLos dueños y los trabajadores son de lo que mejor que hay en el mundo de las ópticas.\nTienen gafas que no encuentras en otras ópticas de Albacete. Gran innovación\nGracias por el trato recibido durante todo el tiempo. Sin duda la óptica de referencia tanto de mi familia como amigos",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Enrique Salas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWcSvG2VnD-QqUvNgy2txzd1gZwnGkYB89VfEVrqiNX8LH6jgac=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Gran grupo de profesionales que se encargan de encontrar la mejor solución al problema que tienes. Ese nivel de profesionalidad se combina con el uso de tecnología de gran calidad y la originalidad de los modelos de gafas que eligen. Seguro que llevarás algo que nadie lleva (también tienen modelos para los más conservadores). Sin duda volveré",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juan Antonio Galdon",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWdVQ3sn9iaHzQ6xud_kHqob_RTtqY2uoTVIsu08Cqz28jdA_mP=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente óptica, trato inmejorable y los últimos diseños en monturas también cuando se descuadra la montura no hay problema en ir y con todo el agrado y simpatía te las regulan, excelente",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "DILAN BLUE",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUIdlQtbzPmUuQS2qDPq5Zk_6Rw0GRlB5F6a_F7pRJBJ1Po2WpJ=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Son unos estafadores; me vendieron unas gafas por 250 euros q supuestamente eran cristales q no se rayan  y en la primera caída se an rayado y voy por la garantía y me dicen que no cubre eso🤭. Que falta de ética profesional y honestidad.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jesus Marin",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVt-1vwGHG_NLNVxXB3gudhngNvb0RSssJECEUNWn2PO8dcCpc=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Jesús es un gran profesional, ópticas de las que ya no hay, precios súper asequibles y asesoramiento impoluto 👍",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Belen Saro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUSyrKtIYcf3TCgagQUCxT_5rHo62cIHZdWqg72D6HGFYsrgFs=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente trato y profesionalidad En 30 años que llevamos con ellos 4 personas de nuestra familia nunca hemos tenido ningún problema sino al contrario Me extrañan mucho algunas reseñas que he visto",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Joaquín Castillejos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWrw2Vqn27K4dfCZhXMNYgqkaLHCAa7eWZrhDh8vOFmO3ElHe3h=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Un trato excelente, tienen monturas que no se encuentran en ninguna otra óptica pues son modelos exclusivos y con sus cristales de alta tecnología no tienes problemas de adaptación",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "ÓPTICA IRIS",
+  category: "Óptica",
+  address: "P.º la Libertad, 22, 02001 Albacete",
+  description: "Esta óptica es considerada un lugar de confianza, donde la profesionalidad y la seriedad son señas de identidad. Los usuarios destacan el trato excelente y la atención personalizada, donde el personal se esmera en aconsejar sobre monturas y cristales, realizando revisiones completas para asegurar una salud ocular óptima. Se valora especialmente el ambiente familiar y la disposición para ayudar a encontrar la mejor solución a las necesidades individuales.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 3.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "http://www.opticairisalbacete.com/",
+  phone: "967 21 38 88",
+  review_count: 23,
+  review_rating: 5,
+  latitude: 38.996299,
+  longitude: -1.85258,
+  user_reviews: [
+    {
+      Name: "Juan",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJDHQSIgRMCclASMtO_dlAO_fIeru1fHF6SLEBSs1E41TL-zg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buenos profesionales.\nEl trato es excelente y te aconsejan muy bien sobre monturas y los vidrios.\nTe gradúan la visita, te miran los ojos y te toman la tensión para que tengas una salud ocular óptima.\nMuy contento, recomiendo la óptica al 100%.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Abel Cajo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXkRB0iDpNYDqr7QUCYSlR9qC4MkFHLoxDyKojY6Ta5z4SFcU0=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Óptica de confianza, serios y profesionales. Llevamos toda mi familia acudiendo a ellos desde siempre y estamos encantados.\nMUY RECOMENDABLE.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Javi",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJmz6o14RuuNVkTn0QhBQE098GZPc6weIl9eufZVClF2956xQ=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Son unos grandes profesionales y mejores personas. Son muy atentos y siempre te ayudan a encontrar la mejor solución para lo que necesites. El trato es muy familiar y da gusto, ya que siempre te atienden con una sonrisa. Cuando he tenido algún problema, siempre han intentado actuar de la forma más rápida posible. Sí buscas una buena óptica no lo dudes.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cristina Ruiz Carrascosa",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXdIBpUK90c1uf46Ht6sisoGIhEzKUwWzkDr28wEP9Uf-t56p_A4A=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "¡Le doy 5 estrellas porque no hay más!\nLa mejor óptica, sin duda. Excelente calidad, profesionalidad, higiene. Hace un par de semanas adquirí unas gafas, me hicieron una revisión completa y me asesoraron para la elección basándose en mi puesto de trabajo, hábitos y la mejor experiencia.\nVolveré y espero que tú también.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Sonia Guevara García",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVzZnA53aDkpezZohC03TmInQJwSViAmiv0xpo-2UKe24Cc4d5C=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Es mi óptica de toda la vida, son al mismo tiempo muy profesionales y muy cercanos. Amables y atentos con el cliente, te atienden como ya pocos comerciantes. Un gusto, ya queda poca gente así de honrada y profesional a la vez. Muy recomendable!!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Saezand Ortiz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIhIE3xCBG4tu-GppUE3NLoT-49ySIRgZ5myjyyGR69-ps5dw=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Son muy atentos y además les gusta su trabajo por que te dan más opciones de cristales y tratamientos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Fran 20 M.S.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJKvcjWoKPz4EH20MPrYXelsRQOlLuia0CKxJywLJrrl1pdhg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato excepcional, nuestra óptica de confianza, siempre pendientes y muy atentos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Laura",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUlxIXBLkXtcZ3bke3r6GhEl22jhSMxaXhfSpEiEK0V-Zogj4BmFw=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Grandes profesionales, atentos con su clientela y aconsejan estupendamente.\n\nRecomendables 100%.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Alain Afflelou Óptico y Audiólogo Albacete Los Llanos",
+  category: "Óptica",
+  address: "Av. Primero de Mayo, s/n, 02006 Albacete",
+  description: "Los usuarios destacan el excelente equipo de esta óptica, describiéndolos como encantadores. Se valora especialmente la preocupación y la eficacia en la atención, incluso en situaciones particulares como envíos internacionales. La amabilidad y la rapidez en la resolución de problemas, como cambios de lentes gratuitos o reparaciones sin coste, son aspectos muy apreciados.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–21:30"
+    ],
+    lunes: [
+      "9:30–21:30"
+    ],
+    martes: [
+      "9:30–21:30"
+    ],
+    miércoles: [
+      "9:30–21:30"
+    ],
+    sábado: [
+      "9:30–21:30"
+    ],
+    viernes: [
+      "9:30–21:30"
+    ]
+  },
+  website: "https://www.afflelou.es/opticas/albacete/afflelou-c-c-los-llanos-av-1o-de-mayo-s-n-02006?utm_campaign=gmb&utm_medium=organic&utm_source=google_gmb",
+  phone: "967 22 96 36",
+  review_count: 107,
+  review_rating: 4.8,
+  latitude: 38.98431,
+  longitude: -1.869992,
+  user_reviews: [
+    {
+      Name: "Juan Antonio Cambronero Valencia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLQMg5vpyPbj43KlHBw6v1TUPjezEieUKBHa0hGGBlK7BvFPg=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Muy buen equipo el que nos ha atendido. Encantadoras. Sin duda la mejor compra",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ismary",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU1ykszyqO6kxj229MKiomVfSp5MvJ64lXj67uUe0qr6CwN7Lg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Hace unos meses mandé a hacer unos lentes de contacto (permeables al gas )para enviarlos a Cuba,y tengo que decir que estoy muy contenta con las chicas Porq además de su preocupación Para que estuvieran en tiempo, los lentes son perfectos, no hubo que hacerles retoque y tienen una calidad excelente. Muchas gracias",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "David jimenez maestro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUVu5KNsrAre6dP9IwnWBw_zPm-TVoNbLIhGbsuadg9Bg_5tgWW=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fui por dolores de cabeza y resultó ser por mirar tantas horas a las pantallas. Me vendieron unas gafas para cerca y desde entonces sigo encantado. Me atendió la misma chica que me graduó y su trato fue excelente.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Salvador C",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXRWs4AqFM_ZpxfYDcpwILZjcGz1eyi_sDCBe9Bp98tvAuwoxNp=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "El chico que me atendió fue muy amable y eficaz. Tiene mi recomendación",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alberto Alcañiz Ortega",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV40yJe_gc2THL7ipzqi3OIGbuk-mj-hzLoSFDlOtOxTfM4YxY=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me cambiaron la lente gratis! Muy amables",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Víctor Ramos Fernández",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJMvfog-8I4g6P7k9zt8YRYgv3t3sfRuVC0x6LvGWZk4XO3eQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "No podría estar más agradecido al trato, Eva me ayudó con mis lentillas perfectamente, no era capaz de ponérmelas y ella con delicadeza y profesionalidad en el primer intento lo consiguió.\n\nMuy agradecido de verdad.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "María Lourdes Ordóñez Calero",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKGGH8BvBfVIvZkM_Nk1_1TtTAHQBjVSkGDzpEvdvI5Wbl9yw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "No soy cliente habitual, tenía un problema con mis gafas y me han atendido genial, tanto Isabel como el resto del equipo muy atentas. Gracias. Lo recomiendo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Isa Gd",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKn9RmKhoxwuK7yHeC_S6grnN5EO2y3-Z_GHVfwiCHcy5zglg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Rapidez y trato estupendo por reparación de almohadillas de 2 pares de gafas. Además sin coste alguno.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Óptica PÉREZ SETIÉN III",
+  category: "Óptica",
+  address: "C. Dionisio Guardiola, 16, 02003 Albacete",
+  description: "Esta óptica es reconocida por su trato siempre impecable, con un personal simpático y profesional. Los usuarios destacan la amabilidad y la formalidad, así como la gran variedad de gafas disponibles, lo que facilita la elección incluso para los gustos más exigentes. Se valora especialmente la atención personalizada y la preocupación por las necesidades de cada individuo, ofreciendo un servicio de excelencia.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 3.5,
+    variedad: 5.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://www.perezsetien.com/",
+  phone: "967 50 00 91",
+  review_count: 249,
+  review_rating: 4.9,
+  latitude: 38.991761,
+  longitude: -1.856426,
+  user_reviews: [
+    {
+      Name: "Andrea",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXp9O-xB2WqxWxPOfK16xqha-bdeTP_BIufC8mrJHjvUviiRnBP=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Muy buen trato siempre, simpáticas y profesionales.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Eva Sanchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU5yyqlk8nzu5Hs4kqk2Rsuvxh8UkUTBFnw6S5yWWFNVSxET_Ul=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Han sido muy amables y formales en la entrega de las gafas que elegimos. La variedad de gafas que tienen es enorme y para mi hija fue sencillo y fácil elegir unas (y eso es un logro teniendo en cuenta sus gustos!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "angela valcarcel marcilla",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLLWeBKWj-FdSsatOlUNMZtmrfZtB8OwriHaslM5d6_rdSaVA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Soy clienta habitual y siempre quedo contenta con el resultado😃",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juan Alvarez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX0fiB86G6hsoeZde6ooyaqEbevVZt6fXmwHl8CLC6XjsoaTzgZPg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Era la primera vez que visitaba  esta óptica avía mirado las reseñas en otras ópticas y me decidí por esta y no me arrepiento por qué son , muy amables y muy buena atención.Se nota que son unos profesionales Te aconsejan en todo y super atentos. Lo recomiendo sin duda.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "carmen navarro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJao64hVzZG17-CvNMBYKOwWmyo_xaWXwahknmAz1wD2paFLg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Personal muy profesional, atento y amable. Me informaron muy bien de mis opciones. Total confianza. Recomiendo esta óptica.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "g ag",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJROvcaSsVyzWpOpdsGNffGBWr6grp69nOMfcOkv4xDyFLtuw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buena atención a los clientes por parte de las personas que te atienden , con muy buena preparacion profesional, muy técnicos y con muy buen estilo y esmero para con los clientes.\nLugar muy preparado para las pruebas que tienen que hacerte con excelentes profesionales\nGabriel",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana Ruano",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXk4KUsOJXQzJn2zP8_zlqdpZ47cU1mrV60Fs7IdUhN71MqzjQ9=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "El trato es impecable por parte de la chicas que hay allí, se preocupan por tus necesidades de una forma muy empática, pocos sitios ofrecen un servicio con tanta excelencia. Enhorabuena y gracias. Súper recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria Morcilo lorenzo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKpUSr-4qfj3Im-udH810GU-kQduAxBaFrC4XeYHN3gG4ekZg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato excelente y atención personalizada.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "SG Visión",
+  category: "Óptica",
+  address: "C. Pedro Martínez Gutiérrez, 13B, BAJO, 02004 Albacete",
+  description: "Este establecimiento se distingue por un trato muy profesional y agradable, proporcionando explicaciones detalladas y asesoramiento constante. Destaca por su considerable variedad de gafas, incluyendo modelos originales y específicos para deportistas, todo ello en unas instalaciones modernas.",
+  serviceRatings: {
+    atencionCliente: 4.8,
+    profesionalidad: 4.7,
+    precio: 3.5,
+    variedad: 4.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ]
+  },
+  website: "",
+  phone: "604 43 33 14",
+  review_count: 21,
+  review_rating: 5,
+  latitude: 38.994114,
+  longitude: -1.861215,
+  user_reviews: [
+    {
+      Name: "noemi benitez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJTXifi8ehvI9GUJzqSDtqrBBFKBzjd-V7N0URcfW2nJSijOw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Unas chicas muy profesionales y agradables, explican con detalle las opciones, y tienen una gran variedad de gafas, hasta para deportistas…",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Esmeralda Garcia Navarro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIJmSs4nt-yNP3T6m4cv0iRx2sRTeC9ufTmCtTpGkXFdA--9Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Laura, me ha atendido de maravilla. Un trato inmejorable, 2 gafas graduadas y otras de sol. Encantadísima.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Susana Aibar",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJh9KogIbr2Ym4n7oxM33wJI_d0gBwoP1Hif_bcvBP42iADPQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Es la primera vez que voy y ya me van a tener de clienta para siempre.Trato excelente y muy profesionales.Instalaciones modernas y gafas muy top.He acudido a por lentillas y con gafas de sol nuevas!!!!100% recomendable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ascension Sanchez Linares",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ5kPfb6lsYYO8WTjD_KHQ_9Fs8jpiFh2cS_FLBFbAkiViGwg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente trato y muy profesionales. Además tienen un montón de modelos para elegir. Gracias por todo a Mayte y Laura",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Álvaro Navarro García",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJICiNwXHPrc26POcsB81d60f1ViQuZuiBxkOBUrWPQeR4Ksw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato inmejorable .  Muy buenas profesionales , he salido encantado",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Angel Lopez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKPMXLpAhgRi1Qss9ZE9oHGS3vjSunkMSyR_oFgh7XtzIeR2A=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Acudí para comprarme unas gafas y el trato recibido fue excelente, el personal es profesional y muy amable. Las instalaciones son nuevas y cómodas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Asun García",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLH7iPSL2-z2vrymzIfWLJs64eQ_KIsagxz9gOM0J6ccib3dA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente trato. Las chicas muy amables y asesorando en todo momento. Da gusto comprarse unas gafas en este establecimiento.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Raquel Docon",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXinLJNkgGll9RC0vlFxf6Avk8sY-0_nTwLsfsxt15iZTuXpRhh=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato impecable. Te asesoran en todo momento y además tienen una gran variedad de modelos muy originales.Mayte y Laura son grandes profesionales.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Ópticas ROCAMORA",
+  category: "Óptica",
+  address: "C. Teodoro Camino, 25, 02002 Albacete",
+  description: "Las opiniones sobre esta óptica son variadas. Mientras algunos resaltan precios competitivos y un trato correcto o amable, otros señalan experiencias negativas relacionadas con tácticas de venta consideradas engañosas, problemas con la adaptación a lentes progresivas y la gestión de garantías o devoluciones.",
+  serviceRatings: {
+    atencionCliente: 2.5,
+    profesionalidad: 2.8,
+    precio: 2.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:30–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "http://www.opticasrocamora.com/",
+  phone: "967 22 23 71",
+  review_count: 45,
+  review_rating: 4.2,
+  latitude: 38.990896,
+  longitude: -1.855261,
+  user_reviews: [
+    {
+      Name: "Pepe Paramo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUCJpH413bz_Tk8mZd9UWdQ_UwT64S2x_XC-5pqrIpBPz1iqzc6CA=s120-c-rp-mo-ba7-br100",
+      Rating: 4,
+      Description: "Gafas a buen precio y trato correcto.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipO14dAiO6lIaJ7tStioXEjdjHiNjWoMby5yfQZU&fid=0x0:0xf5d5d815e2e9070c"
+      ],
+      When: "2024-11-29"
+    },
+    {
+      Name: "Teresa Hernandez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWv1mpdIAXX6t6Vyl65hikDRlSZlq9WO3ZJjhSDcCE3KQGFUEM=s120-c-rp-mo-br100",
+      Rating: 4,
+      Description: "Mi marido y yo fuimos a hacernos unas gafas cada uno en la franquicia Gafas.es que llevan es esta óptica.Y la chica nos atendió súper bien..nos dio algunos consejos para limpiar bien los cristales de las gafas ..fueron muy amables y el pedido nos vino enseguida..Todo muy bien organizado.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Laura Olivera",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIGYk-1k1T1wxSpZ8ThRO0Wb5TGNAmPg56wNefZCYStLrIRfw=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Viendo lo visto con los comentarios q tenéis no se si será muy necesario el mío pero aquí os dejo mi experiencia...\nCínico es la palabra adecuada para describir al vendedor xq otra cosa no es,como suele suceder x no haberme informado antes de este \"negocio\"\nTe cuentan una película de q se hacen responsables y q ellos se encargan de la modificación del lente para un niño menor q en todos las ópticas la garantía es de un año totalmente gratis y luego resulta q es para acabar sacandote el dinero una vez más,las monturas pésima calidad se notan q les salen gratis como ellos dicen,ahorraros el responderme xq las excusas ya no valen con todos los comentarios negativos q tenéis...",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pilar Cg",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJbXaIKx_RtqbXQI168pRQP0-VlGboflAhD09WdAjSXmd8MMA=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Todo bien hasta que le dije al comercial que quería la oferta que me habían mandado pr correo.\nEl me empezó de gama más alta y media, insistí en la oferta y me dijo que si elegía esa oferta y después no veía bien, no me podrían devolver el dinero.\nEn la graduación que me hizo ya le dije que no veía bien, eso, sumado al comentario anterior, no me dio confianza ninguna.\nMe tocó el mal comercial.\nPara vender no hace falta estafar ni engañar.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "marian cuquerella",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLC5cy865xkXLFMJo49T6JA87rWMexwq4Yi39JPOyhNAdlk1w=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Magníficos profesionales,\nprecios de 4 cafés o menos de un menú te llevas tus gafas graduadas por ópticos y no sin tu graduación,me han atendido muy bien y me he sentido como en casa.La mejor óptica de Albacete con centro nuevo en Pérez Galdós 28, pasate y lo compruebas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alejandra Crespo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXZUUHd47xI8s3f4m24tXUzkj51YLBN--XqlLEJGE9pAo034EYk=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "CUIDADO CON ELLOS\nCompré unas gafas progresivas. No me adapté. He tenido que volver varias veces en las que me las iban modificando y me aconsejaban probarlas unas semanas tras cada modificación. La última vez que fui quería devolverlas pero me inclinaron los cristales y convencieron de probar unas semanas. Cuando volví, sin poder adaptarme, a devolverlas me dijeron que se había acabado el plazo de devolución y que no me devolvían el dinero ni podía devolver las gafas. O sea, dinero perdido mediante esta treta. La última vez que fui a intentar devolverlas, no me informaron de que el plazo para devolución por inadaptación finalizaba en pocos días; es más, me dijeron que las probara unas semanas y eso me parece muy poco ético.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Encarna Perez murillo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWdmH4RtAEwUX8AO5ZWMBoKmWkrjy5-P7sA_QVP9PFn21h_qFu6rw=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Demasiada publicidad engañosa porque cuando llegas allí preguntando por la oferta, te muestran otras posibilidades con precios mucho más elevados. La oferta es tan básica que te la desaconsejan.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "María Jesus DEBON LÓPEZ",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVlFdq0fGmadkXfoVPrKxW6faHnV2HakhmMAC0wwsag83k5ZZpNAQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato estupendo,  tenía la duda de unas progresivas, me hicieron mi revisión y efectivamente ya necesitaba progresivas estoy encantadisima desde el primer día que me las puse un campo de visión impresionante, y una calidad excelente. Lo mejor el trato que recibes lo aconsejo cien por cien",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Óptica Americana",
+  category: "Óptica",
+  address: "C. Marqués de Molins, 17, 02001 Albacete",
+  description: "Reconocida como un comercio tradicional que apuesta por la calidad y profesionalidad, esta óptica recibe elogios por su excelente atención, amabilidad y capacidad para solucionar problemas. Se valora positivamente la relación calidad-precio, generando confianza y satisfacción duradera, aunque existe un reporte aislado de mal servicio en reparaciones externas.",
+  serviceRatings: {
+    atencionCliente: 4.0,
+    profesionalidad: 4.5,
+    precio: 4.2,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "http://www.opticaamericana.es/",
+  phone: "967 21 15 92",
+  review_count: 13,
+  review_rating: 4.7,
+  latitude: 38.993494,
+  longitude: -1.854811,
+  user_reviews: [
+    {
+      Name: "Pedro Ferreras González",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIKoqT_o26a-mzgr_eNeXMgmZ-qZmxxcQx1vuKEJwpTvCdr5Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Llevo casi 20 años siendo cliente y ya varias gafas a mis espaldas hechas en esta óptica y estoy muy satisfecho con el servicio que dan",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rocio Rubio",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIdUaU2lnwtp84320OsTCNkYs-DgkpCdDJUql7awV8-NWJE0VQw=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Una almohadilla de mis gafa se habían caído. Enseguida me las Han cambiado. Excelente calidad precio y con mucha amabilidad.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ester Llorente",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKo7Pooh3rJEAOVQ4U0UA4eF3dTjRwJDi57I7ga1r2o5YPRQg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Se me rompieron las gafas, llamé por teléfono y se las envié por correo. Buscaron unas gafas que se adaptaban a los cristales y me las mandaron por correo a Madrid. Estoy muy contenta con el trato, muy profesionales y totalmente recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "P. Martínez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWVxdBAswyPAPiTb1aPCheCm28pFiupBRobf2lL6KpJlumlcXk=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Muy buena atención al cliente aparte de solucionar el problema en cuestión.  Total confianza.  Recomendable.  Excelente relación calidad precio. Un comercio de toda la vida que apostando por la calidad y la profesionalidad ha podido mantenerse. Enhorabuena.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Yerko Diego Kvessitch Valle",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJOWB6tuCGBaQJv-eYmLXRJVMZuwIc4o-RXWm-VtNM3go2bf6c=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "HACE UNOS DÍAS LLEVÉ UN PAR DE GAFAS DE MI MADRE PARA QUE LES PUSIERAN UN PAR DE VARILLAS NUEVAS Y LE AJUSTARAN DE PASO LA MONTURA . AMBAS SE PORTARON MUY BIEN , A NIVEL PROFESIONAL . A NIVEL PERSONAL , HACIA EL CLIENTE ME REFIERO , IDEM DE LO MISMO...😉👍\nNO TENGO PROBLEMA ALGUNO O QUEJA MÍA DEL LOCAL ALGUNA , EN CUANTO A SU TRABAJO Y SOBRETODO AL PRECIO DE SUS ARTICULOS Y SERVICIOS . TODO MUY BIEN . TODO CORRECTO .\nVOLVERÍA A IR DE NUEVO .\nNO DUDÉIS EN IR A...\n★ÓPTICA AMERICANA ★\n¡ ES LO SUYO . VOLVED ! .\n😊😀😉👍",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jhonatha steve Jesús vida eterna",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXkAw_gdR-6OKtwHgznUCRsOWz0oeOF8bXbmI77HJhrxeYw5aI=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Una excelente atención, la recepcionista es muy amable y ágil,  la verdad en las dos ocasiones que he ido por causa de mis lentes el servicio a sido idóneo y de gran calidad humana , al igual que sus productos son de excelente calidad , en verdad los RECOMIENDO",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "gabriel gonzalez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVvX5uiq73sCsGVgi7DGDrgDUD8VuNhuVywFNPzdkQWGexyVDJg8A=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Muy mal servicio, llevé mis gafas a arreglar y nada más entrar me miran y me dicen que en el arreglo no se responsabilizan si las rompen más y que como no las he comprado hay en ese establecimiento pues que me quedo sin ellas, salí de allí y me fui a otra y en 40 segundos me las arreglaron, como digo no volvería más",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Llanos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXM3m--bFUuZw6nt8FKJ_cgWpDbA-W2acRxdLU3UjUzyY5dR4zW=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me atendieron muy bien y encontré las gafas que tenía en mente. Muy contenta con la compra y con el trato recibido",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Visionlab",
+  category: "Óptica",
+  address: "C. Tesifonte Gallego, 11, 02002 Albacete",
+  description: "Notablemente valorada por un trato al cliente excepcional que combina profesionalidad, amabilidad y cercanía. Se destaca la alta calidad visual proporcionada, el asesoramiento experto y la eficiencia en atención y servicio. Dispone de variedad de marcas y buenas ofertas.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.8,
+    precio: 4.0,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:45",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:45",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:45",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:45",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:45"
+    ],
+    viernes: [
+      "10:00–13:45",
+      "17:00–20:30"
+    ]
+  },
+  website: "http://bit.ly/2V2Wjhf",
+  phone: "967 21 15 60",
+  review_count: 65,
+  review_rating: 4.6,
+  latitude: 38.992016,
+  longitude: -1.855653,
+  user_reviews: [
+    {
+      Name: "tony martinez martinez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJwGL-9xI8uR6w5VnnaXTNnyB7QMA4-Frbh2kaMyO4BdGAD=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He comprado dos pares de gafas graduadas. Unas ahumadas y otras normales y no puedo estar más contento con la experiencia. El trato con Yolanda fue excepcional e inmejorable una auténtica profesional. Lo recomiendo totalmente. Un 10",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "JF Ponchi",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU01WmaxC6Ai4QkSadsvsKJJKaQVTeK3ghJzXKn_MUrBC1NEdA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Con mis nuevas lentes he notado una visión más nítida y con mucha calidad , la graduación y la atención muy profesional ,amabilidad . Fui atendido por la Dr Yolanda y estoy encantado  . Totalmente recomendado .",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "David Campayo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIDZknSInxyk99x4ij7dFpE03yCrTMjbToDlcpfOHrtf4pSWg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buena atención recibida por parte de Yolanda. En una segunda visita por un problema con mis gafas nuevas, lo resolvió en el momento. Muy buenos profesionales.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juan Carlos Bueno Gil",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKAX2II_VJ0ago2Q9nJnuFzKtCeZ3a09skYqEMICjrh7E4cVA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me han atendido genial , y la oferta me ha parecido brutal , salgo con dos gafas de marca, y con la vision perfecta",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "pedrete elgame",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVm81bUgk5lcnfLirQgt7iEVyf-y4cpygxDmmbsho-sFe7TMukz=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Todo excelente, de siempre nos hacemos toda mi familia las gafas ahí. Las muchachas que hay súper amables y cariñosas. Un 10",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Nuria Gutiérrez González",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKvxYX4PllxLABsFzxnvzyp2vCx6erEyDKLtsVGY_IvDAQNkIc=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Encantada con el trato, la amabilidad del personal y la rapidez de atención. Te ayudan también en la elección de las gafas y te asesoran. Variedad de marcas y rapidez a la hora de servir el producto. 100% recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "symarro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUTpRtD_-TQigfj0F_fjl30SmIawl2VtRz1P-pVnUP96jPf849gcw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Profesionalidad, cercanía y buen trato. Llevan cuidando de nuestra visión durante 20 años y ahora de la de nuestras hijas. Confianza plena y tranquilidad de sentirse en buenas manos, sobre todo en algo tan importante como la vista.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marybel Marybel",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ9MI4Yc8c0GBbH1tbQnaWBye2E9rXrv1v7d0nnuWBc30qwrw=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Más de diez años siendo clienta. Tanto para lentillas como gafas. Grandes profesionales y el trato inmejorable sobre todo Yolanda.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Opticalia Ferelén",
+  category: "Óptica",
+  address: "Pl. Isabel II, 1, 02005 Albacete",
+  description: "Esta óptica destaca por su equipo de excelentes profesionales y un trato sumamente amable, cercano y personalizado. Ofrece asesoramiento experto, adaptaciones precisas de cristales y reparaciones. Dispone de una gran selección de modelos actuales y equipamiento moderno, junto con precios considerados fantásticos y ofertas.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.9,
+    precio: 4.5,
+    variedad: 4.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "16:30–20:30"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "16:30–20:30"
+    ],
+    martes: [
+      "9:30–13:30",
+      "16:30–20:30"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "16:30–20:30"
+    ],
+    sábado: [
+      "9:30–14:00"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "16:30–20:30"
+    ]
+  },
+  website: "https://www.opticalia.com/es/tiendas/opticalia-ferelen",
+  phone: "967 60 51 00",
+  review_count: 273,
+  review_rating: 4.9,
+  latitude: 38.999549,
+  longitude: -1.86099,
+  user_reviews: [
+    {
+      Name: "almudena alcarria",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIEyIov7WEWhYB7Jt73GFhN7tHwpvCgNhKx-igtXefPH3tpEjMn=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buenísimos profesionales, con una gran selección de modelos gafas de los estilos más actuales y de gran calidad. Siempre me he comprado las gafas progresivas allí, con la oferta dos por uno, y tanto la atención como el asesoramiento han sido excelentes.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cristina Garcia Lopez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIho4HYRaxypHfGFnbrj4RZlPJsBeMnOQ2TmDl7bjZczRMIvQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato muy amable y profesional, me han atendido genial. Compré unas gafas y me han adaptado unos cristales a una montura que tenía anteriormente, los han dejado perfectos. Recomendable totalmente. Repetiré seguro.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Tere Martínez Llamas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJTXOYysqbBDvA2yEjqsSh_zLHZI0VeBgMlO5ey8S_BaBQ1Og=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Profesionales encantadores y atentos , con un trato muy familiar y agradable. No son palabras bonitas es una realidad, llevo  muchos años de clienta.\nOs lo recomiendo 100/100",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "cuchi Inwonderland",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVJDRQe_SSpmZRVJy5A81oCs8vJfT4UrgEUjug5iPj49j9hMkcXEw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Una experiencia visualmente perfecta en todos los sentidos. Desde el momento en que entras, te recibes con una sonrisa y un trato personalizado que marca la diferencia. Profesionales apasionados, equipamiento de última tecnología y un enfoque en la comodidad del cliente hacen que cada visita sea ​​un placer. Si buscas calidad, confianza y lentes que realmente se ajustan a tus necesidades, este es el lugar no es solo una óptica, es una experiencia que mejora tu vista… y tu día.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Encarni Jimenez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK1nK4q1N7iPNR4IwueMQ5ntmBDVS9vE7Me21urfaJy0tpQKA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato excelente y muy bueno@s profesionales.\nMuchísimas gracias por vuestra amabilidad.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Raquel Sánchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLVoZ4INVfkJb2ReXAd7UMdzRhxl9RAvkULo-K5bRRHX6RQPhk=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fui con mis padres y ambos se hicieron las gafas nuevas. La chica que les graduó no solo fue excepcionalmente amable, sino que dio en el clavo. Ambos están muy contentos. Además, ayudaron a arreglar unas gafas antiguas. Un plus.\nSin duda, un lugar para recomendar.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lucia Jimenez Almodovar",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIbn4ZV609mgdMJ-froyXA9f-I8jYppC8q6fmN0lRBjHB_M1A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Es mi óptica de toda la vida y estoy encantada. Las chicas que me han atendido esta última vez son un encanto todas. Muy recomendable, se preocupan y te aconsejan super bien.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Hector De Andres",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI1fLlc80fLxAruMbhgnyPhDhawh47qU0WmLOjqY9DCv8glHA=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Trato inmejorable, cercano y profesional. Precios fantásticos y tantas monturas para elegir que lo más difícil será llevarte solo dos.\nLlevo años haciéndome las gafas ahí y seguiré mucho tiempo más.\nActualizo la reseña ya que me ha tocado renovar las gafas y subscribo cada palabra que escribí.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipMbNLbU10NTF69bGdYYnHjRlGmcOg71fZZdBr8f&fid=0x0:0xb397dff141af8e45"
+      ],
+      When: "2024-12-11"
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Central Óptica",
+  category: "Óptica",
+  address: "C. Rosario, 62, 02003 Albacete",
+  description: "Se caracteriza por un servicio y trato excepcionales, con personal muy atento, profesional y resolutivo. Proporciona asesoramiento detallado para adaptar productos a las necesidades individuales, incluyendo reparaciones eficientes. Cuenta con tecnología avanzada, productos exclusivos y una amplia variedad de modelos. Los precios son considerados buenos, aunque alguna opinión sugiere margen de mejora.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.9,
+    precio: 4.0,
+    variedad: 4.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–21:00"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–21:00"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–21:00"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–21:00"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–21:00"
+    ]
+  },
+  website: "",
+  phone: "967 22 63 68",
+  review_count: 23,
+  review_rating: 4.5,
+  latitude: 38.990933,
+  longitude: -1.858748,
+  user_reviews: [
+    {
+      Name: "Jose Carlos Arenas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUVrPNAFXWaCS3OA199vWLusCpkYsdbMjQaAHOomcdlfOjTx2YtEA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Un 10 en el trato y la atención a los detalles. Se percibe desde el primer momento su pasión por ofrecer el servicio/producto que mejor se adapte a las necesidades del cliente. Gracias Miguel por las gestiones y el seguimiento 😉.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "maria",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXtQc73agm_HGjP08s1pF8avWg2aCfyrmisJ-qZpwq7GYoEo7Ag=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Es servicio y el trato es inmejorable. Siempre que voy me tratan genial, las pruebas de las lentillas me he sentido muy cómoda, te dan los líquidos con ellas y las gafas siempre que necesito una me sacan infinitos de modelos para elegir. La recomiendo totalmente.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cristina Velasco",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXY_9WWp7DoExm2I2trOcQjkiq_9fe2AbWeyqqM7a0jOUiyEZs=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Personal muy atento y eficaz. Fui por una patilla claramente rota, ya es la segunda vez, la primera la tuvieron que pedir y esta vez ni siquiera he tenido que esperar ni un cuarto de hora para recibir mis gafas en perfecto estado, las dos veces sin coste adicional, no puedo decir lo mismo de otras ópticas. Excepcional trato, me la recomendaron mis padres y yo la recomiendo a todo el que no la conozca.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rosa Ruiz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKqri49RyPyDyoypc958iOFSvcs2XAuzD3wrVB_7p9Nc-Xeiw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "El servicio es inmejorable. Soy cliente desde hace 18 años y no puedo estar más contenta con esta óptica, en un principio me costó muchísimo encontrar las lentillas con la hidratación idónea para mi y ellos lo lograron, no he necesitado cambiarlas. Los ópticos son muy profesionales y atentos, hago especial mención a Lucia es super eficiente y atenta. Además, no solamente te venden gafas, sino que te asesoran según el tipo de cristal qué gafa quedaría mejor ( muy importante en graduaciones altas), en esto siempre me ha ayudado Ezequiel.  En definitiva, el servicio es excelente, siempre habrá una óptica con alguna oferta de gafas más barata, pero no con el servicio añadido que te ofrece Central óptica. Super recomendable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Daniel Morcillo Mariano",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJxr50mRMHfqsOpHGMvE7-hmhnGL4ztwevFTrPpcTXsq7u6wY0=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Una óptica excelente, tiene todo lo que se puede pedir de una óptica, servicio más que excelente, nunca está muy concurrida y te ayudan de forma muy  humilde a todos tus problemas. Los precios no son muy desorbitados pero podrían mejorar un pelín. Un 10/10 en toda regla.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juanan EM",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUptSYaJxwzFPhlNGtXqk1ipu9_IVIZGISL8ZULjIOtI55jphQd=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "La mejor óptica de Albacete! Estuve buscando por todas partes unas gafas con montura perforada y aquí  no solo encontré la mejor calidad precio, sino que recibí un trato profesional y excepcional! También pude reparar mis antiguas gafas de sol,sin duda se ha convertido en mi óptica de confianza. Especial mención a Ezequiel, un PROFESIONAL de los pies a la cabeza.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "OVG reformas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLw1e-6PGjtAYgo2mI1uyuLBtP3DPHqSHu7YVYN3oL8vl8GWg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "100 % recomendable, en tecnología están a la última, productos exclusivos y muy buenas promociones. Las gafas eran para mi niña y la tranquilidad, seguridad y profesionalidad que me ofrecieron fueron de 10.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "segmarsalud m",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJzAgeK9TCiRrwwYIIQkIYCp_hkmmftEBL9xsIy2zp9ncU7hQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La mejor optica de toda la provincia, son grandes profesionales y sobre todo muy resolutivos. Sin duda ya tengo óptica para mi familia y clientes.\nGracias a Miguel y todo su equipo.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Clamor Centro Óptico Cione Grupo de Opticas",
+  category: "Óptica",
+  address: "C. Rosario, 11, 02001 Albacete",
+  description: "Ofrece un trato espectacular y una atención muy buena por parte de su equipo profesional. Brinda asesoramiento acertado y ayuda en la selección entre monturas originales, modernas y estilosas. La relación calidad-precio es valorada positivamente.",
+  serviceRatings: {
+    atencionCliente: 4.8,
+    profesionalidad: 4.8,
+    precio: 4.5,
+    variedad: 4.7
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ],
+    sábado: [
+      "10:30–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ]
+  },
+  website: "",
+  phone: "967 21 20 86",
+  review_count: 13,
+  review_rating: 5,
+  latitude: 38.994695,
+  longitude: -1.855766,
+  user_reviews: [
+    {
+      Name: "Coral Revi",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLnaN9diGpf0g3I2H0dnqNpOnXJ4G_iI9-miDbBVKFC9XMKzw=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Me he sentido muy bien asesorada. Las monturas son muy originales y los precios competitivos.  Cuando lo necesite de nuevo, volveré.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipMZkSWKKJ7C2Ji8dYEkfrJTK6RRpGkydQvyJ7h-&fid=0x0:0x298f7fd86af72db4"
+      ],
+      When: "2023-1-9"
+    },
+    {
+      Name: "Rafaelross1969@gmail.com Ros",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVUxK5oQi5L-1xI8_0iZSBDEU_4OR1ATdMhK8hdxOekuUCXBmgZuA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buenos  profesionales y muy buena atención",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Benjamin Cuenca",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU6lsJKCqRJsctpwyCiSSJWpk8MEbbzq_NMEHoR_aeSnQmCp7yubQ=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Magníficas profesionales y trato espectacular. Calidad precio muy bueno.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Luesus Asturius",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJdAZKzlUSx99wq4Y8gT9bftiVa7c7v4T3r0UNjGh9ukjhc4A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buen servicio y muy buenas profesionales . Superior acertar con el modelo que quería y eso que me probé un millón",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "maria lueso",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIcyreswxqhxFs98k5su32G3OETwLkf3MwjhuR39c1j4c65HA=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Increíble el trato recibido y gafas muy modernas y estilosas. Me dejé recomendar por ellas y, ¡qué buen resultado!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "JULIO CLAVER",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIo3Y9p8SL7_ZzU0W8RdtRijlt7doCR3mxp1zYzpcfFkE57LA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato inmejorable y profesionales increíbles",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "maria vg",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUv-G3mnVkTmkkg03eJiXTQ6KgO1ZYFG0Fy9EW_W0lGnmYYFdA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Oscar",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIoIbbSc4Aa-uDpjaw9d1CvVBo5bIDeroihuQynp_6dKN6y-fU=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Ópticas PÉREZ SETIÉN",
+  category: "Óptica",
+  address: "C. Rosario, 33, 02001 Albacete",
+  description: "Este establecimiento es reconocido por la gran experiencia y profesionalidad de su equipo, destacando en áreas como las lentillas progresivas y el asesoramiento. Dispone de una amplia gama de modelos actuales. Si bien muchas reseñas elogian un trato amable, familiar y paciente, existen informes aislados de experiencias negativas relacionadas con la atención recibida, incluyendo una mención a trato inadecuado. La relación calidad-precio se considera asequible.",
+  serviceRatings: {
+    atencionCliente: 3.0,
+    profesionalidad: 4.5,
+    precio: 4.0,
+    variedad: 4.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://www.perezsetien.com/",
+  phone: "967 21 48 21",
+  review_count: 64,
+  review_rating: 4.8,
+  latitude: 38.993505,
+  longitude: -1.856479,
+  user_reviews: [
+    {
+      Name: "LAURA",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLL_h_Y2gG7pOI8lr6N_BqvGkeBeFqEOionO_mm-a83EJxK2A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "¡Excelente experiencia en esta óptica!\nEs mi óptica de confianza en Albacete, ya que desde que empecé a utilizar gafas siempre voy allí.\nLa semana pasada fui a renovar mis lentillas, y como siempre estoy más que satisfecha con el servicio que recibí.\nLa dependienta que me atendió, Clara, tuvo un trato conmigo muy amable, profesional y atenta a lo que necesitaba.\n\nAdemás, el proceso de compra fue rápido y eficiente.\nEn mi opinión, una óptica de 10, que recomiendo siempre a mis amigos y familiares.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Carmen Lorenzo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLMjMeU6JKKDZalxQvsbmhy4hrtJER1VAm9xwYalRyXfiDe2g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muchos años de  experiencia de  todos los profesionales de Perez Setien , siempre muy buen trato, te hacen sentir en familia, la profesionalidad inigualable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "edwarclavijo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKUnWDGnJr-tm-90idv6QpIHCGjoNRvC8H5ZuA0roFIiN5-lg=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Mala atención por parte de la señora que atiende se ve que no le gusta su trabajo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Minnie GM",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVM1U8QU0tqNyJqy_M4kHjoU5SWikc8nQxhi4VBmrfpxgMWLnje=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Entrar a este establecimiento es marca de garantía. El trato es excepcional, personal muy profesional y atienden perfectamente tus necesidades. Te llevas las gafas perfectas para ti. Muy recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Diana Ramirez Tamayo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWw0gOKyUuUbgbsfMB53-Ey2vJENiHmlPo1mB6Ifl6j6MYB3taUFA=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Fui casualmente porque mi compañera quería ver unos lentes para ella y resulté yo también adquiriendo unos para mí. Realmente me encantó mucho la atención que tienen y la forma de asesorar, tienen mucha paciencia y un carisma muy bonito que dan ganas de volver y por supuesto de recomendar 💯, gracias a Amparo y M. Carmen quien nos realizó el examen, ambas muy cordiales.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Leily Jarrín Vargas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUk-RlnyehgZVMAINC_rTb7Rcyx5GA7i1ymAtENMvQHNOXsbK8=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Óptica excelente, la verdad que el reconocimiento ocular como en el trato, por la gente que trabaja ahí, fue exquisito.\nObviamente la relación de calidad-precio es bastante asequible.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "NIEVES SANCHEZ MORENO",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLshmf_NHPhXE0-ncm3YIHjbYNzxQ8x_CYmRPH4tRSfVb9bvw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Grandes profesionales con muchos años de experiencia, trato súper amable y profesional. Amplia gama de modelos de gafas tanto graduadas como de sol, siempre a la última moda para quien nos gusta cambiar con frecuencia de look, jeje Y creo que número uno en lentillas progresivas !!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alexia Mejia Bolívar",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXEI5oX1CUckXP7OnTvU-yhZRQWG7q1-0Am5YmhptiC4qd_LBX-Xw=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Buenos días, entré en el establecimiento y la depienta fue muy antipática conmigo por mi color de piel y me miraba muy mal. Esto hizo que me sintiera incómoda durante mi estancia en dicho establecimiento. Espero que esta empleada sea investigada por racismo y que la Ópticas Pérez Setién tome las medidas necesarias.\nUn saludo",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Óptica y Centro Auditivo Soloptical Albacenter",
+  category: "Óptica",
+  address: "C. Alcalde Conangla, Locales 37-38, 02006 Albacete",
+  description: "Este centro óptico y auditivo recibe comentarios mayoritariamente positivos por la amabilidad y paciencia del personal, así como por sus precios competitivos y variedad de modelos, incluyendo ofertas. No obstante, existen reportes sobre problemas con la calidad o ajuste inicial de las gafas, errores en pedidos de lentillas y una gestión inconsistente de las garantías o la resolución de incidencias.",
+  serviceRatings: {
+    atencionCliente: 3.5,
+    profesionalidad: 3.0,
+    precio: 4.0,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "11:00–21:00"
+    ],
+    jueves: [
+      "10:00–22:00"
+    ],
+    lunes: [
+      "10:00–22:00"
+    ],
+    martes: [
+      "10:00–22:00"
+    ],
+    miércoles: [
+      "10:00–22:00"
+    ],
+    sábado: [
+      "10:00–22:00"
+    ],
+    viernes: [
+      "10:00–22:00"
+    ]
+  },
+  website: "https://soloptical.net/es/soloptical-albacete/?utm_source=Google&utm_medium=google_my_business&utm_campaign=sitio+web",
+  phone: "628 20 17 08",
+  review_count: 273,
+  review_rating: 4.7,
+  latitude: 38.99056,
+  longitude: -1.847703,
+  user_reviews: [
+    {
+      Name: "laura garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIJXbxLetbRrCvb943PYVaRWdQ2ivmVS0TYPrmV1r-_99lTRA=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Buenas a últimos de octubre de 2024 compre unas gafas y cuando fuy a por ellas me di cuenta que estaban torcidas y no supieron ponérselas derechas,tube que ir a otra óptica a que me las pusieran bien,pues ayer 16 de marzo de 2025 escuche un clip y la patilla de la gafa se tambalea para los lados el tornillo que llevan no aprieta,vamos una pena,e llamado para ver si tienen garantía,  y dice que según el trato que le haya hecho a la gafa así se verá la garantía.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "marcobentejui monzon",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWPFX7jYspHcrl5Deyi34hcaKcTxXzfMVUMP-278Duk0A_CbC5e=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Quiero agradecer enormemente el trato recibido está mañana. Mi madre necesitaba unas progresivas y tenía un montón de preguntas y dudas😅. La persona que nos ha atendido, (gracias Elena te mereces el cielo).\nSe que la atención al cliente es importante, pero para una persona mayor, que le resuelvan cada una de sus dudas, no tiene precio.\nÓptica 100% recomendada, tanto por precio como atención al cliente.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipN5f8F_MoVDfXqCO44_gbIrPTVXTJ-rynkJOqu9&fid=0x0:0xe77395d8d31800"
+      ],
+      When: "2023-5-25"
+    },
+    {
+      Name: "XAVIER ESCAMEZ",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXxDMRCN2jYTTaqgAkSwOmaStPBp20Eb_RpEtSr7KAH374-D2NP=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fui a hacerme una revisión de la vista hace pocos días para pedir unas gafas y les llegaron hoy. Muy contento con el trato y la rapidez.\nAproveché también para hacerme la prueba de los oídos y la chica muy maja. En 10 minutos todo listo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Gara Zon Zon",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUuLTn83Q7Car0KjwEFQEcjCNdTK7buRczz9bPXHYOBcME2_1e1=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Esta mañana he visitado la óptica porque necesitaba unas gafas de sol nuevas. Tenían un montón de modelos nuevos y lo mejor sus precios.\nEl personal de tienda han sido súper amables conmigo. Al final la encargada me ha convencido y me he traído a casa una oferta de 2x1. Así que ya tengo gafas para rato. Muchísimas gracias por el trato tan estupendo .",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipMBWDyT9MdQWuvEgAL2Z5o0_gZg0QAwUlED2YA&fid=0x0:0xe77395d8d31800"
+      ],
+      When: "2023-5-25"
+    },
+    {
+      Name: "Maribel Cruz Prior",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKWZbAOJTEEOrWx4moiz7rGBSnyqyp4Xca6vFLbR_uRCPUbcw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buen servicio, cumpliendo garantía de las gafas de mi nene en un momento le han cambiado la montura. Gracias",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Kerly Gallardo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJL3FfrXzGVLxsH2ivBJv8U1rHrfyBluXtTWTGuK8sWposL0bJ2=s120-c-rp-mo-ba3-br100",
+      Rating: 1,
+      Description: "Desde hace años tengo con ellos mis lentillas, mis gafas , lleve a mis padres , a mis hermanas a mi marido y ahora todos somos clientes. Siempre hago el mismo pedido de mi lentilla derecha porque es una la que utilizo !! Voy hago mi pedido me atiende una chica que parecía la encargada, hace mi pedido mal, me llevo una lentilla que es del izquierdo que hace 7 años no utilizo nada de ese ojo. Llamo desde mi casa me dicen que la graduación es del 2019, llamo incansable veces , hasta me contesta una chica y me hace el pedido otra vez , esto con que yo ya había pedido con tiempo para que llegasen! Total llegan voy a recogerlas y que no me las pueden dar porque tengo que llevar las otras , señores no me las puedo poner! Alguna solución me podríais haber dado, siendo vuestro error. Me tengo que ir de viaje sin mis lentillas y por culpa de un mal pedido. Mala gestión de solucionar el problema. Fatal.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "TERESA MORENO MONTERO",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXWMCgqduSLPMq3Zn21Q7ondBFQ_yuW_gfXUZbtSf9-mDktvR7Z=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buen servicio, el personal muy agradable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Nadia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJZvwKIE8FZJOq244y_ctvaG4UZqWgB2MPVdvi9qqAtZdKo=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buscaba unas gafas de sol y la chica morena que me ha atendido ha sido un cielo. Con su santa paciencia me ha enseñado muchos modelos y siempre buscando que me pudieran favorecer. Ha sido muy atenta y muy amable. Un trato excelente. Muy contenta con la compra, ha dado en el clavo 😉",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "ÓPTICA MiOptico Ana Villanueva Albacete",
+  category: "Optometrista",
+  address: "Av. Guardia Civil, Nº18, 02005 Albacete",
+  description: "Altamente recomendada por su excepcional profesionalidad y conocimiento avanzado, incluyendo terapia visual. Se destaca por un trato al cliente impecable, cercano y muy atento, haciendo sentir comodidad y confianza. Soluciona problemas de visión complejos y se mantiene al día con la tecnología, ofreciendo además buenos precios. Especialmente valorada por su paciencia y habilidad con los niños.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "16:00–20:00"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "16:00–20:00"
+    ],
+    martes: [
+      "10:00–13:30",
+      "16:00–20:00"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "16:00–20:00"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "16:00–20:00"
+    ]
+  },
+  website: "https://mi-optico.com/detalles-de-la-tienda/MIOTPICO-Ana-Villanueva",
+  phone: "633 46 11 01",
+  review_count: 57,
+  review_rating: 4.9,
+  latitude: 38.999797,
+  longitude: -1.858031,
+  user_reviews: [
+    {
+      Name: "Sui king Chang",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXd3g2Z4_Uy316uQw2x2LiiCnjfmJXX1in_6VDxTTs2mqNlFkRECQ=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Lleve a mis peques a una evaluación y el resultado fué más que completo, hemos detectado síntomas que gracias al diagnóstico podemos mejorar, Excelente atención Ana es una gran profesional al día con los últimos avances en el sector.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipPDPedhz3TspedIt2OVxQg1QtpEJ5ElxoqtFprr&fid=0x0:0x319211fab7dc9e9d"
+      ],
+      When: "2024-11-20"
+    },
+    {
+      Name: "Lidia Heras",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKCvcwl43vOGSi6GOJAGiKVvOFvGu_CHJ8U4YBm4L4KakCN0g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Estaré eternamente agradecida con Ana,es la única que ha prestado atención a mi problema de visión y ponerle remedio con terapia! He pasado a lo largo de los años por muchos sitios y nada y ella....ella es un encanto! Es amable,no intenta sacarte el dinero con cualquier cosa o mentiras como hacen otros sitios,es una verdadera profesional,la recomiendo y la recomendaré siempre!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Emilio Jose Garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLT6wXH2bxqmFrvs8lJFoBdj_W7jWoZl-cSA4OqowX4L41_Ew=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Ana, es una muy buena profesional, que dio solución a mi problema, al verme entrar por la puerta, recomendación al 100%",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Clara Jiménez Navarro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWPErW1mzK75yKAzeVoF6sO3BP1QDszZhFMoWoJDbnsZ-1S4tw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Ana es francamente maravillosa. Su trato al cliente es impecable, te hace sentir cómoda desde el primer momento. Te aconseja, ayuda y acompaña en todo, practicamente. Trabaja de forma eficaz pero atenta y siempre está ahí para cualquier mínima duda que te pueda surgir.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "maria jose quintanilla",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUSQUq-yaNkaz8YfBPepbe6hmEyXITo9WZGJSPPfAMuS9dJ4zaf=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fantástico trato, y profesionalidad. No solamente gradúa. Además trata cualquier problema de la vista. Muy contenta de haber ido.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Víctor Manuel González Garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJCU-LzDkMsex33w_HRievBA6ZxiqtTdzHTiU2tDjYFx_dK5Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Profesionalidad, compromiso, el. Cliente siempre en el centro, tecnología , estás en las mejores manos, tus ojos te lo agradecerán, no lo dudes",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "veronica belmonte saez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW6sx9Y_C2aZ7025MUU5Tn73REQc0CfVykQJ0xyJSPtiaMJZ_0wLQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Sin duda alguna Ana es una súper profesional, que está al día de las novedades que salen y sabe muchísimo. Una óptica de barrio que da gusto ir y recibir el trato tan bueno y es una chica super atenta. Toda la familia vamos allí y hay que apoyar siempre al barrio.\nLos precios son tan bien muy buenos",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Llanos Alfaro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKOr07QuC0aUWo-Ogu3azgEAt-m-0e-QDEGrXoK7HHXJW0BnA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato inigualable, súper cariñosa, profesional de 10. No paró hasta solucionar mi problema. Súper paciente con los peques, se los gana en cuestión de segundos, y los valora súper bien.\nNo cambio de óptica 😘",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Óptica y Audiología Universitaria",
+  category: "Óptica",
+  address: "C. Mayor, 32, 02001 Albacete",
+  description: "Esta óptica es elogiada por su excelente atención y asesoramiento profesional. Ofrece monturas de primeras marcas a precios notablemente competitivos, considerablemente más bajos que en otros establecimientos. El trato recibido es descrito como impecable y exquisito.",
+  serviceRatings: {
+    atencionCliente: 4.8,
+    profesionalidad: 4.5,
+    precio: 4.8,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–21:00"
+    ],
+    lunes: [
+      "10:00–21:00"
+    ],
+    martes: [
+      "10:00–21:00"
+    ],
+    miércoles: [
+      "10:00–21:00"
+    ],
+    sábado: [
+      "10:00–21:00"
+    ],
+    viernes: [
+      "10:00–21:00"
+    ]
+  },
+  website: "https://www.opticauniversitaria.es/",
+  phone: "967 15 33 46",
+  review_count: 6,
+  review_rating: 5,
+  latitude: 38.993388,
+  longitude: -1.855281,
+  user_reviews: [
+    {
+      Name: "Carmen Carrasco Carrasco",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ7sNmw9b6ylb1hCeH3Mh2Jz5ld3zaYX87T49bRQtfhcNx_Kw=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Atención y asesoramiento excelente. Primeras marcas en monturas. Precios mucho más bajos k en otras ópticas. Ya era clienta en su tienda de Castellón. Deseando k abrieran en Albacete.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pablo Palacios López",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXC-K9C15tKnyanqqzBmqDsSry0B-YsNDcIWFvzlaDf3niHrwyu=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Personal impecable y un trato exquisito.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lina Andrea Cardona Mejia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXoMfuUsDUmuhD2eZ3bXe5kR9YIkyivrk0hxXDP_wsryOn7600=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelentes en atención y precios",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "cristian sanchez casas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLlxhZm8SLOUtqdlicznBxhaDBAFB-m8IG5ejBWI5pB36vlng=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ermen Argueta",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKxZHvT2yFTdKLbvnNXvPNSW52A3GjxXVPjdoy1943DHYQ1kw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Amelia Cordoba hernandez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKrqLQLnHS8mkQFiQbaKPuPOL-qels1_WxP4hqMzaWRiqhmtg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Óptica Requena",
+  category: "Óptica",
+  address: "C. Albarderos, 9, 02004 Albacete",
+  description: "Valorada por combinar una profesionalidad exquisita y tecnología avanzada con un trato humano cercano, amable y paciente. Ofrece atención personalizada, asesoramiento detallado y un excelente servicio posventa. La relación calidad-precio es considerada muy buena, destacando como un negocio de cercanía altamente recomendable.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.9,
+    precio: 4.7,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "",
+  phone: "967 03 48 81",
+  review_count: 47,
+  review_rating: 4.5,
+  latitude: 38.994814,
+  longitude: -1.858621,
+  user_reviews: [
+    {
+      Name: "Sacha Basto",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIPk7o_aAtJOJwansQlbtkxCfh6tf6Wn1PIu8B63bBLqN-S0g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fui a la óptica porque me la recomendó una amiga. La verdad es que estoy super contenta. Me compré unas gafas muy bonitas a muy buen precio. La atención fue de 10, son amables y pacientes, además de muy agradables. El jefe es muy cercano y atento. Recomendable 100% si necesitas gafas o lentillas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Vicente Canadas Valcarcel",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKTi8PojAKLi8X3rghGdHioeItjUMqEBtl0v7kL-rrjQ1G1Zg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He venido porque mi familia ya confío en ellos y ya veo porqué. Tanto la chica como Jesús han sido muy amables y atentos en todo momento, asesorándome para encontrar las opciones de gafas y de cristales que mejor se adaptaban a mí y pidiéndome varios modelos de montura para elegir. ¡Además a un gran precio! Sin duda volveré.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Eladio Cortes Oliver",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX_ti7w3nWJ0yG8dunaeTooO1Uw9yeXVYC2f5vRAuzmOSLRsn9d=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Inmejorable experiencia en este local, atención personalizada, precio y calidad que te hacen plantearte la importancia de este tipo de negocios de cercanía.\nMil gracias Jesús por tu simpatía y saber hacer. Un gran profesional. 🙂",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Gema Tolosa",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjURAIZZsr7X1NUf6bUfXODNqbWaPVHuouwxiqP2gOClIA2Q55iA2A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Para mi los mejores profesionales de Albacete y lo digo después de haber pasado por varias ópticas y de las más famosas por la cuidad. Tecnología punta y pruebas que no me habían hecho nunca. Y por si esto fuera poco , el trato humano inmejorable ..\nSimpáticos , agradables y cercanos. La recomiendo 100%.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose Conrado Ruiz Morcillo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW8SPN3jiM0dEKPjZiu3nSyfwmoovPY0Ob5A1Z2t2TgNakYfOw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La recomiendo al 100%. Una apuesta segura. Trato y profesionalidad exquisitos. Servicio posventa inmejorable. Aquí tiene un cliente perenne. Muchas gracias por el servicio y la atención.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Llanos Alja",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ9ylquWEP106-Ksr0azu4DBDcEb88te8SQ34b0ukvBzXnoMg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Necesitaba una gafas , porque al estudiar no veía bien, y eso unido a dolores fuertes de cabeza fui a Jesús y un gran profesional y Silvia muy atenta , un par de gafas progresivas estoy super contenta porque desde el primer momento me adaptado super bien y voy muy cómoda y unos modelos que me gustan mucho calidad precio genial , lo recomiendo sin duda.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rosario Calero Gil",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK_kJTNnNAoZVOFahLDXKACx6RxuoDRzh0NxOU0Z-8uQV-Www=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Lo recomiendo totalmente.El trato es inmejorable. Su profesionalidad excelente. Fui a revisarme la vista , ya que llevo varios años siendo clienta. Trabaja con un género muy bueno ya que, las que he llevado hace años me han salido muy buenas, y no he tenido problema ninguno. Al revés , súper atentos. Me he llevado dos gafas graduadas a muy buen precio. De las mejores ópticas de Albacete.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "eva maria zamora escobar",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXPB-eorF-TS_KnwDTMirR9Rw41T9K2z0T8qgMuCrnDK-dKyu79=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Una óptica maravillosa! Personal excelente.  Jesús muy profesional al igual que Silvia. Las mejores tecnologías.  Estoy encantada y la recomiendo sin lugar a dudas!!",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Opticalia Hinarejos",
+  category: "Óptica",
+  address: "C. Caba, 1, 02001 Albacete",
+  description: "Este centro óptico se distingue por un servicio y atención inmejorables, con un trato muy agradable, familiar y paciente. Cuenta con un equipo de auténticos profesionales que se preocupan por lograr un resultado perfecto. Ofrece una buena variedad de monturas y precios muy competitivos, junto con ofertas.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.9,
+    precio: 4.8,
+    variedad: 4.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–14:00",
+      "17:30–20:30"
+    ],
+    lunes: [
+      "10:00–14:00",
+      "17:30–20:30"
+    ],
+    martes: [
+      "10:00–14:00",
+      "17:30–20:30"
+    ],
+    miércoles: [
+      "10:00–14:00",
+      "17:30–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–14:00",
+      "17:30–20:30"
+    ]
+  },
+  website: "https://www.opticalia.com/es/tiendas/opticalia-hinarejos",
+  phone: "967 51 16 28",
+  review_count: 29,
+  review_rating: 4.9,
+  latitude: 38.993096,
+  longitude: -1.857415,
+  user_reviews: [
+    {
+      Name: "Adolfo Vega",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLESWmX-ZaQcbK5NCrCc0WxNlQlQOdM9vkX3jRwvkVyTPECBQ=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Muy agradables y muy buenos precios",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Miguel Ángel Marín",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJThIa04WC5BFTM6He_c7VrqN62Q23SxBkhqMSF3VoxOKf1mQ=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Inmejorable el servicio, la atención y super Profesionales, recomendada 100x100",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Luis Miguel",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUqky4vvTyqkhLw5W64ZaHigiKjGBnbfC0ssN_mAeXQkvXcmhM=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Unos auténtic@s profesionales en todos los aspectos,tanto en atención como información, personas con las que es un gusto tratar ya  que realizan a la perfección su trabajo.totalmente recomendable para la gente que no les conozcan...",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Andrea Jalba",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWpCxEzk2vwnuIUPU2wKd4bsC-K_ik0Cn-zkceVmGw-rlP_qy8zLA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buen servicio, súper agradables, muy simpáticas, muy educadas y pacientes, por no hablar de la variedad de monturas que tienen a gusto de cada persona, mi óptica de  confianza ♡",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cucamon",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXI54gRNE_n1Dvk0dk1q5ptz6y_x0rCgZdVsaEpsR1Va-RQv8fm=s120-c-rp-mo-ba6-br100",
+      Rating: 5,
+      Description: "Sin duda de todos los sitios que he ido el mejor, trato inmejorable, precio de lo mejor al igual que la calidad, nos atienden siempre muy familiar cosa que se agradece, muy recomendable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Victor Pedro Sanchez Martinez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK-tY579FXax3BcF8nQY0HuJVBgknOPFT50GIZtOo-1ejU4FWM=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente trato y gran profesionalidad. Sin lugar a dudas, un acierto en la elección",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWPxxcrwBT5Y7YM8Ojki2T1xgMsYNG7DAZrnjmWouO0SvHovvyFog=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "La chica que me atendió es muy amable y se preocupa bastante para que todo quede perfecto con las gafas y las lentillas",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Santa Morfa Pachin",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLrLaWEgJKosrd50NVu0Kie1eVuZNZLookvzbflfRWYLI8AMg=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Siempre he ido a esta óptica desde que vivo en Albacete y empezando por el trato tan profesional y tan cercano y después por las ofertas y los precios que tienen lo recomiendo.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "José Luis García Fajardo",
+  category: "Óptica",
+  address: "Av. Isabel la Católica, 40, 02005 Albacete",
+  description: "Esta óptica es valorada por sus profesionales amables y eficientes, capaces de solucionar problemas con rapidez. Se destaca un trato excelente y buenos consejos. La relación calidad-precio es considerada impresionante e inmejorable. Sin embargo, una reseña menciona una incidencia negativa relacionada con el cumplimiento del horario.",
+  serviceRatings: {
+    atencionCliente: 4.0,
+    profesionalidad: 4.7,
+    precio: 4.8,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "",
+  phone: "967 52 27 72",
+  review_count: 10,
+  review_rating: 4.6,
+  latitude: 38.999634,
+  longitude: -1.860551,
+  user_reviews: [
+    {
+      Name: "Dani",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUgZb2ekaw0fGrTFr2EmHAigvevCaghG04_IZg3J8ldgO9hTeUb-w=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Me ha gustado mucho esta óptica. Los dueños son amables y profesionales. La relación calidad precio es muy buena y, de hecho, tuve un problema con la montura y lo solucionaron rápidamente. 💯% recomendado! 😊",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipPbC16yxJFIApDTkokFpqK3_rs4iG7C_rzw2UTn&fid=0x0:0x64517de4cfdec56"
+      ],
+      When: "2022-6-13"
+    },
+    {
+      Name: "marta guerrero",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLRBN3jDwLH3O1SGKvpRe6Tv0Yk19P2n0NAKzz4G5DgdJo_Rw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Grandes profesionales, impresionante relacion calidad precio y un trato excelente, uno de los mejores comercios de Albacete",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Javier Giménez Belmonte",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXTi1mE0KUPHGsfmRkZQSNDjL8f17Ky_adeN5iSGp6d8iawuLE=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Excelente atención de excelentes profesionales. Relación calidad precio inmejorable. Muy recomendable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "GREGORIO VALERA MUÑOZ",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVbXpYg6mX0ullwbQ3NCDKUi7R6n7sycHmnaeaxv_NYZAX-qHwx=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "La mejor de todas las ópticas de albacete, excelente trato y  buenos profesionales, merece la pena acudir a este establecimiento.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "andreaa González",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJn7YwwmhVWFBS0zRLciemmmwnQ4PoPSWo6VxJ8qJ8OD7X2TA=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "40 minutos esperando a que habrán con un cartel que pone que vuelvo en 30 minutos!! A la 10:50 de la mañana.en fin un cliente perdido.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "jflopez Lopez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJfOMxRXWNeYe9cxfSeQEOLnKv74mvVRpvlQ8j46AJYHqqW8g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Climatización excelente. Buenos consejeros para la vida y para la vista... Y precios increíbles",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pedro Rodriguez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKErNft5UMiODsLbea32Lr8LjaOM_hpSlIuShdLCAwMcmlKiQ=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Buena tienda, trato excelente, de 10",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alvaro Tercero",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLJR7t1EePEMvccsXu9cZzGa6SSEvNKqEcOVH1-P8eJw7TiEg=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Federópticos Moreno",
+  category: "Óptica",
+  address: "C. Teodoro Camino, 36, 02002 Albacete",
+  description: "Se caracteriza por un equipo de profesionales amables y eficientes, destacando la rapidez en la graduación y entrega de gafas. Ofrece una atención magnífica y un buen trato general. Los precios son considerados buenos.",
+  serviceRatings: {
+    atencionCliente: 4.6,
+    profesionalidad: 4.7,
+    precio: 4.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "http://federopticosmoreno.com/",
+  phone: "967 22 79 26",
+  review_count: 12,
+  review_rating: 4.8,
+  latitude: 38.989949,
+  longitude: -1.855908,
+  user_reviews: [
+    {
+      Name: "Juan Antonio Ruiz Peinado",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW3mEUIFrUJJc82RL-aetoV4Dj2h55qeYDfGR36rZaLdSDBDtaR=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Estado gradúan dome la visita y la atención asido manifica una amabilidad que más de una oztica la quisieran para ellos la recomiendo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Adrián de la Peña",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXmkRb05QA_tR78CSbiX2VHGtcpVN8vZb-RInuT_SOAcndzSvaE=s120-c-rp-mo-ba4-br100",
+      Rating: 4,
+      Description: "Recomiendo mucho esta óptica, nunca me había puesto gafas y tampoco me habían graduado la vista y aquí cogiendo cita me han cogido en seguida y en un momento me la han graduado. Fui ayer a graduarme la vista y a elegir la montura y hoy mismo me han avisado de que están listas mis gafas, las he recogido y estoy muy contento. La rapidez, buen trato y precio que ofrecen es sorprendente",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mariam Garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLKvXMQ9AB1r5s0zaQF4VknjM5j7DNEemmuuz-84RqbuP3_0A=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Muy buenos profesionales , amables y buen precio y todo perfecto ,recomendable 100%",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marian 110519",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV9HMGQhCZAj9DBF5t-svBVNkdr7BQ6Zk8mQJzw8JGDElBTzvU=s120-c-rp-mo-ba3-br100",
+      Rating: 4,
+      Description: "Excelentes como persona y profesionales, llevo muuuuchos años confiando en ellos",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mª Dolores Martinez Guillen",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLrJzUPT4JF9zqiF1PTmMQDf9BsSGysX18PBaginZHvpDIbfg=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Muy buena atención y grandes profesionales",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Carmen Lerma",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWm10k3jWC9TArIIhQ8ZdVyJmlisfQbcAJsag1MmVvbWCEqgwK1=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jesus Mata",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKpdr7kvvMim1Ano2l-98Phr5031b6fNbW3xi2clMYG7JeXtQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mari Carmen Martínez Navarro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ-TmVYveysEjkDYmY0pHIUwKzmBshGxPyvlJF8fBYwqXzYjA=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Óptica GARVI",
+  category: "Óptica",
+  address: "C. Padre Romano, 12, 02005 Albacete",
+  description: "Este establecimiento cuenta con profesionales consideradas atentas, superamables y simpáticas. Se resalta la excelente profesionalidad y el buen trato. Los precios son competitivos.",
+  serviceRatings: {
+    atencionCliente: 4.0,
+    profesionalidad: 4.7,
+    precio: 4.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "Cerrado"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://martabarchin.es/optica-garvi/",
+  phone: "967 52 07 77",
+  review_count: 7,
+  review_rating: 4.4,
+  latitude: 38.997633,
+  longitude: -1.857084,
+  user_reviews: [
+    {
+      Name: "Mary Luz Sirvent",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVuK7hGnYqY8p8ZA2ZFYrHYrM2eg1VoEKBnz9Qy6IkhdeoK1TSx=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "La mejor Óptica que he conocido. Son atentas, superamables y profesionales. Recomiendo",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipOWVUpxo4Qv7qc7xvgmRTRUXE92MR47XIgmD9-2&fid=0x0:0x575bdc596b2106a"
+      ],
+      When: "2022-7-20"
+    },
+    {
+      Name: "Fernando Rubio Galvez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJkeqKN1-9Udi-tPEOc2vuxWZeoPF-41XloxjR6EKL4M5rEtw=s120-c-rp-mo-ba6-br100",
+      Rating: 5,
+      Description: "Excelente profesionalidad y trato por parte de Sandra y su hermana humi. Precios competitivos",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Melany Aristegui lopez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLvB0C9GihK-VmfHzGluWBq7RXMeqKkCdG1gmcM8U1mTrvyNA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy simpáticas y muy buenas profesionales .\nNo dudaré en volver 😁",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Nicasio NAVARRO RIAZA",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKPlDl7hascc1vTNspC6QuHgdI6Xwstfn922etoqfkmZFsz6g=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Buena gente y buenas profesionales",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mireya Blázquez Sánchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVjy8Xn-VclEP3Fei40ksVhEM3CHs0Siis8KsMY0KQu3Y_eI6E=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Miguel Angel Sanchez YESTERDAY",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXzmjjnAoqhTeuC-jKWTHw6lARdPE8XEfd8-atZR7UQnIqN69vu=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mari M G",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLVH2SvrsWw9izsiJesosdi1cPrKkqTAFk5y7B5wJMlIOO9bA=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Ópticas ROCAMORA",
+  category: "Óptica",
+  address: "C. Pérez Galdós, 28, BAJO, 02003 Albacete",
+  description: "Esta sucursal recibe elogios constantes por la profesionalidad, atención y amabilidad de su personal. Se destaca la calidad de los productos, tanto monturas como cristales, y la existencia de buenos descuentos. El trato es descrito como fenomenal y encantador, haciendo sentir como en casa, y la óptica en sí es considerada atractiva con gafas espectaculares.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.8,
+    precio: 4.5,
+    variedad: 4.2
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "Cerrado"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://www.opticasrocamora.com/",
+  phone: "967 09 36 81",
+  review_count: 9,
+  review_rating: 4.6,
+  latitude: 38.990969,
+  longitude: -1.860172,
+  user_reviews: [
+    {
+      Name: "Teresa G.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXsuUoRXfswWyB9tdhyMi-6ZUEjGTh9SZEqTvBdwhCyg3QE7yxR=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Profesionales, atentos y con amabilidad. Que más se puede pedir. Gracias por vuestra ayuda y simpatía. Volveré seguro. Recomendable al 100%",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "María R",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLDzNYApnr9ZAYubZSLP8nCIMGMFWAQg6z7qEu4XZCkwhbz2wH4=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Pues te atienden fenomenal\nAdemás de atenta ,la dueña es un encanto y muy profesionales ,la óptica es muy chula y tienen unas gafas espectaculares, además de muy buena calidad tanto montura como cristales , me hice unas gafas y por supuesto vuelvo a ir a graduarme y a ver que gafitas elijo esta vez .hacen descuentos muy buenos también .los recomiendo 100%.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Carmen Chicano Madrigal",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWHw4K97Lh7yOmko0A7lsYfYXi03ADTtZgH2rYZiCnZwk9qZ7fe=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me tratan muy bien cada vez que voy y estoy muy contenta con ellos",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Yesid Patiño",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL_oVPeMihC6x42Axt3s16BXaZTBUvs5TF1B0uzLd0WzOaXkg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Estoy encantado con mis gafas nuevas,calidad precio las mejores, repetiré siempre!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Teresa Matias Blazquez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWueuSWfI1FQjYbj3vk0a512b9tT7cfsDwoqjXnvLDqdxG3KWA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Atención al cliente muy buena,",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "edgardo ibarra del greco",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocImcDCP-nJsdVGuvcSpLWs1zoU_2Ji2vW5-QUpUXPhpTrUC9A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente atención, como en casa Gracias Alba!!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "JoseJ CaSil",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV8vQfKOW_Y1-Ui0OcLinlX74u7-oQZwALR5zEXx9twDGJdhDM=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Magnífico servicio y atención al cliente, gratamente sorprendidos... recomendable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Nino García",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXpa3_-kxurg7Wrf-Pyt2VBLVvhM8KaLG_7sKAQlDoDy-YC4cOd=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Siempre un trato muy amable y profesional. Valoración de cinco no, de diez.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "MARPE Ópticos",
+  category: "Óptica",
+  address: "C. Rosario, 3, 02001 Albacete",
+  description: "Óptica tradicional muy valorada por su fiabilidad, profesionalidad excelente y un trato al cliente consistentemente amable, cercano, paciente y personalizado. Destacan por resolver problemas eficazmente, incluidas dificultades con lentes progresivas. Ofrecen buena relación calidad-precio, especialmente en lentillas, y disponen de gran variedad de monturas.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.2,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://www.marpeopticos.com/",
+  phone: "967 21 90 49",
+  review_count: 13,
+  review_rating: 5,
+  latitude: 38.995768,
+  longitude: -1.854965,
+  user_reviews: [
+    {
+      Name: "Veronica Moreno",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL3rmuEMtAhMh3JAN1cvqc17ohAD6QkAXtJ8dvYu8tWgXIztg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Es una óptica de toda la vida con la seguridad que esto da: te atienden rápido, con una sonrisa y son grandes profesionales. El local es acogedor y tienen gran variedad de monturas.\nDestaco la buena relación calidad-precio en lentillas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Aurora Sánchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLEWBdCU128xcczfSweO9TwuiNyAzJ0jirER0HaQFfd2xvtug=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato personalizado y amable.\nMuy buenos profesionales y atentos.  Siempre con una sonrisa. Sin duda la mejor óptica para mí. La recomiendo al 100%",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rosario Gil",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUqd_vgNu0OSwYR4v7vVmFNvHAaOlX64MKzFHnRuMAXD7nO7pbQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Unos profesionales excelentes. Empecé a ir de pequeña y ahora llevo a mis hijos... No puedo estar más agradecida por la atención y el trato recibido, siempre amable, paciente y cercano.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Melanie Fl",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLTiEnhkXT44Xvp0BVIdUSI_bhtE4Ids_SRHvX4tKYy-Sj8QA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente trato, muy profesional y cercano. Para mí la mejor óptica de Albacete, no dudaria en volver. La recomiendo 100%",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "MARI CRUZ PONCE PARRA",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIiUJpjbakcyLsJrZx8H2zhlhXvnrj1zt4w2DKRn-HV7jiQSg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato excelente, muy profesionales y cercanos al cliente. Recomendable tanto por atención como por precio.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mª LUISA VALERO MORATALLA",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKcGbTjN7IVv5eYS76Ko6cW8mjeHIvPifhmt-GgBFR2HKSGaw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Soy clienta desde hace unos 40 años. Siempre muy bien atendida y cuando he tenido algún problema me lo han resuelto, con rapidez,veficacia y eficiencia.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "LUIS CRESPO background producciones, SL",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV86eYSRhJeUvCxxhwiIeVDjHjcurenq7TMNgeXqfPDPv3iyeY=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelentes profesionales y un trato amabilísimo. He encontrado solución a mi problema con las lentes progresivas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria López Castellanos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJV1p76ZWbDFL7dfbYtdTTSsP5HD-gdZ-Do2Kta2qO4z-SL=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato excelente y una revisión exhaustiva, y graduación realizada  por una gran profesional. Muy agradecida\nPara mí la mejor óptica.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Óptica LUJAN (Albacete)",
+  category: "Óptica",
+  address: "C/ Feria, 26, 02005 Albacete",
+  description: "Generalmente elogiada por la amabilidad, atención y profesionalidad de su personal, así como por un servicio rápido y buenos precios en algunos casos. Sin embargo, una crítica específica apunta a un posible mal asesoramiento y coste elevado en relación a los cristales con filtro azul, cuya utilidad es cuestionada.",
+  serviceRatings: {
+    atencionCliente: 4.0,
+    profesionalidad: 3.8,
+    precio: 3.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://opticalujan.com/",
+  phone: "601 01 40 56",
+  review_count: 8,
+  review_rating: 4.5,
+  latitude: 38.996001,
+  longitude: -1.860574,
+  user_reviews: [
+    {
+      Name: "María Rodríguez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKzhImFptjp_7ydTJioIpu1QIlRL1rs8_NtLzu4hgpb5ekf3Q=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Las dos chicas son encantadoras, muy atentas y profesionales. Mi madre fue a comprar unas gafas y la trataron genial.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Dina Tugaeva",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXtONKom866JmzHUZFu_TrWFwVDtDJ0Cc4v2mTN-mupdR7l6bctIg=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Genial. El personal es muy amable! Siempre te da muy buen consejo.\nHe comprado las gafas allí por muy buen precio.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "ANA CORCOLES MARTINEZ",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVbWeFwkVyhZFmMfktgge9JgnNLGOHlH5i9rWpfq7FfeyoMN_A=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Mal consejo en elegir los cristales de las gafas, No está demostrado científicamente  los cristales que llevan filtro azul para poder usarlos delante  del ordenador, tablet, móvil, etc.\nCada cristal cuesta 60€. Eso es una pasta!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "jose androide",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWBPLXZS4AVWMsRTdfTyQBOzvDYNuU3TUSKq7DG8sBfzuCxsHg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buenos profesionales. Muy buen trato. Y servicio rápido.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "maria adela donate garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWumViaN5_qGKPn7klYpqOfETISVN5LM5MSom1i0YR65dKsc5Kz=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Encantadoras y muy profesionales",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose ignacio Blesa",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXrm_8yMCz8uL2LfsryBJvZj6TK1QxvRVKA5VnqVCuxg8avSq_-=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Muy buena optica",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Belén García",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIcOgAov_7t3h3I4NJtmpt4igJfP9OSzzevECH5m_rM4B98AA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alejandro AM",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIeK-mwLzOlSAxPh6x50ZYxvw6FhaIkueIsVeoL_a4Qxy7McA=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Óptica Crisol Joselin SL",
+  category: "Óptica",
+  address: "Av. de España, 16, 02002 Albacete",
+  description: "Esta óptica con años de experiencia es reconocida por su sobresaliente profesionalidad y un enfoque centrado en las necesidades reales del cliente, más que en la venta. El trato es consistentemente excepcional: amable, cercano, humano y sincero, resolviendo dudas y problemas con gran disposición, incluso ofreciendo ayuda gratuita. Considerada por muchos la mejor de la ciudad por su conocimiento, servicio y precios competentes.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "http://www.opticajoselin.es/",
+  phone: "967 23 67 46",
+  review_count: 14,
+  review_rating: 5,
+  latitude: 38.98449,
+  longitude: -1.854072,
+  user_reviews: [
+    {
+      Name: "Alicia Cózar",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU1MfzvDooaBaSCQC3hJMevfQ2lBHM4YS-PmVfDgIREDj1EmtV9=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato excepcional... este verano fui a que me ajustasen las patillas de las gafas ( no eran de allí ) y me las arreglaron sin cobrarme nada. Y esta mañana me han dado un par de lentillas de prueba que necesitaba para sacarme de un apuro.\nGracias.... Mi próxima revisión y gafas las haré allí. Atención, cercanía, amabilidad.... Hacen muy bien su trabajo!\nFeliz navidad!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Joaquín",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUTIPE6YF0U7SQj0a4ghkgLT8Vvv6qu7G5z0eIQXg-as3HwFf2U=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buenos profesionales, se preocupan por el cliente y no de venderte unas gafas. Cualquier duda o problema te lo resuelven con gran amabilidad. Muy contento.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Laura T.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKYNdPBhVOF64npI2DicUD4i8pRxrXkxkEDtamLgSA6WgeorUQ=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "La mejor óptica en la que me han atendido, tanto en Albacete como en otras ciudades.\nTrato muy amable, personalizado y precio muy competente. Sin duda 100% recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "samuel campos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI3cyy2VLznu5N65RH2CsoZtbvftBA8WHRDrpOD_CqdIv1Tyg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Óptica con años de experiencia y profesionalidad.Se caracteriza por su cercanía y humanidad.Gran trato al cliente y predisposición a darte soluciones de una u otra manera.👍💪",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alejandro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXt3U33Xjxn3QXTwx7TiCdBuWyO28UOb2ltl9Ed6gKbR4q0VVIAEA=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "He sido cliente de otras ópticas durante toda mi vida y cuando probé esta supe cuál es la diferencia entre vender gafas y atender con calidad a un cliente.\nEl trato que me dieron desde que entré por la puerta hasta que me entregaron las gafas fue inmejorable, realmente cercano, amable y sincero.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Nicole Dominici Brunet",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKQxX6CbVsYIaCMJN1IcDNkVr0k_M8cFgn0hUEt0b_vleADCw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Para mi la mejor en conocimientos y en trato",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Francis Colmenero",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX78wpqZ4BrEiQ7om-xZF3BSmhxaF40p2STa6FoFraJMLGpne-P=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Después de probar casi todas las ópticas de la ciudad, me quedo con ésta. Cuando vine aquí por primera vez, hace ya más de 20 años, tuve la oportunidad de ver lo profesionales y amables que son. La mejor óptica de la ciudad con el mejor trato y servicio al cliente.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juan",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVX6u7IevLoSr9HHiLfKhtJVeop_VcPH255jQdrLlnMHtdAaCs=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Conocimiento, experiencia, buen gusto ❤️\nMaravilla de optica y personal",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Federópticos Meryvisión",
+  category: "Óptica",
+  address: "Av. Isabel la Católica, 19, 02005 Albacete",
+  description: "Este centro óptico recibe valoraciones mixtas. Algunas reseñas destacan un trato excelente, profesionalidad y soluciones efectivas, mencionando satisfacción con productos como gafas progresivas. Sin embargo, otras reseñas detallan experiencias muy negativas, incluyendo problemas con la graduación, dificultades con la adaptación no resueltas, incumplimiento de garantías, precios percibidos como incorrectos o elevados y un trato inadecuado al reclamar.",
+  serviceRatings: {
+    atencionCliente: 2.5,
+    profesionalidad: 2.8,
+    precio: 1.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    martes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    sábado: [
+      "Cerrado"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ]
+  },
+  website: "http://federopticosmeryvision.com/",
+  phone: "967 66 25 00",
+  review_count: 21,
+  review_rating: 4.4,
+  latitude: 38.998938,
+  longitude: -1.860084,
+  user_reviews: [
+    {
+      Name: "Maria Jose Sanchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLTcuP8xrfLi5cVOqwVUmdZg_BbC2ojbkd2nVrCcxs7wCWCQt8=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Hace años que soy clienta y solo tengo buenas palabras.\nMis gafas progresivas de las que tenía mis dudas porque unas que tuve anteriormente de otro establecimiento, no conseguí adaptarme a ellas, no me han dado problemas y para cualquier consulta o ajuste, se me ha atendido con profesionalidad y de manera exquisita.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lorenzo Escudero",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLJV_hjJk6zjN_F1UEER9I8rG67NOj3Q1I00w9tNiKPVhI5ag=s120-c-rp-mo-ba2-br100",
+      Rating: 1,
+      Description: "Una experiencia pésima. Compré unas gafas progresivas. Según consta en su publicidad, si en 3 meses no te adaptas, te devuelven el dinero.\nPues bien, encargué las más altas de gama, con los mejores cristales y una montura al aire \"para toda la vida\".\nA los pocos días de encargarlas, sin todavía haberlas recibido, me llamaron para decirme que había un error en el precio y que era algo más. Me mosqueé, pero acepté la diferencia de precio.\nDespués de recibir las gafas, estaban claramente mal graduadas. Fui varias veces a decirlo y siempre me decían lo mismo: espera un poco que tienes que adaptarte a ellas.\nTras varias visitas recibiendo la misma contestación, decidí devolverlas, pues era lo que siempre me decían. La sorpresa fue que no me las tomaban porque habían pasado algo más de 3 meses. Tras insistir e insistir, terminaron echándome de malos modos de la tienda, \"que me fuera que tenían cosas más importantes que hacer\".\nY por si lo anterior es poco, a las \"gafas para toda la vida\" se le han roto las patillas, una primero y otra después. Al repararlas, por supuesto en otro sitio, me entero de que el precio de la montura es menos de la mitad de lo que me cobraron estas señoras.\nEn definitiva, para no volver. Mentirosas y estafadoras.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Javier Caballero",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIQA-q_i5_DnOwNTDxzwPG9GXP96UrRLTFV6sqawI_YlMaapg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente trato y servicio de los profesionales de esta óptica.Soy cliente desde hace más de 18 años y estoy muy satisfecho con la atención, diagnósticos y productos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "lui rodrg sanch",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI8WLDJVpoJfK9j0jXH_IogfEkBewVrRlmuq1N2zkJdqc7B7-E=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Desde hace años muy satisfechos con esta óptica, una gran atención en todos los sentidos. De sus productos, sus profesionales  y con soluciones a todo lo que en su mano esta.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Martin Banegas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKdKktLqGYTWH9udRO3EHKFRsBe39d9glQ8pdRYTnBQpDCx2u0=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Se me rompió una pieza de mis gafas y estrene gafas nuevas, un servicio excelente, y gran profesionalidad. Totalmente recomendable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Virginia Moreno",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI58qEX5IYa197ZLqXloP6fGVMDw-MWeECkN5_jXvDKtG_rSA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Estoy súper contenta con la atención recibida.\nEl trato excelente , son muy amables.\nSoy clienta desde hace 10 años.\nMuy recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cinthia Martinez Honrubia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI88nJl4gIRWLCF0ZU3l7lLLXqZyLcygEIDJdrAyhxQlJi6Hw=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Yo también estoy muy descontenta porque me dejé mucho dinero para no ver bien en ningún momento, y solo me decían que esperara unos meses a acostumbrarme, hasta que e tenido que irme a otra óptica y volver a pagar por algo que debería aver tenido.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Hortensia Monteagudo Garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLmRrm_RljAfFFLdoHICOwTdec56NHgmtcNk9piYvs2ULZXDQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Servicio excelente, personal muy atento. He conseguido mejorar la visión solo con ellos. Lo recomiendo 100%.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Marta Montoya Óptica",
+  category: "Óptica",
+  address: "Calle DEL TINTE, 23 esquina, C. Teodoro Camino, 2, 02002 Albacete",
+  description: "Esta óptica se percibe con un ambiente acogedor y mucho diseño, destacando por su atención telefónica estupenda, rápida y profesional. Ofrece una buena selección de marcas y productos. Una opinión disconforme menciona que el local resultó pequeño e incómodo, aunque otra la contradice.",
+  serviceRatings: {
+    atencionCliente: 4.5,
+    profesionalidad: 4.5,
+    precio: 3.5,
+    variedad: 4.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ],
+    sábado: [
+      "10:30–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ]
+  },
+  website: "https://www.martamontoyaoptica.com/",
+  phone: "967 10 77 21",
+  review_count: 6,
+  review_rating: 4.2,
+  latitude: 38.992511,
+  longitude: -1.854571,
+  user_reviews: [
+    {
+      Name: "Eva García-Aranda Stai",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXNdQqaDCg_yLBF5hKP_g6xDvIGuuA2sNpaWlD9CCj5EDZm34Qr=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Soy de Madrid pero buscaba unas gafas específicas y me atendieron estupendamente por teléfono, solucionándome con rapidez, profesionalidad y simpatía todas las dudas. El envío a Madrid fue muy rápido. Recomiendo esta óptica 100%.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "JUAN RAMON FUENTES RODRIGUEZ",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKwxC4gV9FPTSbY1BY7JG68g-gDX97dm2MBg64s4QbqLhjVNA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Daniel, en cambio a mí, me parece una optica con mucho diseño y un ambiente acogedor ... con dos plantas... de pequeña e incomoda tiene poco; todo lo contrario",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipNwUa7FVTwmaHx6hIiT0y0swGiLxuxzx9uuFVOX&fid=0x0:0x89fd6903af930afb"
+      ],
+      When: "2019-3-4"
+    },
+    {
+      Name: "Daniel Zafrilla",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJO5t9iEGMc-3BrAvogbbL2HVydHU07xcFEczrww2EC7IiO0g=s120-c-rp-mo-ba3-br100",
+      Rating: 1,
+      Description: "No me gusto , local pequeño e incómodo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marc Duhoux",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUXst1ZOHKSCxznYQMGJBTw9UM_h2ORK76UZlc-O3I4Pg3QBSff8w=s120-c-rp-mo-ba5-br100",
+      Rating: 4,
+      Description: "Marta la propriétaire est l'âme de ce nouveau lieux, Puisque la Boutique historique à changé d'adresse et au passage de Décoration.\n\nLa Boutique, grande et claire propose sur deux niveaux une très belle sélection de marques, produits et services,\n\nC'est assurément à Albacete la plus belle des boutiques d'optique.....\nTrès recommandable 😎",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rico wolf",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI23S6bpUjv3Qh9InV3WgDdps6gwF60Rak2kjbacieVzLiGWQ=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana María Villena Marcos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJYRt0fGMgRxJ1GBxZqI1COCRBJpHfy0QVeFUJUPIbV80s0Bg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "SHOPPINGSOL",
+  category: "Óptica",
+  address: "C. Octavio Cuartero, 23, 02003 Albacete",
+  description: "Se especializa en gafas de sol, siendo un referente en la ciudad por su amplísima variedad de modelos, marcas actuales y últimas tendencias, incluyendo gafas deportivas. Ofrece un trato excelente, amable, simpático y muy personalizado, con asesoramiento experto sobre los productos. La relación calidad-precio es considerada muy buena.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.7,
+    precio: 4.5,
+    variedad: 5.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–21:00"
+    ],
+    lunes: [
+      "10:00–21:00"
+    ],
+    martes: [
+      "10:00–21:00"
+    ],
+    miércoles: [
+      "10:00–21:00"
+    ],
+    sábado: [
+      "10:00–14:00"
+    ],
+    viernes: [
+      "10:00–21:00"
+    ]
+  },
+  website: "",
+  phone: "967 03 71 38",
+  review_count: 14,
+  review_rating: 4.7,
+  latitude: 38.99099,
+  longitude: -1.85894,
+  user_reviews: [
+    {
+      Name: "Laura G M",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWBwxYNZa4A2m_QpCd8bMT2PwOVO7PX73NneH5_YRUdyw2Qr6Nd=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Nunca había visto en esta ciudad tantas gafas de sol en una sola tienda. Me gustan todas !! Local de referencia para proteger tus ojos en Albacete. Las mejores marcas, unido a una atención excelente. Me explicaron todas las  características del producto. Volveré seguro. 100% Recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "FUNCTIONAL INSTINCT",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU_iU90FZOlncjkENBFQPXF3HLD47VupHRfB02ZGpNl9PAMEtHO=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "En gafas de sol y deportivas el número 1 de la ciudad, trato muy amable y simpático. Asesora muy bien, conoce el producto. Precio correcto. Cuando quiero unas gafas de sol para lo que sea, uno de mis sitios fijos sin duda es este.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maribel García Valiente",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIXCm5ARoleDbnP-txjQ41Ed-QZrA0jZOzkIagfT1Ck0_8Rwg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Recomiendo este sitio para elegir la mejores gafas de sol, al mejor precio y con el mejor asesoramiento.\nUn establecimiento con los modelos más actuales donde encontrar lo que mejor te queda para estos días de sol. No dudéis en pasar a probaros; yo lo hice y ya tengo mis rayban para esta temporada.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Fernando Diez Garrido",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWsL7iaFyPwt6yE6Xfl-MVsC6PpyhUXVYaDRhhHDbcG_bmRiTxg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Ls gafas mas punteras y los ultimos modelos para alguien que sepa que quiere lo mejor lo recomiendo al 100 por 100, atencion excelente y despejan cualquiwr duda que tengas cn buenos argumentos, de 10!!!!he comprado varias gafas y complementos y desde luego repetire el año proximo para ir siempre cn lo ultimo 😎😎😎",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rosa Monedero Rodenas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI5p5xGUYJowSC9aGNj0S6uQF10qerIwuSxe3sGYAtUfZBMgw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "El lugar ideal para comprar las mejores gafas d sol. Trato exquisito y profesional. 100% recomendable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Los jcj Crís Juan",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVqHzlyRztuRFN_Akb7cWVoag-zz7-7MT_b1TturCHI11Af9_It=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato genial mejor calidades y marcas sin duda una tienda de 10 donde renovar cada vez que necesito una gafa de sol multimarca!!la recomiendo totalmente😉",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Laura Monedero periodista",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLGIEZILkR_5AiF-xFETACU2CK7GwCwNjmUmdU9V-BuIKMroQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me encanta todos los modelos que tiene. Tendencia, moda y lo último en gafas con un trato exquisito!!!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Fabiola Ruiz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWNNduumi_aVZ6cRg7xxRFd84fteDXOS_UNxPovn7-xTOcBGs4J=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Sitio obligado de visitar si quieres encontrar novedades, calidad y precio en un mismo sitio, atención muy personalizada, una pasada!",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Óptica Blume",
+  category: "Óptica",
+  address: "C. Gaona, 2, 02002 Albacete",
+  description: "Este centro dedica el tiempo necesario a cada persona, ofreciendo asesoramiento y seguimiento durante el proceso de adquisición de gafas nuevas. Dispone de modelos actuales para diferentes presupuestos.",
+  serviceRatings: {
+    atencionCliente: 4.5,
+    profesionalidad: 4.5,
+    precio: 3.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "http://www.opticablume.es/",
+  phone: "630 61 06 92",
+  review_count: 1,
+  review_rating: 5,
+  latitude: 38.99313,
+  longitude: -1.85397,
+  user_reviews: [
+    {
+      Name: "C. P.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWrH7CcgfLbyr3xveTyXFM1fP9xc8cClkFM_kadHI9hBwXWw4Hi=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Te dedican el tiempo que necesitas, te asesoran y están a lo que necesites en el proceso de cambiar tus gafas por unas nuevas. Modelos actuales y de todos los precios. Muy contenta",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Óptica Parque Sur",
+  category: "Óptica",
+  address: "C. Portugal, 1, 02002 Albacete",
+  description: "Sobresale por la figura de un gran profesional, descrito como encantador, cercano y amable. Proporciona una atención excelente, dedicando el tiempo necesario y ofreciendo buenas recomendaciones. Los precios son considerados muy buenos.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.8,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "",
+  phone: "967 22 81 83",
+  review_count: 9,
+  review_rating: 5,
+  latitude: 38.984152,
+  longitude: -1.85682,
+  user_reviews: [
+    {
+      Name: "exd",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL3mBgmzhFVjL-XZRfchfGc89hNhRtndXH4dnwnjQK278djoQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buen profesional, trato cercano y amable. Sigo yendo allí aunque he cambiado de domicilio y de barrio. Es encantador Carlos. Precios muy buenos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Manuel Rodriguez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLkj0glhd5Gs4rAdnU3rmwQ5cmWAAVyD0fMJfvEW7qqamQ_ew=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buena óptica, buen profesional Carlos, te atiende muy bien y tiene buenos precios.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Claire Ashford",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKTju_3de5PDk8weHB0IAvTJ7oxtrDmmk5a6EAPJVdonuVkPA=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Muy buena atención, os lo recomiendo totalmente, Carlos es una persona que te trata estupendamente y no es como en muchos sitios que van a lo que van, de verdad que es lo recomiendo al 100%, te recomienda te atiende como nadie,te dedica todo el tiempo que necesitas para que no tengas ninguna duda, solo tengo buenas palabras para recomendaros ir!!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lucio Gonzalez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL1K8ZbmSvKgzbOtAvD8MSbgd0bzP56XLqEkaQNh2YgNju-jw=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Una óptica excelente y un gran profesional a su cargo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "m Sanchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIh8lLkwnPHHJujWP4QAlud45HUJx1O8cs9yTNiNg2DJWha4Q=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Excelente óptica y Carlos excelente persona!! Un diez!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lekar Rodriguez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVrjizl0hwUF1eDNLVTFLCAi0IPy4pKOU5Wqtquekay6Anx2oQbcw=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Una óptica con un gran profesional, el trato excelente y buenos precios.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose Miguel Romero Rodenas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKPaK4Pndp-C8i3ECbzgdtfv8j2x0aYdyunjF5VZkaBzv5UCw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy bien buena atencion",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose Antonio Cánovas Romero",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXNR2rj87dUVIxwFbVPemW9pG670AZvgF1PNpMMPNmExDed4yI=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Optica2000 El Corte Inglés Avenida de España",
+  category: "Óptica",
+  address: "El Corte Inglés, Av. de España, 30, 02002 Albacete",
+  description: "Las experiencias en esta óptica varían drásticamente. Algunos valoran positivamente la amabilidad y profesionalidad de ciertos empleados y la resolución de problemas con garantías. Sin embargo, numerosas críticas señalan precios elevados, problemas recurrentes con la durabilidad de productos caros, una gestión insatisfactoria de las garantías (especialmente en reemplazos), falta de transparencia, y actitudes poco serviciales, antipáticas o poco profesionales por parte de algunos miembros del personal, dificultando incluso la obtención de citas.",
+  serviceRatings: {
+    atencionCliente: 2.0,
+    profesionalidad: 2.0,
+    precio: 1.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–22:00"
+    ],
+    lunes: [
+      "10:00–22:00"
+    ],
+    martes: [
+      "10:00–22:00"
+    ],
+    miércoles: [
+      "10:00–22:00"
+    ],
+    sábado: [
+      "10:00–22:00"
+    ],
+    viernes: [
+      "10:00–22:00"
+    ]
+  },
+  website: "https://www.optica2000.com/buscar-opticas/albacete/optica-2000-el-corte-ingles-albacete?utm_campaign=gmb-website&utm_source=google&utm_medium=organic&utm_content=93-Albacete-Avenida-de-Espa%EF%BF%BDa-s%2Fn&y_source=1_MTA4MTk3Mjk2NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  phone: "967 55 07 00",
+  review_count: 138,
+  review_rating: 3.7,
+  latitude: 38.982808,
+  longitude: -1.85456,
+  user_reviews: [
+    {
+      Name: "María Isabel Ródenas Sánchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWfIr3ezohKrO8qEo_EBo2EP2qAnNHatzhJax_nYPU3mqAVmDld=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Llevamos con esta óptica muchos años. Probablemente ya nunca volvamos a ir. Acabamos de comprar unas gafas, no tienen ni una semana, que nos han costado un riñón de los caros que son. Por circunstancias en el trabajo una barra de hierro rayo el cristal.  Fuimos a ver si nos las podían arreglar y nos dijeron que el cristal solo, nos costaba más que las gafas que acabamos de comprar.  No se han  echo cargo si no tienes seguro. Me parece muy fuerte. En fin....se quedan sin 4 clientes.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "llanni89",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWqu6-G6LRyaRylTTcc6xgdCoFqtmOQSdAWPVWSNrvmw3Ui4sYGXg=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Hace un año compré unas gafas en la óptica, me graduaron la vista súper bien, un chico que creo que se llama Ignacio, muy amable. Aunque creo que la montura me salió algo defectuosa, porque al cabo de un años más o menos se empezó a estropear el color me acerqué a la tienda y me atendió Juan, súper amable le hizo fotos a las gafas y las envió al fabricante, en poquito tiempo me han solucionado el problema y me han cambiado las gafas.\nDar las gracias en especial a Juan, muy amable en todo momento. Lo recomiendo al 100%",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "emilia charco tello",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXULixbNlhmaWt5lFZBYEYweozTfmZUwNSiDXBThxJ8IhB4178=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Un desastre la atención. La que va a salir en más de una  hora no quiere graduarte porque dice que le viene muy justo y en una hora y pico se va a quedar sola  y te dice que vengas cuando entre su compañera de la tarde que va a estar sola pero probablemente quiera 😡",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Esther Campos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWnGGSkTmu1MuE9o99iqU19-Ci34YwfjnD2scnVC10-wa019JWh=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Encantada con el trato. Fui a por unas gafas de sol,  me atendió Aroa, muy atenta y simpática.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alejandra",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKfWR8-PEDPPlT8WVesM9KpDWc2SSX2ABhgNbTuZcbdZbtn_A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Llevo yendo a esta óptica 15 años y el trato es siempre inmejorable, te dedican el tiempo que necesites. Esta última vez me atendió Juan, súper amable a la par que profesional.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Gregorio Jiménez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIkHURY3iSY7OcYUeXTNkCPqVFR0_I2SGkMkj12waPYRH7Tfg=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Buenos días muchas gracias pero siento decir que no tuvimos un simple trato humano por parte de la tienda. Sin embargo la la Guarda Juradó nos trato muy bien",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Leticia BC",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJcEkq0_Z4ldMXz00vHLCdM_AQnG8p4NMAOTzKdQtnU_qvwXPY=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Sensación de estafa, impotencia y dinero mal gastado. Mi madre compro unas gafas que tuvieron un coste bastante elevado, al año se le rompieron y con la garantía tuvo un reemplazamiento. A pesar de que era una gafa \"de calidad\" no duró más de un año. La gafa reemplaza ha vuelto a tener el mismo defecto y justo al año también se rompe ¿casualidad? ¿defecto? Ahora este optica no se hace responsable pues dice que no hay garantía,\nY nosotros ¿qué? ¿por qué si esta gafa da este defecto no son transparentes con los clientes y no las ofertas? Ahora la perjudicada mi madre, sin gafas y habiendo perdido dinero. Garantía de un producto que es tan costoso debe existir aunque sea reemplazado, y más cuando el fallo vuelve a ser una veze más el mismo, que no es culpa del cliente si no del fabricante. No puedo creer que una gafa con un coste tan alto como el que ella pagó no tenga garantía por haber sido reemplaza. Me parece vergonzoso esta explicación y la poca voluntad por parte de Optica 2000 dentro de El Cortes Inglés, por aquello de buscar lo que nos da confianza, de buscar una solución. No pisaremos nadie de mi familia por aquí, y buscaremos alguna solución teniendo que ir donde haga falta.\nOs aconsejo no compreis aquí, no son nada responsables, ni transparantes, ni empatícos con sus clientes, poco profesionales y sin buscar alternativas. Mi reclamación también irá al Corte Inglés como centro que alberga a esta empresa",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Sacramentos Villena Mármol",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL_1epQe4qVgowZVDvFgZ_iCrGeMTUdCYCXkfmBIrXz-5w5ow=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "El trato de la chica que nos atendió fue pésimo. Muy antipática y soberbia. Poniéndonos trabas para poder darnos cita. No recomiendo esta óptica.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Óptica y Audiología Universitaria",
+  category: "Óptica",
+  address: "C. Mayor, 32, 02001 Albacete",
+  description: "Esta óptica es elogiada por su excelente atención y asesoramiento profesional. Ofrece monturas de primeras marcas a precios notablemente competitivos, considerablemente más bajos que en otros establecimientos. El trato recibido es descrito como impecable y exquisito.",
+  serviceRatings: {
+    atencionCliente: 4.8,
+    profesionalidad: 4.5,
+    precio: 4.8,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–21:00"
+    ],
+    lunes: [
+      "10:00–21:00"
+    ],
+    martes: [
+      "10:00–21:00"
+    ],
+    miércoles: [
+      "10:00–21:00"
+    ],
+    sábado: [
+      "10:00–21:00"
+    ],
+    viernes: [
+      "10:00–21:00"
+    ]
+  },
+  website: "https://www.opticauniversitaria.es/",
+  phone: "967 15 33 46",
+  review_count: 6,
+  review_rating: 5,
+  latitude: 38.993388,
+  longitude: -1.855281,
+  user_reviews: [
+    {
+      Name: "Carmen Carrasco Carrasco",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ7sNmw9b6ylb1hCeH3Mh2Jz5ld3zaYX87T49bRQtfhcNx_Kw=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Atención y asesoramiento excelente. Primeras marcas en monturas. Precios mucho más bajos k en otras ópticas. Ya era clienta en su tienda de Castellón. Deseando k abrieran en Albacete.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pablo Palacios López",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXC-K9C15tKnyanqqzBmqDsSry0B-YsNDcIWFvzlaDf3niHrwyu=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Personal impecable y un trato exquisito.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lina Andrea Cardona Mejia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXoMfuUsDUmuhD2eZ3bXe5kR9YIkyivrk0hxXDP_wsryOn7600=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelentes en atención y precios",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "cristian sanchez casas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLlxhZm8SLOUtqdlicznBxhaDBAFB-m8IG5ejBWI5pB36vlng=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ermen Argueta",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKxZHvT2yFTdKLbvnNXvPNSW52A3GjxXVPjdoy1943DHYQ1kw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Amelia Cordoba hernandez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKrqLQLnHS8mkQFiQbaKPuPOL-qels1_WxP4hqMzaWRiqhmtg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Óptica y Centro Auditivo Soloptical Imaginalia",
+  category: "Óptica",
+  address: "Centro Comercial Imaginalia, Avda. de Ilustración 51 C.C. Imaginalia L 44-45, Av. de la Ilustración, 51, 02006 Albacete",
+  description: "Este centro óptico y auditivo es muy apreciado por la gran amabilidad, profesionalidad y paciencia de todo su personal. Se destaca su capacidad para ayudar con cualquier duda, encontrar soluciones rápidas y resolver problemas eficazmente, incluso reparaciones sin coste. Ofrecen buenos precios, ofertas como 2x1 y una gran variedad de modelos, generando una experiencia muy satisfactoria.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.8,
+    precio: 4.5,
+    variedad: 4.3
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–22:00"
+    ],
+    lunes: [
+      "10:00–22:00"
+    ],
+    martes: [
+      "10:00–22:00"
+    ],
+    miércoles: [
+      "10:00–22:00"
+    ],
+    sábado: [
+      "10:00–22:00"
+    ],
+    viernes: [
+      "10:00–22:00"
+    ]
+  },
+  website: "https://soloptical.net/es/soloptical-imaginalia/?utm_source=Google&utm_medium=google_my_business&utm_campaign=sitio+web",
+  phone: "677 74 63 54",
+  review_count: 150,
+  review_rating: 4.9,
+  latitude: 39.008383,
+  longitude: -1.878231,
+  user_reviews: [
+    {
+      Name: "Carlos Javier Avendaño Saez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKRIUd1N_Bdn_JawkwGjrggZC26_BGWzvBwmWx8e-tWAuTZ7g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy amables, te atienden genial y siempre encuentras lo que buscas y si no, lo piden. Son fantásticos",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Patricia Tirado",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXB_b5K_4MwTubuv4dXat5PnJFtbpRF2HesIO3UM8I6oJzhh4w=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato siempre muy amable,  muy buenas profesionales. Siempre agradecida.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Domiciano Espinosa",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKkKbhGM-QhaS2dd0Ew5wurQkMDgShXOo0-fLrPTImCnEnWWA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy bien todo, tanto por el producto como la atención del personal",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Enrique Parron parra",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK4vW3TTHGYrQAxl5YLQC63q8U6LljqHJK9FDdZMkFB1U4_kw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Gran amabilidad y profesionalidad por parte de las dos empleadas que me han atendido. Muy buen precio, totalmente recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Javier Domingo Roldan",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWGIHoxJdOHFuiTTrz2n5dlRDMYAQRW5Kh1Ij_G8S7vorlSRWkU=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buen trato y muy profesional",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pascual Sánchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKicgVa0ynNarW_Q6rFotsEJCCC-BaDMoBfGBtEV-WzJVnBZg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Han sido muy atentos y me han ayudado en todas las dudas que he tenido. Todo perfecto desde el trato al servicio y con soluciones rápidas. Sin duda repetiré.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alicia Aguilar",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXn5kT-x6DD11byXn6yXxPjIa_tDhjKFgzEVR3ksSihJbyYUuVwrw=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Súper simpáticas todas, muy pacientes y amables. Se han parado a responderme con detalle a todas las dudas. Siempre repito porque estoy súper contenta",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Santi Gonzalez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXtYC88mRfoh4pJmin226Rv2X8bobOj2BRLyfshraNj6AMqAtJmGQ=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Soy cliente desde hace unos años y He ido dos veces a hacerme las gafas y me he vuelto a coger la oferta de 2x1, he cogido una gafas normales y otras de sol, un precio muy bueno y gran variedad de modelos, también he ido dos veces con una rotura de patilla y me lo han solucionado en el momento y sin coste. El trato muy agradable y cercano, sin duda que volveré cuando  necesite otras gafas 👌🏼",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Óptica Logari",
+  category: "Comercio",
+  address: "C. San Julián, 7, 02001 Albacete",
+  description: "La información sobre esta óptica es muy limitada, contando únicamente con una valoración positiva sin comentarios detallados que permitan describir sus características específicas.",
+  serviceRatings: {
+    atencionCliente: 3.8,
+    profesionalidad: 3.5,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ]
+  },
+  website: "",
+  phone: "",
+  review_count: 1,
+  review_rating: 5,
+  latitude: 38.996002,
+  longitude: -1.85726,
+  user_reviews: [
+    {
+      Name: "Piedad Castillo González",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL07Nvx-PD7fP5wHYopSCJ9LnCrXQLKNejAela9IAMuzBE6yg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Óptica Vistalia Albacete",
+  category: "Óptica",
+  address: "C. Rosario, 46, 02003 Albacete",
+  description: "Las opiniones recientes sobre esta óptica son mayoritariamente negativas, describiendo un trato pésimo o chulesco por parte del personal y problemas significativos con el servicio. Se reportan errores en pedidos (como tintes incorrectos en lentillas), largos retrasos, falta de comunicación, negativa a proporcionar detalles técnicos de los productos y dificultades para obtener servicio con recetas externas o para ajustar correctamente las gafas. Aunque algunos comentarios aislados hablan de atención personalizada, el sentimiento general apunta a una notable disminución en la calidad del servicio y precios elevados (ej. 550€ por lentillas RGP) que no se corresponden con la experiencia recibida.",
+  serviceRatings: {
+    atencionCliente: 1.8,
+    profesionalidad: 1.5,
+    precio: 2.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:45–13:30",
+      "17:30–20:30"
+    ],
+    lunes: [
+      "9:45–13:30",
+      "17:30–20:30"
+    ],
+    martes: [
+      "9:45–13:30",
+      "17:30–20:30"
+    ],
+    miércoles: [
+      "9:45–13:30",
+      "17:30–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "9:45–13:30",
+      "17:30–20:30"
+    ]
+  },
+  website: "http://www.vistaliaalbacete.es/",
+  phone: "967 50 64 84",
+  review_count: 7,
+  review_rating: 3.3,
+  latitude: 38.991944,
+  longitude: -1.858223,
+  user_reviews: [
+    {
+      Name: "ratona",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVRKQkN0FYmqXcLQkRkvIQ5gU7N8Uf6Jh_NP2a-rq6sERSV9ls=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "trato pésimo, me atendió una mujer con una actitud chulesca, vacilando, me dejó las gafas sin acomodar en mi nariz pq a ella le pareció bien acomodarlas como quiso aunque lo dijese y las patillas me hacen daño en las orejas después de ese día. No volveremos a cometer el fallo de volver, pésimo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Nati Martinez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW-4NxxKBMOuPP6tJA7L0ihAAPSlNIznuvAneWoqQKvgFjw5Tb5ig=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Hace unos años era una óptica que estaba bien,era un poco cara pero más o menos el trato era bueno,asique por ese lado compensaba.\nMi familia y yo llevamos muchos años comprándole gafas y lentillas,y hoy he ido porque me graduaron la vista en otro sitio y quería cambiar la graduación de mis lentillas,el trato ha sido con una actitud chulesca,me han pedido que les muestre quien me graduó la vista,y que les entregara el papel del q me lo había graduado.Al final no me han cambiado las lentillas,por lo tanto no volveré ni yo ni mi familia y no la recomendaré jamás.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rokuro Okajima",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK1oki8iXYweG9Sd5QoWjb7dkQpwrARu5hMe3q9mO8ZUFB9Tw=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Fui a este establecimiento por primera vez hace 7 años para hacerme unas lentillas (duras, RGP), y esa vez todo fue correcto. He ido nuevamente para hacerme otras por haberlas perdido. Siento decir que en esta ocasión el servicio ha sido un DESASTRE. En primer lugar, tardaron seis semanas y tuve que llamar dos veces, cuando habían quedado ellos en llamarme. En segundo lugar, pedí un tinte de color distinto entre ambas lentillas para distinguirlas fácilmente, porque tienen una graduación diferente. Sin embargo, me he encontrado la sorpresa de que me las han traído ambas iguales, azules. Cuando se lo he comentado a Paco, ha intentado echar balones fuera, que si es algo muy específico del fabricante ¿?... Hace 7 años también las encargué así y entonces no hubo ningún problema, así que no entiendo cómo les ha podido pasar esto ahora. Es INACEPTABLE, máxime cuando el par de lentillas me ha costado 550€. Lo que no se puede pretender es cobrar PREMIUM y luego dar un servicio así de calamitoso.\n\nPor cierto, si preguntáis los parámetros de las lentillas (esfera, diámetro, cilindro...) o la marca, Paco no os los os va a querer proporcionar. Esto no me gusta nada porque he pagado tanto por las lentillas como por su servicio (que es, con gran diferencia, la parte más costosa). Sé que ha cambiado de Bausch&Lomb a Lenticon, pero me hubiese gustado conocer los demás datos.\n\nEstoy muy decepcionado con el bajón que ha pegado el negocio. Paco y la dependienta son muy simpáticos, cosa que siempre es de agradecer, pero considero que tienen que mejorar en cuanto a servicio. Hace 7 años me cobraron 200€ menos (350€ en lugar de 550€) y el servicio fue claramente superior. Desafortunadamente no vuelvo, ni tampoco recomiendo esta óptica.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "borja fernandez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUvK4Hq2UrLtKs9iaRYyq-C-Erwds7bMyxIWHXuTCge_SwaXP_f=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Una atención personalizada, un encanto. Mi óptica en Albacete",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pedro Ortega",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUaEeKJC3S4fuRiPZP7JmKB-0QnPLmvsCcrqBnEQ3iHhUI7jq8=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Mi óptica de cabecera...",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana T",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKDJ7EEDC17U7vOpCSnBZTZw42-u_XochetOjz6VAXoCx9PIA=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marta D.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJMG0nutigd-dzyQuwVwsCcv42M756DsbuzkTr1dvKo0s9Wiw=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Visionlab",
+  category: "Óptica",
+  address: "Av. de la Ilustración, 51, 02006 Albacete",
+  description: "Este establecimiento proporciona un servicio muy profesional con una atención y trato al cliente inmejorables, destacando la cercanía, simpatía y paciencia del personal. Son eficientes en la resolución de problemas y reparaciones, ofreciendo buen asesoramiento. Dispone de gafas de vista, de sol y lentillas.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 3.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–22:00"
+    ],
+    lunes: [
+      "10:00–22:00"
+    ],
+    martes: [
+      "10:00–22:00"
+    ],
+    miércoles: [
+      "10:00–22:00"
+    ],
+    sábado: [
+      "10:00–22:00"
+    ],
+    viernes: [
+      "10:00–22:00"
+    ]
+  },
+  website: "http://www.visionlab.es/",
+  phone: "967 24 23 23",
+  review_count: 70,
+  review_rating: 4.7,
+  latitude: 39.00811,
+  longitude: -1.879564,
+  user_reviews: [
+    {
+      Name: "Miguel Lopez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJCz9vlkwqxo1yCiAXDrd7bxWCvWZrYo0pyomeTEKdQruzTIg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy recomendable,un servicio profesional y una atención inmejorable. El trato y la cercanía con el cliente, y en especial por parte de Lidia fue estupendo.lo recomiendo 100%.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "jose pinedo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJRYmJ6o9oUgLXGlFwpspIhZhtIOkRyyIUVL631tkjKL6ouVg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato perfecto..todo muy rápido y la atención al cliente no puede ser mejor..",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jesús Jiménez Sáez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJAneBFntC8NAG-KZ41mE6dCcxrD_rwDBKxBwsoSlGkKqLV5TM=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Acudí porque se habían deformado las gafas de sol , me informaron del posible riesgo de rotura al repararlo, pero aún así lo hicieron con mucha delicadeza y las dejaron como nuevas. Un servicio de diez, muy recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lucia Leon",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU6H1cdapKVIu75Ev_ljii0WX7A-EMDDl3eB-eRwizPLcCoWBZj=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy profesionales y atentas. Tuve un problema con mis lentillas y me lo solucionaron muy rápido y con muchísima amabilidad. Muy recomendables",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Reme Nogueron Gomez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLTnb0Rn8CKfZnzvLAryB-R4WbuMxVuv5fxT34pE692TZpjCw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy contenta, el trato súper cercano por parte de Yolanda y sus compañeras, magnífica atención, seguiremos en visiónlab!!!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rubén García Alfaro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLfep91EPUwLBoC761g9jjQmO-7wLYEWrfEKZ6A1DM2JaIUEw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Hemos acudido mi pareja y yo para comprar unas gafas de vista, y al final hemos salido encantados…. Con gafas de sol, de vista y lentillas. Gracias a Lydia, super simpatica, atenta, paciente y muy profesional.\nGracias por todo, hemos salido super satisfechos.\nAdemas Lydia ha tenido mucha paciencia y nos ha aconsejado perfectamente!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lorena",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUJaiPrlnzOmCdTC6Z1eKxEc16bO1xMH8KAUZHyZW2z3OmkRLGI=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Muy contenta con mi compra y el asesoramiento de Lidia lo mejor, totalmente recomendable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "David AH",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXj-3kCvQzy678t0XYQ4jfOaKid8vwjKG-XXIWoJwPQsbIclll2Rg=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Muy buen trato y atención. Sin duda volveremos",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Clínica de Optometría, Terapia Visual, Contactología y Baja visión - Elena Espinosa",
+  category: "Optometrista",
+  address: "C. Teodoro Camino, 9, Entreplanta, 02002 Albacete",
+  description: "Clínica especializada en optometría y terapia visual, muy valorada por su habilidad en el trato con niños y por realizar pruebas exhaustivas para diagnosticar y tratar problemas visuales complejos, con resultados positivos reportados en varios casos. El equipo es descrito como amable y profesional en el trato directo. No obstante, algunas reseñas señalan problemas significativos con la comunicación, demoras en la entrega de informes, dificultades para acceder a ellos y costes elevados o inesperados. No es una óptica tradicional de venta de gafas.",
+  serviceRatings: {
+    atencionCliente: 3.5,
+    profesionalidad: 3.8,
+    precio: 2.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:00–13:00",
+      "15:00–20:00"
+    ],
+    lunes: [
+      "9:00–13:00",
+      "15:00–20:00"
+    ],
+    martes: [
+      "9:00–13:00",
+      "15:00–20:00"
+    ],
+    miércoles: [
+      "9:00–13:00",
+      "15:00–20:00"
+    ],
+    sábado: [
+      "Cerrado"
+    ],
+    viernes: [
+      "9:00–13:00",
+      "15:00–18:30"
+    ]
+  },
+  website: "http://www.elenaespinosa.eu/",
+  phone: "601 00 35 84",
+  review_count: 20,
+  review_rating: 4.7,
+  latitude: 38.992344,
+  longitude: -1.854512,
+  user_reviews: [
+    {
+      Name: "Diego Garcia- Abadillo Ortiz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLDEYHPkOWmlwepr1Uaj45Cv1xUWqzIuO-XAbFh4B9r6ZdRgQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "EXCEPCIONAL!!!!! el trato de sus profesionales es muy bueno y agradable, facilidad para las citas de horarios y días, y lo mas importante están solucionando el problema de mi hijo, como ya hicieron con mi sobrino.\nRecomendable cien por cien.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Irene Sánchez Lalaguna",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLeLkfvHBsZm4qKXf_Y-lgTY3wfFzUL1cUrex4IS1iP-Ye7IQ=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Mas de 1 mes para mandar el informe ( visita el 22-5-24, informe 2-7-24), muy difícil de poder descargar el mismo.\nMe comentan que una visita,  mas 8 sesiones y luego otra visita para ver si necesita mas sesiones.  Llega el día de la última visita, y de repente,  mas de 200€ para hacerle más pruebas y mas sesiones.\nVan al centro educativo,  y les da una masterclass de su trabajo, el lugar de explicar el caso de mi hijo,  los mismos profesores tuvieron que preguntar lo que tenían que hacer con él, y se quedaron un poco igual.  Y ni siquiera he notado cambios en mi hijo.\nNo volveremos, ni recomendaremos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Natalia Lopez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUPcFxQnI27LD5nhYqxk-4biKb5fKa2WCGKMtBpNIfRKr7DkZN9=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fuimos con nuestro hijo Lucas a que le hicieran una revisión general de la vista, ya que estamos controlando un posible problema que se podría desarrollar con el tiempo. No vivimos en Albacete y nos aconsejaron venir a la clínica de Elena para estas pruebas. Nos atendió inicialmente Ana, que hizo unas pruebas al niño con unos aparatos que al parecer fotografían el ojo. Ya nos sorprendió que Lucas se sintiera a gusto con ella ya que es un niño que de entrada el cuesta mucho coger confianza con adultos a los que no conoce pero desde el primer momento Ana supo acercarse a él y hacerle sentir cómodo. Una vez acabadas esas pruebas, Lucas pasó con Elena que le hizo otra batería de pruebas. Para él todo el tiempo fue un juego y Elena se demostró muy hábil con los niños al tiempo que hacía todas las pruebas. Ya nos habían dicho que en la clínica están muy habituados a trabajar con niños pero el ningún momento pensamos que nuestro hijo se fuera a sentir tan a gusto desde el primer momento. Una vez acabadas las pruebas Elena nos comunicó los resultados y su opinión, haciendo fácil la comprensión de lo que nos estaba contando.\nNo tenemos dudas que la próxima revisión será en esta clínica. Muy contentos con el resultado.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pedro Villena",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLjd6Lm1I8tO1U-0IJevvqPcrrnmdxK3bPEMC-IBpHAvfor2Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Recomendado 100%, el personal es muy amable, profesional y atento. Desde el momento en que entras, te hacen sentir cómodo y bien atendido. Me explicaron todo con claridad y dedican el tiempo necesario para responder a todas tus dudas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juan Velacoracho",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIhmFz02ZzBTyZnZfnB81SJM55pfXIeqM7Jf05TbqmtP1DaSw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "En mi caso solo puedo hablar del tema de graduación y un 10 por nuestra parte. Elena es muy atenta, y te realiza pruebas algo más exhaustivas que en una óptica tradicional entonces por mi parte muy contento. Tiene una trabajadora, Ana creo recordar, que nos hizo un par de pruebas también. Fue muy cariñosa y explicaba en todo momento el porque de la prueba y como hacerla.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Yolanda Muñoz Cano",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJX3KsPWQx8q5ZvS8O4JTIIUK_GzH5xC-xCghXD6RCsjuS_Jw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Equipo fantástico el que conocerás en Elena Espinosa.\nMi hijo desde que están yendo a terapia visual con ellos, ha tenido un antes y un después, por lo que como madre imaginar lo que esto significa\nEl trato y la profesionalidad es excelente y ello acompañado de un seguimiento en el proceso.\nMi recomendación total🌻🌻",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Coral Revi",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLnaN9diGpf0g3I2H0dnqNpOnXJ4G_iI9-miDbBVKFC9XMKzw=s120-c-rp-mo-ba3-br100",
+      Rating: 2,
+      Description: "Muy decepcionada.  Acudí  para que me exploraran la vista y me ajustaran la graduación el día 20 de diciembre 2022.  Hasta aquí correcto. Elena es amable y te atiende correctamente. Un poco cara la visita 75€, pero bueno eso ya lo sabía previamente.  Al terminar, me indicó que me enviaría un informe con los resultados, la graduación y un presupuesto para las lentillas.\nIban pasando los días y sin noticias.  Llamé al cabo de unos días y muy amablemente me dijeron que le pasarían el aviso a Elena.  Y fueron pasando los días. Tuve que llamar 4 veces con la misma respuesta.  Mi enfado e impotencia iban en aumento, hasta que les mandé un último mensaje esta vez por WhatsApp para que constara al menos por escrito.    Por fin el día 2 de enero de 2023 me indican que me mandan el informe por mail con una clave de seguridad.  Voy a abrirlo en mi ordenador (Mac) y este me indica que no es posible acceder al documento ya que \"está en un formato desconocido porque el archivo contiene datos no válidos\".  Pido un favor a un compañero que tiene un ordenador Levono y también me resulta imposible.  Entiendo las normativas sanitarias de confidencialidad pero podrían utilizar  un sistema menos complicado.  En fin, nunca me ha costado tanto conseguir un simple informe.   Esta es mi experiencia.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Amalia Serna Espinosa",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVRJ56UKyoL-Htjc3IzLAdI34lSlQyms9iCtxfo9KA2wZcNiuCq=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Ha sido muy grata y sorprendente la atención tan profesional recibida. Una revisión exhaustiva y absoluta de mis ojos con todos los posibles parámetros a tener en cuenta para poder afinar y ajustar graduación y confortabilidad de mis ojos. Recomendable al 100%",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Centro óptico y auditivo Albaclinic",
+  category: "Tienda de audífonos",
+  address: "C. Hellín, 63, LOCAL, 02002 Albacete",
+  description: "Este centro óptico y auditivo destaca por la gran profesionalidad y excelente trato de su personal, descrito como amable, paciente y de confianza. Ofrece una gran variedad de modelos de gafas de calidad y audífonos, con precios muy competitivos y buenas ofertas. El servicio de montaje es eficiente y resuelven problemas rápidamente.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.9,
+    variedad: 4.8
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:30–13:30"
+    ],
+    viernes: [
+      "9:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "http://www.facebook.com/coa.albaclinic",
+  phone: "967 60 70 62",
+  review_count: 20,
+  review_rating: 5,
+  latitude: 38.984363,
+  longitude: -1.848265,
+  user_reviews: [
+    {
+      Name: "Silvia Calvo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUjohRMDVTGjlO5C50xQ7-8qByQ-nJtIgo5Za5baYmPg_9iN3k=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy profesional y un trato excelente. Además tienen muy buenos precios y ofertas. Lo recomiendo 100%.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lorena Villar",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVP9qJW11jHsnPtwC_Ub7IkPioPteDM0NSoEG6-RKXYfPRZE8wBUw=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Muchas variedad en modelos de gafas y a muy buen precio, el laboratorio funciona fenomenal a nivel montajes. Los audífonos a precios sorprendentes en relación calidad/precio. Buena accesibilidad para minusválidos y especialmente el personal profesional y muy amable.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipPKw4mcyTD13kGtlWoNRJxMRUx8oT2wuoFHfdWK&fid=0x0:0x6048eabd31404ff7"
+      ],
+      When: "2018-6-27"
+    },
+    {
+      Name: "Elvira Ayala Fajardo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLv7TU4wBPYV3NTopffrHSs3jik1QZuNQ95s_RwjnhxZ1GxdQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Variedad de gafas de gran calidad, muy buenas ofertas y un trato de 10. Grandes profesionales, con buen criterio y de gran confianza.\nDesde que los conocí no voy a otra óptica y además he llevado a varios familiares y amigos y también han quedado encantados. Sin duda los recomiendo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Carmen Rojas Artuñedo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXt90csyySbqEc9OK7jdGFAL-n72A_vV8VaoxMhiLJVsoIm-pUY=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buena experiencia, lo recomiendo totalmente. Las dos personas que me atendieron fueron muy atentas y pacientes conmigo. Además me cuesta muchísimo encontrar unas gafas con las que me sienta bien y aquí fue fácil y a buen precio <3\nGracias!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "marta martinez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWRxu1e5fEu2-rpTkKcrgiMbU-MdgKi5HwLM5OHI5RzZ8HP_k0pcw=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Buena atención, variedad de modelos y facilidad para todo desde el montaje hasta el precio, ofertas de película. No sé de una óptica mejor. Yo les confío la salud visual de mis hijos y mi familia. Gracias por vuestra profesionalidad.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Joaquín L.S.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocITtUZ0bnSi0ZcFyFvJ5S0xdMr9fJygMrv_PjpENBsRrHVbXA=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Soy foráneo y fui por un pequeño incidente con mis gafas, y el trato fue exquisito, transmitiéndome confianza, y cercanía. Muy buenos profesionales, y de confianza",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cristina Pareja",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKjqwigYQ1-DBHWG_tZLzGnQC-mInVnC002x_D1oAOZH0UkSg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Un trato de 10 ademas de tener unos precios y modelos que no he encontrado nunca en otro sitio llevo años yendo alli y estoy encantada con ellos.\n\nSon muy profesionales enseguida intentan solucionarte el problema en el tiempo menor posible.\n\nLos recomiendo 100%",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "gregorio morcilo lorenzo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJFyn6gjTYLzIZ8gL8KDe8eHlGOsYDLwE6zQJAjj9LOOry8QA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Creía que estaba ciego pero no lo que tenía una gafas más antiguas que las mojama si quieres ponerte a la moda no lo dudes esta tu centro óptico cálida precio buen servicio",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Pilar Vergara / Centro de Optometría y Terapia Visual",
+  category: "Optometrista",
+  address: "Pl. Altozano, 3, 5ºD, 02001 Albacete",
+  description: "Centro de optometría y terapia visual altamente recomendado, con un equipo descrito como excepcional, impecable, amable, cercano, cariñoso y empático. Destacan por su gran profesionalidad, realizando estudios exhaustivos y aplicando terapias efectivas que logran resultados notables en problemas visuales complejos (campo visual, lectura, ojo vago, estrabismo, problemas de aprendizaje asociados). No es una óptica de venta de gafas, sino un centro terapéutico.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:00–13:30",
+      "16:00–20:00"
+    ],
+    lunes: [
+      "9:00–13:30",
+      "16:00–20:00"
+    ],
+    martes: [
+      "9:00–13:30",
+      "16:00–20:00"
+    ],
+    miércoles: [
+      "9:00–13:30",
+      "16:00–20:00"
+    ],
+    sábado: [
+      "Cerrado"
+    ],
+    viernes: [
+      "16:00–20:00"
+    ]
+  },
+  website: "https://pilarvergara.es/",
+  phone: "967 21 38 40",
+  review_count: 39,
+  review_rating: 5,
+  latitude: 38.994501,
+  longitude: -1.853496,
+  user_reviews: [
+    {
+      Name: "Elric BATALLER",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJF-ux68mBuM-_vunyGgZ6wzGR65nlH04yY8v2x2TZwLCvGzg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Pilar, Carmen y todo el equipo me ayudaron mucho.\nTenia el campo visual, muy reducido, y ahora se me ha abierto un mundo.\npuedo leer sin cansarme, entender los exámenes sin saltarme trozos de preguntas. sin dolores de cabeza a diario, y mas cosas\nEl camino fue largo, pero valió la pena.\ngracias de todo corazón a todas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "María Calabuig Sanchis",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ1ekxsc_k8nuAgIqOWTMH-Bsyo0H2TDyZLpuV9LPVAiN5vCg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Sólo puedo decir cosas positivas. Nos han ayudado muchísimo. Mi hija de 6 años llegó reconociendo 8 letras y 7 meses después lee sin problema. Todo en un ambiente tranquilo, cariñoso y empático. Gracias Carmen y gracias Pilar.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "RAUL CHATO RCG",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX8NY8W8Zb-IGYDEpSSukBc8Ms75WVeBwi5rDmvzm53ZmS6pC_6aA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Solo tenemos palabras de agradecimiento tanto para Pilar Vergara, como para su GRAN equipo.\nConsiguieron alcanzar el máximo potencial de nuestros hijos, lo que llevó aumentar su autoestima y mejorar en todos los aspectos de su vida, tanto académico, como social.\nTotalmente recomendable. Estaremos agradecidos eternamente.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Eva Sanchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU5yyqlk8nzu5Hs4kqk2Rsuvxh8UkUTBFnw6S5yWWFNVSxET_Ul=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "El trato de todo el personal es impecable, amables y cercanos en todo momento. Pilar Vergara me ha hecho un estudio realmente exhaustivo e impactante para mi ya que he salido con un diagnóstico claro de lo que me pasa y de por qué no veo bien después de 48 años llevando gafas y saber que como yo veo no es como hay que ver.... Gracias por todas las explicaciones que me has dado Pilar! Estoy deseando empezar la terapia.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marta G",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJAkDs7C8XVlrZZHCk5rVtwLbTN4jd2MF4zoJBe65oPwMev4g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Sólo puedo decir gracias, nosotros llegamos a Pilar por casualidad pero supo detectar las dificultades de mí hijo, gracias a todo el equipo y al trabajo integral de diferentes áreas es un niño completamente diferente, ha superado sus dificultades en lectura,comprension....y ha ganado muchísima confianza en sí mismo. Gracias de verdad a todas, sois maravillosas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Karine",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIXNtBRUZAWeVtRRy7OCVW4wAYk7Q7K9X5NmpDGYOenTDb7sA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Todas son unas súper profesionales.\nMi hijo tenía un ojo vago y con el conocimiento de Pilar y de las de más, ahora ha recuperado una vista de 100 en los dos ojos.\nEl trato en cada cita, ha sido muy bueno, de parte de todas.\nSeguiremos haciendo los controles con ellos, sin dudar.\n\nDespués de mi hijo mayor, lleve a mi hijo pequeño, que tenia dolores de cabeza, dificultades de concentración, problemas de lectura.\nEn fin tenia el campo visual muy reducido, y Pilar nos aconsejo una terapia, duro un año, fue duro seguir el ritmo a diario, pero valió la pena. ahora todo esto ha desaparecido.\nEl lee con pasión, no se queja de la cabeza casi nunca, y esta enganchado a los libros, a nivel de estudios también se nota un progreso.\nAsi que solo tengo que dar las gracias a Carmen, que lo siguió todo ese tiempo, y a Pilar por ser tan perspicaz.\nGracias a todas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana Garcia Andres",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIj2R2NJBOOoTTXZfYVy-3TgpYQBumf6YFdkCMGZJJrvc0Erg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Tengo que agradecer profundamente a Pilar Vergara y a todo su equipo su profesionalidad y sobre todo su calidad humana,desde que entras por la puerta que te recibe Marilina, excelente persona y gran profesional, Carmen gran terapeuta y con mucha mano para tratar a los nenes y por supuesto a Pilar una persona con una vocación en su trabajo que te sorprende.\nHe tenido la gran suerte de cruzarmerlas en mi camino y sobretodo mis hijos todavía no son conscientes del bien que les ha hecho en sus vidas, los han reconducido y han sabido captar los problemas que tenían y sobretodo solucionarlos.\nLas Recomiendo 100X100, si tienes alguna duda sobre problemas de aprendizaje, falta de atención o cualquier sospecha ponerte en sus manos ellas sabrán reconducirlos. Sólo puedo decir muchísimas gracias.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "M. Emilia López",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX-TY6W42kbQJuu8WGD_i4iT01QDcPEu2xRj_q_wEYbqEqsEQA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Recomiendo a Pilar Vergara sin dudar y las técnicas que imparte de terapia visual. Mi hija ha finalizado su tratamiento por estrabismo y como padres estamos muy satisfechos del trabajo realizado por parte de la terapeuta y de Pilar. Son muy profesionales, cualificados al 100% y con calidad humana. Pilar tiene una trayectoria profesional inmejorable y como profesional es de diez. Un gran acierto ir a su clínica.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Covi",
+  category: "Óptica",
+  address: "C. Gaona, 2, 02002 Albacete",
+  description: "Esta óptica ofrece sus servicios en Albacete.",
+  serviceRatings: {
+    atencionCliente: 3.5,
+    profesionalidad: 3.5,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–20:30"
+    ],
+    lunes: [
+      "10:00–20:30"
+    ],
+    martes: [
+      "10:00–20:30"
+    ],
+    miércoles: [
+      "10:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–20:30"
+    ]
+  },
+  website: "",
+  phone: "967 52 10 10",
+  review_count: 0,
+  review_rating: 0,
+  latitude: 38.99313,
+  longitude: -1.85397,
+  user_reviews: null,
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "TOP SOLAR GAFAS DE SOL SL",
+  category: "Óptica",
+  address: "C. María Zambrano, 1, 02006 Albacete",
+  description: "Esta tienda online destaca por la rapidez en la entrega, el cuidado en el empaquetado y la autenticidad de sus gafas de sol. Además, los precios son competitivos.",
+  serviceRatings: {
+    atencionCliente: 3.5,
+    profesionalidad: 4.0,
+    precio: 4.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–20:30"
+    ],
+    lunes: [
+      "10:00–20:30"
+    ],
+    martes: [
+      "10:00–20:30"
+    ],
+    miércoles: [
+      "10:00–20:30"
+    ],
+    sábado: [
+      "10:00–14:00"
+    ],
+    viernes: [
+      "10:00–20:30"
+    ]
+  },
+  website: "https://www.topsolargafasdesol.com/",
+  phone: "621 01 28 54",
+  review_count: 2,
+  review_rating: 5,
+  latitude: 38.979843,
+  longitude: -1.85471,
+  user_reviews: [
+    {
+      Name: "Raúl",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLAso7QVtydxIyNaRZbNhIkkLfpv4MXmjA9-JTIEj7gYMc2=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La entraga a sido antes de lo programado (48 horas), las gafas perfectamente empaquetadas y con todas sus garantías originales, incluso unas chuches de regalo, además el mejor precio que encontré en internet, sin duda mis dieces, lo recomiendo totalmente, muchas garacias, Raul P.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "javi sanchez munera",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUw015dxlz5O8nBoh9F1QIpB__Fz0gPvR7l9aRAxciay7-yO1hx3Q=s120-c-rp-mo-ba6-br100",
+      Rating: 5,
+      Description: "Estupendo sitio web donde comprar a buen precio tus gafas de sol. Importante: productos 100% originales y garantizado.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Centro Optico Veleta",
+  category: "Comercio",
+  address: "C. Zapateros, 29, 02005 Albacete",
+  description: "Este centro óptico es valorado por su personal atento y profesional, capaz de resolver dudas y problemas. Los clientes destacan la rapidez en el servicio, la calidad de los productos y los precios excelentes. Además, resaltan el trato humano y la competencia del equipo.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "http://www.centroopticoveleta.com/opticas/",
+  phone: "",
+  review_count: 35,
+  review_rating: 4.8,
+  latitude: 38.997382,
+  longitude: -1.858348,
+  user_reviews: [
+    {
+      Name: "Beatriz Caballero",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUle42d3eqOdCxZm0AX7zregsS8xjfyN4Xi2kOLf_2Gzn0XD41D=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Mi óptica de confianza.\nJuan y Nieves, dos bellas personas que se encargan de solucionar todas tus dudas así como problemas ue van surgiendo.\nA mi hijo le detectaron hipermetropía alta congénita bilateral en el oftalmólogo con 11 dioptrías en cada ojo y no puedo imaginarme este camino sin haberles tenido a ellos dos al lado.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jorge Martinez Martinez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK-ADD6yKejoU28koYZNd70YLAVdkCmIseXewOYkNNQfcNR2A=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Pedí unas gafas de sol Rayban con una montura y cristales concretos para un regalo que me urgía, y al dia siguiente a primera hora de la mañana las recogí.\u00a0 Se las han ajustado y todo perfecto. Profesionalidad al 100% y el trato genial.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Baldomero Martinez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI-BVRcBYxegR9bQ-f7cIGWlpATz3mZmfsbU0tSqVdcblRtKg=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Muy profesionales todos, de lo mejor que he visto en ópticas. Precios también excelentes. Enhorabuena y seguir así.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "W.B.B.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXSj716ex3-yZ_OICQK6jpMm9Fxe03H6p-BOAmtaqHMK41g7CvH=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Son muy competentes y el trato humano es inmejorable.\nHace años que voy alli.Son mi óptica y no quiero otra",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Dietrich Meyer-Beeck",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUrAIxqj4CaVqeM7bql2HjIycbLcNNjA5vZASm6evFzG4gvXdxWlA=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Muy buena óptica, son profesionales con un trato impecable hacia los clientes. No dudan en desaconsejarte la opción más cara en cuanto a montura o cristales si opinan que no merece la pena.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lola Pozo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIvJFX662fBvedf-at0n-HZTo--9o-rUv3Gi0DLgnNLa1xTWg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Preciosa óptica. Gafas a la última moda a precios estupendos y sobre todo una gran atención y profesionalidad.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rosario Mn",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIy4HCuaY1B_mBsziaKHFMYHeF9iD2CDDv6R29bNvmXTK7JMg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Llevo mucho tiempo con ellos y siempre repito. Excelentes profesionales y amables. Yo no los cambio😘",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "carlos 9512",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWcrvbA7d-yQECWnpREHVNcFE_ZZwBSsuv5IPFbO8JGqD-bHpLL=s120-c-rp-mo-ba5-br100",
+      Rating: 4,
+      Description: "De los mejores de Albacete. Buen trato, muy buenos profesionales y buenos productos. Rápidos y bien.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Centro Óptico",
+  category: "Óptica",
+  address: "C. Pedro Martínez Gutiérrez, 15, 02004 Albacete",
+  description: "Este centro óptico ofrece sus servicios en Albacete.",
+  serviceRatings: {
+    atencionCliente: 3.5,
+    profesionalidad: 3.5,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {},
+  website: "",
+  phone: "",
+  review_count: 0,
+  review_rating: 0,
+  latitude: 38.994037,
+  longitude: -1.861266,
+  user_reviews: null,
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "GLASSTOR",
+  category: "Tienda de gafas de sol",
+  address: "Tesifonte Gallego, Calle Ancha, Nº 12, C.C, 02002 Albacete",
+  description: "Esta tienda de gafas de sol es apreciada por la amabilidad y profesionalidad de su atención. Los usuarios mencionan la disposición para encontrar soluciones y el buen ambiente en la tienda.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 4.0,
+    precio: 3.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "http://glasstor.com/",
+  phone: "967 67 06 77",
+  review_count: 4,
+  review_rating: 5,
+  latitude: 38.991918,
+  longitude: -1.85593,
+  user_reviews: [
+    {
+      Name: "Jose Luis Campos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLZ0YzljldP9j7MQufEp1pc1QRe9SYC_axwseH8lmN4CDvpUw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buscabamos un modelo poco común de Rayban y el dueño nos atendió muy amablemente y nos buscó una solución. Todo muy bien",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Batiste Mas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVp-HYFpiaEGmhXl768iSFuN9zv5uoc7LNR-kBPb4WrjRFGU2U=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Compramos unas Arnette de sol en la tienda de Albacete ubicada en unas galerías. Magnífica atención del joven encargado. Recomendable 100 %.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Borja Martínez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVUXsvZ3aXKMSBo0wazsIreYjmgIaI2bKApEfAgD67umFJcMvzxvg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Un trato muy amable y profesional. Todo lo que te puedas imaginar de Rayban.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juanma Cifuentes",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX9KNR47iAy4SElR0Jtgq5etBT_1xVNgF_h2NeOoPdapg-vDy8=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Atención gentil y con muy buen rollo. Sin duda un buen sitio donde comprar tus gafas",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Visionfast",
+  category: "Óptica",
+  address: "C. Albarderos, 1, 02004 Albacete",
+  description: "Esta óptica ofrece sus servicios en Albacete.",
+  serviceRatings: {
+    atencionCliente: 3.5,
+    profesionalidad: 3.5,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "",
+  phone: "967 22 01 91",
+  review_count: 0,
+  review_rating: 0,
+  latitude: 38.99469,
+  longitude: -1.85828,
+  user_reviews: null,
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "La Mirilla Boutique",
+  category: "Óptica",
+  address: "junto a la farmacia 24h ) DENTRO DE CLÍNICA ANDALTIA, C. Tejares, 63, 02002 Albacete",
+  description: "Esta óptica boutique se distingue por sus diseños fantásticos, únicos y espectaculares. Los usuarios resaltan la atención inmejorable y la gran profesionalidad, considerándola un referente en Albacete.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 3.5,
+    variedad: 4.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "18:00–21:00"
+    ],
+    lunes: [
+      "10:00–13:30"
+    ],
+    martes: [
+      "18:00–21:00"
+    ],
+    miércoles: [
+      "10:00–13:30"
+    ],
+    sábado: [
+      "Cerrado"
+    ],
+    viernes: [
+      "10:00–13:30"
+    ]
+  },
+  website: "https://www.facebook.com/LaMirillaBoutiqueEscuelaDeVision/",
+  phone: "634 40 95 36",
+  review_count: 2,
+  review_rating: 5,
+  latitude: 38.987367,
+  longitude: -1.852563,
+  user_reviews: [
+    {
+      Name: "Iris Mad!",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLHKA3ILsiBbBzN1Bo7lGXda5xEG7dkzY4QA8GqPL-GVsu1FQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fantasía de diseños, únicos y espectaculares. Además el trato y profesionalidad inigualables. Sin duda otro nivel de óptica en Albacete",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Inmaculada Martinez Navarro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKym9lynSsZK51HghkkE2Z8BgxaANbyMZLskz_HFsoQZVQCAA=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Sin duda la atención\u00a0 inmejorable , gran profesional\u00a0 , los diseños son una maravilla ! La recomiendo 💯",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+{
+  title: "Marta Barchín | Óptica - optometrista pediátrica en Albacete | Especialista en Terapia visual",
+  category: "Optometrista",
+  address: "C. Octavio Cuartero, 4, 02003 Vissum, Albacete",
+  description: "Este centro de optometría pediátrica es altamente valorado por su excelente profesionalidad y trato inmejorable. Los usuarios destacan los resultados positivos en rehabilitación visual y adaptación de lentes de contacto, así como la amabilidad y atención recibida.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 3.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "17:00–20:30"
+    ],
+    lunes: [
+      "15:00–19:00"
+    ],
+    martes: [
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "17:00–20:30"
+    ],
+    sábado: [
+      "Cerrado"
+    ],
+    viernes: [
+      "17:00–20:30"
+    ]
+  },
+  website: "https://martabarchin.es/",
+  phone: "697 26 46 00",
+  review_count: 8,
+  review_rating: 5,
+  latitude: 38.990758,
+  longitude: -1.857098,
+  user_reviews: [
+    {
+      Name: "Moisés Monsalve",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJRwlYYJFaNyd2vynJfzo5S9rsglFEXDkwMo1LVG5FqtVw_IA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He hecho rehabilitación visual por un exceso de acomodación que arrastraba desde hacia años y que en los ultimos meses me hacia ver bastante peor de lo normal, y el resultado ha sido muy bueno. El trato y la atención de Marta inmejorable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "JJP “JJP”",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK1UO_Kk-vII-O2LMS7D76W4KJOO2lSVfYfNlY4QFfU2fVHWQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Que puedo decir de Marta, para mí ha sido una excelente profesional tanto para adaptarme mi lentillas especiales para queratocono, como para graduarme ya que me había aumentado mucho la graduación y el tema estaba complicado, por no decir que tengo los ojos complicados, ya que no tengo lágrima y eso complica todo más.\nMuchas gracias por todo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Monica Hg",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV2Nq4YFQsR4ecTgjsGmFdZ9VSKQpfIvkI5cQoMEH_JarMHS2nl=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Acabo de terminar la terapia visual con Marta, y la verdad que se ha dado muy bien, tanto las sesiones como el trato ha sido inmejorable, muy recomendable!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose Luis Campos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLZ0YzljldP9j7MQufEp1pc1QRe9SYC_axwseH8lmN4CDvpUw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Necesitaba lentillas correctoras para poder pasar mi oposición y me corrigieron el 100% de mi miopía! Estoy muy satisfecho con el resultado y con el trato recibido",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marcos Rev",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV8ogf8RIFSJAP0CFbXldxCvGNkE9Cg_TgF6fYC2D7017LbAoUt=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Profesional, simpática, muy atenta... No tengo nada negativo de ella.\nVolveré sin duda.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Gloria Rueda González",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXxfSv0JPFKhbZCNDPzdx1LFfpS9O5S_awh8espUjaU3BslFvJc=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Una gran profesional. Muy contentos con el trabajo que hizo con nuestra hija.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Sixuan Li",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX4LylgNgkqvcOLxhJ8DNfAEZslCrrLIuAowALo5tg3S6Cb5wIl=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato inmejorable y profesionalidad grande",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "laura garcia carretero",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKrARA3cbo9pCDxmFqnmsyVgVxlzJTIiiWe45x_vZRoO_Fk5A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente, encantada con Marta",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "albacete"
+},
+
 
 ];
 
