@@ -51791,7 +51791,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "albacete"
+  province: "Albacete"
 },
 {
   title: "GLASSTOR Ópticos - Óptica en Albacete",
