@@ -56770,7 +56770,7333 @@ const opticians: Optician[] = [
   emails: "",
   province: "albacete"
 },
+//Listado de A Coruña
 
+{
+  title: "Óptica y Audífonos Castro Cuatro Caminos",
+  category: "Óptica",
+  address: "R. Santiago Rey Fernández Latorre, 53, 15006 A Coruña",
+  description: "Esta óptica es reconocida por contar con una gran selección de gafas de diversas marcas y tecnología avanzada. Los usuarios destacan la profesionalidad de su equipo y la amabilidad en el trato recibido. No obstante, algunos comentarios mencionan experiencias negativas en cuanto a la atención al cliente y la gestión de devoluciones.",
+  serviceRatings: {
+    atencionCliente: 3.0,
+    profesionalidad: 4.5,
+    precio: 3.5,
+    variedad: 4.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    lunes: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    martes: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    miércoles: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    sábado: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    viernes: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ]
+  },
+  website: "https://www.instagram.com/castroopticos/",
+  phone: "981 28 61 19",
+  review_count: 202,
+  review_rating: 4.2,
+  latitude: 43.355519,
+  longitude: -8.404205,
+  user_reviews: [
+    {
+      Name: "Angel Bueno",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXQ4a_ZiDmpFCdsraddlbhEkE_R1bVGA2K0N_2ALz6C8evzQRg=s120-c-rp-mo-ba6-br100",
+      Rating: 5,
+      Description: "Una gran óptica y una de las más grandes que he conocido y con gran variedad de gafas con todas las marcas del mercado, con lo último en tecnología y con grandes profesionales. Mi experiencia fue fantástica, fui con mi madre a comprar unas gafas y encantados salimos 👍",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipP_sfpVfxC9sYczuP7elyw6oCfgIQWcJOIil9k&fid=0x0:0x6be8b0e43bd73215"
+      ],
+      When: "2022-11-6"
+    },
+    {
+      Name: "Cristiano Fernandez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJu9yUzSjBnR4h0UHaaQz1TBkGHh1SZCwrNTEfHnX76TaSeCg=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Peor atendimiento que he visto en mi vida.\nLes pides que te enseñen gafas, y te mandan a tomar por culo, que vayas tu por la tienda si quieres. Luego, una que trabaja allí que seguro que será la jefa, o algo, te mira de arriba a bajo y llama a otra que ande detrás de ti como en una tienda china pero sin atenderte, como si fueras robar algo. Pero esto que és?! No solamente dejan a los clientes desconfortables, como és algo de muy mala educación, si quieren poner a alguien de sombra, qué lo hagan discretamente. Esto no és una Optica de atendimiento personalizado, él atendimento que recibes es 100% en una tienda china con camaras de vigilancia de 2 piernas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "maria dolores gomez toja",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJwc14H4R4a0VmukeQbp3XXWYfcI86Q-CDsVBptS18116b1sg=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Hola es la primera vez que fuy a la óptica de cuatro caminos, me atendió Maria me encantó como me atendió y me aconsejó, me veo monísima con mis gafas nuevas. Lo recomiendo sin dudarlo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rubén Fernández Santiago",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWMnCx8bDE81gZBCBLkECWV_5iWbTAiSewIXB5RyArXwqGTiA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He necesitado hacerme unos tapones a medida para mis entrenos de natación tanto en la piscina como en el mar. Aunque tuve un problema con el enganche que unía los tapones, la óptica se hizo cargo, modificaron el diseño adaptándolo a las necesidades, con un cordón elástico, enganche a las gafas y ajustes de goma/silicona. Un acierto en la elección, y un trato estupendo. Mi recomendación para el uso del servicio tanto de óptica como de audición, trato de Rocío estupendo.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipPc1wuH9KaMhVM9SdQGZx0hZb0beeLmzwNA2c8&fid=0x0:0x6be8b0e43bd73215"
+      ],
+      When: "2024-7-15"
+    },
+    {
+      Name: "Manu Seoane",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVQ9LMW7Nmzn9_d0O1LfxEA_Gc-vtdSNNc-fz22Ta52EtGehm6O=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Mi experiencia ha sido muy positiva. Necesitaba hacerme unas gafas nuevas y el óptico que me atendió (Roberto si no recuerdo mal su nombre) me guió en todo el proceso, intentando adaptarse a mis necesidades y tratando en todo momento de buscar lo mejor tanto para mí como para mi bolsillo, siendo además muy amable y cercano.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juan Menendez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJrJfdRcRFxZBL8cEuSOFs-nGVNBmfpqUaCmpJqYLzJa8V5_w=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Una experiencia horrible nada recomendable. Me había comprado 3 gafas de sol caras y quería devolver una de ellas. Fui a los dos días de habérmelas comprado y después de mandarme de un sitio para otro y tener que ir 3 días distintos( el primer día me dijeron que no me las podían devolver en esa tienda porque las había comprado en otra, cuando voy a la tienda en donde las compré me quieren hacer la devolución pero al parecer el sistema no les deja porque pagué con tarjeta y me dicen que vuelva a la primera tienda de cuatro caminos que me las devolverán sin problema) cuando ya parecía que me las iban a devolver me dicen que un cristal está rayado. Unas gafas sin usar compradas en BF. No me dan ninguna solución después de habérmelas vendido defectuosas porque como reitero LAS GAFAS ESTABAN SIN USAR y yo ni sabía que estaban rayadas. Simplemente las quería devolver para quedarme solo con 2 de las 3 que me compré.\nNo recomiendo comprar nada allí porque las facilidades que te dan en el momento de la compra son mentira.\nUna vergüenza la verdad.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Silvia Blackened",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWboBAi8s7zkbzS68aBzT36VyPsaC7Pz1gS8RAPq2kOf3sASuqW=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Grandes profesionales. Fui con mi padre por un problema de la vista y lo miraron muy bien, sin coste y con gran atención por parte de los profesionales. Me gradué la vista y me hicieron un par de gafas super rápido. Muy recomendable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ricardo Pena",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWx4qsyta5gf5YnaIKBRTR6z8S67NYFU82-m5QRoyhwaq_6s8lw=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Horrible. Fui a graduarme con cita previa. Además de llegar antes de mi hora, cosa que siempre suelo hacer, después de casi una hora esperando, me levante a preguntarles y ni habían comunicado que estaba allí. Personal poco profesional, y en general con poco o nulo conocimiento. Hay ópticas mucho mas preparadas, educadas y honestas que esta. Igualito que la Farmacia Castro. Cortados todos por el mismo patrón.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Visual Ópticos",
+  category: "Óptica",
+  address: "Av. Pasaxe, 7, 15006 A Coruña",
+  description: "Los clientes resaltan la atención profesional y la exhaustiva revisión visual que ofrece esta óptica. Además, mencionan una considerable variedad de gafas a precios competitivos. También se valora positivamente la gestión de pedidos online y la atención al cliente a través de WhatsApp.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.0,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "16:30–19:00"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "16:30–19:00"
+    ],
+    martes: [
+      "9:30–13:30",
+      "16:30–19:00"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "16:30–19:00"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "16:30–19:00"
+    ]
+  },
+  website: "http://www.visualopticos.com/",
+  phone: "881 92 53 70",
+  review_count: 44,
+  review_rating: 5,
+  latitude: 43.352395,
+  longitude: -8.390259,
+  user_reviews: [
+    {
+      Name: "Pablo V",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLvkDgdRq_saDiLLKTwtU01WEH5CRO8psWbifOrNGRyca7QmQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buscaba hacer unos cristales con un color determinado, después de intentarlo en muchos sitios no acertando color ni quedando satisfecho con el resultado me pongo en contacto con ellos;\n\nA la primera me muestran lo que busco, a un precio bastante inferior que las demás ópticas y una vez que me llegan al domicilio veo que la lente aparte de cumplir con lo que busco ajusta perfectamente al marco de la gafa. (normalmente se siente holgura entre lente y marco, o por lo menos en mi experiencia en otras ópticas).\n\nEl envío se realizo en 24h, estoy muy satisfecho, volveré a tratar con ellos para cualquier cosa que necesite sin duda.\n\nlos recomiendo 100x100.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "lauralia117 Garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVPsONSAujDBAic0LoEZHWjCFw_xmGfhtfnt9huN93bp5ozATWY=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Me ha llegado el pedido perfecto y en el tiempo que me dijeron, te atienden por WhatsApp cualquier duda. Sin duda volveré a  comprarles. Muchas gracias!!!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "ricardo martinez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI3Una8U8RJxNbLWwODQ8ezUx9IzD00joi1sEFZNylinAkaDw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Compra perfecta. Envío a Granada, perfecto. Material perfecto. Atención al cliente 10. Me atendieron por whatsapp de inmediato con todos los datos del envío. Toallitas de la tienda y gamuza de regalo.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipPzGi_WsEHJ0bmYPK4Z9BevtKOulsqA-UKnIOXQ&fid=0x0:0x23021edcd4334140"
+      ],
+      When: "2023-11-24"
+    },
+    {
+      Name: "J M",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLtU7qz1WCMnZrNUY5Z1tERXIy9w_4J8ZHZsiWnF23tWXjqhg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Atención profesional, revisión visual muy completa y gran variedad de gafas a buen precio; totalmente recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Waleska Ascanio",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUGQaGvGV3WQUgYZAnsKx_UKQIPACo69cPjQZhXvI6V_Te29DT1RQ=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Hemos comprado 2 pares de gafas graduadas maravillosas de la mano del mejor asesor, Rodrigo. El examen de vista fue muy completo y las recomendaciones que recibimos en cuanto a la montura y cristales fue completamente personalizada, hace mucho que no encontramos un lugar de confianza con un personal tan comprometido y altamente profesional. Tienen una gran variedad de modelos de gafas de sol y graduadas de las mejores marcas.Estamos muy felices  y cómodos con nuestra compra. Rodrigo eres el mejor, volveremos sin dudarlo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cristóbal MM",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLeF8A7vLGuA6jVd1spqV77SUENP-vb5JDEb0MfN6zkwRxXIQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Chapo, me dijeron de 7 a 10 días y han cumplido correctamente, las gafas llegaron en perfecto estado, por mi parte en una escala del 1 al 10, un 15.\nMuchas Gracias",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Laura López Valiente",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU1wGgPKh-Okn12-xwxq4Ych3ECjv8t2A1mSw4U8JjJ6-fOkc5ibQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He hecho dos pedidos online y las dos veces genial. Tenia miedo que no llegaran a tiempo para regalo y en todo momento se preocupan por si lo has recibido. La segunda vez me llegó en menos de 24h. Repetiré siempre",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Carmen Tello",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL_XCBrA3B_FqumgJ-YmxIcJkLOThFtRRqmhhxztFyKT5U5FA=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Hice una compra de unas gafas que me urgía tenerlas lo antes posible ya que eran para un regalo y estuvieron muy atentos en que llegarán a tiempo.\nServicio de atención al cliente estupendo y las gafas muy bonitas.\n\nLos recomiendo 100%",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Multiópticas",
+  category: "Óptica",
+  address: "Carretera Baños de Arteixo, 43, local 46, 15008 A Coruña",
+  description: "Se destaca la amabilidad y la atención rápida del personal en este establecimiento. Los usuarios valoran positivamente la ayuda recibida y la resolución de dudas. Además, se menciona la profesionalidad y el trato agradable que hacen sentir especial a los visitantes.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 4.8,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–22:00"
+    ],
+    lunes: [
+      "10:00–22:00"
+    ],
+    martes: [
+      "10:00–22:00"
+    ],
+    miércoles: [
+      "10:00–22:00"
+    ],
+    sábado: [
+      "10:00–22:00"
+    ],
+    viernes: [
+      "10:00–22:00"
+    ]
+  },
+  website: "https://www.multiopticas.com/es/home",
+  phone: "981 63 25 01",
+  review_count: 568,
+  review_rating: 4.9,
+  latitude: 43.34349,
+  longitude: -8.428838,
+  user_reviews: [
+    {
+      Name: "Leyre Naujoks",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU9MDUAAK_qCPTqeSoozvHj4U-3sr1xXIdZDsrVjfDAyHE3Fka86A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fui a que me apretaran las gafas y me atendió un chico muy amable. El local es grande y muy bonito. La experiencia fue 10/10",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Helena Ramos Campos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWT_lOfagEdRKiGGUfLc0ZQlbYQ_0_NLWJ6Mxw0arRQsN1mP6KG=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Las chicas de la tienda de Marineda muy atentas y amables, me ayudaron en todo momento y respondieron a todas mis dudas. Muy buena atención al cliente",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mariangela López M.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVmvaQiuZ-_fMkUI3pqTiivDcC7vKmOiDkT_6_tDTMMhgUKncDgOw=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "El personal es siempre muy amable, atención muy rápida y siempre resuelven mi dudas. Además, atienden a la perfección mis requerimientos. Cada vez que necesito algo vuelvo una y otra vez a este lugar.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "carlota martinez otero",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjURzlVS8cq47j_OxQAxEcyZrMZFMeE-57OdGzn4FOYk0rdzE1k=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Siempre confío en ellos por su atención tan amable , su infinita paciencia asesorándote con cada modelo y su gran profesionalidad. Es un placer comprar con ellos te hacen sentir especial.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Paulii Ayerbe",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUdLMBqmaf0Qzrm8dAvbtSyF-fD9srypKv0tcDRS3VNWE6YpiA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Son muy agradables. Fui porque siempre se me ponen feas las almohadillas de las gafas y me las cambiaron en un momento sin problema. Siempre he comprado mis gafas en multiopticas y en marineda especialmente desde que abrieron. Recomendadísimo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Diana Rodriguez Barreiro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLbTbvTmUmcCOSprIRykoa7pCwgiCry7GciObcGhbI30Rp9bQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Recientemente visité Multiopticas y no puedo dejar de recomendarla, especialmente por la atención que recibí de David. No solo es muy profesional, sino que también tiene un conocimiento impresionante sobre las diferentes opciones de lentes y monturas.\nSe tomó el tiempo para escuchar mis necesidades y me ofreció recomendaciones personalizadas que realmente hicieron la diferencia. Su paciencia y amabilidad hicieron que el proceso de graduarme la vista y elegir mis nuevas gafas fuera mucho más fácil y agradable.\nSi buscas un lugar donde la atención al cliente sea una prioridad y donde puedas recibir asesoramiento experto, definitivamente te recomiendo visitar Multiopticas y preguntar por David. ¡No te decepcionará!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Andrea M.M.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLUTfVXMZRJIEmEW51_0etMJSD4at-_v41KOgY0JX2Gn1NJhw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy contenta, me gustaría destacar el trato del personal, de 10! Agradables y profesionales, siempre te reciben con una sonrisa y te ayudan con todo lo que puedas necesitar.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "MONICA Prieto",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLH8gulQ_8k4ld-BqWwykkjRHsE0LflV2F2gaSeVT9x8wmKlA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fui a revisar la vista y las chicas son muy amables , te informan bien y te explican todo se nota que les gusta lo que hacen y que no están sólo para vender. Muy profesionales en su trabajo y en la atención al público. A día de hoy es difícil encontrar personas válidas en una tienda. Se han ganado sin duda una clienta de por vida. Gracias",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Multiópticas & Centro Auditivo",
+  category: "Óptica",
+  address: "Praza de Lugo, 1, Bajo Centro, 15004 A Coruña",
+  description: "Este establecimiento es valorado por su trato amable y rápido. Los usuarios mencionan la disposición del personal para ayudar y la eficacia en la resolución de problemas. Se destaca la amabilidad y la profesionalidad como puntos fuertes de esta óptica.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 4.9,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    lunes: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    martes: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    miércoles: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    sábado: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    viernes: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ]
+  },
+  website: "https://www.multiopticas.com/es/home",
+  phone: "981 22 79 49",
+  review_count: 492,
+  review_rating: 4.9,
+  latitude: 43.365673,
+  longitude: -8.406032,
+  user_reviews: [
+    {
+      Name: "Isabel",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXfaj11iGmuWIDAEVDNsm__5ae3frFBYRBiVn5ocdKWy57C8CA8=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Son majisimos, el trato un 10, rapido, amables, me cambiaron la pieza de plastico que va en la nariz en dos min, la que tenia rota y la otra que ya estaba bastante fea, seguire llendo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Dolores Pascual",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIihaG6ei2dJuWbdJmeQH2rX1JPLNDDRfEdzo4JMy-QOJLe8Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Estuve el viernes  me miré la audición\nMe atendió una chica Isabel encantadora\nMuy recomendable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Raquel Gómez Pérez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUTxyOrCa8sPNPbjDm0w2cCDPfYRc2ihfznuBDoHLgLsqCV6wM=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Vine a cambiar el estuche de las gafas y me atendieron con muchísima amabilidad , me lo cambiaron inmediatamente.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipPDc8NOxSzOhJOp2lUts0HUc-ohr5TaUedTfacg&fid=0x0:0xc72cf32430509834"
+      ],
+      When: "2024-12-12"
+    },
+    {
+      Name: "Antonio Bono",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXvBfECKe2M7QM29ueMCzYfTBpmdetvlSOfszR-invKcIJiuT0=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Estuve la semana pasada,todo el personal amable  y me aconsejaron muy bien .\nEs una óptica aconsejable cien por cien .\nLa graduación perfecta.\nEnhorabuena a todo el equipo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alexandra Lungu",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVNVF0gbb18RP5baYYRqwteAfb_bGLvfA1QYFI9Yz9TnUqqrow=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Una óptica de 10 ⭐️ todo el personal muy amable y dispuestos a ayudarte. Las gafas son muy bonitas y tienen excelentes ofertas. Recomendado 💯🙂",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Menchu Zaldivar",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLTfboF0cyGXlq1HfRjFRYJQGzLZP11Dv1kXB5bpEC8JSZRkQ=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Mal asesoramiento. Nada contenta. Y aún encima la encargada no dio la cara\nCompre dos gafas y ni tan si quiera  cuando hice una reclamación me atendieron bien.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Inés de Nieves Lamas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU4hHQR_DOoMN3OL7KCOFfV2E2x-6rnkZj5Nz6d24xe4-rItjYj=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Mi experiencia es muy positiva: he llevado unas gafas a ajustar y me han atendido de forma rápida, eficaz y muy amable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pollo Frito23",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLVYw5lnqD59cMtL3a6IJFnTUbRLCCPCrjKyCV7G9nuW6KUQg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me resolvieron el problema que tenía muy bien, muy amables y trato excelente.\n100% recomendable.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "General Optica - Visión y Audición",
+  category: "Óptica",
+  address: "Rúa Real, 10, 15003 A Coruña",
+  description: "Este establecimiento recibe valoraciones muy positivas por su atención, destacando la amabilidad y profesionalidad de su personal. Se menciona la capacidad de asesoramiento y la seguridad que transmiten a la hora de elegir gafas. Sin embargo, algunas opiniones señalan problemas con los plazos de entrega y la falta de seguimiento en los pedidos.",
+  serviceRatings: {
+    atencionCliente: 4.8,
+    profesionalidad: 4.5,
+    precio: 3.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–20:30"
+    ],
+    lunes: [
+      "10:00–20:30"
+    ],
+    martes: [
+      "10:00–20:30"
+    ],
+    miércoles: [
+      "10:00–20:30"
+    ],
+    sábado: [
+      "10:00–14:00"
+    ],
+    viernes: [
+      "10:00–20:30"
+    ]
+  },
+  website: "https://www.generaloptica.es/es/?utm_source=gmb&utm_medium=organic&utm_campaign=acoruna&utm_term=1022",
+  phone: "981 22 75 04",
+  review_count: 161,
+  review_rating: 4.4,
+  latitude: 43.370423,
+  longitude: -8.39947,
+  user_reviews: [
+    {
+      Name: "Belén Barcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUQUgoAkLqImWArGgZ2EFVmFsyyT1SNVYqphIkcByFiWnF9ltFtkg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La verdad es que la atención ha sido de DIEZ, desde luego Luis me proporcionó toda la información que le pedí a pesar de ser yo muy preguntona, y Verónica me asesoró para elegir gafas y me hizo sentir super segura de mi misma!!! UNOS CRACKS. Ojalá tener más ojos para tener que ir más veces",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Brais López Mosquera",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL9eEB96u8YBhClftCBIhU9Z7ZkSeuGH3QNPaSoMlJciyA21Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato increíble. Son muy buenos profesionales. Siempre me aconsejan con todo lo que compro. Tienen las mejores garantías.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ruben Boullon",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXNc3GVFksAU5P5h52tF_M_lrVQV4O1eBt1FIgFnrDYLwDImf0=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "La atención en todo el proceso de graduación y elección de gafas ha sido estupendo, profesionalidad y empatía con el cliente, muy agradecido del trato",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Laura Beltrán Padilla",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUOKkrLMcXpq2Kfpbeps0Y5QnLfvR-7T56tYGyqia1SpNsARqTB=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Fui a q me informaran sobre el cambio de cristales de unas gafas y la señora q me atendió desde luego no tenía ganas de trabajar, nunca me han tratado tan mal en un establecimiento, muy desagradable, no me saco presupuesto porque no tenía ficha y para q me la iba a hacer… no creo q vuelva y desde luego si alguien me pregunta le recomendaré q vaya a cualquier otro establecimiento. Hay q tener un poquito más de ganas de trabajar y tratar bien a la gente",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Isidro Castro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLw24GEK-YXLOomoyc9cY3D5zhs0cMzpsH1lV-Y6wYmqXgB0g=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "30 dias un pedido de gafas de sol graduadas...cuando dijeron sobre 10 dias( y nadie llama para dar explicaciones) tu sabras, pero si necesitas gafas graduadas a otro lado como voy hacer yo despues de muchos años, que sobran opticas",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Iria López",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWnYwZSe5mADQr20Jk9p8L19C4703PasvWfWVnhNltX8vxzJQQk5Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Todo perfecto!!! El personal es muy profesional y amable y tienen unas garantías estupendas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "El Arbol",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU3C2m4CypbhAeXyX9Q4qMZsI4fwNQcxKmjwf3e9H3KNQZG3AYNkw=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Me encantó, tienen muy buenas ofertas y a mí desde luego la persona que me atendió me guió muy bien. Quería comprar dos gafas \"de ver\" y una de sol graduadas ( la estructura de mi cara no es fácil) pero creo que encontramos, por supuesto dentro de muy buen precio que también lo necesitaba, y estoy encantada con las gafas que me vendieron y las ofertas que me hicieron. Además alucinante si no me veo bien con  ellas en unos días podría incluso si durante un año se me por lo que sea me daría igual es así que tiene muchas ventajas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Puri Perez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX__L5yOpqergAdhyJYJoiHL__HY7NurFcli_1Kz8f3QtygRI6G=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Estupendo personal eficaz y eficiente. Elena y Verónica nos explicaron las calidades y cualidades de gafas deportivas, una lección sobre distancias focales, y con honestidad sobre las variedades de precio.\nHa sido un placer ver que aún hay a profesionales de verdad que, además,  tambien miman a sus clientes.\nVol",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Óptica Santa Lucía",
+  category: "Óptica",
+  address: "esquina, Ronda de Nelle, Avenida Finisterre, 110, 15010 A Coruña",
+  description: "Los usuarios que han visitado esta óptica resaltan la excelente atención recibida, mencionando la dedicación, amabilidad, cercanía y gran profesionalidad del personal. Se destaca la eficacia en la solución de problemas y la satisfacción con las gafas adquiridas. Además, se valora la buena relación calidad-precio.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:30–20:15"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:30–20:15"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:30–20:15"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:30–20:15"
+    ],
+    sábado: [
+      "11:00–13:00"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:30–20:15"
+    ]
+  },
+  website: "http://www.opticasantalucia.es/",
+  phone: "981 27 51 10",
+  review_count: 75,
+  review_rating: 4.6,
+  latitude: 43.361512,
+  longitude: -8.415764,
+  user_reviews: [
+    {
+      Name: "Mónica Delgado González",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVqOf_2i7raskivVCLXehpvtoBlYXAGAcpSosecsW2uVONlOuBiew=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Estoy muy contenta a pesar de un problema que tuve que me lo solucionaron con la mayor eficacia posible y la mayor profesionalidad ya que el problema era con unas gafas Flipo y ellos son como intermediarios . Me ayudaron en todo momento y no dejaron de tener contacto conmigo hasta que se solucionó aún no siendo culpa de ellos.\nGracias por vuestra comprensión y por supuesto que os recomendaré a todo el mundo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Carmen Elena chachi",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUWJkGujaluDrLUGMn6TvDd2oCMLkzZYbmJeMe89iBKuLGVlgrTWg=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "He realizado la compra recientemente de unas gafas FLIPO, la atención fue detallada y muy paciente sobre todo por que fue con mi hija pequeña y fueron muy comprensibles.\nEn específico para estas gafas hay mucho detalle de selección y tiempo del que disponer, por lo que aconsejo llegar con una idea al menos de lo que se quiere.\nEn cuanto al tiempo de entrega fue bastante rápido y sus sugerencias bastante oportunas.\nEstoy muy agradecida, y recomiendo ampliamente esta óptica si quieres sentirte segura, bien asistida, y contenta con tu visita y compra.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipNtCVAELyGwO-5asunKZVF3me8Rfar5QCqZBGQm&fid=0x0:0x518d1110fa54e49b"
+      ],
+      When: "2024-8-3"
+    },
+    {
+      Name: "ISABEL DE TORO",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocInzOyFHBvSYynOz4IcSlZfF01GkY6a6lRWHqUTSeC9QysfcnA7=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Mi experiencia en Óptica Santa Lucía ha sido muy buena: atención excelente, dedicación, amabilidad, cercanía y gran profesionalidad... Y además estoy muy satisfecha con mis nuevas gafas. ¡Gracias!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Sergio Prado",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJWx5Gz3Sq0DgpFP6s8ECF4Vz0WS767KbCozrRhxEAR5cYEG4z2=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Muy buena atención! Encontré las gafas q andaba buscando.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana Isabel Montes Vázquez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLYPLXWKDneN-AHEesMlFY4H0rxXRuNM7_EMYrHmRaT6s20zA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fui a óptica Santa Lucía porque estaba interesada en ver cómo eran las gafas FLIPO (solo las había visto en publicidad). Me explicaron muy amablemente con todo detalle, me gustaron y me las compré. Esto me va a ayudar a usar menos las lentillas. Se acabó el no conducir con gafas porque me molesta el sol o simplemente la claridad. Le pongo el clip y tengo unas gafas de sol. No se nota para nada. Y si quiero variar, con el pack que yo compré, me viene un segundo clip y unas patillas y ya son unas gafas diferentes. Relación calidad precio muy buena. Totalmente recomendables la óptica y las gafas FLIPO.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Carmen Vazquez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJekPUKVkShtrmqkshMpr034LPCpt5y-vuDjAb1dmf0WTDWLw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Acabo de comprar unas gafas y estoy muy satisfecha con la atención, trato muy cercano y agradable, volveré\n👍👍",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Adela Formoso",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJIgv11dD63ik-fYwU-0N_0nMTc_bQ_KKYJ9rUtzHro72ZtZQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Ana es una magnífica profesional y una excelente persona.\nEmpatía total con el cliente.\nTuve un problema con las gafas flipo.\nSe aflojaban las varillas.\nSin ninguna duda me las cambió por otras.\nMi nota es Matrícula de Honor.\nFelicidades Ana!!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jon Leboráns",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLBlA4WfhxiZ45aIQVBSb_RULKWIQ5yKZzAvVQqkgN9pxFeyA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buena experiencia de compra. Muy buen precio, profesionalidad evidente, y un trato y preocupación por hacer las cosas bien que queda patente en el tiempo que se toman para asegurarse de que todo sea lo más correcto posible. En mi caso, compré tres gafas, una de ellas de sol, con muy buen resultado. Volveré, aunque, dado que no parece que vaya a tener problemas a corto plazo con mis gafas, no creo que pronto.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Oko (A Coruña)",
+  category: "Óptica",
+  address: "Rúa Juan Flórez, 11, 15004 A Coruña",
+  description: "En esta óptica, los usuarios destacan la gran variedad de gafas disponibles y la amabilidad del personal, especialmente mencionando un trato exquisito. Se valora la profesionalidad en la graduación y la adaptación de modelos a las necesidades individuales. Los clientes se sienten cómodos y recomiendan este establecimiento como su óptica de referencia en A Coruña.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 4.8,
+    precio: 3.5,
+    variedad: 4.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–14:00"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://www.oko-opticas.com/",
+  phone: "981 91 32 11",
+  review_count: 16,
+  review_rating: 4.9,
+  latitude: 43.365807,
+  longitude: -8.408247,
+  user_reviews: [
+    {
+      Name: "Anuska",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJcOaqDvZtBl1W7DwWsptXZQ18rmDeW0nMXm9kPMlR2_M4lHrA=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Hoy entré por primera vez encargué mis gafas porque además de tener mucha variedad y preciosas Lucía es maravillosa. Un trato exquisito,. Gracias sé que esta es mi óptica desde hoy.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marta Balboa",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJunGo3KWdSJsN4u7wfVTVeq7EA_yZojtancr8WPhl0BfNgzng=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Mi óptica, la de mi marido, la de mi hijo y la de mi madre, desde el primer día que abrieron. El trato es inmejorable y el producto, nada que ver con las grandes cadenas de ópticas que hay por ahí adelante. Marcas de gafas de casas que se dedican a esto, no gafas de marcas que venden bolsos o vestidos. Gafa buena y diferente. Sin duda, la mejor óptica en Coruña",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Dan Rio (Minutoveinte)",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXYoqioFOESN6eGA7grvOqy0DF80tUeraTDjHpCpxBaIZvBmxnv3Q=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Muy buenos en la graduación, y adaptación del mejor modelo para tua necesidades. La atención es excelente y no tienen problema alguno en redirigir algún caso a otros profesionales. Sin duda, mi óptica en Coruña.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Héctor Rodríguez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWT7efRaxcAUK20DW8iVmjjof2e-0p2LnLwNcnpvLLS8Q5BbE2F=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente atencion",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jaime Álvarez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLOd_Uv-bZrfkIVr60dfbNTZHtfJQaDnRZaz9AhBJzgo91UoA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Gafas de muy buena calidad y el personal súper cercano y familiar",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Francisco Javier Cordeiro Pepín",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWFjrTov5OHKn3yQfuGYS9eiUHL7Q_v1IeJp5SygLTZLmergukQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Gafas de máxima cálidad y una atención fantástica y personalizada.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose Fragasanjurjo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUPs_20zUZx6fvr-THfb3wbn6OBpNA5nUtjOvz52FSvEEXoNntSiQ=s120-c-rp-mo-ba6-br100",
+      Rating: 4,
+      Description: "Profesional al máximo te aconsejan te hacen sentirte muy comodo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "C. XEMARD",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVbdIr3-x8l2mFtME4MaQGCj-daT_HzDKOIVg8Chaq3UiVFCSQTTA=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "El mejor optico en A coruna",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Central Óptica",
+  category: "Óptica",
+  address: "Av. dos Mallos, 10, 15007 A Coruña",
+  description: "Esta óptica de larga trayectoria es apreciada por su excelente atención, amabilidad y paciencia a la hora de ayudar a elegir las gafas perfectas. Los usuarios destacan la profesionalidad y la minuciosidad en los exámenes de la vista, así como la rapidez en la entrega de las gafas. Además, resaltan la variedad de modelos disponibles.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 4.9,
+    precio: 3.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    martes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    sábado: [
+      "10:30–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ]
+  },
+  website: "http://www.centraloptica.com/",
+  phone: "981 16 83 01",
+  review_count: 30,
+  review_rating: 4.9,
+  latitude: 43.356973,
+  longitude: -8.411103,
+  user_reviews: [
+    {
+      Name: "Raquel Ouréns",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXN4FyBkC13BuYYYS8y2f8J4IBHNV_88-9yahr_OkM3VwcF6vNDOA=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "La óptica de toda la vida, llevo siendo clienta desde hace 20 años más o menos. La atención de 10, el trato, la amabilidad, la paciencia para encontrar esas gafas perfectas… y la variedad de gafas que tienen para escoger.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cinthia Madu",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW4YSYXQHN-YEalF5ktL_8q_XtBzJhrPVtX5oM0TS5LLzch7DojOQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La mejor óptica de Coruña\nAtendimento nota 10\nTodos son amables educados\nMe encanta comprar en esta óptica.\nCompro ya a 17 años y para mi es mi tienda de cabecera.\nGracias a todos súper indicó esta óptica.\nUn saludo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jorge Ruiz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUM7MN59sFkyqIkn9qHhJqvko_MJ3_atFbEi5cVAZEQxPglWci3uA=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Esta óptica es excepcional.\n\nEl personal demostró profesionalidad y paciencia (mucha) al ayudarme a elegir monturas. Finalmente elegí una de las monturas que me aconsejaron.\n\nMe hicieron un examen de la vista que fue minucioso para elegir mis primeras gafas.\n\nTengo que destacar la rapidez en tener mis gafas listas ya que las necesito para trabajar.\n\nSolo tengo que decir que perdón por marearos tanto y muchas gracias por la paciencia!",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipO_KccX9bygyNH9ygaq1naCJ6VDVt5I4w-xfP-h&fid=0x0:0x17903b3d8e78d1e3"
+      ],
+      When: "2024-1-16"
+    },
+    {
+      Name: "Olga Perez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLTVIZY-hiAh2xPaVwKD5vWwD12v6J4AnMNUl-FhjbISL6-EQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Que maravilla de atencion, Tete encantadora,hace su trabajo con esmero,.quede super satisfecha,ya tengo optica 👌",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "MA VR",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIstBEbz5PkrcOutCHeW8ptMvIXPHvyg-ekYnJQvUedpB-3G9I=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "El viernes 26 de julio fui a revisarme la vista y encargar unas gafas nuevas, el lunes 29 a las 11 de la mañana me llevé una sorpresa muy grata cuando me llamaron para ir a recogerlas, me quedé muy contento y agradecido con la atención y el servicio recibido.\n🙂🙂🙂👍👍👍",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "José Manuel Vázquez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIa93BYJZJ7S2m27lJZNumJA-sLkLCzxWVQdlHiZQzZmCFxZQ=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Llevo muchos años siendo cliente y solamente puedo decir que la atención es espectacular. Cualquiera de las dos son excelentes profesionales. Me han graduado la vista, me han ayudado a escoger tanto las monturas como los cristales y con una profesionalidad digna de elogio. Seguiremos comprando en esta óptica.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana Sanchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKrLRV8AfzfeFCYBIEcSAZN6CF0iP2n6MpPnQ07KRdJfPso-Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Nuevamente vuelvo a confiar en vosotros. Atención y profesionalidad impecable. Sobre todo Teté que sabe lo mejor para cada cliente. Sois un 10.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Patri Seguí",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKPKLSEZeCeTwBEaYGGyo8vuqyCwnCOUvTbNyXlEvgncVMEbYwE=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buena atención y Teté una gran profesional que recomienda muy bien, ya hice varias gafas con ellos y siempre quedé muy satisfecha, muyyyy recomendable",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "General Optica - Visión y Audición",
+  category: "Óptica",
+  address: "Av. de Oza, 19, 15006 A Coruña",
+  description: "Esta óptica es altamente valorada por su excelente atención al cliente y la amabilidad de su personal. Los usuarios destacan la profesionalidad y el trato cercano, mencionando la capacidad del equipo para resolver problemas de visión complejos y ofrecer un asesoramiento experto en gafas graduadas, lentillas y gafas de sol. Es considerada una óptica de confianza a lo largo de los años.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 4.8,
+    precio: 3.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–14:00"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://www.generaloptica.es/es/?utm_source=gmb&utm_medium=organic&utm_campaign=acoruna&utm_term=5539",
+  phone: "981 29 24 27",
+  review_count: 89,
+  review_rating: 4.6,
+  latitude: 43.355931,
+  longitude: -8.40138,
+  user_reviews: [
+    {
+      Name: "Vanessa Marzábal",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLb4e9tJz5f5hZCRf6H3UCb7zJckHtOXTfOA6U2eAyVJzjlvQ=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Soy clienta junto con mi familia desde hace muchos años. Siempre nos han atendido de maravilla tanto para gafas graduadas como lentillas o gafas de sol. Incluso mi madre con algún problema de visión se lo han podido solucionar estupendamente. A nosotros nos atiende Victoria, que es muy amable y encantadora, pero el resto del personal también es una maravilla en el trato.\nRecomendable 100 %!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Vanessa Velo Picallo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK617ny15SF_4NT7GQCTH0GXlHaoppExBEeK92q9oUoTOhlrg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me compré unas lentillas en esta óptica, y además de que las lentillas son perfectas y muy cómodas, fui perfectamente asesorada, contando con todas las revisiones necesarias, y por una atención muy amable.\nVolveré siempre que lo necesite.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lucía L",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVNDOcKrwzg5qmP9kcIudmuinkxQUF2Hx-DlTqg6LYY_jueWtGg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Mi óptica de toda la vida, vivo en Barcelona y solo viajo para que me atiendan allí.\nMi optometrista Victoria no puede ser mejor persona y profesionalmente impecable, le confío mi salud óptica desde hace 25 años.\nNo hay palabras suficientes para describir el trato tan humano y tan amable de todas las chicas de la óptica.\nNo la cambiaría por nada, son las mejores.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Orianna Acevedo Mendez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXV0_epNUA7KX0DQrESBYBX_VMlsmlCNe-eLNszqt3ie10LSY8=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Las chicas que nos atienden son muy agradables y transmiten seguridad y siempre nos reciben con una enorme sonrisa y hospitalidad, soy de general óptica desde los 7 años y nunca he tenido ningun problema con ella, sin duda le seré fiel❤️",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Manuela Huidobro de Torre",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLC_oedcy6QkVxRpu47DtaHcAUwvkzHgLV0cZACluXym3mfeg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Estoy encantada con la atención y el trato que me dan siempre. Grandes profesionales además de encantadoras",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Sara Torres Carballal",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLES-DpTEEifMzxuQVlFZzcKJhfm6cpVmLQ01Ol9HgX9IZ5-g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Mi óptica de confianza desde hace unos años. Trato muy cercano y agradable y muy buenas recomendaciones respecto a gafas y lentillas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alex Roel",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWZzm5rSMLkrJbEFCLaR-MwUdo15AdaYIwVFmNPKl87eHBCU9o=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Todos en mi familia vamos a esta óptica desde hace años y estamos encantados.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Victor Manuel Carballeira Marcote",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWEgfGe1FMuTFntqdPtxdikpL9nYS0jfBPcT9HbLj3ngnRezLs=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Tanto las gerentes como sus empleadas son gente encantadora y recomendable al 100%",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "General Optica - Visión y Audición",
+  category: "Óptica",
+  address: "Rúa Juan Flórez, 21, 15004 A Coruña",
+  description: "Este establecimiento óptico se caracteriza por la profesionalidad y amabilidad de su equipo. Los usuarios resaltan la atención magistral recibida durante las valoraciones optométricas y el asesoramiento experto en la elección de gafas de ver y de sol. Además, mencionan la gran variedad de marcas y modelos disponibles, así como la buena relación calidad-precio.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 5.0,
+    precio: 4.0,
+    variedad: 4.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    lunes: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    martes: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    miércoles: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    sábado: [
+      "10:00–14:00"
+    ],
+    viernes: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ]
+  },
+  website: "https://www.generaloptica.es/es/?utm_source=gmb&utm_medium=organic&utm_campaign=acoruna&utm_term=15004",
+  phone: "981 22 00 44",
+  review_count: 67,
+  review_rating: 4.7,
+  latitude: 43.365426,
+  longitude: -8.408112,
+  user_reviews: [
+    {
+      Name: "Jorge Rivas Pereira",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWfRuZvyvHtqJ54WF5JW65xsNzMjMnp907OiZSo4suXKHycYUKY=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "He ido a hacer una valoración optométrica debido a que últimamente tenía dificultad para leer ciertos tamaños de texto. Pues, habiendo reservado cita el día previo, nada más llegar me atendió, de entre los cuatro posibles empleados: Jorge, un gran profesional.\nNo voy a contar particularidades de la valoración y del resto. No obstante, he de indicar que la atención recibida durante todo momento fue magistral, además de que el local es limpio, espacioso y acogedor.\n¡Muchas gracias!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Inma L.C",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUDveQ3BVW4kQPii7PKCQuRs4Kv2gbwUYISefF0oLFL9g8BswZQ=s120-c-rp-mo-ba7-br100",
+      Rating: 5,
+      Description: "Estoy encantada con mis gafas, tanto las de  ver, como las de sol. La graduación está muy bien ajustada. En todo momento te asesoran y te ayudan a elegir lo que mejor te sienta.\nAdemás tienen bastante variedad de marcas y modelos de diferentes estilos.\nSon muy amables y buenos profesionales.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipNe0jCC5kXDzF2WcaYCwROdb4duCEwcw8mzCOAH&fid=0x0:0x97d5837f37d01f44"
+      ],
+      When: "2023-4-3"
+    },
+    {
+      Name: "Søjle GV",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXZ8HNvOBNMMyVaJTMVjv3BYAsMiaxzxWQMvryPoI-Upy-abxk=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buen trato.\nRevisión de vista en un reservado,se agradece.\nMuchas marcas y monturas de gafas ,lentillas...\nRelación calidad- precio muy buena  y además tienen una tarjeta de fidelización  con la que te avisan de promociones.\nTe Dan Garantía que hoy en día es algo muy necesario.\nY si pueden lo arreglan en el momento ( me paso con una patilla que se aflojara y me lo solvento al momento)y te limpian los cristales sin coste alguno.\nÓptica de confianza.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "ANTONIO E. MUIÑO RAMOS",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLkZ5vEVf6Odd5NTNQbFeBUMBZFbnj8VrWFg0DTBfSl4uxHdA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Llevo años acudiendo a este centro y cuando piensas que el nivel de atención hacia el cliente no puede mejorar, aparece una persona como Lucía y ves que sí es posible. Con profesionales así, da gusto tratar.\nAsí las cosas, no pienso cambiar nunca de establecimiento y lo recomendaré a todo mi entorno.\nSolo puedo decir una cosa: gracias, muchas gracias....por vuestra atención.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Olga",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX0LgeRO-cLJgxeRPK2vTz220Hac7DVuNx1bOQEj24p4XBnfC0=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Encantadores, profesionales y serviciales todos sus empleados de la calle Juan Florez. Siempre te asesoran ofreciéndote diferentes opciones. Te ayudan en todo. Mucha variedad de gafas para graduar y de sol.Y siempre te ofrecen algún tipo de descuento. Y para el control de la vista auténticos profesionales con mucha paciencia , y un control exhaustivo tanto de vista como de oído.. Te hacen sentir muy bien. Muy recomendables",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Nieves Calvo García",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWkyeDOjvttCfGUPKPlw8vLh1tFFeTbsaXephYPemCu8hde-l1f=s120-c-rp-mo-ba3-br100",
+      Rating: 1,
+      Description: "Es la primera vez que he ido a este centro óptico y me han tratado con una gran humanidad.\nMi degeneración macular y falta de agudeza visual impide que, sin gafas, haga una vida normal.\nAunque yo llevaba una montura (no comprada allí) y no podían soldar la almohadilla a la montura antigua, se esforzaron y consiguieron adaptar los cristales a la que llevaba nueva.\nSu profesionalidad y su afecto me han emocionado....\nGracias .a Cristina y a su compañero, les deseo lo mejor del mundo y de todo corazón!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Blaskobi",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUkp_QkihwmUF6YngCP6L6L99g9Gq8WvCsj5WnUUEM6jrfCXVGQGA=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Soy cliente desde hace unos años, había probado en otras ópticas, pero cuando conocí al personal de general óptica de Juan Flórez, ya no busque más. Siempre me atienden con mucha amabilidad. Pronto renovaré mis gafas y será de nuevo con ellos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "maria carmen froufe quintas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK1OeeJweEqS3m0pw2UNIahmAHvJJ53mpk65x55RyqbRqCgqw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Un 10 para el PERSONAL que trabaja en GENERAL ÓPTICA de C/ Juan Flórez, por su amable y profesional trato, resolviendo mis problemas importantes de vista y oído.\nSe han convertido en “grandes amigos” por las soluciones que me ofrecen. Estoy ENCANTADA!!!!",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Multiópticas",
+  category: "Óptica",
+  address: "Rúa Cantón Grande, 2, 15003 A Coruña",
+  description: "Esta óptica goza de una excelente reputación gracias a su trato exquisito y personal amable y atento. Los usuarios destacan la comodidad y la facilidad para encontrar el producto adecuado, así como el esfuerzo del equipo por mantener la satisfacción de sus clientes a lo largo de los años. Se valora especialmente el servicio profesional y la calidad ofrecida.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 4.9,
+    precio: 3.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    lunes: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    martes: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    miércoles: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    sábado: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    viernes: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ]
+  },
+  website: "https://www.multiopticas.com/es/home",
+  phone: "981 21 61 57",
+  review_count: 664,
+  review_rating: 5,
+  latitude: 43.36884,
+  longitude: -8.402444,
+  user_reviews: [
+    {
+      Name: "Macu Suarez Pumariega Ricoy",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKzUuQiKg7UNI4iXfION7_LWWUw-XcPT9x8DKE0pMJT28jImg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buena experiencia, trato exquisito! Desde que entré todos se volcaron en que estuviera cómoda y encontrase el producto que mejor se adaptase a mi. Personal amable y atento. Soy clienta desde hace muchos años y sin duda se esfuerzan en que no deje de serlo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lledó Ambrós Fernández",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXY-plVXamihXhnfyZ--Y9DEVWD9qWdZ90dFqk4D-ieZcoG9C8l=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Ya había acudido a esta óptica anteriormente a comprar gafas de sol y la atención fue excelente. He vuelto para revisarme la vista con ellos y he salido encantada, me ha atendido un óptico que se llama Martín pero todo el equipo ha sido muy agradable. La recomiendo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marhy López",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXPLj-UMuUOj7u1wOm9ohSaykDnK3BOQKWx1Nc_h3wQkqRPAB4e=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente, llevo muchos años con vosotros haciendo revisiones y eligiendo gafas y el servicio y calidad es de 10. En esta ocasión me atendió Víctor pero estoy muy contenta con tod@s, por vuestro trato y buen hacer. Mil gracias siempre!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Arturo Nieto de Almeida Ruso",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIfQZFitEcnNH_SkM00KK7GZP045CC3BJuq16ocFP9nZNF_NA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Servicio perfecto, da igual quien te atienda todos son encantadores y muy serviciales a disposición del cliente siempre que lo necesites.\nLlevo años con ellos y sin duda seguiré.\nTrato amable, cercano y con profesionalidad",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Sara Fernández Cobo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXb5DUr-7CJhRTa9ORYUs9WO2W_wgbuFpSE25yTYrUEcyglt1c=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Un trato excelente. Entré por un pequeño problema con la patilla, y me lo resolvieron al instante, con la educación y la cortesía tan características de esta empresa. En definitiva, todos unos profesionales.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Abel Marcote Veiga",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ9adup8MJMFrU4jEsBwJVWSixjYViagRPG-1gLZhtAm_kgSQ=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "El otro día fui a graduar la vista, no me quisieron hacer otras gafas ( las anteriores también las cogí allí) hasta que no fuese al oftalmólogo, porque seguramente me tendrían que operar de cataratas. Me dieron un informe completo de graduación para el medico oftalmólogo, y no me cobraron nada. Super atentos siempre y todo el personal con gran conocimiento. Últimos equipos opticos. En resumen: 100% recomendables.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Franyelis Bastidas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWqTyme___uzHfZimjc5eyKtrI1Uv-x0KF04Y1YtLpTfepMJXzqLw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La atención es increíble, todo el personal es muy amable y te aclaran cualquier duda en seguida, quedé encantada 👏🏻👏🏻👏🏻",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rebeca Resúa Tubío",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXpxgq2BA2M51OUHRr_8QX5xVW_JndZOfxFq3ZGnmO9XFypozs=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He acudido a una revisión y me han asesorado para el cambio de gafas. El personal super amable y atento. Me ha atendido Martin, es muy profesional!",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Óptica Suárez",
+  category: "Óptica",
+  address: "Rúa Barcelona, 13, 15010 A Coruña",
+  description: "Esta óptica es reconocida por su excelente atención y trato amable, donde el personal se muestra comprometido y profesional. Los usuarios destacan la rapidez en la entrega de lentes gracias a su laboratorio propio, así como la buena calidad y variedad de gafas disponibles. Además, se menciona que los precios son ajustados y la atención es considerada espectacular.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.7,
+    precio: 4.0,
+    variedad: 4.3
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    sábado: [
+      "10:30–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ]
+  },
+  website: "http://opticasuarez.com/",
+  phone: "981 14 40 44",
+  review_count: 16,
+  review_rating: 4.4,
+  latitude: 43.359906,
+  longitude: -8.41972,
+  user_reviews: [
+    {
+      Name: "Roi Caínzos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI6DtKutvfeVaoFrK1u9gUVZF8Rxe0h4GIGqUViDddvZZCf=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "He entrado en el establecimiento para comprar unas gafas para jugar a padel, que finalmente he adquirido, y la verdad, me han atendido como hacía tiempo no me atendían en ningún sitio. Trato y atención excelente, te abren una ficha para que no tengas que guardar el ticket para la garantía. Gracias.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Concepcion Garcia D",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIFmXHCtNy-Qm79fHHignNHRPsjlDyrXHTGOZUsjbVMAr6oVPvZ=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Tras ser clienta más de dos años, sigo recomendado a estos profesionales , sobretodo en lentillas se adaptan a tus características de ojo, y precio acorde con el producto.\nUn 10!!\n..................\nDestaco la actitud,, motivación, actitud proactiva y profesionalidad de esta Optica, siempre un 10!Tienen buneos precios, y modelos según tu perfil\nMis felicitaciones por el trabajo bien hecho  del equipo Optica Suárez, una optica pequeña de barrio pero seguiré acudiendo a por mis gafas y lentillas!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ashly",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUwNjXrWz3NiwpdJrIOU7E0alRqgADlUTGmHnZII_Pk-mAdIS-9Dg=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Es la mejor óptica que hay en la calle Barcelona, y es porque tienen laboratorio propio y te entregan los lentes de un día para otro (no hay que esperar semanas como en las demás ópticas). Son profesionales y tienen precios accesibles. Lo recomiendo!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Nelaldor",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWNrMGMyesCgl-Y2YhmKCuM48FZ_WnVd_F6_ceMa9ba6l2cLPX_=s120-c-rp-mo-ba4-br100",
+      Rating: 4,
+      Description: "Buena atención por parte de los trabajadores, muy amables. Se ven comprometidos con lo que hacen. (Me hicieron doble revisión de la vista en diferentes días para asegurarse de los datos y solo cobraron uno).\nLos precios, ni son baratos ni caros, diría que precio estándar.\nSi quieres calidad y buena atención, no dudes en pasarte por esta óptica.\nRecomendado.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Monica Rouco Mato",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJB3nqztsP5iLq9SfiyNSvMh-RT4bNF3jheOQwrH26EdMW8IQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Gran calidad y variedad de gafas. Rápidos y profesionales.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alberto Cruz (Alb1986)",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLgoECXW5s5uARbKQ_8FFQ6ps9gwnOfJHbhtwtvtQ3hN8fv8g=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Rápidos y eficientes. Los precios muy ajustados.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Blogmotorkoruna",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXknI7YYuN9zzwvfycNvE2Mz79mVuAzobtFg96YCWxs3Pejaug=s120-c-rp-mo-ba6-br100",
+      Rating: 5,
+      Description: "La atención espectacular",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juan Bonome",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUG7HhTCENGVOOchOv7Sgbi7jRcpzXlbxDeqTcamidWK7buY3s=s120-c-rp-mo-ba5-br100",
+      Rating: 4,
+      Description: "Moi bo trato e amplia variedade de gafas",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Óptica y Centro Auditivo Soloptical La Coruña",
+  category: "Óptica",
+  address: "Calle Ramón y Cajal s/n CC Cuatro Caminos, Local B, 12+B13, 15006 A Coruña",
+  description: "Esta óptica se distingue por su atención increíble y un personal muy amable y profesional. Los usuarios resaltan el trato encantador y servicial, así como el asesoramiento impecable y las explicaciones detalladas. Se destaca la eficiencia en la preparación de las gafas y la disponibilidad de buenos precios, convirtiéndola en una opción de confianza y altamente recomendable.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 4.8,
+    precio: 4.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–21:00"
+    ],
+    lunes: [
+      "10:00–21:00"
+    ],
+    martes: [
+      "10:00–21:00"
+    ],
+    miércoles: [
+      "10:00–21:00"
+    ],
+    sábado: [
+      "10:00–21:00"
+    ],
+    viernes: [
+      "10:00–21:00"
+    ]
+  },
+  website: "https://soloptical.net/es/soloptical-cuatro-caminos/?utm_source=Google&utm_medium=google_my_business&utm_campaign=sitio+web",
+  phone: "667 92 50 66",
+  review_count: 380,
+  review_rating: 4.9,
+  latitude: 43.354272,
+  longitude: -8.401945,
+  user_reviews: [
+    {
+      Name: "angel urdaneta",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUhQWRiF-ax26VnoYeJEWfUt2lSqJ2MUNVayEH5nfUsnbKFqM8-cA=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Atención increible primero de charo que me explico de pi a pa todas las opciones que tenían con promos y luego me hicieron el chequeo gratuito que lo realizo miguel me parece.!\n\nChicos majos, tranquilos y atentos!",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipPoW_AKUBk_BN9zZLwwyPmayovfBIN4gRlkuLbV&fid=0x0:0xaa5ece2030abcda4"
+      ],
+      When: "2025-2-26"
+    },
+    {
+      Name: "begoña diaz alvarez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLBbIariDv1fLdOgZ3VYKI7y0BRXXNPhzaZjYLu0EG96UY495C4=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La atención por parte de las empleadas, inmejorable. El precio asequible. Eché de menos quizás más modelos de monturas para elegir, pero eso es secundario. Cuando reciba las gafas comentaré el resultado. De momento muy contenta y recomiendo la óptica.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Adrian",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKCBT1AdOVpCXOvLkBUMs3kjAsLADba2eHn9Vgniou_MavUG5g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buena atención, tienen gente muy profesional, y muy educada. El asesoramiento ha sido impecable, la información se entiende a la perfección. He salido encantado del centro seguramente vuelva por él, y os recomiendo a que vayáis porque os iréis satisfechos 10/10. Muchas gracias!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Yuliana Martinez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLuR2T-Q-Gs4hRiu7kbiiUWungoe6-Y-HfcxG7bQQW2D5z9VA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La atención de Charo fue maravillosa , todo el asesoramiento impecable , es muy amable y atenta. Es una pena que no recuerde el nombre de la óptica que me hizo la graduación , ella es muy delicada y explica con amabilidad todo el procedimiento , en definitiva quedé encantada con la atención de las dos .",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Dani Torres",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKGIDh-16iHrdDxF0cXhFGc8cJhoEn_Ts7kBmqTTQt9JTSIUQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelentes servicios chicas encantadoras volveré recomendable 100%",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipP_sC-bYflEdzxpUTP0_6E3CPm9q9HqQyc_En2w&fid=0x0:0xaa5ece2030abcda4"
+      ],
+      When: "2025-1-22"
+    },
+    {
+      Name: "Raúl Latorre Pequeno",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLqqCPRsolr86fSLSkp_R8rs8V95-TuqIB9KgpOABtETZicNg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Mi óptica de confianza. Fui y me atendieron muy bien y con mucha amabilidad. Daniela y sus compañeras son unas grandes profesionales. Si necesitas gafas o audífonos 100% recomendada",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Daniel Parada",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJeAfsY-96WTj27SEU91TsKKaby_93WtAbehLrK6menk9ktcQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Óptica de confianza , todas las empleadas muy atentas y amables. Compré un par de gafas graduadas y en menos de una semana ya estaban listas. Buenos precios. Recomendado 100%",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Kelly Gonzalez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIjN2oCMzZw8L9AUZq79f_enla7SuFWzhRNwfJ3kWbGxozKbA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Super amables las chicas la atención maravillosa Y Rocío una gran profesional, atenta dedica su tiempo te explica todo ya llevo años comprando para mis familiares y para mi excelente 👌 😎",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Multiópticas",
+  category: "Óptica",
+  address: "Rúa Benito Blanco Rajoy, 1, 15006 A Coruña",
+  description: "Este establecimiento óptico ofrece en general un buen servicio y atención amable por parte de su personal, aunque algunos usuarios han reportado experiencias negativas puntuales. Se destaca la profesionalidad y la atención personalizada de algunos miembros del equipo, así como la amabilidad en la asistencia para pruebas de lentillas y ajustes de gafas. Sin embargo, también se mencionan casos de atención percibida como despectiva o falta de soluciones efectivas.",
+  serviceRatings: {
+    atencionCliente: 4.0,
+    profesionalidad: 4.2,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:45",
+      "16:30–20:00"
+    ],
+    lunes: [
+      "10:00–13:45",
+      "16:30–20:00"
+    ],
+    martes: [
+      "10:00–13:45",
+      "16:30–20:00"
+    ],
+    miércoles: [
+      "10:00–13:45",
+      "16:30–20:00"
+    ],
+    sábado: [
+      "10:15–14:00"
+    ],
+    viernes: [
+      "10:00–13:45",
+      "16:30–20:00"
+    ]
+  },
+  website: "https://www.multiopticas.com/es/home",
+  phone: "981 15 31 31",
+  review_count: 467,
+  review_rating: 4.9,
+  latitude: 43.355658,
+  longitude: -8.403158,
+  user_reviews: [
+    {
+      Name: "Emma Caravantes García",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKGXceL0m5E0C_ZDmwjDHjW2b30ykSqhZ7xESYiW9Xl2wqr9g=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Todas mis gafas las he comprado en multiopticas una de las gafas se me rompió una bisagra de la patilla, fui a q me la arreglaran y me dijeron q no tenía arreglo; me fui a otra óptica en la avenida del pasaje y me la arreglaron sin ningún problema y a un coste mínimo",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipPAe95MRxqUu48Bs_t0Cn3rFNfHBLJqcgXrFJsM&fid=0x0:0xd16bbbdbee545761"
+      ],
+      When: "2024-11-16"
+    },
+    {
+      Name: "Ana Caceres",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocID-PngIBnevYL_s4eS_JgmhUI8wqvG0qoXQnPY3vZaEao3=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Fui el sábado 14 por la mañana y pregunté por la oferta y me indicó una chica que por mi graduación debería hacer una reducción de cristal y era bastante más caro, mi sorpresa es que fui a solopticas  y me atendieron muy bien, me explicaron que el tipo de gafas que me gustaban no hacía falta hacer reducción, fui ayer a buscarlas y estoy encantada. Es una pena que por culpa de una mala atención y falta de interés se pierdan clientes...",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Gabriel Vilar",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVZ6h-uqrxlmqpjWgxaacuvUHAfSP9uZFhP2rMbnrSEJxu8bH4=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Llevamos años comprando tanto mi mujer como yo las gafas en multiopticas en Benito blanco Rajoy y mi madre en la plaza de Lugo.\nNO CAMBIO DE ÓPTICA bajo ningún concepto las dos dependientas son gente súper amable, sin querer hacer diferenciación pero la chica de pelo corto es súper atenta, muy profesional, te orienta en todo.\nAtención personalizada totalmente recomendable un 10 por el equipo que tienen",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "may modo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLd99V3RZ0HmYgx9Om2umsa9na2UclcIWKF4hWZND_6N9AO6Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Hola quiero resaltar algo que sin duda a mí me sigue sorprendiendo...la amabilidad se que hoy está sobrevalorada pero es que fue exquisita. Me hicieron las pruebas para las lentillas NO me cobraron NADA esto tb me sorprende pq al fin y al cabo gente que hace su trabajo sin garantías y su tiempo es valioso como el de todo el mundo. He pedido las lentillas por teléfono por circunstancias personales y ya han llegado. Resaltó la amabilidad y la profesionalidad. Estaba encantada en salamanca y ahora en la Coruña me reafirmó. Gracias",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alejandro M",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIUoII6lWj-y1Urp5jU38TXZ6-FZRLVq7029KD6oSwd64n5nA=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Muy buen servicio y personal muy amable. Fui a cambiar los cristales de mis gafas de sol y a ajustar la montura y no puedo estar más contento.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "PATRICIA o",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK-5oXfYn191S26APs7h7PFvIBDf3sqd_UJS6FlYisnMIKPAQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Maravillosa atención de las chicas. Trato personalizado y súper agradable. Asesoramiento integral.\nSoy clienta desde hace muchos años y no las cambio! 💫",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "COSME GASALLA FERNANDEZ",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL2n_eFYBIEaqB_xJfpOpi7_95ZDpYhBoK08owGz5Xy-oIAqaw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Hoy fui para probar las lentillas y como siempre la atención y el servicio genial. Es la óptica de toda la familia. Muchas gracias .",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "TH TH",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKjtZ4TfIJm1PuLnqGYOeG5BqXcPwvAOR7INfO2nqKaiT_CXuo=s120-c-rp-mo-ba3-br100",
+      Rating: 2,
+      Description: "Es la peor óptica a la que he entrado, soy clienta en Multiopticas de otra área de Coruña y la persona que atendió en este lugar  lo hizo con desprecio. No era una profesional, la gente debe saber cómo trata al cliente.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Multiópticas",
+  category: "Óptica",
+  address: "Rúa Barcelona, 28, 15010 A Coruña",
+  description: "Esta óptica destaca por su excelente atención y amabilidad, resolviendo problemas de manera rápida y eficiente, incluso para clientes que no han comprado previamente allí. Los usuarios elogian el trato cordial y profesional, así como la disposición para realizar ajustes y reparaciones sin coste adicional. La atención personalizada y la satisfacción del cliente son aspectos muy valorados.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 4.8,
+    precio: 4.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:45",
+      "16:30–20:00"
+    ],
+    lunes: [
+      "10:00–13:45",
+      "16:30–20:00"
+    ],
+    martes: [
+      "10:00–13:45",
+      "16:30–20:00"
+    ],
+    miércoles: [
+      "10:00–13:45",
+      "16:30–20:00"
+    ],
+    sábado: [
+      "10:00–13:45",
+      "16:30–20:00"
+    ],
+    viernes: [
+      "10:00–13:45",
+      "16:30–20:00"
+    ]
+  },
+  website: "https://www.multiopticas.com/es/home",
+  phone: "981 14 93 21",
+  review_count: 436,
+  review_rating: 4.9,
+  latitude: 43.361378,
+  longitude: -8.420592,
+  user_reviews: [
+    {
+      Name: "FUENSANTA ALBO LÒPEZ",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIqS6s6yA7NE19HfmL-_jBxKGZlyW3Ha_kk7Fn4m2SvclFhug=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He comprado dos pares de gafas y unas de sol este verano, y quedé encantada del trato, amabilidad e interés que tienen por cada cliente.\nHoy estuve allí porque se me despredió uno de los cristales y, al momento, me solventaron el problema.\nVolveré cuando tenga que cambiar las gafas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jime",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLNBmYvBmQq7YRGoRxlTAffYYgXre-xb9iau3rujGGa0jtaCA=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Mi hermana fue porque se le salió un tornillo a la patilla de las gafas que no fueron compradas allí y se las repararon al momento y sin coste alguno. Han sido muy amables y con un trato excepcional.  En mi caso han ganado una clienta, muchas gracias",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Katherine Alvarado Migliore",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLmosrTwda27NN2g_pwe8MbdTkxjK6DoyQrih8fw_JzvsBKLw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Personal muy cordial y amable. Fui porque se había salido un tornillo de mis gafas graduadas y la chica que me atendió lo colocó de inmediato. Además lleve unas gafas de sol porque se habían abierto un poco y la chica las ajusto también. Muy agradecida con el trato recibido. Los recomiendo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Oscar Corzon",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKLB2V9DNvfQsPNIuksJknxC1secempdxkMqbaH-ZqJHQcVQw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente atención.\nMuy amables,fui con la niña arreglar las gafas,se le cayó el cristal porque perdió un tornillo,se lo arreglaron de inmediato y sin coste ninguno.\nRecomendable 100%",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rosa Posse",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJGw3nsHBMgjCNc8CEQupO6iIiRDEkDd1Nw4egKnsY3Rz_9wg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He ido un par de veces a ajustar mis gafas y siempre me han atendido muy bien, son muy agradables.\nLa chica fue muy atenta y me solucionó enseguida y sin coste, muchas gracias!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Agar Meruéndano",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIqDh9FEnWch-G5JGlr6uY7YiRHJiD_kbUTdMX6sTykbuON0w=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Sin duda volveré! Atención profesional y muy amable. Me compré unas gafas de sol y no puedo estar más encantada con ellas!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Raquel Mazorra",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIrXgEVR5YElQ9A44CKuv4IYO59Yintm_S8kUrnbl88rxWlWg=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Encantada!!! Desde hace unos años que me gradúan las gafas y me atienden maravillosamente, hoy sin ir más lejos me ajustaron las patillas y me colocaron unas aletillas nuevas en unos segundos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cynthia Pozo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW87dSDLMdPgHo9VutK5qIyCzsU8hP5PbVDQcKvqzdcPKTxIwE=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Desde que uso gafas es mi tienda de confianza tanto para gafas de ver como de sol. El otro día, fui a que me arreglaran las gafas de sol porque mi hermana se había sentando encima de ella y la chica que me atendió (Sonia) fue super amable y atenta, me explico que mi incidencia es bastante común y que podría ser que no tuviese arreglo pero tuve suerte y lo consiguió además me explicó algo que no sabía del cuidado de las mismas, muy contenta con la atención, se nota cuando a una persona le gusta su trabajo. Muchas gracias y hasta la próxima 😊",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipMgI-tFuxKL01ClXetqCvITL9wSy3wuBPqPUBUk&fid=0x0:0x2dc8384a0a17728c"
+      ],
+      When: "2023-6-26"
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Centro Óptico Breogan",
+  category: "Óptica",
+  address: "Av. de Arteixo, 72, 15007 A Coruña",
+  description: "Este centro óptico es altamente recomendado por su trato personal y profesional exquisito, destacando la figura de Noelia como una excelente profesional que brinda asesoramiento detallado y se preocupa por la experiencia del cliente. Los usuarios resaltan la calidad de los productos, la variedad de modelos y los precios competitivos, además de un servicio postventa muy bueno. La atención cercana, amable y la dedicación al cliente son aspectos muy valorados.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.3,
+    variedad: 4.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:30–14:00"
+    ],
+    viernes: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ]
+  },
+  website: "",
+  phone: "981 15 24 91",
+  review_count: 53,
+  review_rating: 5.0,
+  latitude: 43.357077,
+  longitude: -8.413251,
+  user_reviews: [
+    {
+      Name: "jose jimenez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJrh3TKxCRitunZKoKAGjUuSUy1TFv1lz38W4gv2ZaDo3-ULg=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Un trato personal y profesional exquisito con un buen producto. Ya llevo 2 pares de gafas. La recomiendo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alba Balsa",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJOfK5Re4N1yvfCMe930RfsGie_SL05dTK45q1b0lzQr6AO5g=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Muy buen trato, se para mucho con el cliente y asesora.Ya vamos por el segundo par de gafas y repetiremos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "David Jiménez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXaUK80cAU_Tbcvh-rkNamz9GaomUgv0rvml0dwTDilXTA3EOhLuQ=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Es maravilloso el servicio profesional que nos da Noelia en el barrio. Muy recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alex Peral",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJWq8WzhNmQ8h8IEXuTCIwYLaGjKqXzZKsoyi3tjxYRW9Btc7Y=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Noelia es una de las mejores profesionales en el sector, te asesora en cualquier duda y está muy atenta a todos los detalles. Se preocupa porque tengas la mejor experiencia posible y además suele tener lo que le pides en muy pocos días. Todos los que conozco que han acudido a ella me acaban diciendo lo mismo, ya sea que necesitas gafas o lentillas, centro óptico breogan es el sitio al que hay que ir. Muy recomendado.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Eva P",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX1cFItqgU0Y-1st4_9mgfR_t-PSs6EY_uWP2w7_wVAUlccJMLWJQ=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Una gran profesional, atenta y muy cuidadosa, el producto es actual y siempre tiene novedades interesantes y muy buenos precios! Lo recomiendo sin duda vamos toda la familia y estamos encantados, también tiene un servicio post venta muy bueno.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "David Jiménez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXHcEy84pGzbTnEbqpxILMO1ITPB_ejtHiq4lncg_oB8c5P8fyZ=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Muy buena atención, cercana, profesional y de calidad. Se nota que le gusta su trabajo porque se para todo el tiempo necesario para asesorar. Tiene una gran variedad de modelos y artículos fuera de lo habitual. Siempre atiendo con una sonrisa y el local es muy agradable, amplio y luminoso. Muy recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Silvia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocICpdbBPpn-Mx8p3gcHAUCSCjQgiN5akI_M0zShpd6k5UiDog=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Muy buena profesional. Amable, cercana, muy buen asesoramiento y buenos productos. ¡Más que recomendable!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rocío Carballal Miguez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX1hWj2UjSCZH_lTyXFOvSBJ97A29kBkDoZZncomHoy3Gctl9QWEA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Mira que he estado en ópticas, pero como en la de Noelia, en ninguna. Súper profesional y encantadora. Me ha asesorado genial tanto en lentillas como en gafas. Un 10!",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Central Óptica",
+  category: "Óptica",
+  address: "Avenida Finisterre, 220, 15010 A Coruña",
+  description: "Esta óptica se destaca por su profesionalidad y excelente trato al cliente, ofreciendo soluciones y asesoramiento de manera amable y cordial. Los usuarios valoran la calidad de sus productos, incluyendo gafas irrompibles, y la sorpresa de encontrar precios muy asequibles, incluso mejores que en grandes cadenas. Además, ofrecen revisiones de la vista gratuitas y un servicio atento y resolutivo, lo que la convierte en una opción de confianza y muy recomendable.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.8,
+    precio: 4.7,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    martes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    sábado: [
+      "10:30–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ]
+  },
+  website: "http://www.centraloptica.com/",
+  phone: "981 25 04 15",
+  review_count: 15,
+  review_rating: 4.7,
+  latitude: 43.360671,
+  longitude: -8.416628,
+  user_reviews: [
+    {
+      Name: "Montse Carro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIOjxYPZXvYjcFtJpG4JTUGB-60h_39OHT6P-3oTBbPde7vIQ=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Buscando unas gafas irrompibles, me encuentro con esta óptica que venden las gafas B Flex irrompibles. Nunca había comprado en esa óptica. Llevo más de 30 años siendo cliente de una cadena de ópticas. Pero ellos no trabajan con ese proveedor.\nLlevo dos años acudiendo a óptica Central y no tengo más que palabras de agradecimiento. Amables, pendientes, resolutivos, rápidos en los tiempos de entrega, y sorpresa incluso el cristal mejor precio en igualdad de calidad. Recomiendo 💯.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Purificación Caamaño Lema",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWlNrgYMvry8D3cLaI-pWpxMd9XRMl1E2ttelGefJVGOZGboD9GSw=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Profesionalidad y trato excelente hacia el cliente.\nAl final me llevé dos gafas con precios muy asequibles. Una ocupacional, y la otra progresiva.\nTe resuelven tus dudas al cien por cien. Te hacen la revisión de la vista gratis. Que más se puede pedir?. Sin duda, cinco estrellas.!\nMi óptica de confianza.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Anton Vilarchan",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU4srcKMneykDopqhAaFGPKd-G-PCdVRWuJbyXGvEETu5AAtMqEbw=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Excelente empresa y con unos grandes profesionales que además el trato, en mi caso, con mucha amabilidad y cordialidad. y siempre recomendando temas de gafas,etcde una forma muy fácil. Ojalá fuesen así otros profesionales de la medicina en general.\nMuy recomendables en calidad, trato y precio. Un 10 de 10.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marcos Horno García",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXNkmSymUnhh81LcEEsDQ9Xdl4QrEcfM9-1Q8WPeV_1EJvjSvY=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Llevo yendo a esta óptica más de 2 años. Muy amables y profesionales. Había ido a otras antes pero no quedé muy contento con la cómodidad y graduación de las gafas pero en esta clínica nunca he tenido ningún problema y la verdad que estoy muy contento con las gafas que he comprado aquí.\n\nAdemás te hacen la revisión gratis si eres cliente.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Keko de visma",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX6w1xdIPpnzneFuAdPS_4dh3UXmyce59X7GdHOjJWcgE-KvHc=s120-c-rp-mo-ba2-br100",
+      Rating: 1,
+      Description: "Ya no es concertada con eo sergas",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "ana lb",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIC94JmZqEqtnE6Z9ZQ1G5rgy-8bygxUGdDL7S2d-5_f4BhAg=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Es mi óptica de confianza. Muy recomendable y Noemí una gran profesional, atenta y agradable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Izan Maneiro morandeira",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUFVakff6OzxCbAIg8dSw10bByzPfw4F6i-_rJeoKnn8UI1ywM=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buen servicio",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Eva",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXF9smePw1riuPaNPvG2SLLEF3g3q7U51Cytrpnu6JJQLbn-I0p=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Muy profesionales y agradables.\nMonturas de primeras marcas a muy buen precio.\n¡Totalmente recomendable!",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Opticalia La Torre",
+  category: "Óptica",
+  address: "R. la Torre, 9, 15002 A Coruña",
+  description: "Esta óptica es altamente valorada por su trato inmejorable y un equipo de profesionales con equipos de última generación. Los usuarios destacan la amabilidad y paciencia del personal, así como la calidad y variedad de gafas a precios muy competitivos. Se enfatiza la atención personalizada, la disposición para resolver problemas y la capacidad de ofrecer soluciones que se adaptan al presupuesto del cliente, convirtiéndola en una opción muy recomendable para toda la familia.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    martes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    sábado: [
+      "10:30–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ]
+  },
+  website: "https://www.opticalia.com/es/tiendas/optica-a-coruna-la-torre-9-opticalia-latorre",
+  phone: "981 22 42 43",
+  review_count: 308,
+  review_rating: 4.9,
+  latitude: 43.374004,
+  longitude: -8.397232,
+  user_reviews: [
+    {
+      Name: "a r",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX_IVJQBRNf56uC32Pb-RHuEg-hdqtRI8rYVe-fEwA9QdyiSXnzdA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Llevo yendo a esta óptica 7 años o así, ya perdí la cuenta. Siempre me han tratado genial y han aclarado todas mis dudas. Se han tomado su paciencia para aconsejarme en elegir gafas (que con lo indecisa que soy no es poco). Además me regalaron varias lentillas de prueba antes de comprometerme con una marca nueva. Nunca cambiaré de óptica si puedo evitarlo💙✨",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "ELENA GARCIA",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL1zvAV_G3dbFF36gSrB3Mb60zK6i2A3yFb_4CTqMAI_2Y6ZQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Después de haberme revisado la vista quedamos muy contentos y decidimos realizar la revisión de nuestros hijos.  Una vez más encantados con la profesionalidad, recomendaciones, excelente trato con los niños y facilidades para atendernos. 100% recomendable para toda la familia.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pablo Perez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLTNjPb1k6kZOKaqlhxc-r5iOxwy-WX8FjbqQE-VvycwCsCDA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Solo puedo tener buenas palabras hacia la óptica y, especialmente, sus empleados. Fui después de sentarme sobre las gafas, con las patillas dobladas. Me atendieron con muchísima amabilidad, enderezaron las gafas y no quisieron cobrarme, pese a mi insistencia.\nNecesito las gafas ya que, de cerca, apenas veo.\nDe modo que siempre les estaré agradecidos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Andea Reyes",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLSZYqQ6gmGk2ck-G8k-IU5ore4leQfzr4LJmrdmcYw10Wu_w=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Es la segunda vez que llevo a mi hijo de 8 años a esta óptica y tanto él como yo cada vez que asistimos, quedamos muy bien atendidos. El profesionalismo y atención al cliente es excelente un lugar muy cómodo y con gran variedad a la hora de escoger el tipo de gafas. Calidad en todo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juan Carlos figueroa bouzas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKtEv2f4qvSKVCtanm39tgZHg3qcTHSGTa-3GJNqJtAaQwggw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy profesionales y un trato inmejorable! Me han hecho un estudio muy completo explicándome todo perfectamente. Gafas y cristales a unos precios muy competitivos. 100% recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lucia D",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJVQWTlvVkudawPs57rDMhTPTLWGxDEuHBLMB5Gsp7llJfLbw=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "El trato es inmejorable y son grandes profesionales con aparatos de última generación.la calidad precio de las gafas está genial,aconsejo que si necesitas unas gafas tanto de ver como de sol que os paséis por allí ya que al contrario que otras ópticas,aquí no te enseñan las más caras si no las que se adaptan a tu presupuesto.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Manuel Guerra Fernández",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWrWvdzlJcp1T_PL1jQUitpUTIV2bKbth0AvztowQ3urmF5htno=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Está tarde, fui con mis dos hijos d 12 y 14 años. A pasar una revisión d la vista. Y desde q entramos, un trato excelente por parte d todo el personal d la óptica. Y los niños quedaron encantados con el trato y la profesionalidad d Rolo y todo el equipo. Sin duda, una óptica muy recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lucía Fernández",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV1_QY_TjiVdOMvdvXa3HTqshcQudOGcY2hhNbpksa3Tyf-1I5NUw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Todavía no soy usuaria de gafas, todo llegará…Cuando llegue ese momento voy a ser clienta de Opticalia La Torre, no hay otra opción. He ido un par de veces, una de ellas para arreglar unas gafas de sol que casi rompe mi perro y me las dejaron impecables. Y otra vez, les llevé las gafas Rayaban de mi madre de los años 90, para preguntarles si me las podrían “restuarar” y me las dejaron como nuevas, además de explicarme cómo están diseñadas estas gafas y de contarme que tenía un pequeño tesoro en mis manos. Así que si tengo que ponerme gafas, comprarme nuevas gafas de sol, evaluar mi visión… Opticalia La Torre es mi sitio 🩵",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "General Óptica - Visión y Audición",
+  category: "Óptica",
+  address: "Rúa Barcelona, 37, 15010 A Coruña",
+  description: "Esta óptica ha recibido comentarios mixtos. Algunos usuarios han experimentado una atención deficiente y han notado un aumento en los precios, incluyendo el cobro por revisiones que antes eran gratuitas. Sin embargo, otros destacan la profesionalidad y amabilidad de ciertos miembros del personal, así como la disposición para resolver problemas y realizar reparaciones sin coste.",
+  serviceRatings: {
+    atencionCliente: 3.0,
+    profesionalidad: 3.8,
+    precio: 2.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    lunes: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    martes: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    miércoles: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    sábado: [
+      "10:00–14:00"
+    ],
+    viernes: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ]
+  },
+  website: "https://www.generaloptica.es/es/?utm_source=gmb&utm_medium=organic&utm_campaign=acoruna&utm_term=1091",
+  phone: "981 14 41 00",
+  review_count: 84,
+  review_rating: 4.3,
+  latitude: 43.361353,
+  longitude: -8.420938,
+  user_reviews: [
+    {
+      Name: "TERESA",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL-lRMOtY1f2ZaV0T4p3uwdS4CEBL8LR9dR2Td1oQNoPLRZ=s120-c-rp-mo-ba3-br100",
+      Rating: 1,
+      Description: "Una tienda con una atención nefasta. Tuve problema  con ellos hace 4 años. Les di otra oportunidad el año pasado y volvieron a defraudarme. Revisión gratuita si, si tienes suerte, porque depende del día que tengan, pasan de ti como si fueras invisible. Un desastre",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria Julia Ulloa Hechavarria",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV6Il3v4lLEf8MuKbJ7d-QE_vHumSWQbg1JbSV_NLocNKWr0qI=s120-c-rp-mo-ba3-br100",
+      Rating: 3,
+      Description: "Ahora cobran por medirte la visión, el precio está por las nubes, soy clienta de toda la vida, pero es imposible pagar 600 euros por unas gafas cuando yo cada 2 años tengo que cambiar, deben de cuidar más a los clientes de toda la vida, por qué los van a ir perdiendo, yo encontré otra óptica con las mismas condiciones , encima me midieron la tensión ocular , cosa que no me hicieron, y las gafas por la mitad de precio",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Francisco Javier Moreira Couso",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVRC6Oe4JtoIbmYpN7Cs3MH8m70EJ1cGAFt3PRUiP2cfZkhl2Liag=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Llevo muchos años con esta óptica y he de decir que todos son excelentes en su trabajo pero tengo que destacar a Adrián, como profesional un 10 pero como persona un 11",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Bugui Bugs",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIBSSqnygnpUbkw7OG9COquXKJWAwdjfhDcNY2IaotC07ZTpQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente! Totalmente recomendable! Hoy fui a llevar unas gafas que compré allí porque tenian una pata bastante doblada. Aunque se me habia acabado la garantía hace poco, me la enderezaron sin cobrarme. El chico fue super super majo y amable. Se ganaron un cliente de por vida y mi total recomendación para todos mis amigos y familiares. Muchas gracias",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Greymelit Becerrit",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXd9VOpK05JE80wgnpZyjFv7lUEAId_BOI_I3yXa16OSwocJuPukw=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Excelente!! Ya llevo 3 años con ellos y me ha ido muy bien, muy buena la atención, siempre resuelven cualquier inconveniente que pueda tener y el personal e smuy amable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Matilde Hermida Garel",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUgFlT5Re90mOE9WUfCFNmtGIr_e_brnomEbtNlYvtrNp2aD0RGiQ=s120-c-rp-mo-ba3-br100",
+      Rating: 1,
+      Description: "Me decidí a usar lentillas y escogí esta tienda por proximidad y por que en alguna ocasión me  compre allí  gafas de sol.\nCuando  me graduaron la vista la chica me dijo que  tenía  que  darle 18 euros  y cuando le pedí  que  me imprimiera los datos,  me dijo que  no que  ya me los daría  cuando  comprara las lentillas  y prefirió  no dármelos.\nTras enseñarme a colocaremos compré material  para 3 meses y el chico que  me las vendió  muy amable me dijo que  me hacía  gratis un seguro  por si tenia  algún  problema.\nAl Mes aproximadamente  note irritación  en un ojo y me aproxime a ver que  me decían  al respecto  y solo me encontré  caras raras , me dijeron  que  la revisión  de lentillas  tenía  un coste de 18 euros, me quedé  😡,  al final les he dicho que  ya iría  a mi médico  o a quien  sea , me parece  lo menos  profesional  que  he visto, tengo  claro que  a mi no me vuelven a vender nada.\nLa encargada  creo que  no tiene  ni idea de como conservar un cliente.\nMe siento  estafada y no se lo recomiendo  a nadie.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marina Dolcevita",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWpKBUbcSjTLrELyCrJtptyTYCW7wGmxvdRf3WLzEB-dAuOdQg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Hola. Me he hecho una revisión completa con la nueva graduación que conlleva. Opté por continuar con lentes progresivas. Me atendió Rocío, la encargada (grandísima profesional a prueba de mis preguntas-traca). Por motivos X,  no terminaba de aptarme a mis nuevas gafas así que decidió hacer nuevos cristales. Cualquier inconveniente lo solucionan con rapidez y amabilidad. Ahí está también Ana que todo me lo consiente y todo me lo encuentra.\nNo comulgo con la política de General Óptica, ni de lejos, pero la atención que recibo está por encima de la empresa.\nGracias Rocío, gracias Ana, gracias equipo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana Suárez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJspXBCcVB3TMiePqD1os_gWM1HjO7-f2KzlNF1qzpf4sq5Qg=s120-c-rp-mo-ba3-br100",
+      Rating: 3,
+      Description: "Soy clienta desde hace más de 20 años, y a partir de ahora me van a cobrar por la revisión...y eso que la hago cada 2-3 años, hace 3 años que gasté más de 600€, el año pasado mas de 600€ mi marido...etc.etc, no me parece nada bien, no cuidan al cliente de toda la vida",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Lopsy",
+  category: "Óptica",
+  address: "C.C. Cuatro Caminos, Rúa Ramón y Cajal, S/N, 15006 A Coruña",
+  description: "El equipo de esta óptica es considerado excepcional, proporcionando una experiencia muy positiva a los usuarios, incluso a aquellos con muchos años de uso de gafas. Se destaca la gran amabilidad y dedicación del personal, especialmente de Carlos, quien ofrece un trato profesional y atento. Resaltan la buena adaptación de las gafas progresivas y la atención cariñosa hacia los niños. La cercanía y la profesionalidad son cualidades muy apreciadas.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 4.9,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–21:00"
+    ],
+    lunes: [
+      "10:00–21:00"
+    ],
+    martes: [
+      "10:00–21:00"
+    ],
+    miércoles: [
+      "10:00–21:00"
+    ],
+    sábado: [
+      "10:00–21:00"
+    ],
+    viernes: [
+      "10:00–21:00"
+    ]
+  },
+  website: "",
+  phone: "981 24 56 83",
+  review_count: 60,
+  review_rating: 4.8,
+  latitude: 43.354675,
+  longitude: -8.402538,
+  user_reviews: [
+    {
+      Name: "Tamara Hermida",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXfJpmqg7pvGu1ZsQ15aVl3OaocsHbIgpNpO8Rwwkd-MhOD-T8U=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He contactado con Lopsy para una graduación óptica, Me atendió la directora explicándome con gran amabilidad. Me ofrecieron aparcamiento gratuito cumpliendo con lo acordado de modo muy profesional. Muchas gracias.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Isabel Vigo Rodríguez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJDWOrrO3OJw5Xo8fPjiCWk6KXDPd6bE9pHe9g3Xn4ifrbedg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Un equipo excepcional! Ha sido la mejor experiencia desde que utilizo gafas, que son más de 20 años y desde luego pienso quedarme para siempre. El trato, la dedicación y tiempo esmerado, hace de Carlos, un gran profesional, atento y entregado a su trabajo. Muy satisfecha con la información que se me dió y contentísima con las nuevas gafas. 100% recomendables. Mil gracias Carlos y hasta pronto!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lucia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUa7PP46v4_bGc7gKVAzig9BestapZ7UyLO_px6wlBBIGH0BEoD=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Fuimos porque nuestro hijo de 5 años necesitaba gafas. Super recomendable, muy atentos y cariñosos con los niños. Nos asesoraron muy bien y las gafas genial. Todo perfecto!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lidia Soto",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX7eJjNatplKJ0nohMPfquxSAPt07zst1Z35fWLpD_KqUR9cvqpew=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fui por primera vez a hacer una revisión para ponerme gafas. Me quedé encantada con la atención, esa cercanía, esa amabilidad que tenéis es maravillosa! Muchísimas gracias por vuestros servicios, os recomiendo al 100%!!!!! \" \"Todos pensamos que vemos bien, hasta que vemos mejor\"  😉😊",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "María José Cruz Fernández",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJlguXxL6JahzxWj6Cluzsnq9-vefrJqs_NtWZuaEHIpJLDLw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Recomendá 100%, un trato excelente.\nY lo mejor lo bien que me  han adaptado las gafas progresivas, desde el primer día.\nNo puedo estar ya sin ellas.\nMil gracias.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "marta perez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJT_5p0nlNhEv2tjrlPEvZROdK513ovBJ0WXB6Dsok9_VqWlQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Hace más de 20 años que acudo a Lopsy.Son educados, amables,serviciales y unos grandes profesionales.\nEmpecé a ir por las gafas de mis hijas,más tarde por las lentillas y por último cuando yo necesité utilizar gafas.\nSiempre que tengo algún problema me reciben y atienden con toda amabilidad.\nQuiero destacar la paciencia que Carlos tiene conmigo además de su profesionalidad.\nSon  dos cualidades que tienen todos los que trabajan en Lopsy.\nMUCHAS GRACIAS",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Eva",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXF9smePw1riuPaNPvG2SLLEF3g3q7U51Cytrpnu6JJQLbn-I0p=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Muy buena atención de Carlos: profesional, ofrece los cristales más adecuados a lo que necesito, además de una excelente revisión. ¡De 10!",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipN809l3jy_Vbdctk5iDXNVCcj1TTu76CX4WKJV5&fid=0x0:0x487a32a7b5fb46b8"
+      ],
+      When: "2023-1-28"
+    },
+    {
+      Name: "Pablo Marfany",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV3eVitSItfAB_IqPBtCMs7K17AAPEyaz-IO9rcKPg_wNqV81Nw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Llevo muchos años comprando las gafas de la familia en Lopsy. Soy muy profesionales y amables. 100% recomendables!",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipPkeugdytBe5Wk5JNR1Q-dJ-XbW5kznFI8s14HR&fid=0x0:0x487a32a7b5fb46b8"
+      ],
+      When: "2021-10-11"
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Alain Afflelou Óptico y Audiólogo Calle Juan Flórez, A Coruna",
+  category: "Óptica",
+  address: "Rúa Juan Flórez, 3, 15004 A Coruña",
+  description: "Generalmente, esta óptica brinda una atención profesional y amable, donde el personal ayuda a seleccionar gafas de buena calidad que suelen estar disponibles con rapidez. Los usuarios valoran la paciencia y la dedicación de los profesionales, así como la agilidad en la entrega de los pedidos. No obstante, se han reportado algunas incidencias puntuales con ciertos programas o servicios.",
+  serviceRatings: {
+    atencionCliente: 4.5,
+    profesionalidad: 4.6,
+    precio: 4.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "16:30–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "16:30–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "16:30–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "16:30–20:30"
+    ],
+    sábado: [
+      "10:30–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "16:30–20:30"
+    ]
+  },
+  website: "https://www.afflelou.es/opticas/la-coruna/afflelou-c-juan-florez-3-15004?utm_campaign=gmb&utm_medium=organic&utm_source=google_gmb",
+  phone: "981 11 37 65",
+  review_count: 52,
+  review_rating: 4.8,
+  latitude: 43.366257,
+  longitude: -8.408374,
+  user_reviews: [
+    {
+      Name: "Ana Romero",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVs3wfFckeRWqUCM6pMyqj4C06EEvQJlvU_oYOjXN7ImjzILr0=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Genial! La atención fue muy profesional y amable en todo momento. El personal me ayudó a elegir las gafas perfectas que además de ser de muy buena calidad, llegaron súper rápido a tienda. Sin duda volveré!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Angy",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWWU6fYV8pF-2GP5xRxbLTt4XyOJZXfVASA85pq34xc6A_cUuM=s120-c-rp-mo-ba3-br100",
+      Rating: 1,
+      Description: "Lo de que te dan gafas para los niños en su supuesta fundación una mentira! Hemos ido a que le hagan la revisión y nos han dicho que debemos llevarlo a un oftalmólogo, hemos pagado 40€ en otro sitio para saber qué tipo de graduación necesita y tampoco les sirve, ahora tengo que ir a otro sitio a volver a pagar porque en Alain Afflelou no saben decirnos que graduación necesita nuestro hijo y lo que pretenden es que les compres las gafas ya que nos ven desesperados .",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "lorena Sánchez Robles",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIHwzFw2m-9iPLDJvOLBT2-VZAOGyuZL1ar9-imvz-gTKCU1g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Cogimos gafas para mi niña y la atención fue muy buena la niña salió encantada y contentísima con sus gafas nuevas gracias",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "David queijo diaz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXkde6nOYYA0ogSSUJP5Y0CUo9Nec3Yt8shvpOSRr720F-ZAN-M=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Profesionales, pacientes y muy atentos, con precios muy decentes. Es imposible pedir mas",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipNbrBaBve6zkQ2tSruWut3iWv1ugRNCD-sm0j8l&fid=0x0:0x804358313036ad1"
+      ],
+      When: "2024-7-13"
+    },
+    {
+      Name: "Nacho CN",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJXg6RDRTf3Jym6K26K2k-M0pQRxERQLSlWDlanLuZpCj4FCw=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Muy atentos y profesionales. La entrega de las gafas muy rápida. Te piden para probar cualquiera de sus monturas sin compromiso de compra y en dos o tres días te avisan para que pases a probártelas. Una vez compradas en otros 2 o 3 días hábiles tienes tus gafas graduadas en las manos. 6 estrellas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "José Carlos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIiY6h1vylyCouUefPN9-52MjEQDyLsgu0M60C69udH1y-LUw=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Realmente ha sido un auténtico placer y un acierto poder comprar mis gafas aquí. La atención no pudo ser mejor al igual que los productos adquiridos. Resuelven cualquier duda que tengas y dan muchas facilidades en el pago. Seguiré comprando aquí sin duda, totalmente recomendable!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Roi Painceira Villar",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWYyROb56GoyKztH67s-lAhxT18vnJdiPrMd8sXAng-EbTnKc8=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He visitado este establecimiento para comprar unas gafas de sol, ya el día de la compra la atención fue de 10, tanto el trato como el asesoramiento. En mi caso, he tenido problema con el modelo de gafa, ya que en breve periodo de tiempo se ha roto dos veces, y no he tenido ningún problema con la garantía, ya que me han facilitado el cambio en todo momento. Recomendable 100%",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana FM",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ00pcnfarH_mfGDv1gSnKx8nm3s5NYLsgLI6bSM6CYD36RNA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buen atención, el personal muy amable.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Alain Afflelou Óptico Carrefour Francisco Perez Carballo La Coruña",
+  category: "Óptica",
+  address: "Carrefour, Rúa Francisco Pérez Carballo, 5, Local 11 CC, 15008 A Coruña",
+  description: "Esta óptica es reconocida por su atención personalizada, donde el equipo se esfuerza por que cada persona se sienta segura y bien asesorada. Los usuarios destacan la amabilidad y profesionalidad del personal, quienes se toman el tiempo necesario para resolver dudas y ofrecer recomendaciones. Además, el precio es considerado muy bueno por muchos.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.8,
+    precio: 4.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–21:00"
+    ],
+    lunes: [
+      "10:00–21:00"
+    ],
+    martes: [
+      "10:00–21:00"
+    ],
+    miércoles: [
+      "10:00–21:00"
+    ],
+    sábado: [
+      "10:00–21:00"
+    ],
+    viernes: [
+      "10:00–21:00"
+    ]
+  },
+  website: "https://www.afflelou.es/opticas/la-coruna/afflelou-cc-carrefour-alfonso-molina-c-fco-perez-carballo-no-5-loc-11-15008?utm_campaign=gmb&utm_medium=organic&utm_source=google_gmb",
+  phone: "981 28 15 28",
+  review_count: 102,
+  review_rating: 4.8,
+  latitude: 43.338849,
+  longitude: -8.408128,
+  user_reviews: [
+    {
+      Name: "Maribel gomez fraguio",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKEiJZMnHqnk3CAE3YsDMjv4wgQhluk6gPRfNgddlj8a4naFQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Estoy encantada con el trato personalizado te sientes segura yo llevo muchos años con ellos y el precio muyyyy bueno",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Experiencias con la familia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXrjCcfJsr7gtxrSOqu0jdYkxDXjOcSn5GINNUp7jjDCIt4Q5Sg=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Hace un mes más o menos compramos las gafas de mi hijo aquí. Nos atendieron muy bien. Todos muy amables y el niño quedó encantado. Aunque yo ya era clienta seguimos igual de contentos o más.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipO4JQN_TE7b4216n3caedrwYCMcJsKWeON1hgNV&fid=0x0:0xb71347ba1d802070"
+      ],
+      When: "2022-1-9"
+    },
+    {
+      Name: "ANDRES BARREIRO GOMEZ",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVkqwe0bXMAuSiTcoNwLECrI3iFepApk1fiYDpXR_Xa7-f0oVlo=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy atentos tanto Lucía como Jose.\nMe asesoraron en todo y me quitaron de las dudas que tenía.\nPendientes de todo incluso después de haber recogido las gafas para saber si me estaba adaptando bien a ellas puesto que era la primera vez que usaba progresivas.\nLos recomiendo al 100%",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "javier rio",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLt2961hAJhxs_y4vgpN80DfaytAoFc_MYuAd60vp_EpGY9wQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Mi experiencia en Affelelou ha sido excepcional desde el primer momento. Este establecimiento no solo destaca por la calidad de sus productos, sino también por los valores y la excelente atención que brindan a sus clientes.\n\nDesde que entré, fui recibido con una cálida bienvenida y una sonrisa genuina. El personal es extremadamente profesional y cortés, demostrando un profundo conocimiento sobre los diferentes tipos de gafas y lentes disponibles. No solo se preocuparon por ofrecerme opciones estéticamente atractivas, sino también por asegurarse de que cada par se ajustara perfectamente a mis necesidades de visión y confort.\n\nLo que realmente distingue a Afflelou es su compromiso con la satisfacción del cliente. Durante mi visita, me tomaron el tiempo necesario para explicar cada detalle de las gafas que probé, destacando las características y beneficios de cada una. Me impresionó su paciencia y dedicación para asegurarme de que tomara una decisión informada.\n\nAdemás, la tienda promueve valores como la honestidad y la integridad. En ningún momento sentí presión para realizar una compra rápida o más costosa de lo que necesitaba. Al contrario, se preocuparon por encontrar el equilibrio perfecto entre calidad y precio, lo que me hizo sentir valorado y respetado como cliente.\n\nEl ambiente en la tienda es acogedor y profesional, lo que añade un toque extra a la experiencia de compra. La disposición del personal para responder a todas mis preguntas y proporcionar asesoramiento experto sin duda alguna me dejó una impresión muy positiva.\n\nEn resumen, recomiendo encarecidamente Afflelou a cualquiera que busque gafas de alta calidad y un servicio al cliente insuperable. Sus valores de honestidad, integridad y compromiso con la satisfacción del cliente los convierten en una elección destacada. Sin duda, volveré para futuras compras y seguiré recomendando esta maravillosa tienda a mis amigos y familiares.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alexandre Pazos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW0dikosjTXxhTKqY_w4hbPx-Jxs1_V__pFo9SlqAnDrkyblA8j=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Personal excepcional. Buen trato y simpatía.\nMe ayudaron a elegir el mejor par de gafas con las nuevas promociones además de asesorarme de que tipos de cristales debería escoger.\nVolveré sin dudarlo para la próxima compra.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jenny Oreiro Rama",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIfLfkOgAcZfLt0BephsMjRP335H0Z0czHeaXpU4JdCWbYKS_M=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "No puedo decir suficientes cosas buenas sobre Alain Afflelou y su increíble equipo. Desde el momento en que entré en la óptica.Me recibieron con calidez y entusiasmo. El personal fue atento, ofreciéndome consejos expertos sobre la selección y el tipo de gafa más adecuada a mis necesidades.A destacar Teresa,Esther y Raquel por su meticulosidad y profesionalidad.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Manuel Fernandez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJnVhRoMJ8VNhUJm7Ka2p20pkD1IzEDWqz-dOL8APt0vdMbqQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato exquisito, Ruth una gran profesional, muy implicada en cada caso para conseguir los mejor. Siempre acudimos a este local y lo seguiremos haciendo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Erika Lux Paz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWQUKQHDwD_s1p8el5l6VpBaKdGwWlU6K4U3X-lux44-lk74tM=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Soy cliente hace muchos años. El trato es super amable y profesional. Estoy muy contenta con mis gafas y lentillas!!!",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Ópticas Sánchez Rubal ~ C. Barcelona (A Coruña)",
+  category: "Óptica",
+  address: "Rúa Barcelona, 73, 15010 A Coruña",
+  description: "Esta óptica es valorada por su atención inmejorable y un equipo de profesionales atentos y amables. Los usuarios mencionan la exquisita amabilidad y el buen gusto a la hora de asesorar. Además, se destaca la eficiencia para solucionar problemas y la gran atención especializada.",
+  serviceRatings: {
+    atencionCliente: 4.7,
+    profesionalidad: 4.6,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–14:00"
+    ],
+    viernes: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ]
+  },
+  website: "",
+  phone: "981 25 59 91",
+  review_count: 15,
+  review_rating: 4.7,
+  latitude: 43.363051,
+  longitude: -8.422073,
+  user_reviews: [
+    {
+      Name: "Santi Fernández",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWtTILAuBdyjJMoXKomJ7QCkjwXLGTfOo94IRvUu0sbTZnw6sG6=s120-c-rp-mo-ba4-br100",
+      Rating: 3,
+      Description: "Fui a una pequeña revisión por problemas de vista, atencion inmejorable pero el informe nunca llegó al SERGAS...(Van 4 meses)",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marta Piso",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIv9lJSyORPwIrNrXzZHKc5fSlCROkDSmy28gsfyoHfuByhKQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "son mi óptica desde siempre y no los cambio. Profesionales, atentos y con exquisita amabilidad. Rocío encantadora y con un gusto estupendo a la hora de decidir que te queda mejor",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Campers & Tunelers DBD CO.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXgLtiVXLsrxwcp4dhyVNk8ysRx3NYWN36jGKBAUC2G3--xoDYS=s120-c-rp-mo-ba3-br100",
+      Rating: 4,
+      Description: "Me han reajustado las gafas y me han dado su estuche oficial ... Rectifico y subo la valoración, ahora tengo unas gafas ajustaditas y molonas... Los cristales he de decir que he pasado en 4k...se ven muy bién",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Yol _ananda",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUYLYj99CSp9mRXvVtqEUXQL9MS71Cdww6gHH9zFl-f8DfbyviFow=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Me solucionaron un problema con mis gafas de forma muy amable y eficiente.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Johny Hooker",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI_egv7mKyNEULCk39gw88d51MmMWiBZMsZMpDK_EFTDPxhAw=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Entré para consultar por una rotura de la montura de las gafas y en muy corto plazo me dieron una solución para aprovechar los cristales y tenerlo listo en sólo unas horas. Muy buena atención y satisfecho del servicio recubido.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Isa Roca",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJnqalsAO3s00uDDvD7CThotDQPE6ui2Ip1KyyyOnoFNroi4Q=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "No se puede pedir más; gran atención especializada , amabilidad y disponibilidad para cualquier resolución de problemas.\nAlex gracias por tu paciencia infinita para graduar y tú disposición para resolver dudas.\nCruz haces  que ir desde Culleredo, merezca la pena,  tanto por tu profesionalidad como por tu calidad humana ,gracias.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana Carballo Felpete",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKclVM2Kr_RBUxrq8dOmAdF_tdvJVsoI-bhqyD4YKj37m2pVw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Soy clienta desde hace años. Buen trato y personal atento y resolutivo.\nCruz es lo más.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Nuria Gonzalez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKvyLeaxJzSNI7dBFRBn_tCkqMsCFSmoyp49sTE6SfKISiFaw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Adrián Salgado Óptica y Audición",
+  category: "Óptica",
+  address: "Rúa Juan Flórez, 58, 15004 A Coruña",
+  description: "Se caracteriza por un trato inmejorable, donde la amabilidad, simpatía y gran profesionalidad son una constante. Los usuarios se sienten escuchados y bien asesorados, destacando la dedicación del personal y la pasión por su trabajo. Es considerado un lugar de confianza con excelentes profesionales y una atención personalizada que busca soluciones efectivas.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.9,
+    precio: 4.0,
+    variedad: 4.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "16:30–20:15"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "16:30–20:15"
+    ],
+    martes: [
+      "10:00–13:30",
+      "16:30–20:15"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "16:30–20:15"
+    ],
+    sábado: [
+      "10:00–13:45"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "16:30–20:15"
+    ]
+  },
+  website: "http://adriansalgado.es/",
+  phone: "881 07 62 60",
+  review_count: 451,
+  review_rating: 4.9,
+  latitude: 43.364188,
+  longitude: -8.408392,
+  user_reviews: [
+    {
+      Name: "Nieves Alcañiz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJyU-Kfg3HWxNNWPsL6TuDXmZI-seZImOFNM0vDMx4nvUmj1A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "*Una experiencia excelente en Adrián Salgado Óptica*\nDesde el primer momento el trato ha sido inmejorable: amabilidad, simpatía y gran profesionalidad. Me han dedicado todo el tiempo necesario, tanto como para graduar como para escoger monturas con la ayuda de Mery. Se nota la pasión por su trabajo y priorizan el bienestar del cliente, sin duda un lugar de confianza al que no dudaré en recomendar al 100%",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Margarita Queijas Seňaris",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKYVvAZCm8VnT-RBu9lyLSyrE858taFQqIpxkTdpLRXUm7WZQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Profesionalidad y trato excelente!!\nNuestro hijo hizo las sesiones de terapia visual en la clínica con Ana y en seis meses se le ha corregido el problema que tenía en la vista. Las sesiones le resultaron muy amenas y divertidas y, aunque tenía que trabajar un poquito en casa todos los días, siempre salía muy motivado de la terapia, lo que le ayudaba mucho a hacer los ejercicios durante la semana.\nPor nuestra experiencia animamos a realizarla a todo el que se la recomienden, porque desde luego los resultados son increibles.\nTanto Ana como todo su equipo son excelentes profesionales y siempre han sido super atentos con nosotros.\nRecomendable al 100%!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "marina kramar ferrero",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU2bXpCmXIs7T55MZzADmb2BOTkDY0cOdyC2xZKnhexKnf3w06G=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Profesionalidad y muy buen trato. Soy clienta de hace muchos años y siempre he confiado en ellos. Hace unos meses me fui a re evaluar la vista y me examinaron como si fuera la primera vez, me hicieron un diagnóstico sincero y concluyeron que no necesitaba cambiar los cristales (lo cual en otras clínicas no harían para hacerte comprar otros). Hoy mismo fui a arreglar unas gafas y no tardaron ni 2 minutos. Trato excepcional, muy contenta!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "cristina crespo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJFUGqzmhMuZ4kZXEfdH39ejfaLMdAnSVZ3_a2OnN9RdGTYOg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Recomendable 100%. Como siempre una experiencia fantastica!! Atención personalizada y excelente por parte de Ana y Mery.. siempre una sonrisa q te alegra el dia!! Mi optica de referencia sin dudarlo!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Antonio Guillermo Pereira Garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVfggNtflhsjb2ssem_4WD_aOCzAVRnjvzX0jep6nO83ya8Kc8=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Lleve mis gafas a cambiar una almohadilla, me pusieron las dos nuevas y no me cobraron nada, cuando necesite algo ya se donde ir.\nAdemás la atención de Adriana fue de 10.\nRecomendable, muy recomendable la óptica y más con personal así detrás de un mostrador.\nGracias.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Francisca Solas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUmJN90TWL1l3I79o9mAYLqKZVxrZ7RP-0NxCJVedWUEoKn_0dE=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "No puedo estar más encantada y agradecida con la ayuda de las chicas!!\nDesde el minuto uno, recibí una atención personalizada, me hicieron un examen visual que dio solución al dolor de cabeza que estaba teniendo hasta ese momento (me subió la graduacion). Me recomendaron lo mejor en cuanto al tipo de cristal para ayudar a mi salud visual por estar todo el día expuesta al ordenador!!\nTienen promociones fenomenales y gafas con mucha personalidad!! Y solo tardaron una semana en tener los dos pares de gafas listas, lo cual es bastante pronto en comparación a otras ópticas.\nGracias mil veces por la paciencia y por darle solución a mi dolor de cabeza jajaj, no me cansaré de recomendaros 🫶🏻💐",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria Prieto",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXbRmxjRyju_Exs63hD7UHJDpZU8WwzJ5yx_wSigmErP6eqXRmT=s120-c-rp-mo-ba3-br100",
+      Rating: 1,
+      Description: "En mi caso, cliente habitual,  con varias compras ahí ,me han denegado el arreglo de una patilla porque según la chica que me atendió,  no compre las gafas ahí.\nYo dispuesta a pagar la reparación necesaria pero su respuesta fue no.\nQue vaya a mi óptica.\nDesde luego no me pareció ni medio normal y han perdido una clienta para siempre.\nIré a ópticas Castro, a ver si allí me lo solucionan.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mismiscus",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL-nD-zlO4e6_oaTh8F8KUMuyG5GUBt1xmyiKPqsY924ht7ZA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "El trato fue maravilloso! Una atención super personalizada y muy amables.\nMucha explicación detallada y mucha variedad de gafas.\nMuy recomendable",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Miokio",
+  category: "Óptica",
+  address: "Rúa Hospital, 12, 15002 A Coruña",
+  description: "Este establecimiento es altamente recomendado por su excelente atención y precios muy competitivos. Los usuarios resaltan el trato cercano y profesional del personal, quienes se toman el tiempo necesario para examinar, explicar y resolver dudas. Además, se valora la calidad de los productos y la amabilidad en el servicio, incluso en situaciones de urgencia.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.8,
+    precio: 4.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    sábado: [
+      "11:00–14:00"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ]
+  },
+  website: "http://www.opticamiokio.es/",
+  phone: "881 87 87 33",
+  review_count: 29,
+  review_rating: 5,
+  latitude: 43.373179,
+  longitude: -8.401254,
+  user_reviews: [
+    {
+      Name: "roberto arriaza",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJR_z9qz-Xh_cRVxrFXAeV0AQY-mRd2x0S0Tl4QZKEtUw4UtA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "En casa estamos tod@s encantados. Atención de 10 y precios muy competitivos.  Muy recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana Gonzalez Mosquera",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJH6M9XQN-XTTZJsktyHqvj76lP68cPkJjzzFGMpxny1u6e9Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente,el trato al cliente cercano ,de 10, profesional,se paran,examinan  y te explican miedos y dudas,precios muy buenos y a pesar de no estar en mi zona mi marido y yo vamos hasta allí,muy recomendable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Milagros Blanco",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK1KAdoJ_JTMXf7gRbDiC-_E3vpOon3Grb_y5lfIo15NQywdA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy amable, buen trato. Un 10 en todo!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "JOSE LUIS BOADO LOPEZ",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVeLLJ2t5O24mMv-yOGI1gT4h7AayK3mYZi87gYip4rhX73kINB=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Calidad, precio y una atención exquisita",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jorge Castro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVGW_3eul9drjZ_r7mzlC5tws2ebVWQpNnCjog7b8VjS3Gu51jI=s120-c-rp-mo-ba6-br100",
+      Rating: 5,
+      Description: "Muy buena atención. Dedican el tiempo que sea necesario a cada cliente y asesorando con objetividad y teniendo en cuenta las circunstancias de cada uno. Muy didácticos y agradables. Totalmente recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Raúl Sampedro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWV3NSqIkpt26uy09LIrAMlCVfhr8eVzKLw5yORSUx9iLMkKhza=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente profesional y buenísima persona. Me atendió de urgencia aunque llegue tarde y se había pasado su hora de cierre. Vine de viaje a Coruña y me deje las gafas, me gradúo, me consiguió unas lentillas que me valieran y me enseñó a ponerlas y quitarlas, todo en tiempo récord, claro, con un trato excepcional y profesional. Si yo viviera en Coruña, está sería mi óptica sin dudarlo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Claudia Nuñez Carvallo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXr744nCsqBaCbmbXTGjCtQ48SoQV6KnG10hhSEMKP-2mCwD-sQ=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Muy amable y honesto en cuanto a sus recomendaciones. Revisión de dioptrías muy completa, personalizada y rápida. Sin duda una óptica muy recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Javier Monteagudo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW0_b1q3Iv-I0IXMezMeS92SZc5zJyXc6f1QTKcKSMZY1AbPWKBjg=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "De lo mejor que hay en Coruña, muy buenos profesionales, calidad inmejorable y el trato, ya no de 10, de 11 .....",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Lázaro Óptico",
+  category: "Óptica",
+  address: "Rúa Bailén, 14, 15001 A Coruña",
+  description: "Esta óptica con una larga trayectoria en A Coruña es elogiada por su profesionalidad y experiencia, transmitida a través de tres generaciones. El personal es considerado muy amable y atento, convirtiéndose en un lugar de referencia para las necesidades ópticas. También se destaca por contar con excelentes optometristas que proporcionan graduaciones precisas y detectan problemas de visión que otras ópticas más comerciales podrían pasar por alto. La calidad de las gafas y gafas de sol también es un aspecto muy apreciado.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 3.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "11:00–14:00"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "",
+  phone: "981 22 69 64",
+  review_count: 10,
+  review_rating: 5,
+  latitude: 43.370599,
+  longitude: -8.399172,
+  user_reviews: [
+    {
+      Name: "Vagalume",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ-WlUlGGR9pyilM5iAbfiJpYtMZpwWolu12ZqzGBT7AI71jjYu=s120-c-rp-mo-ba6-br100",
+      Rating: 5,
+      Description: "La óptica más antigua de Coruña, con su tercera generación al frente. Su profesionalidad y experiencia los avalan. Así deberían ser todas las ópticas.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipPp-G8bvZD0UKoBmjwcZcAPKNqPyw7Nmhlf99F1&fid=0x0:0xb94874ac65750342"
+      ],
+      When: "2023-5-17"
+    },
+    {
+      Name: "Mercedes Esteban",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIiZ-UkibDLl18VqtGsNV-Wvt-gm6hd78BWzbCOwB1KKqUhDA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Personal muy amable y atento. Mi óptica de referencia en Coruña.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Xesús Fiuza",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXIFhxkI5ysJk-eKb4MP3nFjzgChK5gckTvDNgzv-rbZEyVa-00=s120-c-rp-mo-ba6-br100",
+      Rating: 5,
+      Description: "Óptica con lentes de calidad y céntrica,recomendable su visita",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pedrinha Andrade",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUqR38i3mmicvLtvQrhgVjQPpLyL0x2xwcNkdpTHwzAV0ZMbVUGDw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "A mellor óptica da Coruña. Daniel é un boísimo optometrista. Tiven que atopar Lázaro para ter, tras moitos anos, unhas gafas correctamente gradadas. Ademais detectoume un problema de visión que pasarán por alto noutras ópticas máis comerciais. Co meu fillo pasou o mesmo. Unha óptica imprescindible.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ian Leslie",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXt3Fttp_PWRaAVsqJ1TMuk7Xw1NRpHx7vzg1ApFks2BvbW9S95lg=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Excellent service from an Artisan Optometrist. Quality glasses and sunglasses.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jenny Jenn",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVUxHnRFdl553SkU0Cf1yMrMuwbyJmu1J5BCvWpsf7pWOoBG6ys=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Xose",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWi6BNORdfqEp9BzLtFsaoW_EN-BSjCgJui7yReNTsZ4nVpZG2yXQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "maria amelia Iglesias",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU0iotzbxJPZ4DXSdqu8JwuBOdbakmcM7c7kA53cPDKcoKhBszSBg=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Alain Afflelou Óptico Calle Manuel Azaña, A Coruña",
+  category: "Óptica",
+  address: "Rúa Manuel Azaña, 68, bajo, local 2, 15011 A Coruña",
+  description: "Esta óptica es conocida por ofrecer una experiencia excepcional con un personal muy profesional y amable que hace que los visitantes se sientan bienvenidos y bien atendidos. Realizan exámenes de la vista completos, ajustan la graduación para renovar las gafas y explican detalladamente las últimas novedades tecnológicas en cristales y la elección de monturas. La disponibilidad de gafas de sol con clip se destaca como una característica muy cómoda. Si bien muchos han tenido experiencias positivas con un excelente servicio y atención al detalle, algunos comentarios negativos mencionan problemas con la calidad del producto, el servicio postventa y la profesionalidad de algunos miembros del personal durante la adaptación de las lentes.",
+  serviceRatings: {
+    atencionCliente: 4.0,
+    profesionalidad: 4.0,
+    precio: 3.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "16:30–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "16:30–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "16:30–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "16:30–20:30"
+    ],
+    sábado: [
+      "10:30–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "16:30–20:30"
+    ]
+  },
+  website: "https://www.afflelou.es/opticas/la-coruna/afflelou-c-manuel-azana-68-15011?utm_campaign=gmb&utm_medium=organic&utm_source=google_gmb",
+  phone: "981 91 64 84",
+  review_count: 37,
+  review_rating: 4.6,
+  latitude: 43.374628,
+  longitude: -8.432513,
+  user_reviews: [
+    {
+      Name: "David Gonzalo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUPYIlpAweJTRWa909Wkdf4Ksw5hM5NOqh4SoMKARXxFz4q7pno-w=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Experiencia excepcional. Desde el momento en que entré, me sentí bienvenido y atendido. El personal es muy profesional y amable. Me realizaron una revisión de la vista completa y ajustaron la graduación para renovar mis gafas. Me explicaron con detalle las últimas novedades tecnológicas en cristales y elección de montura. Que las de clip hacen que tenga gafas de sol de un amanerado súper cómoda.\nY ahora ya con mis nuevas gafas es como si hubiera pasado a ver en HD.\nAgradecido por el excelente servicio y la atención al detalle que he recibido.\nCuando tengo que renovar mis gafas siempre vuelvo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Daniel agra anboage",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLvnoJDtNgKeMbrxu3bKGMWfFIMeLhfgGa0Ur5uBrZyWBnywA=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Mi experiencia aquí ha sido de 10 solo tengo palabras de gratitud para Pablo,Montse.por Su amabilidad a la hora de atenderme pero muy especialmente a Alejandra no solo por ser tan profesional siempre mirando por lo que mejor se adaptase a mi vista sino tambien por su paciencia y trato amable muchas gracias",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "María Pg",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJPqKawvdyXwZqvgdCG1WAg8pUo3SRw2CLdJG7yw98ygzK0=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Una vergüenza. Compre unas gafas; salen mal, se les va el color, cabe destacar que esta dentro de la garantía, las llevo, las van a mirar dentro, con la mala suerte que a la chica se le parten. Me quedo sin gafas (todo esto dentro de la garantía) me dice que tengo que coger otra montura que se adapte a mis cristales, independientemente de si me gustan o no. No hay ninguna que me cuadre, me dice que espere que les llegaran monturas nuevas. Trabajo en comercio y mi horario es igual al de ellos por lo que me es imposible acercarme, que vaya mi marido y me traiga monturas para probar también les parece mal.finalmente tengo que quedarme con una montura que No me gusta con la que veo borroso porque se ha movido el eje de la gafa y me dice que ya me acostumbraré que es cuestión de días. Entiendo que si me rompes las gafas y no tienes el mismo producto, o me devuelves el dinero o por lo menos empezamos de cero y me das unos cristales nuevos para que pueda escoger las monturas que me vayan ya que al final yo compro la montura y en función de eso hacéis los cristales. Sobre todo\u00a0 teniendo\u00a0 en cuenta que las gafas las rompen ellas. Pero oye al final tenemos que terminar en consumo porque nadie se hace responsable y yo tengo que acabar con una montura que no me va, con la que veo mal y en la\nQue no cuadran los cristales, si le hacen esto a clientes de toda la vida no quiero imaginar lo que pueden tomar el pelo a los nuevos! Suerte a todos los que vayáis allí! 😵‍💫",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Nerea",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLXW9Y2U0IDRrxy0q8VViGixUSJ3OJoA0t0D1Ihe9fraewvAw=s120-c-rp-mo-ba2-br100",
+      Rating: 2,
+      Description: "He ido a comprar gafas y muy bien, muy agradables.\nCuando he ido a adaptar lentillas...he quedado descontenta..\nAl cabo de unos meses he tenido que dejar de usarlas ya que me molestaban..he ido a otro lugar y era todo porque no me han explicado como debía ser su mantenimiento. Tampoco me han hecho las pruebas necesarias para su adaptación ni su control, ni se han molestado en hacer un seguimiento, el cual es muy importante. Por no hablar de que la persona que me las ha adaptado ni siquiera era profesional del sector, sino una ayudante",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Hez Ro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXKiIIifQN1WYj_hdG41lKIpQXdLYcLh-IvSunqJs3O6Yxxupkj=s120-c-rp-mo-ba4-br100",
+      Rating: 1,
+      Description: "Me he comprado unas gafas de sol hace menos de 2 meses y se han oxidado las bisagras, se ha puesto verde como se puede ver en la foto. Ahora está rígida la pata",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipPiYZncmoNsI_4fMnZNOq7B8exnaiOWM-6sHFuS&fid=0x0:0x2b2d7df7e08dd7f3"
+      ],
+      When: "2023-4-29"
+    },
+    {
+      Name: "Ana Boquete Veiga (Anuska)",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVml0E036HQRkATAEJ5qEpB083BCpgPdwc9yQHUp1jx_IfKw2AP=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Servicio excelente y trato inmejorable. En 2 días tenían mis gafas listas. Me recordaron mi cita previa y me avisaron de cuando podía recoger mis gafas por WhatsApp. Escrupuloso cumplimiento de las medidas Covid.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipMEsiUtNCrpjwY3n9S1YLes6dIsW2GuuKJBdLFV&fid=0x0:0x2b2d7df7e08dd7f3"
+      ],
+      When: "2021-12-2"
+    },
+    {
+      Name: "Rafael ML",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXQPob4u79DVfVxzUS6tcxOwN_3waypQpGFiLV-3itRSkcC2TN27w=s120-c-rp-mo-ba6-br100",
+      Rating: 5,
+      Description: "Mi óptica de confianza, por la gran atención que muestran siempre, personalizado en Nuria.\nVariedad de modelos, material de última generación para realizar valoraciones sobre la salud ocular y también para realizar una graduación meticulosa y detenida.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jacobo Martínez Fernández",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVLdRMuSyhV3T-ntt-46W26nzNhIT5ApPzZsPgulmhmtdlvx8o=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Atención de 10. Me ha atendido Nuria con mucha paciencia y profesionalidad. Trato magnífico y genial asesorado en todo momento!",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Sánchez Rubal",
+  category: "Óptica",
+  address: "R. Sánchez Bregua, 15004 A Coruña",
+  description: "Este establecimiento es frecuentemente mencionado como una óptica preferida debido a su servicio amable y profesional. Muchos reseñadores destacan la ayuda y el conocimiento de miembros del personal como Sofía y Raquel, quienes brindan asesoramiento paciente y profesional, teniendo en cuenta las preferencias individuales. Se les reconoce por tener una amplia selección de gafas de las mejores marcas a precios muy competitivos. Si bien la mayoría de las opiniones son positivas, algunos comentarios mencionan experiencias negativas con la actitud de un optometrista y problemas con el servicio postventa en relación con devoluciones y ajustes de lentes.",
+  serviceRatings: {
+    atencionCliente: 4.5,
+    profesionalidad: 4.5,
+    precio: 4.0,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–14:00"
+    ],
+    viernes: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ]
+  },
+  website: "",
+  phone: "981 92 89 04",
+  review_count: 25,
+  review_rating: 4.8,
+  latitude: 43.365268,
+  longitude: -8.405145,
+  user_reviews: [
+    {
+      Name: "Laura Cabaleiro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVVzZ6eGpK56AvzkDRAmdZMSxAi_KZJx-WdrGme8P4pWUbWvVaX5w=s120-c-rp-mo-ba2-br100",
+      Rating: 4,
+      Description: "Pongo esta reseña por Sofía que es encantadora. Aunque me trató y asesoró genial, tuve que devolver el producto al ser un regalo no deseado. Por política de empresa no devuelven el dinero, dan un vale de compra, cosa que ya sabía cuando hice la compra. Si alguien va a comprar a las ópticas Sánchez Rubal y no le importa llegar a algún acuerdo conmigo para que pueda recuperar el dinero lo agradeceré.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "manola thequeen",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLGH7y29dmtcViNwg5FNeFR-Nromg_Im_NKi4L3ShNNYE088A=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Trato nefasto por parte del optometrista, intimidatorio y prepotente. No me quiso explicar el porqué de los ajustes que me hacía en las lentillas. Hasta me colocó él las lentes de contacto, como si no llevase 30 años colocándomelas yo a diario. No me sentía a gusto con la graduación que me ponía y eso le parecía mal. Hice mis gafas progresivas de 1000€ y de las lentillas ya me olvidé. No volveré. Afortunadamente hay ópticas de sobra en la ciudad. Ah, y 30€ de consulta aparte de las gafas",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maripauli",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVVBBA7jBwVb18fbxQ35hMcofdIZABLh-h3Q1UdKcU41TJvdWznMQ=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Mi óptica de referencia desde hace años. Muy amables y profesionales, disponen de cantidad de modelos y la ultima tecnología. Trato personalizado e impecable.\u00a0 A destacar la experiencia y profesionalidad del Sr. Rubal, y la cercanía, conocimientos y atención impecable de Sofía.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pilar Somoza Pazos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKDPO02WfHsSmsghk4KqI6P6z-X7C3bDIVipP3Ggq-XNHSofQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Acudí el sábado por la tarde a la óptica de Sánchez Bregua. Me atendieron Raquel y Sofía. Me asesoraron con mucha paciencia y profesionalidad, teniendo en cuenta en todo momento mis preferencias. Me quedé muy satisfecha la atención recibida. Cuentan una amplia selección de gafas de las mejores firmas a precios muy competitivos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alejandra Pedroza Salinas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVZ4uZMyQRXzcjnIvI0JNKUePkFn_zb-JQOJSG0ltQ1_aaekYdu=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Nuevamente en mi óptica preferida de A Coruña, control y actualización de lentes con\u00a0 Don Manuel,profesional y trato exquisito con los clientes, de igual manera todo el equipo de la tienda estupendo , y claro con Sofía qué es un crack en atención ; resolviendo todas las dudas y exigencias, sobre\u00a0 todo las mías\u00a0 para adaptar mis progresivos ,agradecida por la excelente disposición y profesionalidad, gracias 🙂",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lourdes Castro Rial",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWBiz5VT20D7DooaaiWnXbu1gBjciNe3CoqtDe7hBaPCEYbxKGPkA=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Sanchez Rubal es la mejor óptica\u00a0 que yo me he encontrado desde que uso gafas a los 12 años. Atención, calidad, profesionalidad... lo tienen todo además de una gama de gafas espectaculares!!!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Sagrah Rubio",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUys2-WJMeMe2qnj-UNFAJo5Jv-hEFfPJP-siZeen9QTgykQ7W_=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "He valorado con 5 estrellas el establecimiento Sánchez Rubal de la calle S. Bregua,\u00a0 por el trato que ofrece al cliente, hace que éste se sienta cómodo, pueda elegir con tranquilidad el producto y se le asesora pensando en las necesidades y preferencias del cliente. No dudan en cambiar el producto, por muy caro que sea, si uno no se siente bien con él (incluyendo montura y lentes, aunque sean progresivas, éste cambio se ha realizado conmigo). En concreto tengo que felicitar por el trato recibido\u00a0 a los profesionales Manolo y Montse, ésta última es encantadora y excepcional .\u00a0\u00a0 ¡Si necesitas unas gafas no dudes en visitarlos te sorprenderá su buen trato y enseguida notarás la direfencia con respecto a otras ópticas! Además el local es muy bonito y agradable.\nSagrah Rubio",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Carmen Colmeiro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL1qS5zw5u8ijn5QYqBw_w5zAWJFGXkskxZ6C3Q9zN4gT0TdQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Magnífico servicio, lleva siendo mi óptica de confianza más de 20 años, siempre me asesoran de la mejor manera posible!! Muchas gracias a Manuel y todo su equipo! :)",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Ópticas Sánchez Rubal ~ Avda Finisterre (A Coruña)",
+  category: "Óptica",
+  address: "Avenida Finisterre, 151, 15004 A Coruña",
+  description: "Esta sucursal de Ópticas Sánchez Rubal es frecuentemente elogiada por su excelente y profesional servicio. Miembros del personal como Guillermina, José y Patricia son descritos como amables y serviciales, siempre buscando soluciones y manteniéndose al día con los nuevos productos del mercado. La atención proporcionada es altamente valorada. Sin embargo, una reseña expresa insatisfacción con el servicio postventa y la sensación de ser una molestia al abordar problemas con las gafas de niños.",
+  serviceRatings: {
+    atencionCliente: 4.5,
+    profesionalidad: 4.5,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "16:30–20:00"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "16:30–20:00"
+    ],
+    martes: [
+      "9:30–13:30",
+      "16:30–20:00"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "16:30–20:00"
+    ],
+    sábado: [
+      "10:30–14:00"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "16:30–20:00"
+    ]
+  },
+  website: "",
+  phone: "981 15 44 94",
+  review_count: 8,
+  review_rating: 4.5,
+  latitude: 43.361749,
+  longitude: -8.415026,
+  user_reviews: [
+    {
+      Name: "Polo Martínez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJiFU9g4a5Bz-48uUfWVzwf0zcThYi-wJfqCbVxt45N1xJWf7s=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "GRACIAS por un trabajo bien hecho, amables y siempre profesionales, Guillermina, José y Patricia. Buscan soluciones y siempre atentos a los nuevos productos del mercado para ofrecerte más opciones. Atención 10 para los\u00a0 tres miembros de nuestra casa que utilizamos sus servicios.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lorena Pier García",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI_HktXmrVGN-MrkQASVgil4zG3BJlNpY0DEccSZNpXjpS0sA=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Tuve que ir en varias ocasiones por desperfectos en las gafas de la niña y la verdad que me fui siempre con la impresión de estar molestando, las próximas gafas las compraré en otra óptica que tenga un servicio técnico en el que me den mejor trato.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "yelena smith",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVi09rd2OreolZuoHD9ILOsikCev9CSipmVdArVgWUfCYyLKVk=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Atención de 10 y muy profesionales.\nMe arreglaron unas gafas que daba por acabadas. Muchas gracias por todo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Luigi Lema",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUx16z-3vG1dHfaCs6nu8SaZsNcD1HChPWdit-7rR7XFL-Ni_A=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Llevo muchos años viniendo a esta óptica y siempre me han tratado genial y el servicio excelente. ¿Y en precio?. Pues hay que valorarlo todo, pero creo que los precios son buenos para la calidad que ofrecen.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rosarito9119 Vázquez Veira",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU301G_CJjlFOPcuY_Ruu5RycUE_5qPFLMW-YqrR8dZsdtfV4oi=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Siempre atentos a tus necesidadesy comodidad.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana Carballo Felpete",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKclVM2Kr_RBUxrq8dOmAdF_tdvJVsoI-bhqyD4YKj37m2pVw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato profesional y personalizado.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Esteban Piñeiro Figueiras",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXGqt0g64IFBqYlghvMj-A4JjwVyu30fUXmX2nF4xjEoVxNMtMxew=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Miguel Alonso Becerra",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW5xJPVlfGS0mW03mP8AbrDHvryP6uKP7JUQmd9utf1AT6dmz5V=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Óptica Castro Rúa Nova",
+  category: "Óptica",
+  address: "Rúa Nova, 10, bajo, 15003 A Coruña",
+  description: "Esta óptica es muy elogiada por su excelente atención al cliente, incluso en compras online a través de su Instagram. Los clientes destacan el trato atento y servicial del personal, los envíos rápidos y puntuales, y los detalles considerados que se incluyen con las compras. El personal, en particular José y Laura, son mencionados por su profesionalidad, paciencia y capacidad para resolver dudas y brindar seguridad. También se les reconoce por detectar precozmente patologías oculares y proporcionar asesoramiento.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "16:45–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "16:45–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "16:45–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "16:45–20:30"
+    ],
+    sábado: [
+      "10:00–13:45"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "16:45–20:30"
+    ]
+  },
+  website: "https://www.instagram.com/castroopticos/",
+  phone: "981 11 61 11",
+  review_count: 42,
+  review_rating: 5,
+  latitude: 43.36929,
+  longitude: -8.402558,
+  user_reviews: [
+    {
+      Name: "Lidia Jiménez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIck34sBRUoCPnAsWZuX5recfNGya2K_irOePPakZY8ZPl0dQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Todo perfecto. Muy buen trato, en mi caso he comprado desde su Instagram y la experiencia de compra ha sido como si estuvieras en la tienda. El envío ha sido rapidísimo y super puntual. Además me han enviado unos detalles con la compra. Así que totalmente recomendable. Muchas gracias!!!",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipMea9A8bval9os4zMyVSnEikqICyCkMcJ-jeYae&fid=0x0:0x8c0f9e68991050f5"
+      ],
+      When: "2025-2-6"
+    },
+    {
+      Name: "Aida Santovena",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW8Uqfzloc-t6FIU7vOPk9aTh2Pu9-TX3KVGjK8rVxC_SnGWkFf=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Ha sido una experiencia de compra de 10. Atención inmejorable, excelente calidad de producto y personal muy comprometido. En mi caso particular consiguieron unas gafas que estaban agotadas y me las enviaron a mi domicilio fuera de Galicia. Buen packaging y un montón de detallitos. Hacía mucho tiempo que no abría un paquete con tanta ilusión. ¡Repetiré seguro! ¡Gracias!!❤️",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipP2beofrRHmo5qbzj3GhHWzP7T6NpyJrNEJZye-&fid=0x0:0x8c0f9e68991050f5"
+      ],
+      When: "2025-1-30"
+    },
+    {
+      Name: "Juan Bejerano",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWlzsOj1OIv8LpIxDTEeLKpW4IpGqF_-Y6t3H59WgfDY_WXclmd=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Acabo de estar esta mañana en Rúa Nueva, el trato es inmejorable, José que fue la persona que me atendió es un profesional de los pies a la cabeza, te atiende con muchísima paciencia, resuelve todas las dudas y te brinda muchísima seguridad, ojalá hubiese más personas que diesen el trato que me brindó a mí, salí encantado.\nGracias",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Susana Alvarez faza",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVPpkIvgRTMhzb_i0BJ2bs44FmQGQxDQoN2PBDar_ZutIEy5m4=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Conocí la óptica por redes sociales y como me encantan las gafas un día decidí escribirles me respondieron super rápido me aconsejaron genial mandándome vídeos y hablando conmigo por teléfono decidí pedir unas gafas y cuando me llegaron me quedaban genial!!!! Volveré a comprar seguro así da gusto que te atiendan aunque no sea físicamente.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "MAITE JIMENEZ MUÑOZ",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW_ebJ8uhfheLzoaUl5y_GBE7DnfsziW_oWXtK65jNTpCJ9_gQt=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Atención maravillosa y super amables. Si enamoran cuando las ves en redes, cuando te llegan puedes flipar de los bonitas y bien que quedan. Una experiencia muy gratificante que recomiendo 100%",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Paloma Mateos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUfLXziyD6L2kkyP4FJIxUNsffG8Fp5ur4we-rLxWDODZ-8bDw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Hoy mismo he recibido mis gafas. Son preciosas y estoy muy contenta con ellas. Además Laura se portó genial, me informó en todo momento y el servicio ha sido muy muy satisfactorio. Fdo.: Melisa 👏👏",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipMNCSWZClCDBEpBCX3PuyLNGJhsN4FTCo2z9VTM&fid=0x0:0x8c0f9e68991050f5"
+      ],
+      When: "2024-1-16"
+    },
+    {
+      Name: "Daniel",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKVX5h_-qW_y7-IZtPw8EnLHX4E2RFmryWyOXs6R7TOCx2Rbg=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Laura ha sido super atenta, nos ha explicado todo de forma sencilla y clara, con un trato cercano y prpfesional. Encantados!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jessica Garabal Barbeira",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWQDpsx54vNWSaNRKi-YQQmwhzyn7jIRPUYeq_UawFlsnRoxkBYtg=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "En Óptica Castro Rúa Nova, Laura y Jose nos atendieron con calma, profesionalidad y amabilidad.\n\nGracias a sus conocimientos, detectaron precozmente una patología ocular y nos asesoraron y acompañaron en el proceso.\n\nSu atención excepcional hizo que nuestra experiencia fuera inmejorable. No podemos estar más que agradecidos por su buen hacer.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "gafas.es Avda. de Finisterre",
+  category: "Óptica",
+  address: "Avenida Finisterre, 80, 15004 A Coruña",
+  description: "Este establecimiento ha recibido comentarios mixtos. Algunos valoran la excelente atención y la profesionalidad de miembros del personal como Ana y Ada, destacando la buena atención y el asesoramiento. Sin embargo, otros expresan preocupaciones significativas sobre evaluaciones oculares poco fiables que conducen a recetas incorrectas, y experiencias negativas con ciertos miembros del personal que son descritos como poco serviciales o incluso groseros. Por lo tanto, se aconseja llevar la receta de un oftalmólogo profesional.",
+  serviceRatings: {
+    atencionCliente: 2.5,
+    profesionalidad: 3.0,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–14:00",
+      "16:00–20:00"
+    ],
+    lunes: [
+      "10:00–14:00",
+      "16:00–20:00"
+    ],
+    martes: [
+      "10:00–14:00",
+      "16:00–20:00"
+    ],
+    miércoles: [
+      "10:00–14:00",
+      "16:00–20:00"
+    ],
+    sábado: [
+      "Cerrado"
+    ],
+    viernes: [
+      "10:00–14:00",
+      "16:00–20:00"
+    ]
+  },
+  website: "https://marketing.net.gafas.es/ts/i4661476/tsc?amc=socialorg.brillende.501607.512285.55163&smc1=smc1=es-lp&rmd=3&trg=https%3A%2F%2Fwww.gafas.es%2Fstorepage%2F%3Fstore%3D23682",
+  phone: "",
+  review_count: 164,
+  review_rating: 4.3,
+  latitude: 43.364614,
+  longitude: -8.412328,
+  user_reviews: [
+    {
+      Name: "José Ibán Morillo Núñez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJEdRTmDppQyUMEugZzADKr1qujWJwdYHTb2OriuLYKR_CJ_Q=s120-c-rp-mo-ba4-br100",
+      Rating: 1,
+      Description: "NO SON FIABLES ¡CUIDADO!\nTras una evaluación, me dijeron que tenía una dioptría más en cada ojo. Aunque me sorprendió, pues llevo 25 años con la miopía estable. Aunque esto suponía un aumento del 100% (dupliqué), como eran muy, muy baratas, me hice las gafas pensando, \"malo será\"...\nAl mismo tiempo, agendé una revisión con el oftalmólogo, quién me confirmó que ¡Nada había cambiado!😲😡🤬.\nNo es de recibo algo así. No sé el motivo; mal material, poca formación... No lo sé, pero esto es jugar con la salud de la gente.\nYa había visto algún comentario similar, y aún y así caí como un bobo.\nSi quieren comprar en Gafas.es, lleven su receta de un oftalmólogo profesional, pero no  sé queden con la evaluación que ellos le hagan.\nPara mí roza la estafa y la mala praxis...",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Bea Requeijo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIKGPMkjGjeLD9WI2YOVlVEsFizfK2___mvfHUkbvyHOFHLUA=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Hola, ayer recogí mis gafas y en el momento de la recogida me parecía que tenían demasiada graduación pero la vendedora me dijo que estaban correctas, Ayer viernes, en cuanto llegue a casa y me las puse para leer, efectivamente, confirmé que tenían demasiada graduación y al minuto me empezó a doler el ojo. No sé si el problema ha sido que me han graduado mal o se han equivocado al poner el cristal. El tema es que este lunes iré a  la tienda para devolver las gafas que no se corresponden a mi graduación.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Eliane Alfonso",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLIDiGPkZTuBnMb50O0_qD_v4PUZYE1dcEwF6ZNm92VzT-vAQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He llegado hace poco A Coruña y necesitaba un buen lugar para hacerme examen completo de mi vista y ponerme gafas lo más pronto posible, una amiga me ha recomendado este lugar y la experiencia a sido fenomenal, realmente espectacular, muy buena atención y rapidez, ha sido tan buena mi experiencia que he recomendado este sitio a muchos amigos y a mi esposo le he sacado cita para su examen.\nUn total 100. GRACIAS Gafas.es 🙂",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipMTGjLF1yJMau_-vYm_dN6EwY7tTazZH-p7Zdil&fid=0x0:0xc9d2bab4ece93c1d"
+      ],
+      When: "2025-1-15"
+    },
+    {
+      Name: "Mai A.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLSSTEf9Dvja3B6w-59fINBLXXrdQ5hmQ17nRTscG4mBXXrUg=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Gracias a Ana y Ada por su excelente trabajo y profesionalidad,  hoy tengo mi graduación al día y unas gafas perfectas para mi. Sin duda una experiencia 100% recomendable de buena atención y asesoramiento.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Aldara Campos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW-2D_NTPDLKyGweKeUJXwjECzfk0M1I_0MwpVdCMZuF8yegJX9OA=s120-c-rp-mo-ba3-br100",
+      Rating: 1,
+      Description: "Fui con mi madre y salí espantada. No me meto con la profesionalidad de nadie (igual son unas profesionales maravillosas, no lo sé) pero que tenga que decirle yo a la persona que me está atendiendo \"estamos de acuerdo en el desacuerdo\" para zanjar un tema me pareció lo último. Es más, hasta le dije \"no estoy aquí para discutir, si quieres tomando un café te explico mis razones\" yo no voy a una óptica a discutir con nadie que para eso tengo una vida y ella erre que erre con su amigo. Que me da igual si amigo, que no estaba hablando de nadie. Pero bueno, ya se sabe, no hay más sordo que el que no quiere oír...\n\nEs más, salimos de allí diciendo \"que chabacanería\"\n\nFatal, horrible, terrible a nivel actitud. No tengo ninguna queja a nivel profesional pero no vamos a volver aunque le dijimos que si porque queríamos evitar \"rollos\" con alguien que no queríamos volver a ver.\n\nSi lees está reseña, da la cita por cancelada aunque te va a llamar mi madre mañana.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Montse Cuadrado",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVBXmcLhhOJLJfcXqV-2iO89CPd0iS4Rx79-rP4wsZ4UhZsHMJJ7w=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He quedado muy satisfecha con la atención recibida .La chica que está en el mostrador es encantadora y muy amable.Buena relacion calidad precio.\nServicio ágil y buena comunicación con el cliente para avisar de la recogida. Recomiendo  esta óptica.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pombi Vila López",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVBSKQvLmouTVXJHHMUfs_vR1brFf8qPbtxJeHWVpfFWTzpLvs4=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Fui a hacerme unas gafas progresivas, no solo quedé encantada con el trato de las dos dependientas, me enseñaron un montón de gafas, una paciencia infinita! Sin duda, las recomiendo. Muchas gracias!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria López",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ-LlfrFJfGPEoajJQrsQkXWcHPSTe6h-4cKorZLb519PufPQ=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Acabo de salir de la tienda\nLo peor que me encontré en una tienda como dependienta  en mucho tiempo. Si se les ocurre ir allí tengan cuidado que no les atienda Ana,  da miedo. Me quedo corta con los calificativos de déspota, prepotente, no sabe tratar al público, nada empatica, lo peor de lo peor. EXPERIENCIA NEFASTA\nNADA  RECOMENDABLE\nA mis conocidos les haré la advertencia",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Óptica y Centro Auditivo Soloptical Marineda",
+  category: "Óptica",
+  address: "Est. Baños de Arteixo, 43, LOCAL O.72, 15008 A Coruña",
+  description: "Constantemente se reporta una atención excelente en este centro óptico. Los usuarios aprecian el personal amable y servicial que está dispuesto a hacer un esfuerzo adicional, como arreglar gafas de forma gratuita o sin cita previa. El personal, incluyendo a Sara y Andrea, es mencionado frecuentemente por su eficiencia, amabilidad y profesionalidad. También se destaca una buena variedad de gafas y precios increíbles.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.0,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–22:00"
+    ],
+    lunes: [
+      "10:00–22:00"
+    ],
+    martes: [
+      "10:00–22:00"
+    ],
+    miércoles: [
+      "10:00–22:00"
+    ],
+    sábado: [
+      "10:00–22:00"
+    ],
+    viernes: [
+      "10:00–22:00"
+    ]
+  },
+  website: "https://soloptical.net/es/soloptical-marineda/?utm_source=google_my_business&utm_medium=boton_sitio_web",
+  phone: "686 91 39 90",
+  review_count: 413,
+  review_rating: 4.8,
+  latitude: 43.344619,
+  longitude: -8.427675,
+  user_reviews: [
+    {
+      Name: "Corporación Harbour C.A",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWeylXkk_vtc57na8LbHi-U0mwcwIgE-DuepU8nXzFbaac9-7SL=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Excelente atención! Vine a poner un tornillo de mis gafas y todo salió genial, hay mucha variedad y precios increíbles en gafas ! Las chicas muy amables! Recomendado",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipP6ilAcBzXzr7tJC2uDneDDJ1BntHTEYan6vCln&fid=0x0:0xf4238f8f8dfc5210"
+      ],
+      When: "2024-12-30"
+    },
+    {
+      Name: "ricardo gracia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIYwCQSa2evxKYsVB7qCWfHir7kHXMtFkytO1nNw9vQj9tqLQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Recomiendo +++. Fui a que me pusieran una plaqueta nasal ya que se había roto, y me la cambiaron gratis sin cita previa. Sin duda, las próximas que me compre serán en esta tienda. La chica que me atendió excepcional, un placer.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alvaro Campos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIU3PNusBjdDHP-KPNxfI3_EBZ1Q_Era6l4T12JMa6eboQ4_g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fui por una molestia en el ojo con la que llevaba meses, el personal muy majo y agradables, me atendieron al momento y de forma gratuita, mientras que en otras ópticas me mandaban pedir cita. Me dijeron de dónde venía mi molestia y la forma de quitarla. Muy satisfecho con el servicio y el personal 🙂🙂🙂",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Tania Cernadas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVK6yX-Gm8Cl6-QduwRxQs2z48JB8h6Nqwo-5syNoKhYZA3L3fe=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fuimos a solucionar un problema que teníamos con un producto y nos ha atendido Sara nos ha tratado muy bien, ha sido muy eficiente y amable con nosotros. Volveremos sin duda.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Santiago",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWOcw3X0HL989QiGzndY5sdrFbJGi07Pi-j26sUX19mg8kxmwE=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Tienda perfecta. Siempre compro ahí. Hoy fui porque se me desmonto mi gafa y enseguida me pusieron un tornillo y me dieron fundas nuevas. Son super amables! Muchas gracias por todo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Manuel Dominguez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJjUE6LDMOpm66J4uCxvQ5t5UojQO-htG7YFZ9X2fTJDKC7GQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente atención . Las chicas fueron muy amables y profesionales, resolvieron todas mis dudas y me ayudaron a elegir lo mejor,\n¡Gracias Andrea!.\n¡Totalmente recomendable!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Andrea Sánchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVBQImRCO_gx6tW3qh9HpYa24QpyCYX3jttpRfAGlKoDoLnhFbQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Entré para ver una promoción de gafas de sol y salí muy contenta. Me atendieron genial, buscaron varios modelos diferentes que se adaptasen a mi gusto y todo fueron facilidades. Volveré seguro",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Monica SD",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKZ2vF-5FgYEqUZBiKc4jdSZvQ-7MQo736rjt4AMJ3_w7_9hw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Llevé unas gafas de sol que me han regalado de otra tienda porque cayeron los tornillos que sujetaban los cristales. Me han atendido muy amablemente colocando dos tornillos nuevos. No me han cobrado nada. Personal muy profesional y amable. Sin duda mi óptica de confianza.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Souto",
+  category: "Óptica",
+  address: "Rda. de Outeiro, 230, 15010 A Coruña",
+  description: "Esta óptica de larga trayectoria es conocida por su trato atento y personalizado. Los usuarios valoran la disposición del personal a ayudar, sus precios adecuados y sus esfuerzos por arreglar o encontrar soluciones a cualquier problema con las gafas. La profesionalidad y honestidad del servicio también son mencionadas con frecuencia, lo que la convierte en una óptica local muy recomendable.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–14:00",
+      "16:30–20:00"
+    ],
+    lunes: [
+      "10:00–14:00",
+      "16:30–20:00"
+    ],
+    martes: [
+      "10:00–14:00",
+      "16:30–20:00"
+    ],
+    miércoles: [
+      "10:00–14:00",
+      "16:30–20:00"
+    ],
+    sábado: [
+      "10:00–14:00"
+    ],
+    viernes: [
+      "10:00–14:00",
+      "16:30–20:00"
+    ]
+  },
+  website: "",
+  phone: "981 14 07 68",
+  review_count: 48,
+  review_rating: 4.9,
+  latitude: 43.359506,
+  longitude: -8.420107,
+  user_reviews: [
+    {
+      Name: "A FR",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW-hdhkJIR3CHbG3_6z2GYt7DXdFpMmeMimF45NGq4VAaoRwBbW=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Mi óptica desde hace 16 años que empecé a usar gafas y la de mis hermanos, la de toda la vida. Siempre atentos, precios adecuados para cada bolsillo. Si hay algún problema con tu montura, la arreglan siempre que esté en su mano, o contactan con quien sea para solucionarlo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Awesómica Borobia (Borobia)",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWVO746Xza_K9etl89hJgLYUa5rHfeWr0gM8bMi815ovblGcuF1=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "En Óptica Souto en una revisión me detectaron un problema importante que en otras ópticas no habían visto. Un año más tarde solucioné mi problema de visión gracias a esa revisión, por lo que estoy muy agradecida. Recomiendo esta óptica, que además tiene un trato muy amable y sobre todo personal.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "diego iglesias",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIJRmYCEQCx4X2wpN9VqdrfEWVht6CEldZv1kECez1wjQRCYw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me la recomendó una amiga y llevé a mi niña porque se le habían roto las gafas, un trato excelente y una buena atención, le miraron la graduación porque hacía casi un año que no la miraba por si variara. Muy muy contento, Muchísimo mejor que las típicas ópticas comerciales. Y los precios muy buenos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana Paula Saavedra",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUR3jHQBioBMNCQRF39j3L30nWiYGYtNBZu4flYyBFZ2571Cxm3KA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Primera vez que me saco mis lentillas acá y los recomiendo 100%. Atención y precios muy buenos 👍 no me cambiaría por nada",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Natalia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUPQ1kUVY6gXtDI-Oh38xN11UdYYr_41vsM5vtSx7rsfhXAQH_9=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trabaja gente.\nNo simples comerciantes que no tienen en cuenta tu situación y su única preocupación es intentar que te lleves lo más veneficioso para el local.\nEllos no, gente encantadora, que comprenden que es una necesidad y que no tod@s, tenemos el privilegio de disponer de ese precio con facilidad y ell@s, me an demostrado que sin perder un ápice de atención y cuidado en el detalle intentan que logres llevar lo que necesitas y agrada, dándote facilidades de pago y al mismo tiempo informándote de las ofertas que te pueden interesar 🥰gracias una y mil veces .\nUna de vuestras clientas de toda la vida.\nFeliz año 💖",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Dolores Silva Rodríguez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKRPdIQicbYbxdUKTOo-pXBCwX7sJxKY5GX8bGQLg1n_U2SWg=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Después de toda la vida usando gafas, es la primera vez que voy a esta óptica. La recomiendo 100%. Maravillosa atención y asesoramiento, precios buenísimos y monturas preciosas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "buenaventura durruti",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJBsvKa6Z9cjRrxFQJtQT0HsTABkCPEzGOWyEDzPBOiBB36zA=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Buen servicio, profesionalidad y, por encima de todo, honestidad. Actualizo mi opinión y me ratifico en ella. La mejor óptica de A Coruña.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rubi Caamano",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL_HijwX0LaGg0UhSgCfwumk6Bem8ai20_Un899iIEecVkKvw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Si explico al pie de la letra la experiencia que tuve con ellos perfectisimamente más de uno se pensaría que trabajo allí.\nPero es que realmente la profesionalidad, atención, paciencia y dedicación que me mostraron es digna de valorar y agradecer.\nObviamente MUY RECOMENDABLE.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "4C Centro Óptico",
+  category: "Óptica",
+  address: "Av. Fernández Latorre, 46, 15006 A Coruña",
+  description: "Esta óptica es altamente valorada por su excelente atención al cliente y el gran nivel de profesionalidad de su equipo. Los usuarios destacan la amabilidad y el asesoramiento recibido, así como la disposición para resolver problemas.",
+  serviceRatings: {
+    atencionCliente: 4.8,
+    profesionalidad: 4.7,
+    precio: 4.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–20:00"
+    ],
+    lunes: [
+      "10:00–20:00"
+    ],
+    martes: [
+      "10:00–20:00"
+    ],
+    miércoles: [
+      "10:00–20:00"
+    ],
+    sábado: [
+      "10:00–14:00"
+    ],
+    viernes: [
+      "10:00–20:00"
+    ]
+  },
+  website: "",
+  phone: "981 24 72 72",
+  review_count: 20,
+  review_rating: 5,
+  latitude: 43.358357,
+  longitude: -8.404126,
+  user_reviews: [
+    {
+      Name: "Roberto Caridad",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXaqLAfa9WVJgOe1AwH9VWoCD5UBAeQuy1WvEENBjqffD3chi5X=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Compré unas gafas de sol en esta óptica por recomendación de un amigo y la verdad es que fue una maravilla la atención y el asesoramiento recibido tanto por parte de Ana, como por parte de Carmen.\nPara mi pasarán a ser, sin duda, mi óptica de referencia así como serán mi recomendación para cualquier persona que necesite de los servicios profesionales de una.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipNRV0erKJaKZq0gFe2sD5S1OkLhex4lwHRMdBH6&fid=0x0:0x253f097087c7bf7a"
+      ],
+      When: "2021-10-25"
+    },
+    {
+      Name: "jasnebe f",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVkbHUgv5pZtPTtOiY00sHM0bOr77oOICstX_LluytWKV4eSiE=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Grandes profesionales, fui a comprar unas gafas y me sentí acompañado y aconsejado en todo momento.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipNpMw8q5BJX9IvnPe6LP_gnM8PUvjIRpJ5Dkd-k&fid=0x0:0x253f097087c7bf7a"
+      ],
+      When: "2024-7-29"
+    },
+    {
+      Name: "MARTIN Y",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKy-Gy6fjp9qsRUmFEcGUfuRmyRCpyCeWR2-Qmx1vg-9tW0Jw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buena revision de optometría y muy buena atención , volveré seguro , me han fidelizado",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rosa Martul Franco",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJKfKYG9K3aTzB_A5goE9-Ovnzfy7tHM0INeGprEEbVxxMXyw=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Son absolutamente encantadoras, siempre pendientes de ti y buscando soluciones cuando tienes una urgencia y necesitas lentillas. Recomendadísimas es poco. Son la mejor óptica de Coruña sin duda.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "J. M. L. F.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJuj-pf9NvvJkcpTTTl-vU6M2ZtvGpc1xnW7AK7FeVZx4vI2w=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Acabo de estar por la pérdida de un tornillo en unas gafas, que no me compré allí, y muy amablemente me han puesto uno nuevo, han apretado el otro lado también, han limpiado las gafas y no me han querido cobrar nada. Muchas gracias.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "monse c",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIFF_d05pAAOmVNZwZSpsE8Lyy7En2BJ2wAgtfSHYJPUWjCjxg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente atención.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "John Charles Hallett",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWubI98sxux0_7QA1AyxyyCyFlaiaGRb4zGkE_r26KU3fe9A45qmw=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Ya sé cual va a ser mi centro óptico de aquí en adelante. Una maravilla en atención, amabilidad y profesionalidad. 100% recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "CP M",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJOjlUuKOoWqESKQ-wzvIBkQKVcVKtQvyBYaG5IIJPNcqBl7A=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Atención y profesionales 100%, son encantadoras y siempre resuelven todas tus dudas o problemas. Sois fantásticas!",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Argimiro",
+  category: "Óptica",
+  address: "cultura n13, 15011 A Coruña",
+  description: "Los usuarios elogian la profesionalidad y amabilidad del equipo de esta óptica, destacando su preocupación por el cliente y el cuidado en el asesoramiento. Es frecuente encontrar comentarios positivos sobre la rapidez y eficacia en las reparaciones, así como la buena relación calidad-precio y la notable variedad de productos.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.8,
+    precio: 4.5,
+    variedad: 4.3
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "16:00–20:00"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "16:00–20:00"
+    ],
+    martes: [
+      "10:00–13:30",
+      "16:00–20:00"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "16:00–20:00"
+    ],
+    sábado: [
+      "10:00–13:00"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "16:00–20:00"
+    ]
+  },
+  website: "http://www.argimirotalleroptico.com/",
+  phone: "981 14 18 55",
+  review_count: 44,
+  review_rating: 4.8,
+  latitude: 43.371303,
+  longitude: -8.423665,
+  user_reviews: [
+    {
+      Name: "M. Delgado",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXGL6OwtHJbI4NyV4UkzE5_6VyyVG2l0JkqTC_AhTpHL12jHTfchg=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Profesionales y muy amables en todo momento. Se preocupan verdaderamente por el cliente y asesoran con mucho mimo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Isabel Garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIgYLCtISrWR4vKQCNPWS1VNF_8ZDHnG7vH6qPkdja3BVlEdw=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Soy clienta de hace mucho tiempo y cada vez que voy salgo más contenta, son un encanto",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Patri Lorenzo Martinez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKaxqUGt8LI-Cl3IzI863UkHXsFgH1SnfG90PBnVVb6684tKQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Es la segunda vez q voy a esta óptica y como la primera he quedado encantada. La primera vez fui con una amiga, ella para revisar su vista y poner cristales a unas monturas, y yo fui para q me pusieran cristales a una montura q yo había comprado en otro sitio; me los pusieron sin cobrarme ni un Euro y fueron encantadoras. La segunda vez fui para hacerme un control en la vista y sobre todo mirar la tensión ocular, a lo q yo tenía miedo, pues tengo antecedentes de glaucoma; pues la especialista me tranquilizó y fue súper agradable. En esta segunda ocasión también elegí una montura y me pusieron cristales nuevos, además de arreglarme las gafas q yo traía. Recomiendo muchísimo esta óptica por muchas razones, pero sobre todo pq no son nada interesadas, pq las dos veces q fui, y no me conocían de nada, me colocaron cristales q no eran suyos, con una sonrisa en la boca,  con la mayor profesionalidad y sin sacar ni un euro. Pq son amabilismas, atentas, buenas asesorando y tienen monturas y de más productos para todos, por no hablar de q son taller propio.  Yo estoy muy agradecida y por supuesto volveré",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Javier Santos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU9KT0CoM4-XPlOZPMceW9jJdYCwuRLHGrbDQ97Wjht1YJVxV8=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Se me habían roto las gafas, y fui a la óptica que las había comprado (600euros)y me dicen que no tienen arreglo porque están descatalogadas (unas Mont Blanc del año pasado). Fui a Argimiro, me cobró 10 euros y me las dio de un día para otro. Super",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "OKAY PAPELERIA",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUViufMsRwV2sE_UiFKK3Qk-OB5wgdo2ew_1lp9sVPLlMIxkjk=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He ido por colocar un tornillo en unas gafas de sol y he salido gratamente sorprendido con la calidez y el buen rollo que se respira en este taller, mas personas así y que presten un servicio optimo y de buena calidad. Bravo...",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ariel Banfield",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUq4OfOnlag-nOgijT_e3K6j36VvtkJyZaXA17U-CXEMZ4G5oQT=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "La mejor atención.\nLa mayor rapidez.\nHace ya mucho tiempo me soldaron en 1h mis gafas que las había roto.\nExcelente atención de su personal incluso por su dueño Argimiro.\nSiempre que voy siento que se preocupan mucho por mi economía y por mi comodidad.\nMuy eficaces y sus productos son muy lindos y duraderos.\nLos mejores con diferencia.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Laura CPV (Filantropa.)",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWeDrC25nnK63lZiIbdTK0GhiDBCGyv-8tw76VeW_uv1sYfXdGQZQ=s120-c-rp-mo-ba6-br100",
+      Rating: 5,
+      Description: "Excelente trato , la verdad dudo que sea mejorable .\nProfesionales competentes.\nMe repararon un armazón ,la entrega fue rapidísima y no me cobraron...no podía creer.\nMuchísima variedad de armazones .\nMaquinaria punta.\nPrecios totalmente justos , ni más ni menos.\nMuy recomendable!!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ignacio Benedeti Corzo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUNTEfKNfQvkVJ8wBPGANloHx5WGAGVMX-Nz_nAcIdNjp0iFF4=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Magnífico servicio: calidad excelente y rápidos. Además, reparan las gafas en el propio taller, sin necesidad de enviar a un tercero. Muy recomendables.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "OptoCenter",
+  category: "Óptica",
+  address: "Rúa Ángel Senra, 24, 15007 A Coruña",
+  description: "Esta óptica cuenta con clientes fieles que resaltan la atención personalizada y amable, así como la profesionalidad de su equipo. Se menciona la buena relación calidad-precio y la disponibilidad de gafas de calidad, aunque algunos señalan que las monturas de marca pueden ser algo caras. En general, el servicio es muy valorado, con menciones a la rapidez y la eficacia.",
+  serviceRatings: {
+    atencionCliente: 4.8,
+    profesionalidad: 4.6,
+    precio: 4.0,
+    variedad: 4.2
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ]
+  },
+  website: "https://optocenter.es/",
+  phone: "981 23 32 13",
+  review_count: 9,
+  review_rating: 4.6,
+  latitude: 43.354449,
+  longitude: -8.408537,
+  user_reviews: [
+    {
+      Name: "Lucía Gonzalez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLaN_OAnpAGS0ScrVvRj98ZM8A6Cn44ePxsxwFq2SuTIFkVvA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Llevo yendo a esta óptica desde que era adolescente, ya más de 20 años. Tanto Loli como Miguel son encantadores, siempre me han graduado y recomendado lo que mejor se adapta a mis necesidades. Muchas gafas para elegir, de calidad, igual que los cristales. Una óptica de toda la vida, pero actualizada a lo último del mercado, 100% recomendable!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Adriana Montes",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUQEB581RX8SNv3uJgNSz-PsdUtRtGZnw_F4wvkW5ZX_h0jLWih=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "El chico que me atendió fue más que amable, en una semana tenía las gafas listas. Con su ayuda pude escoger la graduación que mejor se me ajustaba por mi trabajo y ocio.\n\nLas monturas son algo caras porque trabajan con marcas... como en todas las ópticas. En general muy muy bien🫰✨",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Sergio González",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIocJurMN9XUmzyIH5RJguBXwO3yBPjb81ZSleX8wuZ24P8nFk=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Llevo yendo años y no hay palabras para describir lo encantado que estoy con ellos. Tanto Loli como Miguel, trato súper personal y amigable, además de precios muy buenos. Completamente recomendable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana Fernández Becerra",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXQGCAntS9bEI42bckE8YP666shsf3iHiOYYbuMgPazAq3LveEoag=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Llevo desde los 9 años (ahora tengo 25) yendo ahí. Tanto Loli como Miguel son muy atentos, siempre recomendándome lo mejor. El trato es tremendamente cercano. Totalmente recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Gerardo Tenreiro Vazquez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXQZaSYWNXNymVWsybpFA63KhqFv6kobkHqpJuG2nb8axABNLpN=s120-c-rp-mo-ba7-br100",
+      Rating: 5,
+      Description: "Muy buen servicio a una gran relación calidad precio",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Romina Riveron",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU32ZQy5vmC4buyVuKbxYj-3UNx9OMCiHdzKsYw2-XNaBE3tFI=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Personal muy amable y buen trabajo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "K",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXWfxKWXYJuxqZI-Dmd_uL43OaW2ipCba_SQD6dH9ADSzz1TiZT0g=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Atención insuperable y los precios buenísimos!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "E Puente",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ7tING-6G4YP--PG9QeJO1WwVBA_bkTeCIaIWQRY0YcXWslA=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Sánchez Rubal, S L ~ Juan Flórez",
+  category: "Óptica",
+  address: "Rúa Juan Flórez, 148, 15005 A Coruña",
+  description: "Esta óptica es reconocida por su trato exquisito y la alta profesionalidad de su personal. Los usuarios destacan la atención recibida, la paciencia y la capacidad de asesoramiento para encontrar las mejores opciones, incluso ofreciendo diferentes rangos de precios. La comunicación clara en los diagnósticos y el ambiente acogedor son también aspectos muy valorados.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.8,
+    precio: 4.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–14:00",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:30–14:00",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:30–14:00",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:30–14:00",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–14:00"
+    ],
+    viernes: [
+      "9:30–14:00",
+      "17:00–20:30"
+    ]
+  },
+  website: "",
+  phone: "981 15 44 94",
+  review_count: 29,
+  review_rating: 4.8,
+  latitude: 43.359516,
+  longitude: -8.40564,
+  user_reviews: [
+    {
+      Name: "Luisa",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKalRz1jRq9V1wMHJypS4GKiDYnb9M3y8xF8OejsrWugV6diA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me han regalado unas gafas \"vintage\" de la óptica Sánchez Rubal y he ido para que me las gradúen. Hugo, el optometrista que me atendió es muy atento y profesional, lo recomiendo sin ninguna duda, ya que me ha explicado todas las dudas que tenía sobre mi problema en la vista. El trato y atención son excelentes. Paloma, me ha orientado con mucha paciencia a la hora de escoger una nueva montura. Estoy encantada con mis nuevas gafas. Gran equipo.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipOCTP7Fuh9WgPvBFgycauNSMpAmH_nt79FpxyA_&fid=0x0:0x14e892e754a7de36"
+      ],
+      When: "2023-3-13"
+    },
+    {
+      Name: "Piscis 69",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVELm-33yDLQMnBCCLsgrhDX3th1JO0s1F0nQcQMs14YWUcnqIL=s120-c-rp-mo-ba6-br100",
+      Rating: 5,
+      Description: "Atención exquisita. Recomiendo totalmente. Te asesoran según tus necesidades y te dan diferentes opciones en cuanto a precios.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipO0tjNTu3NPXZ-ZIxpx0LCSHX-DeXshP9CDO3OZ&fid=0x0:0x14e892e754a7de36"
+      ],
+      When: "2022-7-5"
+    },
+    {
+      Name: "Flapper Flapper",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXUmnxhYMjDTRhwYDlRB61bo9JyWquVm0V33HiNHO56ppgiQnWJLg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Elegí esta óptica por Consejo de una amiga,quedé encantada con la, atención recibida, paloma,con mucha paciencia y muy profesional,me ayudó a elegir un modelo, con el que estoy encantada... También me gradué allí y todo perfecto...  aconsejaría esta óptica a un amigo y yo volveré\nGracias",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Calala Lorenzo Perez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJv1to8fwkUDD15qnsEWUhmJts4kh_KSW2CZ13ftFR-u6sNzw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Personal maravilloso, profesional.\nAtención al cliente estupenda,citas puntuales.\nDiagnosticos explicados de forma coloquial.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Tutú",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKA-QF-qOc4rk7p2NUFAhdl5wsnqCNjBXYu6-BQDT9oo94eVg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Un 10 en atención. Super agradables y profesionales. Hugo, el óptico te aconseja muy bien y siempre con una sonrisa 😃",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Angeles Silva",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVLAndhYYfMpWS3E0ICMGeIfXmap2A4ciiTl6L9GxTjDOD2Q7833Q=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Solo tengo cosas buenas que decir.\nTrato agradable,profesionalidad...\nSaben adaptarse a tus necesidades y te hacen sentir como en casa.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Francisco Javier López Smith (Javi)",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUMHFulvhfqzh9FDjA38PkrDXsqPkUS_dmRbaaZau6__VpoBHs=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Personal super agradable y profesional. Muy preocupados por dar lo que quiere y necesita el cliente.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pilar Enjamio",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKa6fAlY4yJmnSxEUxaDMF2N9eoGiyuga7o_Wpm_rGAV8fy1A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato inmejorable. Tienen una nueva pareja para atender al personal desde hace poco, son fantásticos.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Federopticos Sánchez Lázaro",
+  category: "Óptica",
+  address: "R. Santiago Rey Fernández Latorre, 42, 15006 A Coruña, La Coruña",
+  description: "Este establecimiento es valorado por su fantástica atención y la variedad de modelos disponibles. Los clientes mencionan que el personal sabe recomendar muy bien y destacan el trato recibido desde el primer momento. Se sienten asesorados a la perfección y resaltan la buena mano que tienen con los niños. Algunos usuarios recomiendan esta óptica por su trato amable y cercano, siendo clientes durante muchos años y encontrando facilidades incluso viviendo en otras comunidades autónomas. También se menciona una excelente atención por parte de la dueña y el optometrista, quienes resolvieron problemas con profesionalidad.",
+  serviceRatings: {
+    atencionCliente: 4.5,
+    profesionalidad: 4.5,
+    precio: 3.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:45–13:45",
+      "16:30–20:00"
+    ],
+    lunes: [
+      "9:45–13:45",
+      "16:30–20:00"
+    ],
+    martes: [
+      "9:45–13:45",
+      "16:30–20:00"
+    ],
+    miércoles: [
+      "9:45–13:45",
+      "16:30–20:00"
+    ],
+    sábado: [
+      "11:00–13:30"
+    ],
+    viernes: [
+      "9:45–13:45",
+      "16:30–20:00"
+    ]
+  },
+  website: "https://www.sanchezlazaro.com/",
+  phone: "981 23 24 32",
+  review_count: 36,
+  review_rating: 4.6,
+  latitude: 43.358566,
+  longitude: -8.404099,
+  user_reviews: [
+    {
+      Name: "No me acuerdo No me acuerdo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLYd8-ktbn8zCK2fsXKOSd5yfDKJ3orqs0zYckgmU0sEnnF8w=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Si buscas una óptica donde te atiendan con profesionalidad y respeto, evita Federópticos Sánchez Lázaro a toda costa.\n\nFui a recoger un paquete y, en todo momento, fui educado, correcto y amable con las empleadas. Ellas parecieron tratarme bien mientras estuve allí, por lo que pensé que todo había ido con normalidad. Pero al salir, me enteré de que estaban diciendo que había sido un maleducado, grosero y problemático, cuando eso es totalmente falso.\n\nQue un negocio permita que sus empleadas mientan descaradamente sobre los clientes, inventándose historias para quedar como víctimas, dice mucho de la falta de profesionalidad del sitio. Si son capaces de hacer esto, ¿qué más estarán dispuestas a falsear? ¿Te dirán que un producto cuesta más de lo que vale? ¿Se inventarán excusas si cometen un error con tu pedido? No puedes confiar en un negocio así.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Patricia P.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX5P9LOPrwhAMxEpp6REcRLyHvdrTIbS7s65f-PQYsypJHpZ-tDhA=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Fantástica atención. Variedad de modelos. Saben recomendar muy bien!",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipOVRvsRI0I0GNKPSbCM71uNvtKYbOg3VoLJd8hp&fid=0x0:0xbb8a11b67919b616"
+      ],
+      When: "2019-11-22"
+    },
+    {
+      Name: "Tatiana Matos Velo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWDoXmEdcxCK4tkqgMf2vtE8WUtFOttCW3oWOIfHGfGy4XiZ2D38w=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Muy contenta con el trato recibido desde el primer momento que pisamos la óptica, hace ya varios años. Todo el personal es encantador y te asesoran a la perfección. Además, tienen muy buena mano con los niños más pequeños.\nA día de hoy, ya son la óptica de confianza para toda la familia. 100% recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maribel V.R.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVGDs3yGvJADE00yaheO3v_5XWKjUl0hwQCkGJptFk5XMfFOrvLlQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Totalmente recomendable. Compré unas gafas de sol online que justo en ese momento se habian vendido y me llamaron muy amablemente ofreciendome la opción de reembolso o intentar conseguírme ese modelo en la casa. Me  enviaron las gafas con mucha rapidez y adjuntaron al pedido un detalle.\nEncantada con mi compra y con el trato recibido.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alejandro G. Chouciño",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWp6yUqphBW0J6iQtdwrA4JCkPzOscP2inkgjrcpAhbDlIWKew=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Comencé a ir por un conocido y estoy muy contento desde entonces con la recomendación. El trato es muy cercano y profesional, tanto para compras como para revisiones de vista. También he encontrado ofertas muy buenas en primeras marcas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Sofia Torres Pousa",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKOaOQHoQBl4v1JyKnW6PMirlJZefxpkFOXmfABt9rQrJ4XxQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "100 % recomendable por su trato amable y cercano. Soy clienta desde hace más de 25 años. Sigo con ellos a pesar de vivir en otra comunidad autónoma porque me ponen muchas facilidades.\nVamos toda la familia.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ignacio de la encina",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKIHf5ZRHOEYY1ysGAz2Xb1AEkOyBRKgopk07sttLnzufrBLQ=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Excelente atención de la dueña, María Ángel y Santiago, el optometrista. Tuve un problema con unas gafas que les compré y me lo resolvieron con una profesionalidad, que me hice cliente y no dudo que volveré.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "nelly es",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVRTWoLfU7Hp592kYT4cQ07uLgP8uLqZPwXu5soyzAKJuPCN2KX=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Recomiendo totalmente esta óptica. El personal es super agradable, son muy cercanas y profesionales. Llevamos años yendo y seguiremos haciéndolo sin duda.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Fergo",
+  category: "Óptica",
+  address: "Rúa Manuel Azaña, 54, 15011 A Coruña",
+  description: "Considerada por algunos como la mejor óptica de A Coruña, este establecimiento cuenta con profesionales que se preocupan por el bienestar de sus clientes. Destacan por realizar revisiones exhaustivas y muy profesionales, incluso más allá de lo indicado por el SERGAS, mostrando dedicación y un trato cariñoso, especialmente con los niños. Los clientes se sienten bien atendidos, con explicaciones detalladas y pruebas adicionales sin coste. Se percibe una gran pasión por su trabajo, convirtiéndose en una óptica de confianza para muchos.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    sábado: [
+      "10:30–13:45"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ]
+  },
+  website: "http://www.opticasfergo.com/",
+  phone: "881 88 93 12",
+  review_count: 43,
+  review_rating: 5,
+  latitude: 43.375192,
+  longitude: -8.430538,
+  user_reviews: [
+    {
+      Name: "Adrián L.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKWT8boBg38yTLAySMUxlVydDmn66-tg8GPdTaVdKA7U4aShA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La mejor óptica de A Coruña. Muy buenos profesionales que se preocupan por tu bienestar. 100% recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Almudena Currás",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJOvcllkEUYGyMVAzrHJNsRKgAHPSxrFazcmtPfFJ8rNWLUxw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Vamos cada año a la revisión  anual de mi hijo. Revisión que es exhaustiva, y muy profesional, muy por encima de lo que indica el SERGAS, y todo de manera cariñosa con el niño y haciéndolo partícipe. Son encantadores y buenos profesionales, con gran dedicación y se nota. Absolutamente recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Carla",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ30WqhnriayKKyDQveLivC2PyrhwMDTffrq4qlU-lnT-rxZA=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Tenía cita para la revisión del Sergas y para mirar la tensión ocular, me atendió Jorge y en todo momento fue super atento conmigo, me explicó un montón de cosas que nunca me habían contado y que desconocía, y me hizo más pruebas de las que piden en la revisión del Sergas (sin cobrar nada a mayores). Se nota de lejos que les apasiona lo que hacen y que no lo ven solo como un trabajo, con la otra chica que estaba no tuve la oportunidad de charlar mucho pero era sin duda una persona igual de agradable. Se ha convertido en mi óptica de confianza y volveré sin duda para cualquier cosa que necesite. Mil gracias en especial a Jorge por el trato tan cercano y por resolverme todas las dudas y dejarme mucho más tranquila.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria Soto",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocITydyplKOpco1TY19seNVX1l-AI8GqmB6NBmTICDP5KilbeQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Nuestra óptica desde hace años, vamos desde otra ciudad porque confiamos cien por cien en ellos. Las revisiones son supercompletas, con los niños son pacientes, encantadores y muy atentos. Siempre nos aconsejan muy bien y en cuanto a calidad tanto de producto como de servicio son de diez. Los recomiendo, sin duda para mi los mejores.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Andrés Toribio Celestino",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK8ZY2umJuoy530IxHtJaTbd1tmYusTE3TxHl_-3VlBl0YPVg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fui a hacerme unas gafas nuevas y me atendió Rocío, estuvo como 1h conmigo haciéndome pruebas de la vista y teniendo en cuenta algunos parámetros que nunca me habían explicado. La verdad es que me sentí muy bien atendido. Luego estuvieron muy implicados en resolverme todos los problemas que surgieron y hasta que no di con las lentes con las que podía ver bien no cesaron en su empeño. Recomiendo mucho esta óptica.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "A A.G.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKSQGYgavd9DpGtZ5XqFHvV3Mu2WdimxUnmTvH5fGoB_cd2-A=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Son muy amables y profesionales. La revisión de la seguridad social la hice ahí y fue la primera vez en mi vida que me hicieron un estudio tan exhaustivo. Tal vez un poco más caros que otras ópticas low cost, pero el trato y la exactitud de la medición de la vista bien lo merecen.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Matias M Gonzalez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU1806BhZBvVwFwxev5Rd7F667URwJaBIMh1EBdAXsUkWlVOHNMPQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente trabajo y dedicación. La atencion es excelente aprendí muchas cosas sobre las mediciones y pruebas que hacen para determinar que graduacion seria la adecuada y como cuidar mis ojos. Son las mejores gafas que tuve, super comodas, exactamente lo que quería. Se esfuerzan por entender el cliente y ofrecer las alternativas brindando el toque personal y de esa forma presentando opciones que desconocia pero que eran compatibles con lo que deseaba.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana Per",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV9UHHzAsbysfIWqnnZyBoKYsQIRBSbXU_UzdoyNCZxMSnHVGwZ=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Son maravillosas. Atentas, divertidas con mi hijo, les gusta lo que hacen y se les nota. Gracias por la atención que nos disteis a mi hijo y a mi!!!! Gracias",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Óptica Ramallal",
+  category: "Óptica",
+  address: "Zona Peatonal, Praza de Lugo, S/N, local AM12, 15004 A Coruña",
+  description: "Los clientes destacan el trato inmejorable y la simpatía del personal, especialmente de Susana, quien les ayudó a encontrar gafas preciosas. Se valora la profesionalidad, amabilidad y paciencia del equipo, que resuelve dudas y se implica en su trabajo. Los usuarios mencionan buenos precios ajustados a la calidad de los productos, considerando esta óptica como de confianza y muy recomendable.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:30–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:30–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:30–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:30–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:30–13:30"
+    ],
+    viernes: [
+      "10:30–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "http://www.opticaramallal.com/",
+  phone: "981 22 74 94",
+  review_count: 6,
+  review_rating: 5,
+  latitude: 43.366555,
+  longitude: -8.406714,
+  user_reviews: [
+    {
+      Name: "Miriam Sanchez Lopez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKqvTXA3-5ATrwQu2gHT725odZo85A02Mt6zxIJaWLQqNLyJg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Inmejorable trato mi suegra y yo salimos super contentas con unas gafas preciosas, así da gusto. La simpatía y el buen trabajo de Susana con nosotras fue una maravilla.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Diana Martinez Navarro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJMfjQP0EZeDJ7WdkPwvVvmlSm-Q3mYqse1T8h1hudsq5o9pA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Profesionales muy cualificados, amables y pacientes.\nTe solventan cualquier duda y se implican con su trabajo.\nMuy recomendable:)",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marisol Mejuto Prego",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVpxeEiM-UZ0KikFbyHUy0KWLBj8PuXocwaesfUP8Vydsj090-0fA=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Personal muy amable, te ayudan en todo con mucha paciencia y educación.\nBuenos precios ajustados a las calidades de los productos. Óptica de confianza y recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Daniel Navarro de la Cruz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW2fOZl5Brfb0TXEVZJv89hpAjy1CpGuzOsB5ExTCpYWrqIhItO=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "En mi opinión, la mejor Óptica de Coruña.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juan Ramon Aldalur Lasa",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIi1snQpBqmbuP8rtpVM1yI31XWzwmAcrVJHNKVTUjXkLSDyg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Personal super amable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Antonio Bellot",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKVk3E7UzuUiNn6xsBJcxxw4xfZKYGSNPDrDSODcaZZWA3KCg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Mirabén",
+  category: "Óptica",
+  address: "R. Enrique Mariñas Romero, 13, 15009 A Coruña",
+  description: "Este negocio es conocido por sus excelentes precios y un personal muy amable y atento. Los clientes destacan la gran variedad de gafas, tanto de sol como graduadas, a buen precio. Se menciona la profesionalidad y calidad en la graduación de la vista, así como el gusto al ensalzar la imagen. Los usuarios se sienten muy contentos con la atención recibida, resaltando la cercanía y sinceridad del equipo, que asesora sin presiones, haciendo que la experiencia sea agradable y generando confianza.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 4.5,
+    precio: 4.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–20:00"
+    ],
+    lunes: [
+      "10:00–20:00"
+    ],
+    martes: [
+      "10:00–20:00"
+    ],
+    miércoles: [
+      "10:00–20:00"
+    ],
+    sábado: [
+      "10:00–14:00"
+    ],
+    viernes: [
+      "10:00–20:00"
+    ]
+  },
+  website: "http://opticamiraben.com/",
+  phone: "981 17 53 21",
+  review_count: 18,
+  review_rating: 4.7,
+  latitude: 43.340248,
+  longitude: -8.404409,
+  user_reviews: [
+    {
+      Name: "carolina pesquera",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXzOJvjJ_z0tr3moO1CmeMKMWABQJuzQz4oi5PJGdsadOkkidRd=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Excelentes precios! Muy amables y atentos!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Carlos Calvo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ7CD2W9EXS-fQ2xzIaUfxBqKOwyys4-nUeb3LRjh1fGcO1wg=s120-c-rp-mo-ba3-br100",
+      Rating: 4,
+      Description: "Gran variedad de gafas a buen precio, tanto de sol de firmas como graduadas, es un punto de recogida y devoluciones de seur, si compras por ejemplo en Amazon puedes llevar el producto a la tienda si quieres devolverlo y todos los días pasan así no estás pendiente cuando lo recogen en tu casa, esta óptica está en Matogrande.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lidia Norte",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVuFT6O0cRL00Eykq6HwTtnnzhsinlhlEB3jVhwzF7dsovIAroe9w=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Por fin las pude localizar de nuevo¡¡, tras una larga proyectoria profesional en la óptica del Palacio Justicia, ahora Maria  y Manoli continúan juntas en Miraben con gran profesionalidad y calidad en graduar la vista y ensalzar la imagen de cara con mucho gusto. Enhorabuena 👏",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Raul Roca bujardon",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKBpSqCQtsheJZrUUG0a4bQVJnAHjy7MYNFmbsHdUygiroejg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Equipo profesional y amable, muy contento con mis gafas nuevas\n100% recomendable\nVolveré",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jacobo Carricoba González",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUmvPU7TfggTNl5QQ4p_mr2-Iu3WSk_9ThEn4iYuQr19rdnReGM=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "El trato es espectacular, tanto para ojos como para oídos. Para niños y adultos. Recomiendo 100%",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Paula Montilla",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLaXqR7-SC147luw2p2cym8-YvoTpt4h4C8md_LVt_1u2JEmQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente atención, buenos profesionales, Diego, Manoli y María.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alberto Loureiro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUWQczRTmYvu_bABrFohZ8x2B1wX_NTFXyEy6tt-PoJ8NFQ9rU=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Buen, precio y atención",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Víctor Arufe",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKJidR47-Z_9tfT0YPEPIdyx6t435T199UN97weUzkRLbvPrgU=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "He quedado muy satisfecho con la atención y el servicio, son muy grandes profesionales, muy recomendable.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Visionlab",
+  category: "Óptica",
+  address: "Av. Fernández Latorre, 122, 124, 15006 A Coruña",
+  description: "Los usuarios destacan la fantástica atención recibida y los precios ajustados. El servicio es calificado como muy bueno, con personal atento que ha ganado nuevos clientes. Se menciona una experiencia genial y un trato excelente, incluso en revisiones post-operatorias, donde la amabilidad y tranquilidad transmitida fueron muy valoradas. La rapidez en el servicio también es un punto fuerte, con clientes saliendo con sus gafas nuevas en menos de una hora. Además, se agradece la ayuda y las soluciones ofrecidas sin coste adicional.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 4.5,
+    precio: 4.0,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    lunes: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    martes: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    miércoles: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    sábado: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ],
+    viernes: [
+      "10:00–14:00",
+      "16:30–20:30"
+    ]
+  },
+  website: "http://www.visionlab.es/",
+  phone: "981 23 26 65",
+  review_count: 147,
+  review_rating: 4.6,
+  latitude: 43.355012,
+  longitude: -8.404401,
+  user_reviews: [
+    {
+      Name: "jose",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXtcofIJ3b92k9sDVp9MW6ophHoXHdjtCLL4qTIKRZv8B1sTSOELQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Atención fantástica por parte de las dos chicas que me atendieron y precios contenidos. De diez.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Costa Da Morte",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL2Hwk1cCMDsAknRj49EbA0giyDxZJWSkIgIQBHx01aATAO7A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buen servicio, son muy atentos y tienen unos precios estupendos, han ganado un nuevo cliente.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marta Otero",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX3aa-I-4WvXqociMzm_BWr6GAvKMHHoqNYzghGa7x8hR2JSeTj=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Un experiencia genial! Gracias Raquel por el trato.\nUn lugar con buenas ofertas",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "BEGOÑA GARCIA",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW80dDjtxdd99nzVIokPZATmMn5h-SFJa-DQJ1MFRQC7AsHzy9uyA=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Ayer 13/06/24 , acompañé a mi padre a realizar una revisión de la vista tras ser operado de cataratas . La chica que le realizó dicha revisión fue encantadora y muy amable. El ya es una persona mayor y con ella estaba muy tranquilo. Después nos atendió otra chica para escoger la montura y el tipo de cristal. Una atención exquisita, no lo explicó todo muy bien y siempre dirigiéndose a mí padre. Es de agradecer ese trato cálido. Compramos las gafas de ver y unas de sol. Y yo me compré unas de sol. La atención es exquisita, muy buenas ofertas y productos muy bonitos . Nosotros tenemos ficha allí y seguirá siendo nuestra óptica de confianza. Gracias por el trato y la atención .",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "M. I",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ5EG4i7WYiMUu6wvi9KnyWB8Q8t5225gOoC5YP3daXqB9kH3tw=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "La atención fue muy amable por parte de las 2 chicas que estaban, y el servicio rapidísimo, en menos de 1 hora salí con mis nuevas gafas!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lucía Mouzo Murujosa",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIwCkWsEzjBgdkI8hi7BfOIWjYN0-cx4rsk0wLWAnKM7EBBoA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Necesitaba comprarme unas gafas y la dependienta que me atendió fue encantadora, me enseñó sin prisas todas las que tenía disponibles en la tienda que se podian adaptar a mi estilo y, después de hacer una primera selección, me recomendó ir probándomelas de dos en dos para ir descartando, ya que me encontraba muy indecisa. Al final me fui muy satisfecha con mi compra, pero lo mejor fue el trato recibido,  de 10!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "FRANCISCO MIGUEL MARTINEZ SEOANE",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUxRoAkB-gKrCC9KYjKxbBtNmCQiuGlSwJCQQpew2uDL37aLmSfIA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La experiencia en esta óptica ha sido formidable. Fui a comprar unas gafas de sol para mi hijo y enseguida encontramos las idóneas. Además me arreglaron un problemilla que tenía en mis gafas sin coste adicional.\nGracias Antía por tu incomparable ayuda.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "mario gomez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJQcegPiuhu1QUTd9SBD46pYnV9fhpXnb_zFvQ2LXhIdV3KqQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Encantadores y un trato genial, 100% recomendable",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Novaquia Distribuciones Ópticas",
+  category: "Óptica",
+  address: "Rúa Gutemberg, 34, B 1 Planta, 15008 A Coruña",
+  description: "Este establecimiento es valorado por su excelente calidad y servicio.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–14:00",
+      "15:30–20:00"
+    ],
+    lunes: [
+      "9:30–14:00",
+      "15:30–20:00"
+    ],
+    martes: [
+      "9:30–14:00",
+      "15:30–20:00"
+    ],
+    miércoles: [
+      "9:30–14:00",
+      "15:30–20:00"
+    ],
+    sábado: [
+      "Cerrado"
+    ],
+    viernes: [
+      "9:30–14:00",
+      "15:30–20:00"
+    ]
+  },
+  website: "http://www.novaquia.com/",
+  phone: "981 07 28 23",
+  review_count: 2,
+  review_rating: 5,
+  latitude: 43.35492,
+  longitude: -8.422919,
+  user_reviews: [
+    {
+      Name: "Manuel Diaz Llopis (Ophthalmology in Medicine)",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJoEJ1bjUbrWCqUOtwU7ClyqexsHIFHIM40JRvnpf0plwXRdA=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Excelente calidad y excelente servicio",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juan Carlos Cambeiro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXurOmcBvkfT113_rV67-98rKgUFFirhc7Fsu2vlqACfPLSpVOhNA=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Miraparamin",
+  category: "Óptica",
+  address: "Bajo, Rúa Cordonería, 1, 15001 A Coruña",
+  description: "Este negocio ofrece una atención exquisita y un asesoramiento completo a sus clientes. Se destaca la paciencia y amabilidad del personal, que ayuda a encontrar las gafas perfectas. Los usuarios mencionan la calidad de las gafas y las fundas, así como los buenos precios y diseños originales. La atención post-venta también es muy valorada. Algunos clientes resaltan la personalidad del negocio y el trato cercano del equipo, que hace sentir a los clientes como en casa.",
+  serviceRatings: {
+    atencionCliente: 4.5,
+    profesionalidad: 4.0,
+    precio: 4.0,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:30–14:00",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:30–14:00",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:30–14:00",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:30–14:00",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "11:00–14:00"
+    ],
+    viernes: [
+      "10:30–14:00",
+      "17:00–20:30"
+    ]
+  },
+  website: "",
+  phone: "881 02 19 90",
+  review_count: 30,
+  review_rating: 4.4,
+  latitude: 43.371985,
+  longitude: -8.399467,
+  user_reviews: [
+    {
+      Name: "Eu mesmo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV1OGORKImhpALHpiOJBSM0_-_A-b5aJEC2BWHTzuUJ5fKkf2qW=s120-c-rp-mo-ba4-br100",
+      Rating: 1,
+      Description: "Compré unas gafas de sol(lo más raro que no tuviesen funda) me dieron una de tela sin ningún tipo de marca de la propia gafa....\nNunca las llegue a ver del todo buenas...mi sorpresa que encontré las mismas en el chino de la calle real...🤬🤬🤬🤬!!!!no volveré jamás!!!lo que parece dorado metálico,es puro plástico",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipMEQO8F0KJCUqDpeE4gV28kSTDjBBUtdhaxZx32&fid=0x0:0x6ccfaea0ac1f55f5"
+      ],
+      When: "2024-4-12"
+    },
+    {
+      Name: "Piscis 69",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVELm-33yDLQMnBCCLsgrhDX3th1JO0s1F0nQcQMs14YWUcnqIL=s120-c-rp-mo-ba6-br100",
+      Rating: 5,
+      Description: "Atención exquisita!! Te asesoran en todo. Buenos precios. Diseños originales. Recomiendo totalmente.\n27/12 Gracias Carmen por tú atención post-venta!! Da gusto tratar con profesionales y tan buena gente.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipMzMFyeOmCGJW2HPQ6wfa9cBQRONIYA2voV2Ts6&fid=0x0:0x6ccfaea0ac1f55f5"
+      ],
+      When: "2021-12-27"
+    },
+    {
+      Name: "Auryel Syv",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL2yPQ1RaGPhen7p8j34vxpwb1KRAlFDgQZzpwzlhLHGcFcIQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Atención personalizada, gran catálogo (de gafas y de fundas, incluidas). La óptica es paciente y muy amable, y nos asesoró en base a nuestras preferencias sin ninguna prisa hasta que dimos con las gafas perfectas. ¡Volveremos seguro!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXUk2S0ZPtyiHGsWEEsAgHsJYRqVdyz0GIy5jrSAFVDC3ekTPqDwg=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "He comprado un par de gafas graduadas, una de ellas de sol y estoy feliz y encantada tanto con la calidad como por el trato recibido por Paula. Aconsejo al mil por mil la óptica, saldréis encantados.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Yai Rey",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW5ddjOH6IKCr24RoExELFaVgoX-5QNhA9gcZD5QwoEYxNPYl9F=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Es maravilloso encontrar negocios con tanta personalidad como este y que tengan un equipo humano tan cercano. No es una óptica al uso. Sus monturas son diferentes: diseño y calidad y la atención es de 11. Tanto Paula, la propietaria como el resto del equipo son insuperables. Te asesoran desde la profesionalidad y la cercanía y en mi caso, que era la primera vez que me compraba unas gafas graduadas, hicieron que la experiencia fuera excepcional. Lo dicho, un gusto encontrar gente que te haga sentir como en casa. Ojalá más negocios como este.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "ANGELES BUENAVENTURA GARCIA ESMORIS",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIFMH5dsAxr9nzcjnBUM4_Mp5McfR1WaGyFvvPiEY4zCWkJaQ=s120-c-rp-mo-ba4-br100",
+      Rating: 1,
+      Description: "Llevo  usando  gafas más  de 50 años y que a los 2 años de comprar una montura  de 290 € \"Rompa \" es inaudito y que te digan que como es una Edición Limitada  no hay repuestos.  La solución. Pegarlas. Quién pierde. Obvio  el cliente.  Si fueran unos profesionales  ofrecerían  otra montura aunque  tuviera  que abonar  una parte. La calidad  obviamente  es MALA NO LA RECOMIENDO",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Laura Vázquez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUPP9EBYeQzFZ5nwF88eXzFWZpAuvcuEs73Fr-hicb2QlV0kfuj=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Todos los aspectos a valorar de este negocio son superlativos!\nGafas exclusivas y de calidad, alejándose de las típicas firmas del circuito comercial.\nUn equipo humano de sacarse el sombrero, empezando por Paula, la propietaria y siguiendo por el resto: trato cercano, empático, donde sus recomendaciones son siempre acertadas.\nVamos, mi óptica preferida!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lia Gimeno",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUbkncXuqfGPlhlVfpasP0KXEuSZQQCkfCzsafD-a9o59nGRArF=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Son todas un amor, Paula es super amable y todo son facilidades sabe perfectamente como asesorar, igual que lo haría tu mejor amiga con un montón de cariño y sinceridad, y sin presión ninguna lo que hace de la visita ya compres o no un momento agradable, eso es al menos para mí súper importante para fidelizar pues ya sabes que sin duda se va a convertir en tu óptica de confianza.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Opticalia Romay",
+  category: "Óptica",
+  address: "Av. Pasaxe, 6, 15006 A Coruña",
+  description: "Este establecimiento es altamente recomendado por su buen trato y atención al cliente. Los usuarios destacan la preocupación del personal por entender las necesidades de cada persona, buscando las soluciones más apropiadas para la elección de gafas o lentillas. Además, resaltan la profesionalidad y amabilidad del equipo, así como la rapidez en la solución de problemas, incluso para clientes que no habían adquirido sus gafas en esta óptica. La profesionalidad y la atención recibida son consideradas excelentes, convirtiéndose en la óptica de referencia para muchos.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 3.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:45–13:30",
+      "16:30–20:00"
+    ],
+    lunes: [
+      "9:45–13:30",
+      "16:30–20:00"
+    ],
+    martes: [
+      "9:45–13:30",
+      "16:30–20:00"
+    ],
+    miércoles: [
+      "9:45–13:30",
+      "16:30–20:00"
+    ],
+    sábado: [
+      "10:00–13:45"
+    ],
+    viernes: [
+      "9:45–13:30",
+      "16:30–20:00"
+    ]
+  },
+  website: "https://www.opticalia.com/es/tiendas/opticalia-romay-a-coruna-avda-del-pasaje-6",
+  phone: "981 29 66 19",
+  review_count: 29,
+  review_rating: 4.6,
+  latitude: 43.3525,
+  longitude: -8.390943,
+  user_reviews: [
+    {
+      Name: "Rubén Fdez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWFJa578euPW8gA6iWxjGVKOMMETq3I_TbwqYsI2911kr7mShtP=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy recomendable, me he graduado y comprado las gafas aquí.\nBuen trato, todo perfecto.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Fanny AP",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJrv7T8jyErM0CEuaR806nSOTY5Dghau1NUSdP3Kma_IstLh3OI=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buena atención y trato. Se preocupan por las necesidades del cliente buscando las soluciones más apropiadas para la elección de gafas y/o lentillas. ¡Óptica muy recomendable !",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "ruben naya",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJez_nGsbV28PdwI53LBXiNVM9tCxFHHlKfY7dLyD-m44TUgw=s120-c-rp-mo-br100",
+      Rating: 4,
+      Description: "Buenas atención y son todos muy profesionales",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Franki Franki",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLi4g2-rznYOAqjmZYGaNuFXSF4qhF0UQ-5kVkhVAVf8dtXsw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me saltó un tornillo de una varilla de mis gafas, y el joven que me atendió me lo solucionó en un periquete, con mucha amabilidad y apenas me cobró y ni tan siquiera las había comprado en esta optica. Así da gusto.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Miguel Riopedre",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW5zeUVVJV6zQNggfB8oxXJ7xIY66AcYJJtKcXGfS_ynhjmqbm2=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy agradables y profesionales. Compré aquí mis gafas y mis lentillas, y todo el proceso fue genial. Óptica muy recomendada.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Concepcion Muñiz Rodríguez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJV821KDANF-nvpobQ8rKjX19eGYERA482pfnvDxFTEdlGiEg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Mi optica de referencia compró siempre ahí el trato es siempre exquisito y la profesionalidad es excelente",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "DEVORA FENTE GOMEZ",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLEVDVQIcF0dcWo3IwbFViXKPd8KM8SuuvAtpOczaVeLBkOBg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Inés es un encanto, siempre me miró los audífonos con ella. Totalmente recomendable!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Noe F",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJef8NzdhiVhy-oEvdfD5vUg1hMvku_EjIRgsbDF6hzaQkYWA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Óptica de referencia. Siempre muy atentas y ayudando en todas mis dudas y necesidades, siempre muy profesionales y a la última en modelos de gafas! La atención y profesionalidad es de 10!!!",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Óptica Pollán",
+  category: "Óptica",
+  address: "Avenida Finisterre, 33, 15004 A Coruña",
+  description: "En general, los usuarios se muestran contentos con esta óptica, destacando la amabilidad del dependiente y los buenos precios de las gafas. Se menciona una variedad considerable de productos, especialmente gafas de sol, y un buen asesoramiento por parte del personal, que rápidamente comprende los gustos de los clientes. Además, se valora la agilidad en la entrega de los pedidos y la existencia de buenas ofertas. La excelente atención y profesionalidad, junto con la rapidez en el servicio, son aspectos muy apreciados.",
+  serviceRatings: {
+    atencionCliente: 4.5,
+    profesionalidad: 4.5,
+    precio: 4.0,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    sábado: [
+      "10:30–14:00"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ]
+  },
+  website: "http://opticapollan.es/",
+  phone: "981 27 51 92",
+  review_count: 6,
+  review_rating: 4.7,
+  latitude: 43.365313,
+  longitude: -8.411201,
+  user_reviews: [
+    {
+      Name: "David Pérez Lorenzo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLLoPa6kDSSOdPpBNYY4blDl2LDpZ8GcE7rcYPpk1MyZtC5NA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buenas gafas a buenos precios y el dependiente muy amable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ignacio Gil",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX0lXHazq2MqEYYb08Ru3khrbSu18a70HrtuG3BsV62L6r2qzGp=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Compré unas gafas de sol, tienen bastante variedad y el hombre del establecimiento es muy amable, te explica muy bien cuáles son sus productos y enseguida pilló mis gustos. Muy recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juan Juega",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLz5lxyTF1NW9BbtSS_39uGowudig643IE1eCcrFv2wTQi0fQ=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Gran asesoramiento, variedad y entrega super ágil. te avisan por mensaje cuando los pedidos están listos. además suelen tener buenas ofertar.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Patricia Piñeiro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUVJLL5-zqJ8zQfv_fFgviwF_YkZ1hrEVLnKo9YignCkQ3kJYrR=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy contenta con mis gafas nuevas, ya no sólo por la excelente atención y profesionalidad, sino que también por la rapidez en el servicio.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Sirius",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVbnLtjb99qavxlyqxvktodFDNeJ1TqDJ_CMoNVCygcITWhvPafRA=s120-c-rp-mo-ba3-br100",
+      Rating: 3,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Javier Pollán",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWa0QovF5H2tF0pwhxWUHBXORyHccz_75ln_Gn9WbUePkFjPuRU=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Díaz Sánchez",
+  category: "Óptica",
+  address: "Rúa Juana de Vega, 18, 15003 A Coruña",
+  description: "Esta óptica es valorada por tener un dueño que es un gran profesional y ofrece productos de altísima calidad a precios razonables. Los clientes destacan especialmente la atención del dueño, así como la disponibilidad de gafas de fabricantes menos conocidos pero de excelente calidad. Los diseños de las gafas son considerados punteros, aunque también se pueden encontrar modelos clásicos. El personal es atento y siempre está dispuesto a ayudar. Muchos consideran esta óptica como su lugar de referencia y la visitan siempre que tienen la oportunidad.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.0,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:30–14:00",
+      "17:00–20:00"
+    ],
+    lunes: [
+      "10:30–14:00",
+      "17:00–20:00"
+    ],
+    martes: [
+      "10:30–14:00",
+      "17:00–20:00"
+    ],
+    miércoles: [
+      "10:30–14:00",
+      "17:00–20:00"
+    ],
+    sábado: [
+      "10:30–14:00"
+    ],
+    viernes: [
+      "10:30–14:00",
+      "17:00–20:00"
+    ]
+  },
+  website: "",
+  phone: "981 22 62 53",
+  review_count: 9,
+  review_rating: 5,
+  latitude: 43.367794,
+  longitude: -8.406261,
+  user_reviews: [
+    {
+      Name: "Mar Garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIivpHkV3OAy5hywmGOykRnoVf2mga9OVwpfzGBT7vxzOi-Zw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "El dueño es muy buen profesional y la oferta es de altisima calidad con precio razonable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana Rodríguez Otero",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWnpyJlf_jL-K65eHhDWlJbXcgCD5eJNqT8V0I_ChxonvRO83aI=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "El dueño es especialmente atento, además tiene gafas de fabricantes no tan conocidos pero de extremada calidad y a precios razonables. Intento visitar esta óptica cuando visito La Coruña.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Patricia Viturro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX3Az7Vn26yBGvWfc2N79IoicL5nUuWiu1z4eDSmIxMdfbxnOqU=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Óptica con diseños muy punteros, aunque también tienen cabida los clásicos atemporales. Personal muy atento siempre dispuesto a ayudarte. Precios muy razonables. Volveré.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ignacio López",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJpGbtBa0ibDVgW8TE2xfCEoffOP9WOFRA72d9mAuEK3f6TvA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Magnifico profesional y productos variados y de alta calidad. 100% recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "C. H.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUK_XlkbHX86iZB5RdN-dZdkGi36uKewkYq-n5ZupoYTHdOQbo=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Soy cliente hace muchos años. Siempre han sido fabulosos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marichu Perez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKXaOZMdZbGnBwLK4aQkZuK3e2DvZcLFvEuHUEMs6pquZS6TA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "just a simple person",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUH7VBLP1XL1HfvKiLjxK4pWZliLKBczClwo4e5CPm_oHOdowk=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "lucia ac",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJH_SVcID6lEvFozr3N6OQKrvCeL-qi-qo0lEzTiu_BFHybRQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Óptica Castro Plaza de España",
+  category: "Óptica",
+  address: "Rúa San José, 2, 15002 A Coruña",
+  description: "Se destaca la muy buena atención recibida en este establecimiento, con un personal paciente que informa detalladamente sobre los productos. Los usuarios mencionan un servicio excelente y agradecen la ayuda de Sara y Rebeca. La amabilidad del personal es un punto fuerte, siempre dispuesto a ayudar. Además, se valora la profesionalidad, eficacia y rapidez en la entrega de los productos, lo que genera una experiencia excelente. Algunos clientes son habituales y muestran su satisfacción con el trato recibido, incluso en situaciones complicadas como la adaptación de lentillas a niños. La empatía y la capacidad de resolución del personal también son muy apreciadas.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "16:45–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "16:45–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "16:45–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "16:45–20:30"
+    ],
+    sábado: [
+      "10:00–14:00"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "16:45–20:30"
+    ]
+  },
+  website: "https://www.instagram.com/castroopticos/",
+  phone: "981 17 54 02",
+  review_count: 6,
+  review_rating: 5,
+  latitude: 43.373959,
+  longitude: -8.396906,
+  user_reviews: [
+    {
+      Name: "Miguel Marmolejo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXgieXOt0Hfeoyd1K3QZHHcjyGa46T_MRcyrYLgfY34TQcVxZhr-Q=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Muy buenagentes, muy pacientes y me informaron de todo muy bien. El mejor servicio. Gracias a Sara y Rebeca!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juan Esteban Fernández Torrego",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLp802j3zXoJag6-LOCXvvrpqMHBR-RYUdAuPD3a1GF_mQB1w=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Son muy agradables y te ayudan siempre que pueden",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Fernando Casares Ripol",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJDvXB1Ovlm5tnOGwcacX0wIeyfbuCES5CuQ-qJW4gyPKIfAg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Profesionalidad, eficacia, amabilidad, rapidez en la entrega. Excelente experiencia",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cristina Insua Regueiro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJBp48ruzZfvDIXZcvSBX_9QJurFHBw1ZSlir4Rurbg_9_jsw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Hace años que soy cliente de esta óptica,  por eso al abrir esta nueva tienda quise probar, y, como siempre, quedé muy satisfecha con el trato recibido, y eso que poner lentillas a una niña es complicado, pero las chicas hicieron que todo fuera muy fácil.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Leticia FP",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJgbrUn0-MF9114gmwz77QGm4lwoSE2OC1klinCdvrWv21UnA=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Las chicas son majísimas y tienen descuentos del 40% por la apertura.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Xosé Luis Reza",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUaBQUbLDeVsusGxZXGguTXlJBjYRkEWr2vhhxJdoXidtou938=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Resolutivas, agradables, empáticas… unha maravilla de trato! Así da gusto!",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Opticalia Romay",
+  category: "Óptica",
+  address: "Antigua Gral. Sanjurjo, 15006 A Coruña",
+  description: "Este negocio cuenta con un personal de excelencia, destacando por su diligencia y calidad humana excepcional, según la experiencia de un cliente de larga trayectoria. Otro usuario agradece el trabajo profesional y la paciencia del equipo para encontrar la mejor solución. Se menciona también la amabilidad y atención del personal al ayudar a elegir gafas de sol, incluso recomendando ofertas ventajosas. Sin embargo, se han reportado experiencias negativas relacionadas con la gestión de informes de graduación y con precios considerados demasiado altos en comparación con otras ópticas de la zona. También se ha mencionado una atención al cliente mejorable por parte de alguna empleada.",
+  serviceRatings: {
+    atencionCliente: 3.5,
+    profesionalidad: 4.0,
+    precio: 3.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:45–13:30",
+      "16:30–20:00"
+    ],
+    lunes: [
+      "9:45–13:30",
+      "16:30–20:00"
+    ],
+    martes: [
+      "9:45–13:30",
+      "16:30–20:00"
+    ],
+    miércoles: [
+      "9:45–13:30",
+      "16:30–20:00"
+    ],
+    sábado: [
+      "10:00–13:45"
+    ],
+    viernes: [
+      "9:45–13:30",
+      "16:30–20:00"
+    ]
+  },
+  website: "https://www.opticalia.com/es/tiendas/opticalia-romay-a-coruna-avda-de-oza-92",
+  phone: "981 29 63 24",
+  review_count: 20,
+  review_rating: 4.2,
+  latitude: 43.354246,
+  longitude: -8.397545,
+  user_reviews: [
+    {
+      Name: "Alberte Corbalán",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX4bSKvVTnzH1qDKJwsubofRgcwJ6D2GcUMKzblR7gMXnR58gw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Llevo 38 años como cliente, y la excelencia del personal, su diligencia y excepcional calidad humana, son excepcionales.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marica da Berza",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXoVmCZRux7ZunJu8_Ow0f9ZoRYnHee-tKF5u5-5WY0FuOKti1w_Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Gracias Borja por tu trabajo tan profesional y por tu paciencia a la hora de darme la mejor solución.\nUn gran equipo.  Felicidades!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rubén Fdez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWFJa578euPW8gA6iWxjGVKOMMETq3I_TbwqYsI2911kr7mShtP=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy atentos y amables. Fui a comprar unas gafas de sol para regalo y aprovechando el 2x1 que me recomendaron me lleve unas para mi.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria Josefa Garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLgJ0-B8nmpXv9UgjQgTQt9UDQbo_hKqgR4ITeftY0VAA25lQ=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "He ido para que me pudiesen facilitar el imforme de la ultima graduación de mi madre para renovarle sus gafas actuales ante la imposibilidad de regraduarla porque padece Demencia Senil. Me piden por el mismo 20€ aludiendo que se graduó pero no se realizo allí las gafas. He ido a otras 2 opticas de las que sabía que ella era consumidora y me los han facilitado sin problema alguno .\nA partir de ahora y considerando que mñna puedo ser yo u otro el que se encuentre en la misma situación de Demencia Senil y que pueda precisarlo mi familia para lo mismo considero que no debo ni ahora ni en el futuro realizar gafa ni graduacion alguna en este establecimiento.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Gloria Hernandez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI4rQZg7rO6Q6SAki5kvptKa8WmVD2KZ29z6hRqjcTrC7HQCw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fui a comprar unas gafas y me atendieron de maravilla. Te aconsejan sobre el tipo de gafa que te sienta mejor, suelen tener muy buenos descuentos y son rápidas en la entrega. Perfecto.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jp",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI_AlpwTQMmkU1JzaxY8WwXs4bSfaoz4BwXo1m_tFlA3GsPqg=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Gente muy amable y muy bien servicio",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Nuria Esther Paz Codesal",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI8AxI--hM4mdq-vF-Xyx_8Gbe4NDL8-Gy_Q-V1i5fV5cF7_Q=s120-c-rp-mo-ba2-br100",
+      Rating: 1,
+      Description: "Precios demasiado altos en comparación a otras opticas de la zona/ciudad. El trato de la empleada alta de pelo negro liso... deja BASTANTE que desear...\nNo lo recomiendo en absoluto.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "LUCO LILI",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIfIFEWhu0zEzj5DDPrkx7qOcIDNJTEsWy_yLJVaq0uR4p9fA=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Pongo una estrella porque no se puede poner cero. Te cobran por graduarte la vista, lo hacen mal y te quieren cobrar una segunda vez por volverte a graduar. Negocio redondo. No vuelvo.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Óptica Americana Sl",
+  category: "Óptica",
+  address: "Rúa Cantón Grande, 2, 15003 A Coruña",
+  description: "Este establecimiento es reconocido por su excelente trato y profesionalidad a lo largo de los años. Los usuarios destacan la amabilidad, atención y cercanía del personal, quienes se muestran resolutivos ante cualquier duda. Se percibe un buen servicio y un espacio agradable, siendo una opción recomendable para quienes buscan una atención esmerada.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {},
+  website: "",
+  phone: "981 21 61 57",
+  review_count: 16,
+  review_rating: 5,
+  latitude: 43.36884,
+  longitude: -8.402444,
+  user_reviews: [
+    {
+      Name: "Emzo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWQYCg9Lym3um-FAdexMRHNvEOVO9DsPFQ7ocw8hjlr4GOukRIM=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He comprado unas gafas en este centro y el comienzo fue bastante incómodo por no tener sitio para poder elegir el modelo sentada, por estar ocupados en un espacio totalmente desaprovechado, los dos puestos existentes, en un espacio que claramente caben 3 o quizás cuatro. Sería aconsejable revisar la distribución del espacio.\nTodo lo demás de 10: amabilidad, profesionalidad, atención y cercanía. Muchas gracias.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "celso isaac morais vicente",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX7PrS7mEwBheWhsm1ja4mc32_rGo768NFB3TikJeV2m83PHkUKlQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Para mí mejor trato imposible.Llevo muchos años con ellos y siguen con la misma atención al cliente.Enhorabuena.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mercedes Marta",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUfQUq4CEbXBlNRFqFC_7f-ivZzPhsW4gJQoLBa7-9k9zEycFw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Soy cliente de toda la vida , y estoy encantada, excelentes profesiones.\nBegoña atiende fenomenal , es muy atenta, se  nota que le encanta su trabajo.\n100% Recomendable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Celia Guillín Ruanova",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLwZUiCxu2ObedH7XrAWejaQ8sxfax-mgWTgeHPYwysms4T6g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me gusta mucho está óptica y es a la que siempre voy por su increíble atención. Todo el personal muy agradable. Y ante cualquier duda ellos te la resuelven.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "José Manuel Andrade",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKaSX3hy1IfDRIsJJG-giFiie6t3OFE_7QR91unv9HoewFURA=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Llevo siendo cliente de Óptica Americana desde hace más de 30 años, cuando ya mis abuelos y mis padres eran clientes.\n\nDurante todo este tiempo no puedo quejarme se absolutamente nada: son profesionales, agradables y resolutivos.\n\nRecomendable, sin lugar a dudas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Martina Guillín Ruanova",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKetcSXzWKaoTa7hygHWxOyr3yohkddYv1gg-H4nURPwrjMeQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato amable. Bien servicio y gran resultado. Martina",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Carlos Sánchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKGNlsoqCFQYfjUOQN6XKEFJjWJgk4ogt46PHk-DBsjTDqh8Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Geniales en el trato, especialmente de agradecer pues atienden a mi hijo. Espacio agradable, personal majísimo y buenos resultados. Recomindo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Anton Luaces",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIh01GGP7YGbFePXZp4hdZ6Y5y4sYPKezfGhvOlUTKheHN38A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Atención excelente\nLlevo años siendo cliente y siempre me han aconsejado muy bien\nGrandes profesionales",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Óptica Páramo",
+  category: "Óptica",
+  address: "Rúa Páramo, 3, 15011 A Coruña",
+  description: "Esta óptica es considerada excelente, con profesionales que brindan una atención inmejorable. Los usuarios se muestran muy contentos tanto con las lentillas como con las gafas adquiridas. Además, el personal busca la opción que mejor se adapte a las necesidades de cada persona, ofreciendo buenos precios.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    lunes: [
+      "17:00–19:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–19:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–19:30"
+    ],
+    sábado: [
+      "Cerrado"
+    ],
+    viernes: [
+      "17:00–19:30"
+    ]
+  },
+  website: "https://opticaparamo.com/",
+  phone: "981 26 20 26",
+  review_count: 6,
+  review_rating: 4.8,
+  latitude: 43.364052,
+  longitude: -8.421733,
+  user_reviews: [
+    {
+      Name: "Desi Pombar",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVcfeM29w-YqmjJ-j0se69BBlIIMEjh6TuhgkfY4fNuySO_I_Y=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente óptica. La atención es  inmejorable y siempre estuve muy contenta con las lentillas y las gafas. Muy recomendable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "acefraga",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWmxXxiOHIoPmB0-bPezeJAWW9zrf1bCOgTk867JT34rQeDcSawzA=s120-c-rp-mo-ba6-br100",
+      Rating: 5,
+      Description: "Excelente óptica atendida por grandes profesionales que te ayudan en todo el proceso de adquirir nuevas gafas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Susana PURRIÑOS",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUg5Xv1izVDrKWKyXDv7od2TNNeNuhSgPkzvwV_Mw-IR2lnonkq=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Ángeles siempre busca la opción más adaptada a tus necesidades",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "juan carlos mariño bellas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWigTqIvY8q3z4EGRXi6N843cFLeqUl6o59J8IBFeJS0pFq2-oZvg=s120-c-rp-mo-ba4-br100",
+      Rating: 4,
+      Description: "Excelente atención y buenos precios",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Paula Martínez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKOsgq1XBdi8tDx2CygUtqN3eeaAUu7EgnLIr1lslk3S1SSYA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy profesionales y la atención muy buena.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Julie",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLPUkA6CROeiF9gLRK2yGtWAYBXxG9wuEBGgO9oTSxavuTe1g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Óptica Neovisióm",
+  category: "Óptica",
+  address: "Rúa Pintor Francisco Llorens, 2, 15011 A Coruña",
+  description: "Se trata de una óptica excepcional, donde el trato es profesional y personalizado, priorizando la satisfacción del usuario. Disponen de un amplio surtido de gafas, incluyendo opciones de sol, seguridad y deportivas. Además, ofrecen terapias visuales y reparaciones. La atención esmerada y la buena relación calidad-precio son aspectos muy valorados.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.0,
+    variedad: 4.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–14:00",
+      "16:30–18:00"
+    ],
+    lunes: [
+      "Cerrado"
+    ],
+    martes: [
+      "10:00–14:00",
+      "17:00–20:00"
+    ],
+    miércoles: [
+      "10:00–14:00",
+      "17:00–20:00"
+    ],
+    sábado: [
+      "Cerrado"
+    ],
+    viernes: [
+      "Cerrado"
+    ]
+  },
+  website: "",
+  phone: "981 91 55 51",
+  review_count: 23,
+  review_rating: 5,
+  latitude: 43.371664,
+  longitude: -8.423018,
+  user_reviews: [
+    {
+      Name: "Jonatan",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLnxFGxZ-UWupc6IRoRxETDEYAl8aK3vKJ_NLMSw-K7uXB446U=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Esta óptica es excepcional. El trato al cliente es profesional y personalizado, siempre priorizando la satisfacción del cliente. Tienen un amplio surtido de gafas, incluyendo de sol, seguridad deportivas... también ofrecen terapias visuales y reparaciones. Altamente recomendable, mi familia y yo estamos súper contentos un acierto descubrirla. GRACIAS NOEMÍ POR CUIDAR DE NUESTRA SALUD VISUAL",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Fer Cabanas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXs497ExvXd5vd6SeE6cVJ9R7jz814ezyW6qEAN5CkeVGZ_xX0=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Llevo muchos años usando gafas y, después de graduarme la vista en esta òptica, y encargarle los cristales; manifiesto que es la mejor graduación que he tenido.\nUn esmerado trato profesional, así como una buena relación calidad precio. Muchas gracias",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria Moreira Liñares",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjULKBAJid9-UDaKe_uAlsLJ9ul3gTiuZaeVlrIn7Nj8mRReODMJ=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Trato excelente. Tienen muchísima variedad de gafas para elegir, tanto para graduar como de sol. Te asesoran muy bien dependiendo de tus necesidades y gustos. Yo ya llevo unos meses con mis gafas y no puedo estar más satisfecha!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Susana",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIZpgVeXTCpZtjux8_sCxyzp0HBv6pFepg0Hatbkgi_1X94og=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "A dependienta e un encanto e asesoroume moi ben . Encantada.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cristina Canosa",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIWEXFz925Cov2y6xAUO_BBUkXMIVw9jHK6xSp5dYeK5vgTcA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Estuve hace unos días en Neovisióm, para hacerme una revisión de la vista y la verdad es que quedé encantada con el trato. Pocas veces me hicieron una con ese mimo, detenimiento y profesionalidad. Noemí, además de una persona apasionada por su trabajo (se nota), parece una persona muy preparada ya que no solo me hizo una revisión estándar con la máquina si no que contrastó los resultados con otro tipo de pruebas para obtener diagnóstico más acertado. Me sentí súper cómoda y sin duda lo recomiendo 100%.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rebeca Diaz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJbVcsx-Ci2w3EYrFjQnBFW3qq_LStmeMS1lkAJ80xQPkUK-w=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Confíe en Neovisiom para hacer un regalo y no pude quedar más contenta. Se me asesoró con mucho criterio, el trato fue exquisito, el precio de las gafas el mejor que pude encontrar. Se nota cuando tratas con profesionales. Muy recomendable 😊",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "DÁMARIS DOMINGUEZ",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWpLLCEBh0N4vDVpZ_MTIBFDp56RKPb4YfuGwT5wSLzz64CSZ0Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Una óptica con mucho encanto y un trato profesional de asesoramiento y valoración estupendo.\nEs una tranquilidad hacerse una revision completa y salir sintiéndose cuidado y con unos ojos bien estudiados.\nMuy divertido el momento final de prueba, muy  cómplice hasta dar con el modelo que te queda mejor ... y si vas acompañado de tu mascota ... momento mágico completo !!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "thayssa costa",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUGRNaD3odwiyQKJk33PwQ7EjJkRhnm4Ok2m3esFnDVpCN3uMaAAg=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Excelente empleado, muy amable, tiene muchas opciones tanto de gafas de sol como de gafas graduadas.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Óptica Castro C.C Marineda City",
+  category: "Óptica",
+  address: "Centro comercial Marineda City, Av. de Arteixo, 43, 15008 A Coruña",
+  description: "Este establecimiento en Marineda City ofrece una excelente atención, con profesionales como Cheila y Sandra que son muy atentas y saben aconsejar a los usuarios. Se preocupan por encontrar las gafas deseadas o la mejor solución para cada necesidad. Aunque la mayoría de las opiniones son positivas, mencionando un trato excepcional y una buena calidad, algunas experiencias puntuales reportan una atención menos satisfactoria.",
+  serviceRatings: {
+    atencionCliente: 4.0,
+    profesionalidad: 4.5,
+    precio: 3.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–22:00"
+    ],
+    lunes: [
+      "10:00–22:00"
+    ],
+    martes: [
+      "10:00–22:00"
+    ],
+    miércoles: [
+      "10:00–22:00"
+    ],
+    sábado: [
+      "10:00–22:00"
+    ],
+    viernes: [
+      "10:00–22:00"
+    ]
+  },
+  website: "https://www.instagram.com/castroopticos/",
+  phone: "981 91 00 03",
+  review_count: 82,
+  review_rating: 4.5,
+  latitude: 43.34501,
+  longitude: -8.428235,
+  user_reviews: [
+    {
+      Name: "Vinicio Roldan",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUvtCc_gqZLQov7jT_aq5uO0_lz3zDVUB8sqjMlZVzaiWm1kxej=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Exelente atención de las dos optometrista de hoy en la mañana especialmente a la opt: Cheila muy profesional.\nMuchas gracias por sus atenciones, recomendados 100%",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Débora Pérez Rosende",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKw9llH7THeDXG5k2PffTRClzza36fPnPy6q6LCmoS-DzuPCA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Pongo 5 estrellas porque no se pueden poner más.\nSon encantadoras y siempre con un trato excepcional.\nSe preocupan muchísimo por encontrarte la gafa que quieres y sino te buscan la mejor solución.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Adrian Messano",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUrro5Icm2Idp7ig9XHpkPc-hVQ5omZWLKIpKTpXZdJCzwXXPzG=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Somos clientes habituales, vivimos en Ourense y toda la familia nos hacemos las gafas en esta casa .\nSi … vamos desde Ourense hasta Coruña a hacernos las gafas , ya que la atención es excelente, las chicas son súper atentas , saben aconsejar , las mediciones ópticas son exactas, la calidad muy buena , los precios , hay de todo , pero a veces el precio es lo que menos importa . La atención y el servicio hay que premiarlo !!! Por eso les somos fieles !\nNo dudéis en ir , a cualquiera de sus sucursales!!!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Antonio Castro Villaverde",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK_1DPiczlD5tiSQXBE-D973_ufhIuPimmOzNQ_n2K05AnUFQ=s120-c-rp-mo-ba4-br100",
+      Rating: 4,
+      Description: "En general  las ópticas Castro, ofrecen un servicio al cliente ¡muy  bueno ! y si añadimos la amabilidad y profesionalidad de Sheila y sobre todo Sandra, qué fue la qué me atendió, mi\nValoración  es de cuatro {⭐estrellas } óptica (Marineda City )\nA Coruña.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Xeila Lopez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXZ_PZqvr4s4elVmAN---2ehKu-lUX3CuQu5Wst5DrXFevaUYh0=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Mi familia y yo vamos siempre, el trato no puede ser mejor y tienen siempre unas gafas preciosas. Sin duda seguiremos siendo clientes fieles.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ainhoa S.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUMx_frNcBaZa-Ne10qrkBGJ122n3KjN5Qq-1eFedS7JOmiPFD4=s120-c-rp-mo-br100",
+      Rating: 2,
+      Description: "Atención por parte de ellas muy bien, muy amables pero hoy me atendió el chico que fatal, solo hablaba mal de las gafas que tenia para dejarme 400 en unas gafas nuevas... Como se nota que alguna gente solo quiere vender sin cuidar lo que necesita el cliente...",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Piedad Castaño Perez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKTM6oF0QPQvVMXom4M7EyypdHYFehKwnybq_6VooyhYSNtzQ=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Ayer fui a Marineda ,y el trato recibido me pareció fatal , en una escala del 1 al 10, le doy un CEROOO!! me sentó tan mal ,que no volveré  nunca más..",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "BEGOÑA GOMEZ ROMEO",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLGmQ4YUNLVUxkTqHvdwwOB2Nu_z0YJJQ1zCk36OHaJRtko6g=s120-c-rp-mo-ba3-br100",
+      Rating: 1,
+      Description: "Compré unas gafas monofocales en la óptica Castro del Marineda, con antirreflejante. Tardaron aproximadamente un mes en llegar y todo iba estupendamente. A los 3 días me pongo las gafas para conducir y veo que están completamente ralladas, como si alguien hubiese lijado los cristales. Me sorprendí mucho y volví a la óptica. Me las cambiaron sin problema, tardaron otro mes en llegar. Una vez más, a los días los cristales parecen tener el mismo problema, me los volvieron a cambiar pero la situación se volvió a repetir hasta 4 veces. Al no entender nada, pregunto en la óptica y me argumentan que el PROBLEMA del CRISTAL ES LA EXPOSICIÓN AL CALOR Y AL SOL y me recomendaron llevar las gafas en la BOLSA MERIENDA DE MI HIJO, además me comentan que no se van a hacer cargo de más cristales.\nCansada del problema y viendo que se estaban riendo de mi, puse una reclamación en consumo.\n\nDespués de unos cuantos meses me llega una contestación de consumo DEMANDÁNDOME A MI y alegan que dejo las gafas en mi vehículo, que el problema es mio y me reclaman además 25€ de una tarjeta REGALO!\n\nConsidero que puede ser que una gafa se deforme con los años con el calor del interior de un vehículo en verano, pero lo primero, vivimos en Galicia, no en Sevilla y segundo, puede afectar a la montura pero NO DEBERIA AFECTAR A LOS CRISTALES.\n\nSigo sin poder usar las gafas! Me parece de ser unos sinvergüenzas, reclamarme 25€ cuando aunque agradezco que me hayan cambiado las lentes varias, ahora me pasen el marrón a mi y ME DEJEN SIN GAFAS!",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Sánchez Rubal",
+  category: "Óptica",
+  address: "Rúa Bailén, 7, 15001 A Coruña",
+  description: "Los usuarios destacan la amabilidad y profesionalidad del personal de esta óptica. En particular, mencionan la atención de Carmen y Lucas, quienes ofrecieron un trato muy amable y soluciones efectivas, incluso sin coste alguno en un caso específico. Además, se valora la paciencia mostrada durante la elección de la montura y la atención rápida y a buen precio, incluyendo detalles como regalos.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–14:00"
+    ],
+    viernes: [
+      "10:00–14:00",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://www.sanchezrubal.com/",
+  phone: "981 15 44 94",
+  review_count: 8,
+  review_rating: 5,
+  latitude: 43.370524,
+  longitude: -8.398983,
+  user_reviews: [
+    {
+      Name: "Revista Sanadores",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUBZuIkh52gyUoZpDa8HzXhMkKcSnXwN7uE_q7cUSvgJPLwWW8p=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Hoy al llegar A Coruña me sucedió algo, en el autobús tuve un pequeño percance, al intentar coger mi maleta que había puesto en lo alto, me ha caído encima de mi cabeza, donde estaban mis gafas, quedando estas dobladas y mi cuero cabelludo dolorido. Parecían un coche chocado, ni modo, a seguir como buen Peregrino. En pleno casco antiguo vi esta óptica donde me atendieron amablemente, miento, muy amablemente, Carmen en compañía de Lucas se hizo cargo de mis gafas 👓 “Chapa y pintura” y Chapó, me ha quedado casi como nuevas, agradezco la acción de Carmen, que no tuvo retribución. Esa es la manera de tratar a un cliente, que a su vez es Peregrino. Viva Galicia.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipOjJWitr9dBCPk4xbORP-sUhfxKDYgeQ6xCBKtR&fid=0x0:0x7160f000a1d5a9ee"
+      ],
+      When: "2024-3-22"
+    },
+    {
+      Name: "Clara Ares",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV320hwJTbrK4HI4fMAmfH_RFwmlstF_o8TyAvrkRgyYYmZ4Luo=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Genial! Fui porque se me había caído un tornillo de las gafas y me pusieron uno sin coste alguno, majisimos!! Recomiendo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Javier Garcia Aymerich",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK_bQfYIDHg8awAk1Tg0XmgJ86ekqMGfgaYBPLDUQ67Se6rsA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Perfecto. Bien trato ,rápido , buen precio y regalo . gracias",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Aníbal González-Arintero Berciano",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWqSBfE_gS4SYCI29kUiUASmNZYe0JQpgZba8MPUZ8b0iEF4qdk=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Muy buena atención, mucha paciencia con la elección de la montura :)",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marcos Cárcamo Doval",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKOFVbwOVrMt0N52qRJt2_drVFVHxS2GQZYKTw1Ta9pJs_XwaE=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Muy profesionales y la atención inmejorable!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Anton Jabonero",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJjAIixOik0S3k3V1k9fwvRyWq3lGfrQl4eNe1hAiDJT0APBA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Reyes M. Otero Rodriguez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK3rH29LdKwNMNLym0BCc67y9LD4KW-z38K-t3g5INkaW37jgo=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Julio",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXHEaabvL9KpYFwu8g0waAC4lTe_IoeqUVNp0qjSRqZusXKMJw9pA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Óptica Castro Plaza de Lugo",
+  category: "Óptica",
+  address: "Rúa Payo Gómez, 1-3, bajo, 15004 A Coruña, La Coruña",
+  description: "Este establecimiento es valorado por su amabilidad y profesionalidad, ofreciendo una buena selección de gafas de marcas de lujo. Los usuarios destacan la atención recibida, mencionando la rapidez en la entrega de las gafas y el trato al cliente como excelentes. Se informa de promociones y descuentos, aunque algunos precios pueden considerarse elevados para la graduación ofrecida. Sin embargo, una opinión puntual menciona una experiencia negativa en cuanto a la atención al cliente, percibiendo falta de profesionalismo y amabilidad.",
+  serviceRatings: {
+    atencionCliente: 4.5,
+    profesionalidad: 4.5,
+    precio: 3.0,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "16:45–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "16:45–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "16:45–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "16:45–20:30"
+    ],
+    sábado: [
+      "10:00–13:30",
+      "16:45–20:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "16:45–20:30"
+    ]
+  },
+  website: "https://www.instagram.com/castroopticos/",
+  phone: "881 87 36 76",
+  review_count: 20,
+  review_rating: 4.3,
+  latitude: 43.366748,
+  longitude: -8.40703,
+  user_reviews: [
+    {
+      Name: "Judit Guijarro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW5s3u1faX2aJ5RmWdZwmRGJBi5VYAGpuBMob-6gR-uWfgkGsxC=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Muy amables y profesionales. Una muy buena selección de gafas de marcas de lujo. Me compré unas gafas justo antes del Black Friday y me informaron de que estaría la montura al 40%, me las dejó reservadas y me informó cuando podía pasarme a que me aplicaran el descuento. Me hicieron 2x1 en los cristales, aunque el precio original me pareció bastante caro para la poca graduación que tengo.\nLa verdad es que estoy muy contenta con ellas, y sobre todo la rapidez, ya que tenía las gafas hechas en menos de una semana, y el trato al cliente, de diez.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "BEGOÑA GARCIA",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW80dDjtxdd99nzVIokPZATmMn5h-SFJa-DQJ1MFRQC7AsHzy9uyA=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Es mi óptica de confianza. He comprado la mayoría de mis gafas de ver en ésta óptica. El trato es exquisito y la atención perfecta. Te hacen sentir cómodos, tranquilos..... Cómo si estuviéramos con alguien de confianza. Hace unos días fui a hacerme una revisión de la vista y todo salió bien. La sensación es que has a ellas se ponen contentas por tí .\nGracias por vuestra amabilidad .",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Naty FreLu",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV-Y99PyXL-8JCCEl7uhR3upaCCz6ny_XrGXuRAth2vhor8XiY4=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "La atención de una de las empleadas, llamada Iria, hizo de la compra de unas gafas de sol un momento súper cómodo y satisfactorio.\nComenzó siendo súper sincera a la hora de opinar, seguidamente se preocupó de ajustar las gafas a la perfección y para finalizar acabó ajustándome las que ya tenía puestas al comentarle que las notaba un tanto flojas.\nCon dependientas así da gusto visitar los establecimientos.\nAñadir que soy súper indecisa y me probé casi todas las gafas que tenían, tuvo mucha paciencia. :)",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipPAVeYcDGN2SRsR-ruljQ_4tu1EZ7fgQW9AH10H&fid=0x0:0xf4487b274c66feac"
+      ],
+      When: "2023-7-6"
+    },
+    {
+      Name: "Javier Corral Vázquez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXRROnnxeOlPmA6y3R49DArJ5IphsGpQDa43b64TM7QnP3YS_Yg=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Destacada atención con profesionalidad y buen trato por parte de Dolores que me atendió. Es una óptica muy recomendable. Gracias.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ikrame AKOUDAD",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJdrZnEq01ET12XF3r740E_d85uLIlb0fYIfhZroBMPBoXW5Q=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "El servicio al cliente es pésimo. Fui para obtener un presupuesto para hacer mis gafas con la receta del médico. La chica habló rápidamente, me dio los precios en un minuto y ya está. No hubo atención al cliente, ni profesionalismo ni amabilidad. Estoy decepcionada",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Roberto Hermida",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLm_Hn9GdccQFhmfEaQygjwKW3jvBh3ojXElsX0hByZwxer0w=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me acabo de hacer unas gafas graduadas y todo ha salido perfecto. Volveré muy pronto. Gracias por todo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria gloria Luces freire",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUochBv6aZZqxnd84i1EXUemE31O8_zcfaKQc1lLbZgcK3sbA1K=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Siempre me compro allí las gafas de sol tienen siempre mogollón de promos y firmas exclusivas quiero destacar la atención de una de las empleadas iria , super profesional da gusto ir a sitios y que te atienda asi!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria Jose maceiras freire",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLBWUJAEhp3yPNVV0JMzlihGH0ubHKEsoav4HH8nfJExJh0Ow=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Siempre está lleno pero es normal porque son auténticos profesionales y el trato hacia el cliente es excelente.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Infinity Visión - Óptica y Psicotécnico",
+  category: "Óptica",
+  address: "R. San Andrés, 96, 15003 A Coruña",
+  description: "Este establecimiento recibe excelentes valoraciones por su trato y profesionalidad. Los usuarios destacan la amabilidad y atención del dueño, Miguel, quien se toma su tiempo con cada persona y ofrece exámenes exhaustivos. Se valora la calidad de los productos y el servicio al cliente impecable. Además de óptica, también ofrecen servicios de psicotécnico para renovar el carnet de conducir, siendo eficientes y puntuales en este trámite.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.0,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "11:00–14:00"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://infinitycenter.es/",
+  phone: "981 22 64 26",
+  review_count: 116,
+  review_rating: 4.9,
+  latitude: 43.369513,
+  longitude: -8.403777,
+  user_reviews: [
+    {
+      Name: "Laura E.R",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLx540bDkFJm8csRImmdbzxDtAKeM55NaIvpipTsIuwemWnkxTi=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Gran óptico y mejor persona. Todo facilidades. Fui a hacer el psicotécnico y me dijo que tenía un test de visión gratuito y fue el examen óptico más exhaustivo que me han hecho nunca. Se toma su tiempo con cada paciente y eso se agradece. Volveré allí a comprarme las gafas. Súper recomendable!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Allanys lua",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWs-qS8xLhNLuR1y_UeBlotr1czgsbgmqwpIxWSJM9fULT6xeJXxQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Tuve la oportunidad de visitar la óptica Infinity vision y fue una experiencia excepcional. El dueño, Miguel, es un profesional muy amable y atento que se tomó el tiempo para entender mis necesidades y encontrar la solución perfecta para mí.\n\nLa calidad de los productos es excelente y el servicio al cliente es impecable. Me sentiría muy cómodo recomendando la óptica Infinity vision a amigos y familiares.\n\n¡Muchas gracias, Miguel, por tu excelente atención y servicio!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Luisa Seara",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKiKleDJ_jyzP5l8kDNzxMw_y_LTA97nL2WdDOG2NWDbmD8EQ=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Fui allí para hacer el psicotécnico para renovar el carnet de conducir, y todo fue genial.\nMe atendieron a las hora concertada y me trataron muy bien.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Isabel Blanco Aparicio",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIEJ7nDlQUM_Ah8fzLbeRHrL-rBiPYSJ07aTmMJu7zkyD-3CA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Acudí para realizar psicotécnico para renovar el carnet de conducir. Me dieron cita enseguida ajustandose a mi horario. Nada más llegar me atendieron y todo fue muy ágil.\nBuena atención por parte del personal y muy amables.\nLo recomiendo y repetiré en próximas ocasiones.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "silvia fresco montero",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKhOO9q7KXiN6DcV_rND-PGcYrIqZ8b_4j4veAwtKo6uY5E7g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He renovado hoy el carné de conducir, fui con cita (te envían el día anterior un washap para recordar y confirmar), muy puntuales, el trato genial, buen precio y totalmente recomendable. Además tienen una promo que te revisan gratis la vista",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Michel Soto",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKqSP5gq3DJSQwlcnWYDq6kiicgYEcD84pUkcT8SiaBXkOs7w=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Soy una persona que valoro mucho mi tiempo. Así que tengo que decir que fueron muy puntuales , ambiente acogedor , información detallada del trámite y rapidez.  En conclusión... profesionalidad.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Allana Borges",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWYc7n4hFdw9QXItTJpaWq2sjxI-iAhfR4T374OhA6DNqwsu-dsRg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Recientemente visité la óptica Infinity Vision y tuve una experiencia excelente, en gran parte gracias a la atención del óptico Miguel. Desde el momento en que entré, el ambiente fue acogedor y profesional, con un equipo dispuesto a ayudar y asesorar de manera personalizada.\n\nEl óptico demostró un alto nivel de conocimiento y paciencia al explicarme cada detalle de mi graduación y recomendarme las mejores opciones según mis necesidades. Su trato fue amable y resolvió todas mis dudas con claridad, asegurándose de que me sintiera cómodo con mi elección de lentes. Además, el examen de la vista fue muy preciso y detallado, lo que me dio confianza en su diagnóstico.\n\nLa variedad de monturas y lentes disponibles también es destacable, con opciones modernas y de alta calidad. Calidad-Precio excelente.\n\nEn resumen, Infinity Vision y en especial Miguel, ofrecen un servicio excepcional. Recomiendo esta óptica a cualquiera que busque atención profesional, productos de calidad y una experiencia satisfactoria en el cuidado de su visión.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alexmay Darriba",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXZ4rKCotSlw17_qMwkGcaMMWEJ0DwSQtgx3hGwRYudxageobs=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Como siempre puntuales con los pedidos y excelente atención. Gracias por recomendarme la mejor calidad de productos y cuidar de mis ojos. Recomendado!  Y tienen descuentos ahora! Aprovechen!",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipMq9-XGuVF7fimpC_CPSL7hmwGUtDJHQsKFB6z0&fid=0x0:0xc2217b7826a9e2d3"
+      ],
+      When: "2025-1-16"
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "VYO Óptica",
+  category: "Óptica",
+  address: "Rúa Federico Tapia, 15, 15005 A Coruña",
+  description: "Este negocio es reconocido por su excelente trato y profesionalidad. Los clientes resaltan la paciencia y atención recibida, especialmente a la hora de elegir las gafas. Se menciona la tecnología de última generación y la satisfacción general con el servicio y los precios, así como la disponibilidad de ofertas interesantes. Incluso se destaca la amabilidad al realizar ajustes en gafas que no fueron adquiridas en el establecimiento.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "11:00–14:00",
+      "18:00–20:00"
+    ],
+    lunes: [
+      "11:00–14:00",
+      "18:00–20:00"
+    ],
+    martes: [
+      "Cerrado"
+    ],
+    miércoles: [
+      "11:00–14:00",
+      "18:00–20:00"
+    ],
+    sábado: [
+      "Cerrado"
+    ],
+    viernes: [
+      "11:00–14:00",
+      "18:00–20:00"
+    ]
+  },
+  website: "https://www.e-distrito.com/ga/comercio/518/vyo-optica",
+  phone: "981 92 36 85",
+  review_count: 48,
+  review_rating: 5,
+  latitude: 43.363735,
+  longitude: -8.406314,
+  user_reviews: [
+    {
+      Name: "Levys Riveron Seara",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIQ7_frS2h1iShV0QvgleZ9KVXA2IY1s5iLMDNT7LevWWCqfw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente profesional y muy paciente con los clientes!!! En mi caso tuvo muchísima paciencia a la hora de yo escoger mis gafas!!! Un 10",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Natalia Martinez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV3ulTB8MToK-AHR-eBhUz8Io5fVrAKOeIORiOvn2nByKyJrXuQ=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Un trato excelente y muy profesional. El chico que me atendió tuvo mucha paciencia conmigo ya que dudé en varias ocasiones con qué ocular veía mejor. Tecnología de última generación. Estoy muy satisfecha",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Evelyn A",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXrGit9X872Txm_qzgZu7OWy2t0-5TlYSww8yYu4b1y9Fh0ihXH=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Ayer fui a recoger mis gafas y la verdad que desde el primer minuto que las fui a elegir siempre hubo un trato excelente. Además tienen buenos precios y ofertas interesantes. Sin dudas volvería a comprar allí!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Julio Rivero",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJiP4t4ydPpJikGrUvNiYhqsvFrl2htxcJ7_5tf6PmcFgz84Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente profesional y muy atento. Alejandro siempre resuelve con rapidez y tranquilidad cualquier problema.  Muy satisfechos de sus servicios.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Miguel Sebastiá",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVNSuFFl7wKskm04jIUiElQFNsdRK9m5DcRjhGFmGvF4f8wzMX5=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me ajustaron las patillas de unas gafas tomándose su tiempo hasta que me quedarán bien. Servicio de 10",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "María Dolores Guyatt Martín",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLUg9iHbIFu9Y8fPUTFXfCwuVATS741wa6S53lOL0TJ1DjPyA=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Un gran profesional y con una gran variedad de monturas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Natalia Garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocICYRYgpuZwS0hk0K_B1cS9SfunSYagy_4GaU8jn8AQkfIK4g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "No puedo estar más contenta con su trato y profesionalidad. Tanto Alejandro como Emilia siempre pendientes de que  todo sea perfecto para la satisfacción de sus clientes. Llevo muchos años confiando en ellos y nunca he tenido ni un problema.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marina Castro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX85Y121tWx1dy1jfND2sQxMPkOSbP_qxxJjfTbslvk8DY8MRtp=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me atendieron súper bien, y salí encantada con mis nuevas gafas. Muchas gracias por el asesoramiento, la profesionalidad y el trato personal.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Optica2000 El Corte Inglés Ramón y Cajal",
+  category: "Óptica",
+  address: "Ramón y Cajal, 57-59 Centro Comercial Ramón y Cajal PB, 15006 A Coruña",
+  description: "Se destaca un trato inmejorable y una rápida resolución de dudas o problemas. En algunos casos, se ha ofrecido ayuda y soluciones sin coste, lo cual es muy apreciado. Sin embargo, existen opiniones negativas que mencionan precios elevados y una actitud descortés al reclamar problemas con las gafas. Algunos usuarios reportan errores en la graduación y experiencias frustrantes con el servicio postventa, llegando a sentirse insatisfechos y con gafas inutilizables.",
+  serviceRatings: {
+    atencionCliente: 3.0,
+    profesionalidad: 2.5,
+    precio: 2.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–22:00"
+    ],
+    lunes: [
+      "10:00–22:00"
+    ],
+    martes: [
+      "10:00–22:00"
+    ],
+    miércoles: [
+      "10:00–22:00"
+    ],
+    sábado: [
+      "10:00–22:00"
+    ],
+    viernes: [
+      "10:00–22:00"
+    ]
+  },
+  website: "https://www.optica2000.com/buscar-opticas/a-coruna/optica-2000-el-corte-ingles-a-coruna?utm_campaign=gmb-website&utm_source=google&utm_medium=organic&utm_content=66-A-Coru%C3%B1a-R%C3%BAa-Ram%C3%B3n-y-Cajal-57-59",
+  phone: "981 17 10 12",
+  review_count: 23,
+  review_rating: 3.4,
+  latitude: 43.354501,
+  longitude: -8.403046,
+  user_reviews: [
+    {
+      Name: "Carmen Bua Torrado",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIq2tHZmQg8YhM9riCWDkku7WspHZ2jlpUXj_vSC3vmziblMA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Un trato inmejorable , rápida resolución a cualquier duda o problema\nY los precios como en cualquier óptica",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "lourdes Fente",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXwKSjinwoV-MUH40lKjImKu6kg43CxEwBnQIp3oZlBfH8pFj7S=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Debo decir que  he llevado unas gafas que se me había roto la patilla y con toda la amabilidad del mundo , se me ha arreglado no se me ha cobraddo nada…\nPor supuesto, volveré y me haré unas gafas también ahí, porque es muy importante tener a gente tan amable y servicial. . Mil gracias por la atención.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Walter Mercado Lemons",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLNO62NfgMMLgV0pLcsQ3XKRba-3GWiHgzON1gZefxjxyxoGQ=s120-c-rp-mo-ba2-br100",
+      Rating: 1,
+      Description: "Fatal, nada recomendable, los precios  desorbitantes, (un error nuestro por no mirar otras opticas) y lo peor. al reclamar que las gafas no le iban bien a mi madre, el encargado no pudo ser más borde, que tenían que volver a graduar y la opción pagar otras lentes, pero vamos a ver, en tres meses nueva graduación? Sinvergüenzas\nNada recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Montserrat Frak",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXflunRfPM_kcW3av5dfkX1QUc5avd14zdpkXl8WcWgXvLLKCNt=s120-c-rp-mo-ba3-br100",
+      Rating: 1,
+      Description: "En principio muy bien, hasta que coges las gafas (el doble de costosas que en otras ópticas) una semana después regresamos, que no me iban bien, para revisar si está bien la graduación, o? Vaya actitud descortés.\nNada Recomendables.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "ana diaz yañez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJdFc65of1J-CNcWZj_eahlbCCEtJ0nlbaGnv_tEm5xTKHPGg=s120-c-rp-mo-ba2-br100",
+      Rating: 1,
+      Description: "Lleve arreglar unas gafas, me pidieron un cobro por adelantado , me llamaron a los 2 meses que estaban reparadas, volvi y me pidieron otra vez abono, figuraba como no pagado, cosa que no es así, en mi vida me paso esto, no tenia ticket para demostrar, pese a ver careado el tema con la dependendienta , tuve que volver a pagar , nada recomendable ya por la situación violenta e injusta.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Nur Badadi",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWkFx1gPcLDPbQXuJzZOIJWD58elhpqy3UaK-M2gj6c4LVOu4ZjmQ=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Hola quiero hacer pública mi reciente visita  a óptica 2000.\nUna semana antes del estado de alarma realice  una revisión ocular en la óptica de Ramón y Cajal. Se me prescribe una gafas de cerca, por lo cual escojo montura y cristal.\nDichas gafas presentaban mejoras añadidas como cristal antireflectante, seguro y todo tipo de garantias, incluida la satisfacción del cliente.\nUn día antes del cierre  general de los comercios por el Estado de Alarma, recojo las gafas y las pruebo.\nEn ese mismo momento ya me percato, que con las misma me mareo. Al informarle al personal de la óptica de este problema, me responde que está situación es normal y que en unos días irá desapareciendo.\nSi estar convencida de la explicación acepto usar las gafas unos días (como de prueba) sin que esté problema desaparezca.\nPor  lo que me sucede, intento ponerme en contacto telefónico con la óptica, sin obtener respuesta ni desvío a un teléfono de urgencias, ya que todo estaba cerrado por la situación de estado de alarma.\nUna vez se realiza la reapertura en la fase 2 del estado de alarma me persono en la óptica comentándoles que persistían los mareos producidos por las gafas. Vuelven a realizarme otra revisión ocular, llegando a la conclusión de que necesito otro tipo de cristales con otra montura diferente, con el consiguiente pago de las mismas.\nAnte esta situación me considero un cliente no satisfecho con la Gestión Comercial de la óptica del Corte Inglés .\nNo entiendo porque se me aplicado el plazo de garantía en el período de Estado de Alarma. Por lo relatado me encuentro frustrada y descontenta con esta Gestión Comercial del Corte Inglés.\nPor consiguiente, seguiré pagando unas gafas que no podré usar.\nGracias.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Adrian",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLU_UeAO_bNVfgXODPuXmgOJfnhiJOtJygrmpgPpqAsLswvNw=s120-c-rp-mo-ba2-br100",
+      Rating: 1,
+      Description: "Unos estafadores, graduaron mal para vendernos unas lentes MUCHO mas caras \"debido a las dioptrías tan altas\". Unos ladrones. Para no ir NUNCA.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "José Francisco Borrego Vázquez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWWClIANtarY35R05VMDB07_ZAq8_h0hEaUf_IErCBcyq55lnkmpw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato exquisito, empatico y cercano aparte de profesional. Recomendable 100%.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Óptica 2000 Marineda City A Coruña",
+  category: "Óptica",
+  address: "Avda.Baños Arteixo, s/n, Centro Comercial Marineda City, PB, 15008 A Coruña",
+  description: "Este establecimiento cuenta con una buena variedad de productos y una atención al cliente correcta. Algunos usuarios destacan la paciencia y el excelente trato recibido, mencionando precios competitivos. Sin embargo, se señala la falta de espacio para sillas de ruedas como un aspecto negativo.",
+  serviceRatings: {
+    atencionCliente: 4.0,
+    profesionalidad: 4.5,
+    precio: 4.0,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–22:00"
+    ],
+    lunes: [
+      "10:00–22:00"
+    ],
+    martes: [
+      "10:00–22:00"
+    ],
+    miércoles: [
+      "10:00–22:00"
+    ],
+    sábado: [
+      "10:00–22:00"
+    ],
+    viernes: [
+      "10:00–22:00"
+    ]
+  },
+  website: "https://www.optica2000.com/buscar-opticas/a-coruna/optica-2000-el-corte-ingles-marineda-city-la-coruna?utm_campaign=gmb-website&utm_source=google&utm_medium=organic&utm_content=100-La-Coru%C3%B1a-Avenida-de-Arteixo-S%2Fn",
+  phone: "981 63 20 27",
+  review_count: 4,
+  review_rating: 4.5,
+  latitude: 43.345264,
+  longitude: -8.428466,
+  user_reviews: [
+    {
+      Name: "Beatriz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ6fsJogxXjG1vG8OysnfofIEgB7JB-MYXtlqhcuThBEqy8ZQ=s120-c-rp-mo-ba4-br100",
+      Rating: 3,
+      Description: "Es una optica pequeña tienen variedad en los productos, la atención al cliente es correcta lo malo que no hay suficiente espacio para la sillas de ruedas. Y estoy cansada de que los negocios no piensen en el espacio o es que los que vamos en silla de ruedas no tenemos derecho a comprar como los demás. La gente no se da cuenta asta que pasa. Pero si pensáis que soy una protestona ir a la entrada del centro comercial y cojer una silla de ruedas y hacer un recorrido por las tiendas donde soléis ir y después me lo contáis.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juan Carlos Llorente",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVmJoavUr8qRDtUmJmeDXqsRffj82vAPtOA80HEtcncZa3kPCFCPA=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Excelentes profesionales y personas. Realmente muy pacientes, y metódicos. La mejor atención y precios que he recibido en opticas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "yenny thailor hernandez diaz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIwwXMmWQNW_oug9axXwQPM78xaINomd83p3RHuAqHIh9denQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente servicio. Muy atentas las chicas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Antia Rodriguez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXHBbE1sPi71jmVV77kZClHmOuTxSQQqmTk0LvY8t6amMjtVAw=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "bueno poco que decir",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "ÖptoCoruña",
+  category: "Optometrista",
+  address: "Rua Enrique Dequidt Hevia, 16, 1ºD, 15005 A Coruña",
+  description: "Este centro de optometría es altamente recomendado por su increíble atención y profesionalidad. Los pacientes destacan la ayuda recibida para solucionar problemas visuales, incluso disminuyendo la miopía. Se valora el trato amable, atento, preocupado y la exhaustiva evaluación realizada, explicando el tratamiento y diagnóstico detalladamente. Los profesionales son considerados excelentes y muy cercanos.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "16:00–19:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "16:00–19:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "16:00–19:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "16:00–19:30"
+    ],
+    sábado: [
+      "Cerrado"
+    ],
+    viernes: [
+      "10:00–13:30"
+    ]
+  },
+  website: "https://optocoruna.es/",
+  phone: "981 91 44 63",
+  review_count: 17,
+  review_rating: 4.9,
+  latitude: 43.362447,
+  longitude: -8.409706,
+  user_reviews: [
+    {
+      Name: "Érika Regueiro Otero",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVQ6Ih8ngP2Rk3Bn3tjNJLYTlDJFetBwu8BOeh5KlC337Ts4B_N=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Son increíbles. En mi caso David me ha ayudado muchísimo. Con 30 años desayunaba paracetamol casi todos los días. Con el ha sido recuperar mi vista y descubrir cosas que ni pensaba que me pasaban. A día de hoy después de meses de salir de la terapia ocular me he encontrado que incluso he disminuido la miopía de cada ojo.\nSon unos profesionales como la copa de un pino, además de, amables, atentos y preocupados, con mucha empatía y cariño.\n¡Muchas gracias David!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Raquel Gonzalez Rodriguez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKeeTh7kz0XAvsC4SJhTfhkyiM4fEfwx9KKePnw6lq1oFc2RA=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Encantadísimos con el servicio.\nDavid atiende a mi hijo desde hace meses por un problema al que nadie encontraba solución ni daba importancia,y aparte de un trato inmejorable,simpatía,flexibilidad y escucha,es un profesional que sabe lo que hace,al que le apasiona su profesión y explica de manera comprensible tanto el tratamiento como el diagnóstico paso a paso.\nRecomiendo esta clínica encarecidamente.\nMuchas gracias!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose Antonio Rial Sanchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJm7jU6Zz-12FDay5OYlSbLPOLlHdJ3Cv4X1NJ_u37hSDSF=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "He llevado el niño de 6 años a este centro y le han hecho un examen completísimo, con todo tipo de pruebas de agudeza visual como otro tipo de pruebas. El trato ha sido fantástico, lo recomiendo 100%.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Carlos Seijo Santaballa",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXEOXaGne6PcZa2yZe87SmYuef1qjPbnJnDx0HgYxDdBH_3A-Xk=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "David y María, son dos fantásticos profesionales,  tienen un servicio de optometría espectacular,  tras una exhaustiva evaluación, encontraron la raíz de mi problema, lo sorprendente es que me lo han solucionado con sesiones presenciales y trabajo en casa, mi ojo derecho vuelve a funcionar ¡¡¡por fin!! increíble 100% recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Miguel Ramos Nieto (Miki)",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIZnyo76CnIE1oFQUa9DiOKRVaUWcnvPIsMP7vqLO3TYTUiGK6W=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Tengo 42 años y nunca espere encontrar una solución para mis problemas de agudeza visual y estrabismo.... Increíble el trabajo que están haciendo conmigo.\n\nEl trato humano es inmejorable y están muy sensibilizados con todas las medidas de seguridad Covid",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mary Represas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKWbsHVo5PyjFQaryHhXZKG-PZK1SXGte67WATOBczvSplW4g=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Excelentes profesionales de la vista, muy recomendable para problemas de vista, 10 sobre 10",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana Gonzalez Gil",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXlEjC0F_nJhVTT-FqRI_WX5C0W1OHaH7nyz1Mqmtx_Fq__O8_5=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy profesionales y a la vez muy cercanos. Trato exquisito, totalmente recomendables.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Merchi Suarez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIH3CCDM0j5kV9288e6BbNQjIdv7S4IdDpY7DBDsXPDcZES_g=s120-c-rp-mo-br100",
+      Rating: 4,
+      Description: "Lleve a mi hijo por un problema de ojo vago y la atencion fue muy buena. Muy recomendable.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Activa Vision",
+  category: "Optometrista",
+  address: "Av. Salvador de Madariaga, 33, 15008 A Coruña",
+  description: "Este optometrista es reconocido por su espectacular atención y profesionalidad. Los usuarios destacan la amabilidad y los consejos recibidos, especialmente en la elección de cristales progresivos que resultan cómodos desde el primer día. Se valora la atención personalizada y la amplia gama de monturas. Sin embargo, una opinión puntual menciona una experiencia negativa al romperse unas gafas durante un ajuste.",
+  serviceRatings: {
+    atencionCliente: 4.0,
+    profesionalidad: 4.5,
+    precio: 3.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–14:00",
+      "17:00–20:00"
+    ],
+    lunes: [
+      "10:00–14:00",
+      "17:00–20:00"
+    ],
+    martes: [
+      "10:00–14:00",
+      "17:00–20:00"
+    ],
+    miércoles: [
+      "10:00–14:00",
+      "17:00–20:00"
+    ],
+    sábado: [
+      "Cerrado"
+    ],
+    viernes: [
+      "10:00–14:00",
+      "17:00–20:00"
+    ]
+  },
+  website: "https://activavisionoptica.es/",
+  phone: "981 91 82 79",
+  review_count: 16,
+  review_rating: 4,
+  latitude: 43.346418,
+  longitude: -8.40609,
+  user_reviews: [
+    {
+      Name: "Andrea A.B",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXrxVS7EkjkFZspFUE49q9YBEgLxOkGKP-tLDYcE2xlduLFM5eC=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Encargamos unas gafas de sol, fueron muy amables.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Angeles C.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKI2kveMBZX5LNiXOLVJU5a7q3O7URYhuUTVe2X_sboulbvYQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Espectacular atención. Me graduaron la vista y me aconsejaron unos cristales progresivos que me han resultado comodísimos desde el primer día,  tengo la sensacion de que no llevo gafas, me recuerda a cuando no las necesitaba. Recomendable 100% por experiencia y profesionalidad.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Andrés Urrea",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU1USUa6Iu4pOuP_LPTOZyygqUQcxCnUy23v2VZvttEggvvt2mK1g=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Recientemente acudí por presentar problemas con el uso de lentillas, y quiero decir que ha sido una atención de 1000% , super profesionales. Las recomiendo para cualquier problema óptico.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juan Amado",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKb5_I3H-bovlpt9jGr6HgIyh0mmDwLBmA0CgAvznmSVRDBWw=s120-c-rp-mo-ba3-br100",
+      Rating: 1,
+      Description: "He llevado las últimas gafas que he comprado aquí para apretar las patillas y en el proceso les han roto, no se hacen responsables y tengo que comprar una nueva montura, las últimas gafas que compramos ahí desde luego.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "lore Superwoman",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKRfKwNzt72h4dktcsQCz-5kiuwNlkp4COoM6OJ_9aCUps3Nw=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Agradable , muy profesionales,  trato muy cercano , variedad de productos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Kitty's Creations",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUHACM0eJGLuIFEGt6FXezOsT3CFVLSRkcn5_GKmC_HoSHK0j3V=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Buen trato y una amplia gama de monturas",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Coke",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV3g71IQS73OyR2o6JTnyVUArSLW4EhPxJ1p6apf0bIMgeOkNoW=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Laura Maria Sánchez Piñeiro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVWlEUClYGY3tHJYBddoue1HW86Qxp9v8DyFAz6JNeXU5eabyzE=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Eiroa",
+  category: "Óptica",
+  address: "Avenida Finisterre, 70, 15004 A Coruña",
+  description: "Este negocio ha recibido una única valoración negativa.",
+  serviceRatings: {
+    atencionCliente: 1.0,
+    profesionalidad: 3.5,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:45"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "",
+  phone: "",
+  review_count: 1,
+  review_rating: 1,
+  latitude: 43.364805,
+  longitude: -8.412009,
+  user_reviews: [
+    {
+      Name: "agoraf blanc",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWiQpjo84LnulvHVW-GK69Ecv1vmqe1cr1LlPFq972c0VDbv22O=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Miguel Fariña Sieiro",
+  category: "Óptica",
+  address: "R. San Andrés, 96, 15003 A Coruña",
+  description: "Se destaca la amabilidad y profesionalidad del óptico, quien brindó atención durante un periodo difícil y explica todo detalladamente. Su formación y experiencia con oftalmólogos son altamente valoradas, siendo un profesional totalmente recomendado.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {},
+  website: "",
+  phone: "981 22 64 26",
+  review_count: 1,
+  review_rating: 5,
+  latitude: 43.369513,
+  longitude: -8.403777,
+  user_reviews: [
+    {
+      Name: "alicia consuelo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIbUdfwQp_F5mudFXj6DQQfVxoDeoJ-29jc5n5yl7s4SaDeTw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy amable el Óptico, muy profesional. El único que me atendió durante la cuarentena cuando tuve un problema visual. Sigo acudiendo a él y mi hija también. Gran atención e higiene por supuesto. Explica todo muy bien. Posée mucha formación ya que ha trabajado con grandes Oftalmólogos. Lo recomiendo totalmente.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "+Visión",
+  category: "Óptica",
+  address: "Av. Alcalde Alfonso Molina, Local 10-11-12, 15009 A Coruña",
+  description: "Este establecimiento es reconocido por la profesionalidad y amabilidad de sus ópticos. Los usuarios mencionan una atención personalizada y un trato excelente, resolviendo dudas y ofreciendo buenas soluciones para problemas visuales. Algunos clientes destacan la paciencia y la dedicación en la búsqueda de la graduación perfecta y la recomendación de monturas adecuadas. Sin embargo, existen opiniones negativas sobre la atención recibida por parte de algunos empleados y la gestión comercial.",
+  serviceRatings: {
+    atencionCliente: 3.5,
+    profesionalidad: 4.0,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–21:30"
+    ],
+    lunes: [
+      "10:00–21:30"
+    ],
+    martes: [
+      "10:00–21:30"
+    ],
+    miércoles: [
+      "10:00–21:30"
+    ],
+    sábado: [
+      "10:00–21:30"
+    ],
+    viernes: [
+      "10:00–21:30"
+    ]
+  },
+  website: "https://www.masvision.es/encuentra-tu-optica/la-coruna/mas-vision-alfonso-molina-la-coruna?utm_campaign=gmb-website&utm_source=google&utm_medium=organic&utm_content=308-La-Coru%C3%B1a-Avenida-Alcalde-Alfonso-Molina",
+  phone: "981 28 00 14",
+  review_count: 25,
+  review_rating: 3.9,
+  latitude: 43.328937,
+  longitude: -8.390998,
+  user_reviews: [
+    {
+      Name: "Arturo ANTON HOLANDA",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJxhPIrqtRdi3e2jt3f4bzTG89JPhJfw0xmKdO4FNIHygwC0A=s120-c-rp-mo-ba4-br100",
+      Rating: 4,
+      Description: "Recomendable 90%. Con la garantía de otras marcas(Luxottica/Rayban)-he tenido que reclamar garantía directamente con factura compra.Gracias que conservan datos facturas.Buen servicio,buena calidad,buena garantía marca propia.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lorena Tejeiro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKs_SnLmoQwoYnojnAmrYQsCbl4IIL7I4STJ6IQMaaZY4vFRw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Hola,\nHe ido a regular la visión y me ha tocado cambio de cristales.\nA la hora del control visual la óptica (se llama María) súper dulce haciendo muchas pruebas para que quedara perfecta la graduación. La verdad que yo no estaba muy segura de si podía ver mejor o no con los cambios que me daba y fue pacienciente y en todo momento me tranquilizaba.\nUna vez regulada la comercial (creo q se llamaba Ángela) me enseñó varios modelos y me asesoró con mi forma de la cara lo que me podría quedar mejor o peor. Quedé encantada con la elección y el trato amable recibido por su parte.\nLas recomiendo 100%. No era mi óptica de confianza y a partir de ahora lo será.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Soledad Fernandez Suarez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocILpt5xcKQA-GnnK8qdQ1u6v5qPe4HRVGl5oxpZt46nTk9Inw=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Igual que la reseña anterior, decir que se podría decir lo mismo, del chico de barbas...\nEsta tarde me hace la revisión (el 1⁰) y te pasa con el compañero (el 2⁰) para que ultime detalles y luego vuelve con otro cliente (el 1⁰)  y hace que este chaval (el 2⁰) deje de atenderme para atender a los otros y me acaba de atender y hacer la venta (el 1⁰),menudo baile y mareo a los clientes.\nY que decir de la forma que tiene de hablarle el barritas al chaval,de vergüenza...\n\nA veces menos es más y nunca es tarde para un buen cambio",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Manuela Bravo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIqzPIU85DrCFfc5aCjrp1QjcnGMsQphpD2nfx8bcfeVflR7A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy contenta, los opticos son muy profesionales y amables. Llevo años como clienta, y todas las veces que fui me trataron bien y me regularon perfectamente la graduación. De hecho, ahora toda mi familia acude allí. Seguiré yendo sin dudarlo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria Gestal",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIykRThrtrfqYLtbKoJJcOkDpkfYDhV5M_haWiJmQqT_yYA-A=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "En las últimas semanas he ido varias veces,el resultado es siempre el mismo,irme sin ser atendida.\nLa óptica ha salido un momentito,y tras 30 o más minutos de espera no vuelve,y me voy.\nLuego la puedo encontrar, de bata, haciendo compra en Alcampo o de charla con las tiendas de al lado... 😔 muy mala experiencia la verdad",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lorena Dieguez Fernandez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVpI6A3zOwrV0z-81ksHUyQltW-9jVHzA7UqM3he58RlOHHZw-w1Q=s120-c-rp-mo-ba2-br100",
+      Rating: 1,
+      Description: "Mal y fatal es poco\nJorge y Maria te hablan fatal y Elena mejor que se dedique a otra cosa porque mira a otro lado y aquí no pasa nada...todo el día de paseo, con los móviles y poco respeto por su puesto de trabajo o por los clientes que les vemos \"rascándose la barriga\"",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria Ysabel Sánchez Salgueiro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ3vCxFFKrbCC2UwMrQZ0EVvnQN3RDJ-vtG4Gzq-X2EraiNww=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fui hace un tiempo para graduar mis gafas e informarme del posible uso de lentillas por mi problema de visión .\nTotalmente recomendable por su profesionalidad, atencion personalizada .\nVolveré.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Andrea Dourado Facal",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJEPYr09yOpequW47sXDTwqwKJzUuWBZeQw2-ylZmdKLWstXFo1=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La atención, es muy buena y muy personalizada ya que te atienden con todo su cariño y se preocupan de tus problemas visuales y te dan la mejor solución para ellos 🤩",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Farmacia Óptica Rascón",
+  category: "Farmacia",
+  address: "Av. Gran Canaria, 4, 15011 A Coruña",
+  description: "Esta farmacia y óptica recibe opiniones diversas. Algunos usuarios mencionan un trato poco amable y falta de transparencia, como la omisión del ticket de compra. Otros señalan precios elevados. Sin embargo, también hay quien destaca la amabilidad del personal y su disposición a ayudar, especialmente con personas mayores y niños. Un cliente menciona una atención educada pero con poca empatía.",
+  serviceRatings: {
+    atencionCliente: 2.0,
+    profesionalidad: 3.0,
+    precio: 2.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:00–13:30",
+      "16:30–20:00"
+    ],
+    lunes: [
+      "9:00–13:30",
+      "16:30–20:00"
+    ],
+    martes: [
+      "9:00–13:30",
+      "16:30–20:00"
+    ],
+    miércoles: [
+      "9:00–13:30",
+      "16:30–20:00"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "9:00–13:30",
+      "16:30–20:00"
+    ]
+  },
+  website: "",
+  phone: "981 25 33 89",
+  review_count: 25,
+  review_rating: 3.4,
+  latitude: 43.371486,
+  longitude: -8.422085,
+  user_reviews: [
+    {
+      Name: "T Q",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJn98nQ-yQ95kOFQfQBFrQp3ccUX--IJaTzNcZu7LcV0KatAxPe=s120-c-rp-mo-ba2-br100",
+      Rating: 2,
+      Description: "Dejan mucho que desear en cuanto a trato, amabilidad y transparencia. No te dan el ticket a menos que se lo pidas …",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "oscar garcia fernandez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocISofQj6bLDxcTNROtZofAmbyyIxgVm3wjN30Rwg3b0ejxENQ=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Ni buenos días al llegar, trato despectivo y no es la primera vez, pido gel que no tienen, dudan de si existe, me cuestionan de manera desagradable y acepto que no me lo pidan pues no les interesa. Ningunas ganas de atenderme pues las dos dependientas o propietarias están acodadas en el mostrador y molesta dejar esa postura. En fin una experiencia de 10",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Fani Sanchez Paredes",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWgBC5ZmHcCoS52nuVTt1ku2OashuWJ3v43fQxBoREQPgAyLXDq=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Unos estafadores los productos lo doble de lo que valen",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rosa María Prieto",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ4p56UDitBWSw4ERwgIkOf3vc7aFh7_tLCs1QY_oRLzCF2Sg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Gente muy amable, y te ayudan con cualquier problema.\nY desde siempre muy atentos con la gente mayor y con los niños.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Javier Pardo Varela",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJHMxXUt1DOP1ST4godL_0E3IBRri4C5WQuyjocIxJozba6QA=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "La atención por parte de las dependientas siempre educada, aunque noto poca empatia hacia mis consultas, algo que quizás se pueda mejorar con muy poco esfuerzo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Nino Garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWV2rKuW1DkwO2enuJSa-0I4wZb6LE0QPWFg_t4AihmP97tdcIE=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Fui para graduarme la vista. Todo perfecto. Trato amable y eficiente. Ya vuelvo a poder leer el periódico con mis gafas nuevas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Paloma Garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJamfFu6Mrj6ZwsIDgxvbba6EvS3w2uj7C5dqrsuzqf3835KA=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Horrible, voy a comprar unas lentillas a las 9:00 y me dicen que tengo que esperar a que llegue la optica, le comento que en el horario indican que abre a las 9 y la unica explicacion que me dan esque la chica de la optica tiene mejores cosas que hacer que estar en su puesto de trabajo a su hora",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Miguel Diaz Sanchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI2oMfiZomE9F2gZ4wqPPD8n_4S_X3A1ZbbToSCHVtkZz7CrA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente atención y trato, justo lo que se busca cuando se acude a un establecimiento relacionado con aspectos de salud.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "OPTICA DURAN - OLEIROS",
+  category: "Óptica",
+  address: "Rúa Repicho, 2, 15179 Oleiros, A Coruña",
+  description: "Esta óptica es altamente recomendada por su increíble equipo y profesionalidad. Los clientes destacan la ayuda recibida para elegir lo mejor para su vista, la gran variedad de gafas y las últimas tendencias. El ambiente agradable contribuye a una experiencia positiva. Un cliente en particular elogia la profesionalidad y amplios conocimientos de una empleada.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.0,
+    variedad: 4.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–14:00",
+      "17:00–20:00"
+    ],
+    lunes: [
+      "9:30–14:00",
+      "17:00–20:00"
+    ],
+    martes: [
+      "9:00–14:00",
+      "17:00–20:00"
+    ],
+    miércoles: [
+      "9:30–14:00",
+      "17:00–20:00"
+    ],
+    sábado: [
+      "Cerrado"
+    ],
+    viernes: [
+      "9:30–14:00",
+      "17:00–20:00"
+    ]
+  },
+  website: "",
+  phone: "981 92 38 45",
+  review_count: 7,
+  review_rating: 4.7,
+  latitude: 43.346944,
+  longitude: -8.34596,
+  user_reviews: [
+    {
+      Name: "Gerardo Belisario Sánchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK3K-TS1nyg2xETZSRWbZ0AjEnhsjrMvGnrPDT4NKEnJEVbVg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Totalmente recomendada, el equipo de Óptica Durán es increíble. Te atienden con mucha profesionalidad y te ayudan a elegir lo mejor para tu vista. Tienen una gran variedad de gafas y siempre lo último en tendencias. El ambiente es muy agradable, lo que hace que todo sea mucho más fácil. ¡Sin duda, volveré!",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipMzleQHJ6Ei7AvMiddF9cYZun56wm96-wQ3j4Zl&fid=0x0:0x4c0cb71a3ec50881"
+      ],
+      When: "2025-1-13"
+    },
+    {
+      Name: "Barry Baguley",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXLnDUGsZrPutu77Rmmh53ZAQKsfipiknzeapfrpYRxGfLig-Z9=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Excelente. Ya van un año con mis gafas y estoy encantado. Pili la mejor, y super profesional con unos conocimientos muy amplias.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Sandra Solís",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKkXCnc6pXFUe_5rNKSgc4AvFpwIUAf9OrnIS2gxFSxTeYYGg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La mejor óptica de Santa Cruz.\nTrato profesional y excepcional.\nTiene gran variedad de monturas y gafas de sol, todo escogido con el mejor gusto.\nAdemás te puedes graduar, y salir con tus gafas listas, ya que tienen taller. Una maravilla!!!\nSin duda mi óptica de confianza.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Antonio Seoane de Ois",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKN1MIObHeazKLjBo46vmb5UoYEnMVBcEgfh5cIl_2W61Qk2g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Sin duda una muy buena experiencia, desde el principio te asesoran de forma excepcional y el trato inmejorable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Iria Rodríguez Valladares",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKBdnwcjj05MOqnhoymioeLbI4ndBJbK0W3oVw0PUVz2SiOwA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "El trato y la atención ha sido de 10. Mi óptica de confianza por supuesto.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Karina Pereira Rei",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXAwdi2Mr53FYkTdj0ft1g1g22i9fNEdzdt8NP0lG0DABXpFVxx=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Excelente experiencia en Óptica Durán. Os lentes son de gran calidade e moi cómodos. Recibín unha atención personalizada e estou moi contenta coa miña compra. Totalmente recomendables!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose Manuel 43",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUwDnmaOT6VqBdfXJAWRKfJe6IuWFPlL4HNSGFFLKdudLVvW8hG=s120-c-rp-mo-ba5-br100",
+      Rating: 3,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
+{
+  title: "Óptica Soloptical A Coruña The Style Outlets",
+  category: "Óptica",
+  address: "Av. Alvedro, 5, 15180 Culleredo, A Coruña",
+  description: "Los clientes generalmente están encantados con la atención recibida en esta óptica, destacando la amabilidad, profesionalidad y eficiencia del personal. Se mencionan buenos precios y una excelente disposición para ayudar y asesorar a los clientes. Algunos usuarios resaltan la rapidez en la solución de problemas, incluso con gafas compradas en otros establecimientos. La atención y el trato son calificados como magníficos y totalmente recomendables.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.8,
+    precio: 4.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–21:00"
+    ],
+    lunes: [
+      "10:00–21:00"
+    ],
+    martes: [
+      "10:00–21:00"
+    ],
+    miércoles: [
+      "10:00–21:00"
+    ],
+    sábado: [
+      "10:00–21:00"
+    ],
+    viernes: [
+      "10:00–21:00"
+    ]
+  },
+  website: "https://soloptical.net/es/soloptical-coruna/?utm_source=Google&utm_medium=google_my_business&utm_campaign=sitio+web",
+  phone: "683 13 94 22",
+  review_count: 377,
+  review_rating: 4.8,
+  latitude: 43.290645,
+  longitude: -8.370797,
+  user_reviews: [
+    {
+      Name: "Fabio",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVxi5Ilw6-qUMnwQdq-QTi5u8U9037eeD6Z65QAxpA2fDPTndFAHw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Tuve el placer de acompañar a mi suegra hoy a esta óptica para reparar las gafas que se le rompió una de las astas. Desde el momento en que entramos, el trato fue excelente. El personal fue increíblemente amable y atento, se mostraron muy solicitados y se aseguraron de que todo estuviera en orden. Definitivamente recomendaría esta óptica por su excelente servicio al cliente y su profesionalismo. ¡Muy contentos con la experiencia!\"",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marcos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXfuZIFtQ-DGCamfbRp50tpBSY5GL6avHgu326kqsbGy52cCvI=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Os recomiendo.Personal muy atento,profesional y con muy buenos precios ,nos atendió Zaira y la verdad que fue muy amable y nos asesoró muy bien por eso decimos estos dos modelos,gracias Repetiré fijo",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipMyxR0WDiNcnIw5y1BPPcsbWCG_9omGvYTVkP_X&fid=0x0:0x76d02d0cb3adc39a"
+      ],
+      When: "2024-11-13"
+    },
+    {
+      Name: "Patri",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVtbPdJYt-y-gvaLvU_sWCc2-C2Qa_unQWmz24_XOmfRnVvtiRs=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Las chicas que trabajan allí son muy amables y profesionales. Yo llevo comprando allí mis gafas años y siempre el trato es excelente. Los productos están bien y los precios son muy asequibles :)",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jessy Cruz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVZzwfQ3A4cxZlVfdUfF1d3-OqBn8NW-L3W3xmB9BzCUYY5kXTt=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Compré unas gafas y necesitaba que me las ajustaran... Fui a esta óptica y la chica me atendió muy bien, fue muy amable. Aunque las gafas eran de otra marca, igualmente hizo el ajuste. Realmente muy amable!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Javier Reguera pena",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJs-Svzgj83b1aGN2LUqreukVMVpJTHoAi6JHcRzk8UlpOysA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy majas las chicas de soloptical coruña en la tienda de Álvaro y no solo simpáticas sino que muy eficientes. Fui con un problema de una gafa comprada en santander y me resolvieron el problema en un santiamén.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "NURIA DIAZLODEIRO",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWdHIPIINH2CgrPNESEySg45FapkSuX6xWiFWNdvz-ZTbUE19CLXw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Compré las gafas en septiembre del 2024 y me acerqué hoy a ver si me las podía apretar un poco las patillas porque se me caían. Sin problema me lo solucionaron en el momento y super atentas. Muchas gracias 😊",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Paula Puig Pérez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWybKqb3gkpyrFbgXk8y2fbKTd5YQOPyajqa4Uzj1O9eZOT8mms=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Encantada me he quedado con mi par de gafas con lentes para convertirlas en gafas de sol.\n\nMe graduaron la vista, me ayudaron a elegir los modelos y todo fenomenal. Estoy feliz con mis nuevas gafas y lo bien que me explicaron todo, el precio muy bueno con una súper oferta y también el trato, magnífico de principio a fin.\n\nPrecisamente hoy fui para que me regularan las patillas porque me caían un poco y lo hicieron con una sonrisa. Súper agradables todas las chicas y súper eficientes en su trabajo. Os recomiendo esta óptica sin dudarlo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "MARIA RIOS",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL24UqD-_bm2LW93QpUHFpd8cEOgwUeZtI1Oov9c8KVU7dfFw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Llamé el día anterior porque acababa de perder mi último par de gafas.Me informaron del precio aproximado y fui el día siguiente. Emili me aconsejó sobre los modelos y luego me miraron las diotrias.... En menos de una hora tenía un nuevo par de gafas y ahora puedo escribir la reseña....jejee. El precio....solo 96 euros con seguro y todo💃💃💃",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "a coruña"
+},
 
 ];
 
