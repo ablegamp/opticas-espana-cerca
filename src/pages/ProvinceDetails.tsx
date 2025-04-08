@@ -39325,7 +39325,7 @@ const opticians: Optician[] = [
       Name: "Manuel Ramos",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL-XOHzaEGGDx7HVU7neW83X0qO7qhr8p-beQilrh4OuAY1gIo=s120-c-rp-mo-br100",
       Rating: 5,
-      Descripton: "Magnificos profesionales, ademas te solucionan cualquier problema y siempre hacen frente a la garantia del producto. Llevo mas de 10 años y sin problema",
+      Description: "Magnificos profesionales, ademas te solucionan cualquier problema y siempre hacen frente a la garantia del producto. Llevo mas de 10 años y sin problema",
       Images: null,
       When: ""
     },
@@ -64441,6 +64441,13 @@ const opticians: Optician[] = [
   title: "Óptica & Audiología Zapillo",
   category: "Óptica",
   address: "C. Estadio, 65, 04007 Almería",
+  description: "Este establecimiento óptico se distingue por ofrecer un trato muy profesional y agradable. Los usuarios han encontrado soluciones a sus necesidades con gafas cómodas y a buena relación calidad-precio. Además, destaca la amabilidad y atención del personal, resolviendo problemas con rapidez e incluso reparando gafas de forma urgente. Se percibe un alto nivel de atención al detalle y un espíritu servicial.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.5,
+    variedad: 4.0
+  },
   open_hours: {
     domingo: [
       "Cerrado"
@@ -64548,6 +64555,13 @@ const opticians: Optician[] = [
   title: "Óptica Paqui Martín Almería | Revisión de vista gratis, lentillas Orto-K y gafas progresivas",
   category: "Óptica",
   address: "Calle Rueda López, 16, 04004 Almería",
+  description: "Se destaca la atención recibida como un placer, resaltando el trato y el espacio del local. Los modelos de gafas son calificados como preciosos, alegres y divertidos. Aprecian que desde el primer momento se sienten escuchados y orientados en la elección de modelos y cristales, percibiendo a Paqui como una profesional dedicada a asegurar la adaptación de las gafas. La relación calidad-precio es considerada buena, con una amplia gama de modelos y calidades.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.5,
+    variedad: 4.0
+  },
   open_hours: {
     domingo: [
       "Cerrado"
@@ -64663,6 +64677,13 @@ const opticians: Optician[] = [
   title: "Óptica Alma",
   category: "Óptica",
   address: "Calle Dr. Gregorio Marañón, 46, 04005 Almería",
+  description: "Este centro óptico es valorado por el magnífico trato de sus profesionales, quienes realizan un seguimiento exhaustivo para solucionar problemas visuales, mostrando profesionalidad y cercanía. Se realizan pruebas detalladas y se ofrece una gran variedad de gafas. No obstante, una opinión puntual menciona una experiencia negativa con la atención y el servicio en la entrega de lentillas, así como precios más elevados.",
+  serviceRatings: {
+    atencionCliente: 4.5,
+    profesionalidad: 4.8,
+    precio: 3.0,
+    variedad: 4.5
+  },
   open_hours: {
     domingo: [
       "Cerrado"
@@ -64771,7 +64792,7 @@ const opticians: Optician[] = [
   title: "Óptica Maeso",
   category: "Óptica",
   address: "C. Granada, 1, 04003 Almería",
-  description: "Generalmente, esta óptica recibe valoraciones muy positivas por su trato atento y profesional, destacando la amabilidad de su personal, especialmente de Isa. Los usuarios mencionan una buena relación calidad-precio y algunos llevan siendo clientes durante muchos años. Sin embargo, se observa una crítica puntual sobre una atención percibida como borde en una ocasión.",
+  description: "Por lo general, esta óptica recibe comentarios muy positivos, resaltando el trato atento y profesional de su personal, con mención especial a la amabilidad de Isa. Se valora la buena relación calidad-precio y la fidelidad de algunos usuarios a lo largo de los años. Sin embargo, se registró una opinión aislada sobre una atención percibida como descortés en una ocasión.",
   serviceRatings: {
     atencionCliente: 4.0,
     profesionalidad: 4.5,
@@ -65686,7 +65707,8 @@ const opticians: Optician[] = [
       When: ""
     }
   ],
-  emails: ""
+  emails: "",
+  province: "almería"
 },
 {
   title: "Multiópticas",
@@ -65801,7 +65823,8 @@ const opticians: Optician[] = [
       When: ""
     }
   ],
-  emails: ""
+  emails: "",
+  province: "almería"
 },
 {
   title: "Opticalia",
@@ -65914,7 +65937,8 @@ const opticians: Optician[] = [
       When: ""
     }
   ],
-  emails: ""
+  emails: "",
+  province: "almería"
 },
 {
   title: "Óptica Altamira Almería",
@@ -66027,7 +66051,8 @@ const opticians: Optician[] = [
       When: ""
     }
   ],
-  emails: ""
+  emails: "",
+  province: "almería"
 },
 {
   title: "Óptica & Audiología Universitaria",
