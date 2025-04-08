@@ -56889,7 +56889,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "A Coruña"
+  province: "ACoruña"
 },
 {
   title: "Visual Ópticos",
