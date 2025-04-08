@@ -17529,7 +17529,9 @@ const opticians: Optician[] = [
         Name: "sara rc",
         ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVg5YQNkhCaDdILvdjq_wtRQZGm_vTk3cg2x0wf9cfbOYPkMbOC=s120-c-rp-mo-br100",
         Rating: 5,
-        Description: "Te atiende super bien, es muy profesional y amable. Me hice unas gafas progresivas con una graduación complicada y todo fue fenomenal."
+        Description: "Te atiende super bien, es muy profesional y amable. Me hice unas gafas progresivas con una graduación complicada y todo fue fenomenal.",
+        Images: null,
+        When: ""
       },
       {
         Name: "Екатерина Дёмина",
@@ -21395,7 +21397,9 @@ const opticians: Optician[] = [
       Name: "Fernanda Méndez",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVyhuKm9QLhkjzAhqirgnTUvsT9fLEXuZQUCH_6VqbeZeuFgNKY=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Excelente trato, muy profesionales. Tienen mucha variedad de gafas que puedes escoger y buenos precios. Recomendado!"
+      Description: "Excelente trato, muy profesionales. Tienen mucha variedad de gafas que puedes escoger y buenos precios. Recomendado!",
+      Images: null,
+      When: ""
     },
     {
       Name: "M BD",
@@ -22441,7 +22445,9 @@ const opticians: Optician[] = [
       Name: "Estibaliz Huerta",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLt87YW1Nd1nYiuBwleCxTAFkDIv-7Q9chW8eLj3aIeevRFDQ=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Me han atendido de forma muy amable y profesional ."
+      Description: "Me han atendido de forma muy amable y profesional .",
+      Images: null,
+      When: ""
     },
     {
       Name: "Guillermo Penadés Juan",
@@ -26865,7 +26871,9 @@ const opticians: Optician[] = [
       Name: "Mano De La Cruz",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVYadqPEen7f72mF2Fml_8Ge9zjGt_LhHwsCcn7opK7-NW1o0ePrQ=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Muy profesionales las empleadas. Excepcional atención por parte de Leandro.\nSiempre muy cariñosos y eficientes. Impecable consejo y seguimiento tras implantación de prótesis auditivas o visuales.\nRecomiendo esta óptica"
+      Description: "Muy profesionales las empleadas. Excepcional atención por parte de Leandro.\nSiempre muy cariñosos y eficientes. Impecable consejo y seguimiento tras implantación de prótesis auditivas o visuales.\nRecomiendo esta óptica",
+      Images: null,
+      When: ""
     },
     {
       Name: "Pilar",
@@ -26881,7 +26889,9 @@ const opticians: Optician[] = [
       Name: "laura pallas albi",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKvy66mK7EmuDrhFLVjPyZbb12Hp4WrzcvI5v1crZhlTxs41w=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "La mejor óptica que he probado.\nCon la última tecnología en aparatos y muchísima experiencia.\nLeandro es una bellísima persona y un crack en el sector. Cualquier duda te la podrá resolver.\nTrato muy profesional, agradable y muy familiar. Cada vez que voy me siento como en casa. Tienen muchísima paciencia y profesionalidad.\n\nTienen muchísima variedad de monturas con lo último en tendencia. Buenos precios y se adaptan a lo que buscas.\nRecomendable 100%."
+      Description: "La mejor óptica que he probado.\nCon la última tecnología en aparatos y muchísima experiencia.\nLeandro es una bellísima persona y un crack en el sector. Cualquier duda te la podrá resolver.\nTrato muy profesional, agradable y muy familiar. Cada vez que voy me siento como en casa. Tienen muchísima paciencia y profesionalidad.\n\nTienen muchísima variedad de monturas con lo último en tendencia. Buenos precios y se adaptan a lo que buscas.\nRecomendable 100%.",
+      Images: null,
+      When: ""
     },
     {
       Name: "jonathan escobar",
@@ -26907,7 +26917,9 @@ const opticians: Optician[] = [
       Name: "Yolanda Domingo",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKyDSMXIxrSa9lpTDWUznyWzHSWNcwlQNLIe4wtAveb922c8Q=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Hablar de OPTICA Leandro es hablar de familia, de sentirse como en casa, confianza plena,  cada uno de sus consejos xa mi son importantes y me los tomo al pie de la letra. Llevo yendo 15-20 años y no me compro nada de la vista, q no sea en esta óptica. X no hablar de Lean, xa mi es la persona, profesional más perfecto q conozco, se desvive x cada uno d nosotros como si fuera para él mismo, un infinito xa él. Es el único sitio q he recomendado en esta vida pq quien va x primera vez, ya se queda xa siempre!!! Un millón de gracias x cuidarme la vista mas q yo !! 🔝"
+      Description: "Hablar de OPTICA Leandro es hablar de familia, de sentirse como en casa, confianza plena,  cada uno de sus consejos xa mi son importantes y me los tomo al pie de la letra. Llevo yendo 15-20 años y no me compro nada de la vista, q no sea en esta óptica. X no hablar de Lean, xa mi es la persona, profesional más perfecto q conozco, se desvive x cada uno d nosotros como si fuera para él mismo, un infinito xa él. Es el único sitio q he recomendado en esta vida pq quien va x primera vez, ya se queda xa siempre!!! Un millón de gracias x cuidarme la vista mas q yo !! 🔝",
+      Images: null,
+      When: ""
     },
     {
       Name: "Nuria Beneyto Rubio",
@@ -36647,43 +36659,57 @@ const opticians: Optician[] = [
       Name: "Migue Reina",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVvJZPxgFbl0LrH3KdS_ElvQVTKvVtwqV8NI44sjMUi8tH68O0=s120-c-rp-mo-ba2-br100",
       Rating: 5,
-      Description: "La atención que nos han ofrecido ha sido impecable. Es un gusto como te atienden estas chicas en especial DUNIA, que ha sabido exactamente lo que quería con solo decirle mis gustos. He quedado súper satisfecho con su trato. Por su puesto que si necesitáis algo de una óptica, os aconsejo y mucho ésta."
+      Description: "La atención que nos han ofrecido ha sido impecable. Es un gusto como te atienden estas chicas en especial DUNIA, que ha sabido exactamente lo que quería con solo decirle mis gustos. He quedado súper satisfecho con su trato. Por su puesto que si necesitáis algo de una óptica, os aconsejo y mucho ésta.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Laura Vázquez Tejea",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJG1qUL1iIX6rXuVJwt-ayLXdHCz1iLA1pLze-f8tDdO-OULQ=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Llevo desde los 12 años con gafas tengo 36 y en todos estos años no había conocido una dependienta tan simpática atenta y con más paciencia que Irene. Tanto que me llevo 2 gafas de ver una de sol. Y una de sol para mi hija. Sin duda alguna repetiré con ella. Enhorabuena al encargado por tener esta chica en su plantilla"
+      Description: "Llevo desde los 12 años con gafas tengo 36 y en todos estos años no había conocido una dependienta tan simpática atenta y con más paciencia que Irene. Tanto que me llevo 2 gafas de ver una de sol. Y una de sol para mi hija. Sin duda alguna repetiré con ella. Enhorabuena al encargado por tener esta chica en su plantilla",
+      Images: null,
+      When: ""
     },
     {
       Name: "Irene Pineda Carreño",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocISJnZa_CpcxBk4pMVoiQ6SgFmZI0pmfmrlVdSKcUHOcNjbjNU=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Me compré mis últimas gafas tanto de vista como de sol allí, son un encanto. Te dan un trato único y personalizado y te dedican todo el tiempo que necesites desde que entras por la puerta. Hacer una mención especial a Noelia, súper amable y servicial, es la primera impresión que tienes de la tienda y es de 10."
+      Description: "Me compré mis últimas gafas tanto de vista como de sol allí, son un encanto. Te dan un trato único y personalizado y te dedican todo el tiempo que necesites desde que entras por la puerta. Hacer una mención especial a Noelia, súper amable y servicial, es la primera impresión que tienes de la tienda y es de 10.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Maria Lopez",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK1xgyMef8lZEltQJYhq22wKOF-RfaKPGHUww-RRmXxTFkWhw=s120-c-rp-mo-br100",
       Rating: 1,
-      Description: "He comprado varias gafas (polarizadas,fotocromáticas y varios años en esta cadena),necesitaba un informe de mi vista (que me hice la semana pasada y encargué gafas) y la dependienta de los arcos superantipatica diciéndome que no sabía si era yo..existiendo el DNI..solo qeria cobrarme 25e por un informe cuand me he gastado más de 500e...\n\nPediría actualizen el ordenador o al menos sean más agradables,no vuelvo al local de los arcos.."
+      Description: "He comprado varias gafas (polarizadas,fotocromáticas y varios años en esta cadena),necesitaba un informe de mi vista (que me hice la semana pasada y encargué gafas) y la dependienta de los arcos superantipatica diciéndome que no sabía si era yo..existiendo el DNI..solo qeria cobrarme 25e por un informe cuand me he gastado más de 500e...\n\nPediría actualizen el ordenador o al menos sean más agradables,no vuelvo al local de los arcos..",
+      Images: null,
+      When: ""
     },
     {
       Name: "Maria Isabel Martinez Coca",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLsbjsd6MI-AuH99CgeIgQ7Kt8N-hckEyqdboPjVdAXn1t7Bg=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Trato profesional, amable e inmejorable del personal en general pero sobre todo de Jorge Pablo Arenzana. Gran profesional. Me graduó perfectamente y luego me ayudó a elegir la montura de gafas encontrándome justo las que quería. Amable y resolutivo. Le doy un 12."
+      Description: "Trato profesional, amable e inmejorable del personal en general pero sobre todo de Jorge Pablo Arenzana. Gran profesional. Me graduó perfectamente y luego me ayudó a elegir la montura de gafas encontrándome justo las que quería. Amable y resolutivo. Le doy un 12.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Nahomi Pastora",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLoB3PsYFrt3rcI37JFRiWMjqar7UFveBufPU_kT7VxT7mn7g=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Súper recomendado y la chica que me atendió Monserrat, súper agradable y me ayudó a seleccionar las gafas que quedaran acordes a mi. Espectacular."
+      Description: "Súper recomendado y la chica que me atendió Monserrat, súper agradable y me ayudó a seleccionar las gafas que quedaran acordes a mi. Espectacular.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Ascen M",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJk5z5_e7-aHHBJHz6iirs7x1d1g821i0Y5w9JYaQ15vikAZQ=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Estuve la semana pasada para pedir presupuesto sobre gafas de sol graduadas y me atendieron maravillosamente bien. Especial mención a su comercial Irene que resolvió todas mis dudas y me enseñó una gran variedad de monturas explicándome los tratamientos y tipos de lentes más adecuadas para mis necesidades.\nMuchas gracias, sin duda volveré a repetir."
+      Description: "Estuve la semana pasada para pedir presupuesto sobre gafas de sol graduadas y me atendieron maravillosamente bien. Especial mención a su comercial Irene que resolvió todas mis dudas y me enseñó una gran variedad de monturas explicándome los tratamientos y tipos de lentes más adecuadas para mis necesidades.\nMuchas gracias, sin duda volveré a repetir.",
+      Images: null,
+      When: ""
     }
   ],
   emails: "",
@@ -36749,7 +36775,9 @@ const opticians: Optician[] = [
       Name: "D4V1D",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX_yIOLRbXjf94JtyTbT0H5TxchWK188a-NAJzqPGHVKNusrGzC=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Excelente mi experiencia en esta óptica.\nTrato exquisito y profesionalidad máxima.\nEl tiempo que necesites para que tus gafas estén perfectas.\nSolo se pueden poner 5 estrellas pero le pondría 10..."
+      Description: "Excelente mi experiencia en esta óptica.\nTrato exquisito y profesionalidad máxima.\nEl tiempo que necesites para que tus gafas estén perfectas.\nSolo se pueden poner 5 estrellas pero le pondría 10...",
+      Images: null,
+      When: ""
     },
     {
       Name: "Elísabet Suárez Escalona",
@@ -36765,31 +36793,41 @@ const opticians: Optician[] = [
       Name: "Yignori Barrera Caleño",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWRDGCdaI965C6W4g4Ax7840qQCNGLgoDSFhT1rOtLbVbnEj3xGAg=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Muchas Gracias por su ayuda en todo el proceso de adquisición de lentes para mi Hija .\nMuy buena orientación\nMuy claros con todo\nBuen servicio y amabilidad\nY muy buen seguimiento.\nLo recomiendo totalmente ."
+      Description: "Muchas Gracias por su ayuda en todo el proceso de adquisición de lentes para mi Hija .\nMuy buena orientación\nMuy claros con todo\nBuen servicio y amabilidad\nY muy buen seguimiento.\nLo recomiendo totalmente .",
+      Images: null,
+      When: ""
     },
     {
       Name: "Miguel Ángel Purriños Vera",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVk10hu-WNXrMMLC0Z0O2x-LDP6x_J7AeC8YHtTl36IQ1u0YUI=s120-c-rp-mo-ba4-br100",
       Rating: 5,
-      Description: "Salí de allí super bien atendido, se nota que es un negoció familiar y lo llevan con cariño. El producto perfecto."
+      Description: "Salí de allí super bien atendido, se nota que es un negoció familiar y lo llevan con cariño. El producto perfecto.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Eva Garrido",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIxeVrozbfF6SETi4wDSPNx6eDzbKvlVMe5OqPgFpjNJDKjZw=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Vengo a esta óptica desde hace años y siempre es un acierto los consejos y el asesoramiento que me ofrecen.\nLa última compra han sido unas lentillas esclerales para mi queratocono con las que he mejorado mucho la visión.\nÓptica 100% recomendable!!"
+      Description: "Vengo a esta óptica desde hace años y siempre es un acierto los consejos y el asesoramiento que me ofrecen.\nLa última compra han sido unas lentillas esclerales para mi queratocono con las que he mejorado mucho la visión.\nÓptica 100% recomendable!!",
+      Images: null,
+      When: ""
     },
     {
       Name: "Sergio Santos",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXeM-AR1R6amWGj1xB3588_yrCdRtVo7dXWuGjvvBKdGlKRGKpV=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "He visitado esta óptica para reparar mis gafas y no puedo estar más satisfecho con el servicio. Me ha atendido Desiré y ha sido muy profesional con un trato muy amable y cercano. ¡Muchísimas gracias!"
+      Description: "He visitado esta óptica para reparar mis gafas y no puedo estar más satisfecho con el servicio. Me ha atendido Desiré y ha sido muy profesional con un trato muy amable y cercano. ¡Muchísimas gracias!",
+      Images: null,
+      When: ""
     },
     {
       Name: "ANTONIO GARCÍA",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJvB8fDKlk25DcL9N7f4ZI84KBjHjaqR6KjYK4Nm5UujTOICQ=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Muy profesionales. Aportan un plus de excelente atención al cliente siempre. Necesité unas lentillas con urgencia porque me iba de viaje y me lo solucionaron en tiempo récord. Da gusto siempre tratar con ellas."
+      Description: "Muy profesionales. Aportan un plus de excelente atención al cliente siempre. Necesité unas lentillas con urgencia porque me iba de viaje y me lo solucionaron en tiempo récord. Da gusto siempre tratar con ellas.",
+      Images: null,
+      When: ""
     }
   ],
   emails: "",
@@ -36850,43 +36888,57 @@ const opticians: Optician[] = [
       Name: "Maria Diaz",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXbr3LNSV2kqadfMDEoeKXMEyjw98KOQcE2GpdhvJCoSo8DPkxN=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Una verdadera maravilla, no hay otras palabras para explicarlo.\nEl trato ha sido increíble, no tengo ninguna pega, me dieron la cita para la graduación para el día siguiente sin rodeos y lo mismo a la hora de elegir las gafas.\nHice la compra de las gafas un viernes y el martes de la siguiente semana ya las tenía en tienda, nunca me habían atendido tan personal y cercanamente.\nNada más entrar en la tienda el chico que me atendió sabía quién era y a eso me refiero con personal, que siempre esa cercanía te hace confiar mucho.\nImpresionante, encantada de haber elegido esta tienda y esta marca."
+      Description: "Una verdadera maravilla, no hay otras palabras para explicarlo.\nEl trato ha sido increíble, no tengo ninguna pega, me dieron la cita para la graduación para el día siguiente sin rodeos y lo mismo a la hora de elegir las gafas.\nHice la compra de las gafas un viernes y el martes de la siguiente semana ya las tenía en tienda, nunca me habían atendido tan personal y cercanamente.\nNada más entrar en la tienda el chico que me atendió sabía quién era y a eso me refiero con personal, que siempre esa cercanía te hace confiar mucho.\nImpresionante, encantada de haber elegido esta tienda y esta marca.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Porla Vega",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLriyERb3X5u9lmjqmezf4CmG8aPBS6gzfU4h17d1r4ERhAXmxd=s120-c-rp-mo-ba2-br100",
       Rating: 5,
-      Description: "Fui un martes, me atendieron muy bien y con mucha amabilidad. Me graduaron la vista y me asesoraron sobre las gafas que me venían bien al estilo de mi cara. El jueves ya me estaban llamando para recoger mis gafas, que son preciosas. Muy contenta con la eficiencia y la atención recibida por las trabajadoras de la tienda. Un diez."
+      Description: "Fui un martes, me atendieron muy bien y con mucha amabilidad. Me graduaron la vista y me asesoraron sobre las gafas que me venían bien al estilo de mi cara. El jueves ya me estaban llamando para recoger mis gafas, que son preciosas. Muy contenta con la eficiencia y la atención recibida por las trabajadoras de la tienda. Un diez.",
+      Images: null,
+      When: ""
     },
     {
       Name: "ROSARIO",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXywUHugMeM-A79w2LwS_4A8H28GzLMHYekHtZnPvpCrwhcLwMsnQ=s120-c-rp-mo-ba4-br100",
       Rating: 5,
-      Description: "Ha sido una fabulosa experiencia, desde el primer momento que contacte con la comercial.  Una señorita, amable, profesional y con mucha empatia con los clientes. La señorita Gloria del establecimiento situado en el Centro comercial Los Arcos, buena empleada  y ellos son los que hacen las empresas, recomendaría la óptica y al personal al 100 x 100."
+      Description: "Ha sido una fabulosa experiencia, desde el primer momento que contacte con la comercial.  Una señorita, amable, profesional y con mucha empatia con los clientes. La señorita Gloria del establecimiento situado en el Centro comercial Los Arcos, buena empleada  y ellos son los que hacen las empresas, recomendaría la óptica y al personal al 100 x 100.",
+      Images: null,
+      When: ""
     },
     {
       Name: "María Cornejo",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVf_9FzR9mPe4q5VQ0FBBPBdy0aZAPdx3LZtPAdmodQmhPEIIzA=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "La visita a la óptica fue genial, además, añadir que la trabajadora María, una chica súper agradable nos atendió de maravilla.\nNos ayudó y solucionó todas las dudas que tuvimos, no tengo duda que volveré!! 😊"
+      Description: "La visita a la óptica fue genial, además, añadir que la trabajadora María, una chica súper agradable nos atendió de maravilla.\nNos ayudó y solucionó todas las dudas que tuvimos, no tengo duda que volveré!! 😊",
+      Images: null,
+      When: ""
     },
     {
       Name: "José Andrés",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXukLWT8QwzzAq4crYSJm9S0pQAChPXbsVVhMyRUvImCkNUrtZa=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Tuve un trato fantástico y muy profesional, la chica que me atendió, Gina Paola fue muy eficiente y simpática, completamente recomendado, volveré si tengo algún problema."
+      Description: "Tuve un trato fantástico y muy profesional, la chica que me atendió, Gina Paola fue muy eficiente y simpática, completamente recomendado, volveré si tengo algún problema.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Esther Benguigui Díez",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW-sjSNuxaZIoMRyVlwo4UDfxquUqNYFSd1y_QICS6oKfkuYzRo5Q=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Recomiendo esta óptica como primera y única opción. Trato maravilloso, sobre todo de la chica rubita, me dieron las gafas súper rápido. Muy contenta, desde luego que repetiré."
+      Description: "Recomiendo esta óptica como primera y única opción. Trato maravilloso, sobre todo de la chica rubita, me dieron las gafas súper rápido. Muy contenta, desde luego que repetiré.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Angela Hernandez De Andres",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV-MbpLsCHkOHPj6_MdsEKkK7IjltJkL0bxlByKMIS6S2Wsx8_c=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Me trataron genial y la mejor actitud de la encargada rubia María. Gracias por el trato tan maravilloso, volveré aquí siempre"
+      Description: "Me trataron genial y la mejor actitud de la encargada rubia María. Gracias por el trato tan maravilloso, volveré aquí siempre",
+      Images: null,
+      When: ""
     }
   ],
   emails: "",
@@ -36937,13 +36989,17 @@ const opticians: Optician[] = [
       Name: "Tomas Gomez",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXY5xhiAq6SsCQh8VdjX3oSVTpH6PqFZt2HkjyRmwpmHArOhoiRcQ=s120-c-rp-mo-ba5-br100",
       Rating: 5,
-      Description: "Además de buenas profesionales las personas que nos atendieron fueron muy amables y atentas. Las ofertas que nos ofrecieron en la compra de nuestras gafas fueron excelentes, buscando la mejor opción para nuestras necesidades. Ya hace años que somos clientes de esta cadena y cada vez que vamos mejoran nuestras expectativas. En mi opinión muy recomendable!"
+      Description: "Además de buenas profesionales las personas que nos atendieron fueron muy amables y atentas. Las ofertas que nos ofrecieron en la compra de nuestras gafas fueron excelentes, buscando la mejor opción para nuestras necesidades. Ya hace años que somos clientes de esta cadena y cada vez que vamos mejoran nuestras expectativas. En mi opinión muy recomendable!",
+      Images: null,
+      When: ""
     },
     {
       Name: "Roberto Soler Fernández",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUan1Zsv5LgthDHo7CSCU_eWW79ixEdXqzpi2P1i5NnL9TcvBc=s120-c-rp-mo-ba4-br100",
       Rating: 5,
-      Description: "Pues he recorrido media ciudad estando en una óptica seguida de otra, cansado de que me intentasen despachar rápido y dándome explicaciones bastante porosas, decidí ir a una sucursal de Alain Afflelou, en este caso la que está en el Centro Comercial de Montequinto, enfrente de la entrada de Carrefour (dentro de su recinto). Excelente decisión, pues aparte de tener el personal un trato mucho más cercano y al mismo tiempo con modales exquisitos, han sabido dar explicaciones pertinentes y de lo más razonables acerca de mi graduación, del presupuesto, dando numerosas opciones, y sobre problemas que tuve al inicio del uso (gafas progresivas). Vino mi esposa conmigo, también para gafas progresivas. Simplemente excelente. Profesionalidad con letras mayúsculas. Sigan así! AAA+++"
+      Description: "Pues he recorrido media ciudad estando en una óptica seguida de otra, cansado de que me intentasen despachar rápido y dándome explicaciones bastante porosas, decidí ir a una sucursal de Alain Afflelou, en este caso la que está en el Centro Comercial de Montequinto, enfrente de la entrada de Carrefour (dentro de su recinto). Excelente decisión, pues aparte de tener el personal un trato mucho más cercano y al mismo tiempo con modales exquisitos, han sabido dar explicaciones pertinentes y de lo más razonables acerca de mi graduación, del presupuesto, dando numerosas opciones, y sobre problemas que tuve al inicio del uso (gafas progresivas). Vino mi esposa conmigo, también para gafas progresivas. Simplemente excelente. Profesionalidad con letras mayúsculas. Sigan así! AAA+++",
+      Images: null,
+      When: ""
     },
     {
       Name: "Esther Alonso González",
@@ -36959,7 +37015,9 @@ const opticians: Optician[] = [
       Name: "Gloria Vela",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUgJL3Ms-aJGxtCkFtCzrsFnLxtTwRxE9nj3GgcE1ywLqqXYAI=s120-c-rp-mo-ba3-br100",
       Rating: 5,
-      Description: "Soy clienta desde hace muchos años. El personal que me ha atendido siempre ha sido muy atento y amable. Hace dos días fui a graduarle la vista a mi hijo, y no solo lo hicieron en el momento y sin cita, si no que me redactaron un informe de forma desinteresada para que lo viera el oftalmólogo. Recomiendo este centro 100%"
+      Description: "Soy clienta desde hace muchos años. El personal que me ha atendido siempre ha sido muy atento y amable. Hace dos días fui a graduarle la vista a mi hijo, y no solo lo hicieron en el momento y sin cita, si no que me redactaron un informe de forma desinteresada para que lo viera el oftalmólogo. Recomiendo este centro 100%",
+      Images: null,
+      When: ""
     },
     {
       Name: "Virginia Mateo Domínguez",
@@ -36975,7 +37033,9 @@ const opticians: Optician[] = [
       Name: "Juan Espinosa",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXud35rBAgXOq14PZansKvLHFwpZnTcGdIJAh_tDCG9C2Z0IRU7=s120-c-rp-mo-ba3-br100",
       Rating: 5,
-      Description: "De camino al centro comercial perdí uno de los tornillos del Clio solar de más gafas graduadas. Les pregunté si podían ayudarme y antes de que me diera cuanta me las entregaban reparadas con una sonrisa y sin querer cobrarme. Se puede pedir más?"
+      Description: "De camino al centro comercial perdí uno de los tornillos del Clio solar de más gafas graduadas. Les pregunté si podían ayudarme y antes de que me diera cuanta me las entregaban reparadas con una sonrisa y sin querer cobrarme. Se puede pedir más?",
+      Images: null,
+      When: ""
     },
     {
       Name: "Jose Perez",
@@ -36991,7 +37051,9 @@ const opticians: Optician[] = [
       Name: "José Manuel Rojas",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLRgCCHChQXDp3zpXws4LEH6JUPihQ_0A23KIAq-AWkXNMDDg=s120-c-rp-mo-ba3-br100",
       Rating: 5,
-      Description: "Soy cliente habitual de la óptica. Son amables y eficientes.\nEn esta ocasión acudí con un pequeño problema y Rocío me lo solucionó inmediatamente y sin cobrarme nada."
+      Description: "Soy cliente habitual de la óptica. Son amables y eficientes.\nEn esta ocasión acudí con un pequeño problema y Rocío me lo solucionó inmediatamente y sin cobrarme nada.",
+      Images: null,
+      When: ""
     }
   ],
   emails: "",
@@ -37506,43 +37568,57 @@ const opticians: Optician[] = [
       Name: "Iván Sevilla",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVvLUEjAPaOW0uygE5R_fHmLxm2FZYQYvFn9ZU971kZTktYzcrB=s120-c-rp-mo-ba6-br100",
       Rating: 5,
-      Description: "Excelente óptica, con unos magníficos profesionales. Fui a graduarme primero y a pedir unas gafas después, las MO Regate, de la selección española. Adjunto fotos, muy chulas 🤓🇪🇦\n\nHe quedado muy contento con el pedido, el trato y la simpatía de todxs lxs que me atendieron. Hoy he ido a que me las ajustaran porque se me caían y, de nuevo, servicio muy rápido y eficaz. Siempre con una sonrisa :)"
+      Description: "Excelente óptica, con unos magníficos profesionales. Fui a graduarme primero y a pedir unas gafas después, las MO Regate, de la selección española. Adjunto fotos, muy chulas 🤓🇪🇦\n\nHe quedado muy contento con el pedido, el trato y la simpatía de todxs lxs que me atendieron. Hoy he ido a que me las ajustaran porque se me caían y, de nuevo, servicio muy rápido y eficaz. Siempre con una sonrisa :)",
+      Images: null,
+      When: ""
     },
     {
       Name: "Leonor Molares Mediavilla",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJKDsV-0bh02ufQjojZtGEFQbHYAyaAHW3KSCfPWHfDFT-u-A=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "¡Experiencia estupenda con Verónica!Me ha facilitado mucha información para elegir las lentes/cristales.Todos los modelos de gafas de ópticas Mo son increíbles. Me ha encantado la dedicación y pruebas que me ha hecho.Precios muy buenos,puedes ir subiendo según los extras que quieras."
+      Description: "¡Experiencia estupenda con Verónica!Me ha facilitado mucha información para elegir las lentes/cristales.Todos los modelos de gafas de ópticas Mo son increíbles. Me ha encantado la dedicación y pruebas que me ha hecho.Precios muy buenos,puedes ir subiendo según los extras que quieras.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Cristina Vega",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKavxEVRrQlxTmVZM3eHCHKAUqN9llA1_Kv9-qzmN3NPoC0rg=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Excelente atención y servicio en la tienda de la calle Asuncion.Solucionarin el problema de una patilla de mi gafa que se había roto y en tiempo récord"
+      Description: "Excelente atención y servicio en la tienda de la calle Asuncion.Solucionarin el problema de una patilla de mi gafa que se había roto y en tiempo récord",
+      Images: null,
+      When: ""
     },
     {
       Name: "Hanna Bu",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKgnTm4_LxRS3qiYPttdorfN19OKsJWT9ln_Kdv8M9txNjP7Q=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Estuve en la tienda por Gaffas nuevas :) el servicio es muy bueno y los trabajadores son muy simpáticos!!\nBuenos precios y ofertas!"
+      Description: "Estuve en la tienda por Gaffas nuevas :) el servicio es muy bueno y los trabajadores son muy simpáticos!!\nBuenos precios y ofertas!",
+      Images: null,
+      When: ""
     },
     {
       Name: "Gloria Víctor",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVN-clSL0snbSTksmINugPL3e09rtpAHFtBWH-DmtJpHKhKXAcQzg=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Fui por si podían arreglarme las gafas porque se me había caído un cristal y en ese mismo momento me lo solucionaron, tardaron súper poco. No me cobraron nada y fueron muy simpáticas."
+      Description: "Fui por si podían arreglarme las gafas porque se me había caído un cristal y en ese mismo momento me lo solucionaron, tardaron súper poco. No me cobraron nada y fueron muy simpáticas.",
+      Images: null,
+      When: ""
     },
     {
       Name: "isabel soto de prado",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJMFNTx4Y9avxb-QaFg9zJ8bUdIazOvbmn5wixnjzTyy8WTTw=s120-c-rp-mo-ba3-br100",
       Rating: 5,
-      Description: "Muy profesionales y amables y las gafas estuvieron súper rápido!. Ana me graduó fenomenal y Felipe me las entregó, gracias!!"
+      Description: "Muy profesionales y amables y las gafas estuvieron súper rápido!. Ana me graduó fenomenal y Felipe me las entregó, gracias!!",
+      Images: null,
+      When: ""
     },
     {
       Name: "Alicia Sánchez",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI7Cmbxf4XZQeHVZ1J0rLl4FJNC4nA_3FPehLEEijUHXZIGrA=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Experiencia 10. No pudieron ser más encantadores y aconsejarme mejor tanto ana como felipe y verónica. ¡Me voy feliz con mis dos gafas!"
+      Description: "Experiencia 10. No pudieron ser más encantadores y aconsejarme mejor tanto ana como felipe y verónica. ¡Me voy feliz con mis dos gafas!",
+      Images: null,
+      When: ""
     },
     {
       Name: "Marian Baena Jiménez",
@@ -37603,49 +37679,65 @@ const opticians: Optician[] = [
       Name: "Olga Esther Carmona",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUIFVKblWUEQkolODn8v0W2aF6NVxYk0d6BYChvaqjeMpwLWd1pXA=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Super bien ya hemos comprado varias gafas y tanto Silvia como Carlos nos atienden super bien además tiene gafas super chulas, volveré a comprar seguro, mil gracias."
+      Description: "Super bien ya hemos comprado varias gafas y tanto Silvia como Carlos nos atienden super bien además tiene gafas super chulas, volveré a comprar seguro, mil gracias.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Guadalupe Rodriguez",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWqqX6TCC8IXDazt0D1D4oCVeXgNFwqhVVdF_WgTJmg9ttJGg=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Soy cliente desde hace muchos años , mi hija también, son estupendos, amables,puntuales, todo lo mejor del mundo.\nSaludos a Carlos.\nUn cordial saludo y aplausos para ellos.\nMaría del Carmen Aguilar Rangel y Carmen Rodríguez Aguilar de Osuna."
+      Description: "Soy cliente desde hace muchos años , mi hija también, son estupendos, amables,puntuales, todo lo mejor del mundo.\nSaludos a Carlos.\nUn cordial saludo y aplausos para ellos.\nMaría del Carmen Aguilar Rangel y Carmen Rodríguez Aguilar de Osuna.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Trinidad Rodriguez",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV_e3ClHiiSG-z38ZpDeoPg_xIVGd6lxohb61V0LaX3rJWt-BtQ=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Me atendió Laura. Excelente profesional, me asesoró y acompañó en todo el proceso. Gran variedad de marcas."
+      Description: "Me atendió Laura. Excelente profesional, me asesoró y acompañó en todo el proceso. Gran variedad de marcas.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Elizabeth Ponce",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVU3NIcknph5HwXmX6EzXLdA9KxGTAAy0Xci3kEQgOQU7b_K8OS=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Un gran descubrimiento al ver el gran personal que esconde esta óptica, mencionar a Silvia por su paciencia para encontrar lo que realmente necesitaban mis ojos. Gracias a este gran equipo se han convertido en mi optica de confianza. De nuevo mil gracias a todos"
+      Description: "Un gran descubrimiento al ver el gran personal que esconde esta óptica, mencionar a Silvia por su paciencia para encontrar lo que realmente necesitaban mis ojos. Gracias a este gran equipo se han convertido en mi optica de confianza. De nuevo mil gracias a todos",
+      Images: null,
+      When: ""
     },
     {
       Name: "Rocio PUIGDOLLERS CABALERRO",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUngdSGYViI_JZUT-tjxzpfAeLc_cMpR_cCNF6nSGWMGs40zLE=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Me ha gustado mucho el trato hacia el cliente. Son muy simpáticos y buenos técnicos profesionales."
+      Description: "Me ha gustado mucho el trato hacia el cliente. Son muy simpáticos y buenos técnicos profesionales.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Manuel José Marcos Salvatierra",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWdB6Ct8tNWDwi9VHIy-FRMYVvZw_oDTNlBciok2VnPmhaj-MgnUg=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Siempre es un placer ir y ser atendido por su personal.\n100% satisfecho y totalmente\nrecomendables."
+      Description: "Siempre es un placer ir y ser atendido por su personal.\n100% satisfecho y totalmente\nrecomendables.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Mariangeles frutos lopez",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWK2yJGq04sf-A-tYPxc4GCJ4e1OsXYfS42HnSiyW_RQynQmaQ=s120-c-rp-mo-ba2-br100",
       Rating: 5,
-      Description: "Trato insuperable! Atención de 10! Mil gracias por tu atención y tu paciencia Silvia!"
+      Description: "Trato insuperable! Atención de 10! Mil gracias por tu atención y tu paciencia Silvia!",
+      Images: null,
+      When: ""
     },
     {
       Name: "Antonio Velazquez Silva",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK09XqTTt36mgJ85uHG6sFdza8rDB38Cf26n8UuJAVm3pNRMA=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Magnífico trabajo. Perfecta graduación amabilidad un 10. Julia, Carmen y Macarena maravillosas. 😘"
+      Description: "Magnífico trabajo. Perfecta graduación amabilidad un 10. Julia, Carmen y Macarena maravillosas. 😘",
+      Images: null,
+      When: ""
     }
   ],
   emails: "",
@@ -37701,49 +37793,65 @@ const opticians: Optician[] = [
       Name: "Elvira Gomez Haba",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJi3HpBx_Lk6Lzi6XdXhpp8Sybf-5gpBKqoJOBbA_FeV1C3IA=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Mi familia, algunos amigos y yo somos clientes desde hace muchos años, aunque  han cambiado las personas que la llevan ahora, en mi opinión lo están haciendo muy bien y continúan en la misma linea de antes (muy profesionales, trato estupendo y cercano) cosa que me gusta para seguir con ellos.\nMe he hecho unas gafas progresivas hace poco y estoy encantada.\nSé que si tengo algún problema con ellas, en el momento que sea, nada más tengo que ir e intentarán solucionarlo.\nRecomiendo totalmente óptica Cuna 19."
+      Description: "Mi familia, algunos amigos y yo somos clientes desde hace muchos años, aunque  han cambiado las personas que la llevan ahora, en mi opinión lo están haciendo muy bien y continúan en la misma linea de antes (muy profesionales, trato estupendo y cercano) cosa que me gusta para seguir con ellos.\nMe he hecho unas gafas progresivas hace poco y estoy encantada.\nSé que si tengo algún problema con ellas, en el momento que sea, nada más tengo que ir e intentarán solucionarlo.\nRecomiendo totalmente óptica Cuna 19.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Danil Loginov (Danil Loginov)",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW1YCgu9ZjGIDaXbMs3WL9HA6zHoYie9qm-zxJElVTs1NUdt0w=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Muy buena óptica, muy buen trato y el compañero que me atendió (Alberto) es muy amable!! Volvería a comprar mis gafas en esta óptica sin ninguna duda!"
+      Description: "Muy buena óptica, muy buen trato y el compañero que me atendió (Alberto) es muy amable!! Volvería a comprar mis gafas en esta óptica sin ninguna duda!",
+      Images: null,
+      When: ""
     },
     {
       Name: "Carmen Delgado",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIZ7ScUswPyxduBFywLdSeoX6lKToPLw4VxF6btsW_TMQrRrak=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Excelente trato!! Llevo varios años comprando aquí mis lentillas y ahora mis gafas y no puedo estar mas contenta! Te aconsejn genial y siempre miran por ti muchísimo, son super profesionales!! Lo recomiendo 100%!!! 🥳🥳🥳🥳🥳"
+      Description: "Excelente trato!! Llevo varios años comprando aquí mis lentillas y ahora mis gafas y no puedo estar mas contenta! Te aconsejn genial y siempre miran por ti muchísimo, son super profesionales!! Lo recomiendo 100%!!! 🥳🥳🥳🥳🥳",
+      Images: null,
+      When: ""
     },
     {
       Name: "Manuel Ruiz",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIDYJ086GtxZASd1EAlY9lUnc6VBeXlf2zl9T-o7Mv14k7OMg=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Mi familia y yo somos antiguos clientes de esta óptica. Hace unos meses fui y vi que había habido un cambio generacional. Un trato exquisito. Fui a comprar unas gafas deportivas graduadas. Me atendieron muy bien y las gafas tardaron poco tiempo en estar preparadas. Espero que les vaya bien el negocio."
+      Description: "Mi familia y yo somos antiguos clientes de esta óptica. Hace unos meses fui y vi que había habido un cambio generacional. Un trato exquisito. Fui a comprar unas gafas deportivas graduadas. Me atendieron muy bien y las gafas tardaron poco tiempo en estar preparadas. Espero que les vaya bien el negocio.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Malena Izquierdo moya",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIgL3tGbu90OHHXH5a4EPfb5N-TItxXdOGRVXKp3ZB3o4mPYA=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Alberto es una persona muy atenta y agradable y un gran profesional. Se para a explicar todo lo técnico, lo cual agradezco mucho. Siempre dispuesto a probar las lentes hasta que quedé satisfecha. Muy interesado en ofrecer un servicio cercano y a la par profesional. Estoy muy contenta de tenerlo como óptico. Me recomendaron la óptica y ahora la sigo recomendando yo."
+      Description: "Alberto es una persona muy atenta y agradable y un gran profesional. Se para a explicar todo lo técnico, lo cual agradezco mucho. Siempre dispuesto a probar las lentes hasta que quedé satisfecha. Muy interesado en ofrecer un servicio cercano y a la par profesional. Estoy muy contenta de tenerlo como óptico. Me recomendaron la óptica y ahora la sigo recomendando yo.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Juan Luis Barea Saavedra",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWomj1yck3ZTAAfX7xB7OFURZR687OMBl-zgHghfCrZ2ww-c9um=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Trato inmejorable el recibido en mi último visita a Cuna 19 para la compra de unas lentes graduadas. Excelente atención, rapidez en la entrega y buen seguimiento post-venta por parte de Alberto. Muy recomendable."
+      Description: "Trato inmejorable el recibido en mi último visita a Cuna 19 para la compra de unas lentes graduadas. Excelente atención, rapidez en la entrega y buen seguimiento post-venta por parte de Alberto. Muy recomendable.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Elena Barbeyto",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLa0efcTIt5DeS_z8TpdpgFnXy2UT2B0ZMJpZrnAn8BM0UTtA=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Somos clientes de esta óptica y siempre recibo un trato genial. Alberto es un gran profesional que siempre facilita todo. Totalmente recomendable"
+      Description: "Somos clientes de esta óptica y siempre recibo un trato genial. Alberto es un gran profesional que siempre facilita todo. Totalmente recomendable",
+      Images: null,
+      When: ""
     },
     {
       Name: "Juan Alv",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJFZtKFYa1huXW3-OOjmI3Io_j1AgfSQMAfKEGKt95gLkdcug=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Una óptica solvente, de confianza y que se puede acudir con total garantía.\nDe Alberto decir que es un gran profesional dispuesto siempre a solucionarte el mínimo problema que tengas."
+      Description: "Una óptica solvente, de confianza y que se puede acudir con total garantía.\nDe Alberto decir que es un gran profesional dispuesto siempre a solucionarte el mínimo problema que tengas.",
+      Images: null,
+      When: ""
     }
   ],
   emails: "",
@@ -37800,49 +37908,65 @@ const opticians: Optician[] = [
       Name: "Danna Guzmán Pérez",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXAbcCikKclOrNyeoTAy2Y74Oc5qQgOj5bjeOQoAPZ76kKdq8Q=s120-c-rp-mo-ba2-br100",
       Rating: 1,
-      Description: "Un desperdicio de tiempo. Ya había ido a otro Multiopticas a informarme pero este por cercanía me venía mejor. En comparación con el otro los precios y los tipos de lentes que había no estaba bien explicado y me quisieron meter un tipo de cristal que era más caro sin necesidad. Menos mal ya había ido a otro y sabía lo que me estaban vendiendo. Además me pusieron una graduación que era mayor a lo que me dijeron en el otro Multiopticas que fui al final ya que debido a la poca profesionalidad de la dueña decidí irme de este"
+      Description: "Un desperdicio de tiempo. Ya había ido a otro Multiopticas a informarme pero este por cercanía me venía mejor. En comparación con el otro los precios y los tipos de lentes que había no estaba bien explicado y me quisieron meter un tipo de cristal que era más caro sin necesidad. Menos mal ya había ido a otro y sabía lo que me estaban vendiendo. Además me pusieron una graduación que era mayor a lo que me dijeron en el otro Multiopticas que fui al final ya que debido a la poca profesionalidad de la dueña decidí irme de este",
+      Images: null,
+      When: ""
     },
     {
       Name: "Marta López Torres",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLZr2rOW6QL3oLFAlngWw70C-RKDo1XLCk5PMFRsr0QxFNKTw=s120-c-rp-mo-br100",
       Rating: 1,
-      Description: "Mi experiencia triste, pesima y muyyy lamentable.\nMis gafas me recomendaron unas progresivas..... se han equivicado en 3 ocasiones tras graduarme 3 veces la vista en esta optica diferente personal y cambio de cristales..... Hago el pago de mis gafas a dia de hoy 1 mes y 15 días ni tengo gafas, ni mi dinero, contándome problemas internos hacia la persona que me atendió para no poner solución a mi situación (Sñr. MARIA me da detalles al respecto por tlf, a mi no me interesa los problemas internos con vuestros trabajadores) me han atendido un dependiente en cada ocasión 4 personas distintas y ante un problema de ellos interno solo hacen pasar la pelota de un lado a otro....Contacta conmigo la responsable de Sevilla Sñr. MARIA la cual telefónicamente todo era maravilloso pero por WhatsApp o email no tan resolutiva, ni con opciones a mi situación.\nLamentable trato, pésimo el dejarse graduar en manos de inexpertos ya que a mí me ha perjudicado y ante un problema NO DAN SOLUCION.\nA día de hoy tras 1 mes y 15 días me encuentro sin gafas y sin 399€ y varios sofocones en mi persona inesperadamente.\nNO ME DEVUELVEN DINERO, NI ME DAN MIS GAFAS, NI SOLUCION Y LA VISTA FASTIDIADA.\nSi a esto hay derecho que alguien me diga."
+      Description: "Mi experiencia triste, pesima y muyyy lamentable.\nMis gafas me recomendaron unas progresivas..... se han equivicado en 3 ocasiones tras graduarme 3 veces la vista en esta optica diferente personal y cambio de cristales..... Hago el pago de mis gafas a dia de hoy 1 mes y 15 días ni tengo gafas, ni mi dinero, contándome problemas internos hacia la persona que me atendió para no poner solución a mi situación (Sñr. MARIA me da detalles al respecto por tlf, a mi no me interesa los problemas internos con vuestros trabajadores) me han atendido un dependiente en cada ocasión 4 personas distintas y ante un problema de ellos interno solo hacen pasar la pelota de un lado a otro....Contacta conmigo la responsable de Sevilla Sñr. MARIA la cual telefónicamente todo era maravilloso pero por WhatsApp o email no tan resolutiva, ni con opciones a mi situación.\nLamentable trato, pésimo el dejarse graduar en manos de inexpertos ya que a mí me ha perjudicado y ante un problema NO DAN SOLUCION.\nA día de hoy tras 1 mes y 15 días me encuentro sin gafas y sin 399€ y varios sofocones en mi persona inesperadamente.\nNO ME DEVUELVEN DINERO, NI ME DAN MIS GAFAS, NI SOLUCION Y LA VISTA FASTIDIADA.\nSi a esto hay derecho que alguien me diga.",
+      Images: null,
+      When: ""
     },
     {
       Name: "María José Brenes oliva",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVPj2fVUwv-RO9P2ro98-9SwYahpEWzhBKsCr2RooxcNr1rMSB-=s120-c-rp-mo-br100",
       Rating: 1,
-      Description: "Mi experiencia fue de la más mala que pude tener, fui a graduarme la vista y se confundieron 2 veces de graduación, me trajeron mis gafas y nuevamente se las tuve que devolver, la chica me dice que tiene que hablar con dirección y buscar una solución , me parece que cuando se hace mal trabajo tiene que ser inmediato ya que el fallo no fue mío si no vuestro ya que el personal de graduación no puede ser el mismo que de venta, tendrías que ser personal cualificado y con los estudios pertinentes para ello. Al final perdí mi fianza y me tuve que ir a otra óptica."
+      Description: "Mi experiencia fue de la más mala que pude tener, fui a graduarme la vista y se confundieron 2 veces de graduación, me trajeron mis gafas y nuevamente se las tuve que devolver, la chica me dice que tiene que hablar con dirección y buscar una solución , me parece que cuando se hace mal trabajo tiene que ser inmediato ya que el fallo no fue mío si no vuestro ya que el personal de graduación no puede ser el mismo que de venta, tendrías que ser personal cualificado y con los estudios pertinentes para ello. Al final perdí mi fianza y me tuve que ir a otra óptica.",
+      Images: null,
+      When: ""
     },
     {
       Name: "María Hernández de Andrés",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ6EzssswjPUHTBfO9ZScVp47zdGLAaGJ5wwMlLQxJz-sczBA=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Muy buena atención y rápidos!! Mucha amabilidad y me ayudaron a elegir mis gafas. Repetiré sin duda"
+      Description: "Muy buena atención y rápidos!! Mucha amabilidad y me ayudaron a elegir mis gafas. Repetiré sin duda",
+      Images: null,
+      When: ""
     },
     {
       Name: "NATALIA",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWLBq1qRH3g8mg_DT0hknfGhiQRSuvhw4ZCmCb8g-IbisDt3Wm4=s120-c-rp-mo-br100",
       Rating: 1,
-      Description: "Soy clienta habitual de este multiopticas. Llevo haciéndome las 5 últimas gafas. Desde el principio la atención de las chicas muy correcta. Pero últimamente coincido siempre con una mujer mayor de grandes gafas y pelo corto. Fui un sábado a las 19:30h a preguntarle si mis gafas de 6 meses tienen algún tipo de garantía ya que se estaban desquebrajandose y me dijo que fuera el lunes que ella iba a cerrar ya (yo pensaba que el horario que aparece en la página web era el correcto...) No te atiende correctamente, tiene respuestas bastantes desagradables o bordes (cuando la gente va por necesidad por tener unas gafas, no para verle la cara o molestarle) y cada vez que llamo por tlf no lo coge (más de 15 llamadas a lo largo de la tarde entera y no lo coge, me presento allí al día siguiente por la mañana y pregunto que compañero ha estado en el turno de tarde de ayer y da la casualidad que es ella)\n\nLa atención de esta persona en particular me ha hecho irme a otro centro."
+      Description: "Soy clienta habitual de este multiopticas. Llevo haciéndome las 5 últimas gafas. Desde el principio la atención de las chicas muy correcta. Pero últimamente coincido siempre con una mujer mayor de grandes gafas y pelo corto. Fui un sábado a las 19:30h a preguntarle si mis gafas de 6 meses tienen algún tipo de garantía ya que se estaban desquebrajandose y me dijo que fuera el lunes que ella iba a cerrar ya (yo pensaba que el horario que aparece en la página web era el correcto...) No te atiende correctamente, tiene respuestas bastantes desagradables o bordes (cuando la gente va por necesidad por tener unas gafas, no para verle la cara o molestarle) y cada vez que llamo por tlf no lo coge (más de 15 llamadas a lo largo de la tarde entera y no lo coge, me presento allí al día siguiente por la mañana y pregunto que compañero ha estado en el turno de tarde de ayer y da la casualidad que es ella)\n\nLa atención de esta persona en particular me ha hecho irme a otro centro.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Mari Nieves Buiza Romero",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWDWl3361HmaXJABUR6prkFA1sCFcZVzbshIn-PUgLFckd3Tde-=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Raquel es estupenda y me atendió muy bien, un encanto y una buena profesional."
+      Description: "Raquel es estupenda y me atendió muy bien, un encanto y una buena profesional.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Jose Ramírez",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIWWMUk_1tpMGr-H_12CYRUuwEUXnwX92sc8o8iO6ML4fg2AA=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Compré dos gafas y todo bien, muy buen trato de la mujer. Todo al detalle y buenos plazos"
+      Description: "Compré dos gafas y todo bien, muy buen trato de la mujer. Todo al detalle y buenos plazos",
+      Images: null,
+      When: ""
     },
     {
       Name: "Lau",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXnHKI6RpA68pIILCiVDUZYmcIf9jKWuJyX6ccZKCwarhFNxWrU=s120-c-rp-mo-br100",
       Rating: 1,
-      Description: "Muy mal el servicio aparte de la mala atención, hasta ahora no me entregan sus gafas de mi hijo me dijeron de 5 a 10 dias pero ya son 2 semanas.... Y ni siquiera llaman para decir que hay retraso o algo.."
+      Description: "Muy mal el servicio aparte de la mala atención, hasta ahora no me entregan sus gafas de mi hijo me dijeron de 5 a 10 dias pero ya son 2 semanas.... Y ni siquiera llaman para decir que hay retraso o algo..",
+      Images: null,
+      When: ""
     }
   ],
   emails: "",
@@ -38578,43 +38702,57 @@ const opticians: Optician[] = [
       Name: "Iván Sevilla",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVvLUEjAPaOW0uygE5R_fHmLxm2FZYQYvFn9ZU971kZTktYzcrB=s120-c-rp-mo-ba6-br100",
       Rating: 5,
-      Description: "Excelente óptica, con unos magníficos profesionales. Fui a graduarme primero y a pedir unas gafas después, las MO Regate, de la selección española. Adjunto fotos, muy chulas 🤓🇪🇦\n\nHe quedado muy contento con el pedido, el trato y la simpatía de todxs lxs que me atendieron. Hoy he ido a que me las ajustaran porque se me caían y, de nuevo, servicio muy rápido y eficaz. Siempre con una sonrisa :)"
+      Description: "Excelente óptica, con unos magníficos profesionales. Fui a graduarme primero y a pedir unas gafas después, las MO Regate, de la selección española. Adjunto fotos, muy chulas 🤓🇪🇦\n\nHe quedado muy contento con el pedido, el trato y la simpatía de todxs lxs que me atendieron. Hoy he ido a que me las ajustaran porque se me caían y, de nuevo, servicio muy rápido y eficaz. Siempre con una sonrisa :)",
+      Images: null,
+      When: ""
     },
     {
       Name: "Leonor Molares Mediavilla",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJKDsV-0bh02ufQjojZtGEFQbHYAyaAHW3KSCfPWHfDFT-u-A=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "¡Experiencia estupenda con Verónica!Me ha facilitado mucha información para elegir las lentes/cristales.Todos los modelos de gafas de ópticas Mo son increíbles. Me ha encantado la dedicación y pruebas que me ha hecho.Precios muy buenos,puedes ir subiendo según los extras que quieras."
+      Description: "¡Experiencia estupenda con Verónica!Me ha facilitado mucha información para elegir las lentes/cristales.Todos los modelos de gafas de ópticas Mo son increíbles. Me ha encantado la dedicación y pruebas que me ha hecho.Precios muy buenos,puedes ir subiendo según los extras que quieras.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Cristina Vega",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKavxEVRrQlxTmVZM3eHCHKAUqN9llA1_Kv9-qzmN3NPoC0rg=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Excelente atención y servicio en la tienda de la calle Asuncion.Solucionarin el problema de una patilla de mi gafa que se había roto y en tiempo récord"
+      Description: "Excelente atención y servicio en la tienda de la calle Asuncion.Solucionarin el problema de una patilla de mi gafa que se había roto y en tiempo récord",
+      Images: null,
+      When: ""
     },
     {
       Name: "Hanna Bu",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKgnTm4_LxRS3qiYPttdorfN19OKsJWT9ln_Kdv8M9txNjP7Q=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Estuve en la tienda por Gaffas nuevas :) el servicio es muy bueno y los trabajadores son muy simpáticos!!\nBuenos precios y ofertas!"
+      Description: "Estuve en la tienda por Gaffas nuevas :) el servicio es muy bueno y los trabajadores son muy simpáticos!!\nBuenos precios y ofertas!",
+      Images: null,
+      When: ""
     },
     {
       Name: "Gloria Víctor",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVN-clSL0snbSTksmINugPL3e09rtpAHFtBWH-DmtJpHKhKXAcQzg=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Fui por si podían arreglarme las gafas porque se me había caído un cristal y en ese mismo momento me lo solucionaron, tardaron súper poco. No me cobraron nada y fueron muy simpáticas."
+      Description: "Fui por si podían arreglarme las gafas porque se me había caído un cristal y en ese mismo momento me lo solucionaron, tardaron súper poco. No me cobraron nada y fueron muy simpáticas.",
+      Images: null,
+      When: ""
     },
     {
       Name: "isabel soto de prado",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJMFNTx4Y9avxb-QaFg9zJ8bUdIazOvbmn5wixnjzTyy8WTTw=s120-c-rp-mo-ba3-br100",
       Rating: 5,
-      Description: "Muy profesionales y amables y las gafas estuvieron súper rápido!. Ana me graduó fenomenal y Felipe me las entregó, gracias!!"
+      Description: "Muy profesionales y amables y las gafas estuvieron súper rápido!. Ana me graduó fenomenal y Felipe me las entregó, gracias!!",
+      Images: null,
+      When: ""
     },
     {
       Name: "Alicia Sánchez",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI7Cmbxf4XZQeHVZ1J0rLl4FJNC4nA_3FPehLEEijUHXZIGrA=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Experiencia 10. No pudieron ser más encantadores y aconsejarme mejor tanto ana como felipe y verónica. ¡Me voy feliz con mis dos gafas!"
+      Description: "Experiencia 10. No pudieron ser más encantadores y aconsejarme mejor tanto ana como felipe y verónica. ¡Me voy feliz con mis dos gafas!",
+      Images: null,
+      When: ""
     },
     {
       Name: "Marian Baena Jiménez",
@@ -38675,49 +38813,65 @@ const opticians: Optician[] = [
       Name: "Olga Esther Carmona",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUIFVKblWUEQkolODn8v0W2aF6NVxYk0d6BYChvaqjeMpwLWd1pXA=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Super bien ya hemos comprado varias gafas y tanto Silvia como Carlos nos atienden super bien además tiene gafas super chulas, volveré a comprar seguro, mil gracias."
+      Description: "Super bien ya hemos comprado varias gafas y tanto Silvia como Carlos nos atienden super bien además tiene gafas super chulas, volveré a comprar seguro, mil gracias.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Guadalupe Rodriguez",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWqqX6TCC8IXDazt0D1D4oCVeXgNFwqhVVdF_WgTJmg9ttJGg=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Soy cliente desde hace muchos años , mi hija también, son estupendos, amables,puntuales, todo lo mejor del mundo.\nSaludos a Carlos.\nUn cordial saludo y aplausos para ellos.\nMaría del Carmen Aguilar Rangel y Carmen Rodríguez Aguilar de Osuna."
+      Description: "Soy cliente desde hace muchos años , mi hija también, son estupendos, amables,puntuales, todo lo mejor del mundo.\nSaludos a Carlos.\nUn cordial saludo y aplausos para ellos.\nMaría del Carmen Aguilar Rangel y Carmen Rodríguez Aguilar de Osuna.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Trinidad Rodriguez",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV_e3ClHiiSG-z38ZpDeoPg_xIVGd6lxohb61V0LaX3rJWt-BtQ=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Me atendió Laura. Excelente profesional, me asesoró y acompañó en todo el proceso. Gran variedad de marcas."
+      Description: "Me atendió Laura. Excelente profesional, me asesoró y acompañó en todo el proceso. Gran variedad de marcas.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Elizabeth Ponce",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVU3NIcknph5HwXmX6EzXLdA9KxGTAAy0Xci3kEQgOQU7b_K8OS=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Un gran descubrimiento al ver el gran personal que esconde esta óptica, mencionar a Silvia por su paciencia para encontrar lo que realmente necesitaban mis ojos. Gracias a este gran equipo se han convertido en mi optica de confianza. De nuevo mil gracias a todos"
+      Description: "Un gran descubrimiento al ver el gran personal que esconde esta óptica, mencionar a Silvia por su paciencia para encontrar lo que realmente necesitaban mis ojos. Gracias a este gran equipo se han convertido en mi optica de confianza. De nuevo mil gracias a todos",
+      Images: null,
+      When: ""
     },
     {
       Name: "Rocio PUIGDOLLERS CABALERRO",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUngdSGYViI_JZUT-tjxzpfAeLc_cMpR_cCNF6nSGWMGs40zLE=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Me ha gustado mucho el trato hacia el cliente. Son muy simpáticos y buenos técnicos profesionales."
+      Description: "Me ha gustado mucho el trato hacia el cliente. Son muy simpáticos y buenos técnicos profesionales.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Manuel José Marcos Salvatierra",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWdB6Ct8tNWDwi9VHIy-FRMYVvZw_oDTNlBciok2VnPmhaj-MgnUg=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Siempre es un placer ir y ser atendido por su personal.\n100% satisfecho y totalmente\nrecomendables."
+      Description: "Siempre es un placer ir y ser atendido por su personal.\n100% satisfecho y totalmente\nrecomendables.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Mariangeles frutos lopez",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWK2yJGq04sf-A-tYPxc4GCJ4e1OsXYfS42HnSiyW_RQynQmaQ=s120-c-rp-mo-ba2-br100",
       Rating: 5,
-      Description: "Trato insuperable! Atención de 10! Mil gracias por tu atención y tu paciencia Silvia!"
+      Description: "Trato insuperable! Atención de 10! Mil gracias por tu atención y tu paciencia Silvia!",
+      Images: null,
+      When: ""
     },
     {
       Name: "Antonio Velazquez Silva",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK09XqTTt36mgJ85uHG6sFdza8rDB38Cf26n8UuJAVm3pNRMA=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Magnífico trabajo. Perfecta graduación amabilidad un 10. Julia, Carmen y Macarena maravillosas. 😘"
+      Description: "Magnífico trabajo. Perfecta graduación amabilidad un 10. Julia, Carmen y Macarena maravillosas. 😘",
+      Images: null,
+      When: ""
     }
   ],
   emails: "",
@@ -38773,49 +38927,65 @@ const opticians: Optician[] = [
       Name: "Elvira Gomez Haba",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJi3HpBx_Lk6Lzi6XdXhpp8Sybf-5gpBKqoJOBbA_FeV1C3IA=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Mi familia, algunos amigos y yo somos clientes desde hace muchos años, aunque  han cambiado las personas que la llevan ahora, en mi opinión lo están haciendo muy bien y continúan en la misma linea de antes (muy profesionales, trato estupendo y cercano) cosa que me gusta para seguir con ellos.\nMe he hecho unas gafas progresivas hace poco y estoy encantada.\nSé que si tengo algún problema con ellas, en el momento que sea, nada más tengo que ir e intentarán solucionarlo.\nRecomiendo totalmente óptica Cuna 19."
+      Description: "Mi familia, algunos amigos y yo somos clientes desde hace muchos años, aunque  han cambiado las personas que la llevan ahora, en mi opinión lo están haciendo muy bien y continúan en la misma linea de antes (muy profesionales, trato estupendo y cercano) cosa que me gusta para seguir con ellos.\nMe he hecho unas gafas progresivas hace poco y estoy encantada.\nSé que si tengo algún problema con ellas, en el momento que sea, nada más tengo que ir e intentarán solucionarlo.\nRecomiendo totalmente óptica Cuna 19.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Danil Loginov (Danil Loginov)",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW1YCgu9ZjGIDaXbMs3WL9HA6zHoYie9qm-zxJElVTs1NUdt0w=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Muy buena óptica, muy buen trato y el compañero que me atendió (Alberto) es muy amable!! Volvería a comprar mis gafas en esta óptica sin ninguna duda!"
+      Description: "Muy buena óptica, muy buen trato y el compañero que me atendió (Alberto) es muy amable!! Volvería a comprar mis gafas en esta óptica sin ninguna duda!",
+      Images: null,
+      When: ""
     },
     {
       Name: "Carmen Delgado",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIZ7ScUswPyxduBFywLdSeoX6lKToPLw4VxF6btsW_TMQrRrak=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Excelente trato!! Llevo varios años comprando aquí mis lentillas y ahora mis gafas y no puedo estar mas contenta! Te aconsejn genial y siempre miran por ti muchísimo, son super profesionales!! Lo recomiendo 100%!!! 🥳🥳🥳🥳🥳"
+      Description: "Excelente trato!! Llevo varios años comprando aquí mis lentillas y ahora mis gafas y no puedo estar mas contenta! Te aconsejn genial y siempre miran por ti muchísimo, son super profesionales!! Lo recomiendo 100%!!! 🥳🥳🥳🥳🥳",
+      Images: null,
+      When: ""
     },
     {
       Name: "Manuel Ruiz",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIDYJ086GtxZASd1EAlY9lUnc6VBeXlf2zl9T-o7Mv14k7OMg=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Mi familia y yo somos antiguos clientes de esta óptica. Hace unos meses fui y vi que había habido un cambio generacional. Un trato exquisito. Fui a comprar unas gafas deportivas graduadas. Me atendieron muy bien y las gafas tardaron poco tiempo en estar preparadas. Espero que les vaya bien el negocio."
+      Description: "Mi familia y yo somos antiguos clientes de esta óptica. Hace unos meses fui y vi que había habido un cambio generacional. Un trato exquisito. Fui a comprar unas gafas deportivas graduadas. Me atendieron muy bien y las gafas tardaron poco tiempo en estar preparadas. Espero que les vaya bien el negocio.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Malena Izquierdo moya",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIgL3tGbu90OHHXH5a4EPfb5N-TItxXdOGRVXKp3ZB3o4mPYA=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Alberto es una persona muy atenta y agradable y un gran profesional. Se para a explicar todo lo técnico, lo cual agradezco mucho. Siempre dispuesto a probar las lentes hasta que quedé satisfecha. Muy interesado en ofrecer un servicio cercano y a la par profesional. Estoy muy contenta de tenerlo como óptico. Me recomendaron la óptica y ahora la sigo recomendando yo."
+      Description: "Alberto es una persona muy atenta y agradable y un gran profesional. Se para a explicar todo lo técnico, lo cual agradezco mucho. Siempre dispuesto a probar las lentes hasta que quedé satisfecha. Muy interesado en ofrecer un servicio cercano y a la par profesional. Estoy muy contenta de tenerlo como óptico. Me recomendaron la óptica y ahora la sigo recomendando yo.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Juan Luis Barea Saavedra",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWomj1yck3ZTAAfX7xB7OFURZR687OMBl-zgHghfCrZ2ww-c9um=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Trato inmejorable el recibido en mi último visita a Cuna 19 para la compra de unas lentes graduadas. Excelente atención, rapidez en la entrega y buen seguimiento post-venta por parte de Alberto. Muy recomendable."
+      Description: "Trato inmejorable el recibido en mi último visita a Cuna 19 para la compra de unas lentes graduadas. Excelente atención, rapidez en la entrega y buen seguimiento post-venta por parte de Alberto. Muy recomendable.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Elena Barbeyto",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLa0efcTIt5DeS_z8TpdpgFnXy2UT2B0ZMJpZrnAn8BM0UTtA=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Somos clientes de esta óptica y siempre recibo un trato genial. Alberto es un gran profesional que siempre facilita todo. Totalmente recomendable"
+      Description: "Somos clientes de esta óptica y siempre recibo un trato genial. Alberto es un gran profesional que siempre facilita todo. Totalmente recomendable",
+      Images: null,
+      When: ""
     },
     {
       Name: "Juan Alv",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJFZtKFYa1huXW3-OOjmI3Io_j1AgfSQMAfKEGKt95gLkdcug=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Una óptica solvente, de confianza y que se puede acudir con total garantía.\nDe Alberto decir que es un gran profesional dispuesto siempre a solucionarte el mínimo problema que tengas."
+      Description: "Una óptica solvente, de confianza y que se puede acudir con total garantía.\nDe Alberto decir que es un gran profesional dispuesto siempre a solucionarte el mínimo problema que tengas.",
+      Images: null,
+      When: ""
     }
   ],
   emails: "",
@@ -38872,49 +39042,65 @@ const opticians: Optician[] = [
       Name: "Danna Guzmán Pérez",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXAbcCikKclOrNyeoTAy2Y74Oc5qQgOj5bjeOQoAPZ76kKdq8Q=s120-c-rp-mo-ba2-br100",
       Rating: 1,
-      Description: "Un desperdicio de tiempo. Ya había ido a otro Multiopticas a informarme pero este por cercanía me venía mejor. En comparación con el otro los precios y los tipos de lentes que había no estaba bien explicado y me quisieron meter un tipo de cristal que era más caro sin necesidad. Menos mal ya había ido a otro y sabía lo que me estaban vendiendo. Además me pusieron una graduación que era mayor a lo que me dijeron en el otro Multiopticas que fui al final ya que debido a la poca profesionalidad de la dueña decidí irme de este"
+      Description: "Un desperdicio de tiempo. Ya había ido a otro Multiopticas a informarme pero este por cercanía me venía mejor. En comparación con el otro los precios y los tipos de lentes que había no estaba bien explicado y me quisieron meter un tipo de cristal que era más caro sin necesidad. Menos mal ya había ido a otro y sabía lo que me estaban vendiendo. Además me pusieron una graduación que era mayor a lo que me dijeron en el otro Multiopticas que fui al final ya que debido a la poca profesionalidad de la dueña decidí irme de este",
+      Images: null,
+      When: ""
     },
     {
       Name: "Marta López Torres",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLZr2rOW6QL3oLFAlngWw70C-RKDo1XLCk5PMFRsr0QxFNKTw=s120-c-rp-mo-br100",
       Rating: 1,
-      Description: "Mi experiencia triste, pesima y muyyy lamentable.\nMis gafas me recomendaron unas progresivas..... se han equivicado en 3 ocasiones tras graduarme 3 veces la vista en esta optica diferente personal y cambio de cristales..... Hago el pago de mis gafas a dia de hoy 1 mes y 15 días ni tengo gafas, ni mi dinero, contándome problemas internos hacia la persona que me atendió para no poner solución a mi situación (Sñr. MARIA me da detalles al respecto por tlf, a mi no me interesa los problemas internos con vuestros trabajadores) me han atendido un dependiente en cada ocasión 4 personas distintas y ante un problema de ellos interno solo hacen pasar la pelota de un lado a otro....Contacta conmigo la responsable de Sevilla Sñr. MARIA la cual telefónicamente todo era maravilloso pero por WhatsApp o email no tan resolutiva, ni con opciones a mi situación.\nLamentable trato, pésimo el dejarse graduar en manos de inexpertos ya que a mí me ha perjudicado y ante un problema NO DAN SOLUCION.\nA día de hoy tras 1 mes y 15 días me encuentro sin gafas y sin 399€ y varios sofocones en mi persona inesperadamente.\nNO ME DEVUELVEN DINERO, NI ME DAN MIS GAFAS, NI SOLUCION Y LA VISTA FASTIDIADA.\nSi a esto hay derecho que alguien me diga."
+      Description: "Mi experiencia triste, pesima y muyyy lamentable.\nMis gafas me recomendaron unas progresivas..... se han equivicado en 3 ocasiones tras graduarme 3 veces la vista en esta optica diferente personal y cambio de cristales..... Hago el pago de mis gafas a dia de hoy 1 mes y 15 días ni tengo gafas, ni mi dinero, contándome problemas internos hacia la persona que me atendió para no poner solución a mi situación (Sñr. MARIA me da detalles al respecto por tlf, a mi no me interesa los problemas internos con vuestros trabajadores) me han atendido un dependiente en cada ocasión 4 personas distintas y ante un problema de ellos interno solo hacen pasar la pelota de un lado a otro....Contacta conmigo la responsable de Sevilla Sñr. MARIA la cual telefónicamente todo era maravilloso pero por WhatsApp o email no tan resolutiva, ni con opciones a mi situación.\nLamentable trato, pésimo el dejarse graduar en manos de inexpertos ya que a mí me ha perjudicado y ante un problema NO DAN SOLUCION.\nA día de hoy tras 1 mes y 15 días me encuentro sin gafas y sin 399€ y varios sofocones en mi persona inesperadamente.\nNO ME DEVUELVEN DINERO, NI ME DAN MIS GAFAS, NI SOLUCION Y LA VISTA FASTIDIADA.\nSi a esto hay derecho que alguien me diga.",
+      Images: null,
+      When: ""
     },
     {
       Name: "María José Brenes oliva",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVPj2fVUwv-RO9P2ro98-9SwYahpEWzhBKsCr2RooxcNr1rMSB-=s120-c-rp-mo-br100",
       Rating: 1,
-      Description: "Mi experiencia fue de la más mala que pude tener, fui a graduarme la vista y se confundieron 2 veces de graduación, me trajeron mis gafas y nuevamente se las tuve que devolver, la chica me dice que tiene que hablar con dirección y buscar una solución , me parece que cuando se hace mal trabajo tiene que ser inmediato ya que el fallo no fue mío si no vuestro ya que el personal de graduación no puede ser el mismo que de venta, tendrías que ser personal cualificado y con los estudios pertinentes para ello. Al final perdí mi fianza y me tuve que ir a otra óptica."
+      Description: "Mi experiencia fue de la más mala que pude tener, fui a graduarme la vista y se confundieron 2 veces de graduación, me trajeron mis gafas y nuevamente se las tuve que devolver, la chica me dice que tiene que hablar con dirección y buscar una solución , me parece que cuando se hace mal trabajo tiene que ser inmediato ya que el fallo no fue mío si no vuestro ya que el personal de graduación no puede ser el mismo que de venta, tendrías que ser personal cualificado y con los estudios pertinentes para ello. Al final perdí mi fianza y me tuve que ir a otra óptica.",
+      Images: null,
+      When: ""
     },
     {
       Name: "María Hernández de Andrés",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ6EzssswjPUHTBfO9ZScVp47zdGLAaGJ5wwMlLQxJz-sczBA=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Muy buena atención y rápidos!! Mucha amabilidad y me ayudaron a elegir mis gafas. Repetiré sin duda"
+      Description: "Muy buena atención y rápidos!! Mucha amabilidad y me ayudaron a elegir mis gafas. Repetiré sin duda",
+      Images: null,
+      When: ""
     },
     {
       Name: "NATALIA",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWLBq1qRH3g8mg_DT0hknfGhiQRSuvhw4ZCmCb8g-IbisDt3Wm4=s120-c-rp-mo-br100",
       Rating: 1,
-      Description: "Soy clienta habitual de este multiopticas. Llevo haciéndome las 5 últimas gafas. Desde el principio la atención de las chicas muy correcta. Pero últimamente coincido siempre con una mujer mayor de grandes gafas y pelo corto. Fui un sábado a las 19:30h a preguntarle si mis gafas de 6 meses tienen algún tipo de garantía ya que se estaban desquebrajandose y me dijo que fuera el lunes que ella iba a cerrar ya (yo pensaba que el horario que aparece en la página web era el correcto...) No te atiende correctamente, tiene respuestas bastantes desagradables o bordes (cuando la gente va por necesidad por tener unas gafas, no para verle la cara o molestarle) y cada vez que llamo por tlf no lo coge (más de 15 llamadas a lo largo de la tarde entera y no lo coge, me presento allí al día siguiente por la mañana y pregunto que compañero ha estado en el turno de tarde de ayer y da la casualidad que es ella)\n\nLa atención de esta persona en particular me ha hecho irme a otro centro."
+      Description: "Soy clienta habitual de este multiopticas. Llevo haciéndome las 5 últimas gafas. Desde el principio la atención de las chicas muy correcta. Pero últimamente coincido siempre con una mujer mayor de grandes gafas y pelo corto. Fui un sábado a las 19:30h a preguntarle si mis gafas de 6 meses tienen algún tipo de garantía ya que se estaban desquebrajandose y me dijo que fuera el lunes que ella iba a cerrar ya (yo pensaba que el horario que aparece en la página web era el correcto...) No te atiende correctamente, tiene respuestas bastantes desagradables o bordes (cuando la gente va por necesidad por tener unas gafas, no para verle la cara o molestarle) y cada vez que llamo por tlf no lo coge (más de 15 llamadas a lo largo de la tarde entera y no lo coge, me presento allí al día siguiente por la mañana y pregunto que compañero ha estado en el turno de tarde de ayer y da la casualidad que es ella)\n\nLa atención de esta persona en particular me ha hecho irme a otro centro.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Mari Nieves Buiza Romero",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWDWl3361HmaXJABUR6prkFA1sCFcZVzbshIn-PUgLFckd3Tde-=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Raquel es estupenda y me atendió muy bien, un encanto y una buena profesional."
+      Description: "Raquel es estupenda y me atendió muy bien, un encanto y una buena profesional.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Jose Ramírez",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIWWMUk_1tpMGr-H_12CYRUuwEUXnwX92sc8o8iO6ML4fg2AA=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Compré dos gafas y todo bien, muy buen trato de la mujer. Todo al detalle y buenos plazos"
+      Description: "Compré dos gafas y todo bien, muy buen trato de la mujer. Todo al detalle y buenos plazos",
+      Images: null,
+      When: ""
     },
     {
       Name: "Lau",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXnHKI6RpA68pIILCiVDUZYmcIf9jKWuJyX6ccZKCwarhFNxWrU=s120-c-rp-mo-br100",
       Rating: 1,
-      Description: "Muy mal el servicio aparte de la mala atención, hasta ahora no me entregan sus gafas de mi hijo me dijeron de 5 a 10 dias pero ya son 2 semanas.... Y ni siquiera llaman para decir que hay retraso o algo.."
+      Description: "Muy mal el servicio aparte de la mala atención, hasta ahora no me entregan sus gafas de mi hijo me dijeron de 5 a 10 dias pero ya son 2 semanas.... Y ni siquiera llaman para decir que hay retraso o algo..",
+      Images: null,
+      When: ""
     }
   ],
   emails: "",
@@ -38971,7 +39157,9 @@ const opticians: Optician[] = [
       Name: "Rufina Trenado Girol",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ57eji0A7wDh9xcqTOyCCD-PtPEB8WznVPL2zy5EGkq51Z7g=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Fui a Soloptical sierpes a graduar unos cristales de unas gafas de sol. Desde el primer momento Violeta me atendió con una amabilidad excepcional. Me asesoró en todo momento con mucha paciencia y profesionalidad, explicándome todas las opciones disponibles y ayudándome a elegir lo mejor para mis necesidades. Se nota cuando alguien disfruta de su trabajo y se preocupa por el cliente. Sin duda volvere y lo recomendare!"
+      Description: "Fui a Soloptical sierpes a graduar unos cristales de unas gafas de sol. Desde el primer momento Violeta me atendió con una amabilidad excepcional. Me asesoró en todo momento con mucha paciencia y profesionalidad, explicándome todas las opciones disponibles y ayudándome a elegir lo mejor para mis necesidades. Se nota cuando alguien disfruta de su trabajo y se preocupa por el cliente. Sin duda volvere y lo recomendare!",
+      Images: null,
+      When: ""
     },
     {
       Name: "Ana Sucino",
@@ -38987,31 +39175,41 @@ const opticians: Optician[] = [
       Name: "ana vera",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKKep7mia0goRP8lCtWjcjO5ixV_yXNbHO3gOlo_MqeAuUgOA=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Me compré dos gafas de graduación y estoy encantada con mi compra. Tienen muy buenos precios y una gran variedad. En mi caso me atendió Violeta que me asesoro y fue encantadora conmigo. Da gusto comprar un producto y que te atienda una persona así. Sin duda en mi próxima compra preguntaré por ella. Aunque e de decir que vi un equipo muy agradable"
+      Description: "Me compré dos gafas de graduación y estoy encantada con mi compra. Tienen muy buenos precios y una gran variedad. En mi caso me atendió Violeta que me asesoro y fue encantadora conmigo. Da gusto comprar un producto y que te atienda una persona así. Sin duda en mi próxima compra preguntaré por ella. Aunque e de decir que vi un equipo muy agradable",
+      Images: null,
+      When: ""
     },
     {
       Name: "francisco morales fernández-contero",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL2cEzlIDSWos9VxJaFDp1GXE1xWfPUElVZS_igT6hw4CBXUA=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "He comprado mis últimas gafas de sol aquí y la atención que me han ofrecido ha sido increíble. Me han tratado con mucha cercanía y amabilidad, en especial Violeta, que ha sabido aconsejarme bien y ha entendido bien mis gustos. Para mis próximas gafas volveré aquí sin duda."
+      Description: "He comprado mis últimas gafas de sol aquí y la atención que me han ofrecido ha sido increíble. Me han tratado con mucha cercanía y amabilidad, en especial Violeta, que ha sabido aconsejarme bien y ha entendido bien mis gustos. Para mis próximas gafas volveré aquí sin duda.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Paula Prieto",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJHZeHgVfWLYx4YWtUSY-BVx1VXatGfQZJRgEXFi1WGhOZIRw=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Soy clienta habitual en esta tienda desde hace unos 3 años y siempre todo perfecto. Esta vez me atendieron Sara y Miriam y fueron encantadoras. Por profesionales como ellas, es por lo que siempre vuelvo"
+      Description: "Soy clienta habitual en esta tienda desde hace unos 3 años y siempre todo perfecto. Esta vez me atendieron Sara y Miriam y fueron encantadoras. Por profesionales como ellas, es por lo que siempre vuelvo",
+      Images: null,
+      When: ""
     },
     {
       Name: "Mercedes García",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJrO8Ow7AqgV73gj6x_DnYEEmCzEXMUtAx2n9p4WtngLwIRCQ=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Llevo varios años como clienta y estoy muy satisfecha con la gran variedad y calidad de productos y el buen trato del personal, especialmente de Violeta. Seguiré yendo allí seguro."
+      Description: "Llevo varios años como clienta y estoy muy satisfecha con la gran variedad y calidad de productos y el buen trato del personal, especialmente de Violeta. Seguiré yendo allí seguro.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Guillermo Calvo",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK5NaPXWeEGJ_O3wyb3ZStSUTp3IOXnV_dxAapW96n2CM7n7g=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Fui atendido por Miriam en la compra de mis gafas, me ayudó super bien y terminé llevando dos! Excelente calidad y atención! Lo recomiendo y volveré nuevamente! muchas gracias Miriam!"
+      Description: "Fui atendido por Miriam en la compra de mis gafas, me ayudó super bien y terminé llevando dos! Excelente calidad y atención! Lo recomiendo y volveré nuevamente! muchas gracias Miriam!",
+      Images: null,
+      When: ""
     },
     {
       Name: "Oscar Gracia Oliván",
@@ -39077,31 +39275,41 @@ const opticians: Optician[] = [
       Name: "Asunción Benítez Díaz",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKtho4bAmusqpbnuKqxID0YUHm91TZJwdNolSlqzezBotlhcw=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Lo considero un lugar de confianza para cuidar tu vista.\nGrandes profesionales, mejores personas!!!! Un trato impecable, mucha atención y profesionalidad. Tomaron el tiempo necesario para atender mis necesidades y dar en la clave. Pienso repetir sin duda alguna y la recomiendo para quienes busquen calidad y buen servicio!!!"
+      Description: "Lo considero un lugar de confianza para cuidar tu vista.\nGrandes profesionales, mejores personas!!!! Un trato impecable, mucha atención y profesionalidad. Tomaron el tiempo necesario para atender mis necesidades y dar en la clave. Pienso repetir sin duda alguna y la recomiendo para quienes busquen calidad y buen servicio!!!",
+      Images: null,
+      When: ""
     },
     {
       Name: "Jonathan Quesada Martin",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVB6VDScAm4yl1TgjofpzrvcqIMZme5YzY9ZqJ5fI6hLhpGzuOivQ=s120-c-rp-mo-ba4-br100",
       Rating: 5,
-      Description: "La atención en esta óptica es excepcional, desde el primer momento te sientes bienvenido.  El examen de la vista fue muy completo y me explicaron todo con detalle.  Tienen una amplia selección de monturas, modernas y de excelente calidad.  Los precios son justos y se ajustan a todos los presupuestos. Recomiendo ampliamente esta óptica a todos los que buscan un servicio profesional y de calidad."
+      Description: "La atención en esta óptica es excepcional, desde el primer momento te sientes bienvenido.  El examen de la vista fue muy completo y me explicaron todo con detalle.  Tienen una amplia selección de monturas, modernas y de excelente calidad.  Los precios son justos y se ajustan a todos los presupuestos. Recomiendo ampliamente esta óptica a todos los que buscan un servicio profesional y de calidad.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Dani Arbiol",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXfBB83NOVkF-A4wjLsSH4sh8CmGrB1HeJTkjwsGRnMV2lQeo9C=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Trato maravilloso, estoy encantado, han sido súper amables y en menos de lo que me dijeron, ya tenia las gafas, sin duda no me equivoqué al ir, muchas gracias."
+      Description: "Trato maravilloso, estoy encantado, han sido súper amables y en menos de lo que me dijeron, ya tenia las gafas, sin duda no me equivoqué al ir, muchas gracias.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Macarena Casado Muñiz",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ3ZDVoq5WnzPeY9ap3GE8bOE94Ky9io59wNjid3k9Wp9765A=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Magnífica atención. Máxima profesionalidad y calidad humana, explicando todas las dudas de manera sencilla. Muy recomendable. Gracias por el excelente trato recibido."
+      Description: "Magnífica atención. Máxima profesionalidad y calidad humana, explicando todas las dudas de manera sencilla. Muy recomendable. Gracias por el excelente trato recibido.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Rafael Arjona",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUBBNl2AGW_JD0bmlUeovgRHvruVqo2Sw-K0Ucl--oAB3wIIEQ7Xw=s120-c-rp-mo-ba3-br100",
       Rating: 5,
-      Description: "Es mi óptica desde hace muchos años, también para el resto de mi familia. Siempre nos atienden de maravilla, con profesionalidad y buscando la mejor solución a nuestras necesidades. Cuentan con la más avanzada tecnología, lo que favorece que tengas los cristales y monturas adecuados y personalizados"
+      Description: "Es mi óptica desde hace muchos años, también para el resto de mi familia. Siempre nos atienden de maravilla, con profesionalidad y buscando la mejor solución a nuestras necesidades. Cuentan con la más avanzada tecnología, lo que favorece que tengas los cristales y monturas adecuados y personalizados",
+      Images: null,
+      When: ""
     },
     {
       Name: "Antonio Garcia",
@@ -39117,13 +39325,17 @@ const opticians: Optician[] = [
       Name: "Manuel Ramos",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL-XOHzaEGGDx7HVU7neW83X0qO7qhr8p-beQilrh4OuAY1gIo=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Magnificos profesionales, ademas te solucionan cualquier problema y siempre hacen frente a la garantia del producto. Llevo mas de 10 años y sin problema"
+      Descripton: "Magnificos profesionales, ademas te solucionan cualquier problema y siempre hacen frente a la garantia del producto. Llevo mas de 10 años y sin problema",
+      Images: null,
+      When: ""
     },
     {
       Name: "Asuncion Martinez Baquero",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKOeIyS7jiTky7tQNcsxCX5tADu1eeTOLmzbHGRbzsD8dVJ9w=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Un trato muy agradable y muy buen precio muy contenta"
+      Description: "Un trato muy agradable y muy buen precio muy contenta",
+      Images: null,
+      When: ""
     }
   ],
   emails: "",
@@ -39174,49 +39386,65 @@ const opticians: Optician[] = [
       Name: "Tú Kike",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX2qgARtuDZ0_sExCpdZFeeYYKLd5KJLWn2pXnNPM01OxOn4Ooy=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Muy amable y profesional la chica que me atendió, mi visita fue porque se aflojó  un tornillo de mis gafas graduadas y me lo soluciono, además le dio en repaso a los otros  y le dio una limpieza ."
+      Description: "Muy amable y profesional la chica que me atendió, mi visita fue porque se aflojó  un tornillo de mis gafas graduadas y me lo soluciono, además le dio en repaso a los otros  y le dio una limpieza .",
+      Images: null,
+      When: ""
     },
     {
       Name: "MCarmen del toro",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKx29XEGwhh7i5bA1MoKh13e0MMXFzFOXp0Y2pWyHEDJ5UK4Q=s120-c-rp-mo-br100",
       Rating: 1,
-      Description: "Una atencion al cliente nefasta. Entré a pedir presupuesto de gafas. Elegí la montura y llevé la graduacion prescrita por el oftalmologo. La persona que me atendió me dijo que no podia darme por escrito el presupuesto y que \"asi por encima\" podia salitme entre 200 y 1000 euros pero que hasta que las encargara no me podría definir el precio.\nParecía una camara oculta.. salí indignada. No volveré a esta optica nunca."
+      Description: "Una atencion al cliente nefasta. Entré a pedir presupuesto de gafas. Elegí la montura y llevé la graduacion prescrita por el oftalmologo. La persona que me atendió me dijo que no podia darme por escrito el presupuesto y que \"asi por encima\" podia salitme entre 200 y 1000 euros pero que hasta que las encargara no me podría definir el precio.\nParecía una camara oculta.. salí indignada. No volveré a esta optica nunca.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Luis Miguel Fernández Alcauza",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKE6lwSc729uOI9jvwlPXUVLmIHWP3MXl343sv-5hbN-CM9MA=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Súper contento con el trato recibido por Teresa, una gran profesional porque me orientó y me recomendó con gran gusto y con conocimiento. Me han encantado las gafas!!!"
+      Description: "Súper contento con el trato recibido por Teresa, una gran profesional porque me orientó y me recomendó con gran gusto y con conocimiento. Me han encantado las gafas!!!",
+      Images: null,
+      When: ""
     },
     {
       Name: "Sergio Bueno",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKNOMBY7K69YwxIM9PIWbmV7AqDEKd7t1QBjbg9eeJojUIOhw=s120-c-rp-mo-ba2-br100",
       Rating: 5,
-      Description: "Estamos encantado con el trato recibido. Manuela es un encanto y muy profesional.\n\nSuper recomendable."
+      Description: "Estamos encantado con el trato recibido. Manuela es un encanto y muy profesional.\n\nSuper recomendable.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Raquel Valero Gamero",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKgS9-Sl0YluP3uZyk1jdUFnr7wdH52IbhE9_4Wf0nsdamuQQ=s120-c-rp-mo-ba3-br100",
       Rating: 5,
-      Description: "Tenia cita hoy a las 11:30 y me atendió una chica que ha sido en todo momento agradable y resolutiva. Fui con un problema que tenía con una gafa que no me daban solución en otro centro y ella en 2 minutos me lo ha resuelto.\nEnhorabuena por esta empleada siento no acordarme del nombre."
+      Description: "Tenia cita hoy a las 11:30 y me atendió una chica que ha sido en todo momento agradable y resolutiva. Fui con un problema que tenía con una gafa que no me daban solución en otro centro y ella en 2 minutos me lo ha resuelto.\nEnhorabuena por esta empleada siento no acordarme del nombre.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Jose David Dominguez",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXK4j1fnJIFtU6GuV6u7yNtIFz0XSKg9q3DQl8k0beTHP93U0as=s120-c-rp-mo-ba2-br100",
       Rating: 5,
-      Description: "No pongo más estrellas porque no existe la posibilidad. Tras malas experiencias en otras marcas aquí encontré un trato exquisito. Merece la pena. Muy atentos y profesionales."
+      Description: "No pongo más estrellas porque no existe la posibilidad. Tras malas experiencias en otras marcas aquí encontré un trato exquisito. Merece la pena. Muy atentos y profesionales.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Juan Carlos Díaz Diéguez",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLCF5PgXU_T4tHBIWrAv-4n-7uGM1Fsf_UaaKBnrmmHgoWLeg=s120-c-rp-mo-ba3-br100",
       Rating: 5,
-      Description: "Gran trato, servicio y asesoramiento. Saben adaptarse a los diferentes problemas que se les plantea.\nSiempre que les visito es una alegría."
+      Description: "Gran trato, servicio y asesoramiento. Saben adaptarse a los diferentes problemas que se les plantea.\nSiempre que les visito es una alegría.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Maria Carrasco Romero",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLRmiRmW5vib9TqH_9WOl6FxPhcZpUtCq8hw_cP0t4r0jQS8l4=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Hemos estado en dos ocasiones y en ambas un trato excepcional. Nos encanta. Se ha convertido en nuestra óptica de referencia."
+      Description: "Hemos estado en dos ocasiones y en ambas un trato excepcional. Nos encanta. Se ha convertido en nuestra óptica de referencia.",
+      Images: null,
+      When: ""
     }
   ],
   emails: "",
@@ -39267,49 +39495,65 @@ const opticians: Optician[] = [
       Name: "Ana Andrade",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJSC6MPx6ghQrsohdUAoEO0UVrZ-rx1nW2MM3GkiwrwFYd8Lg=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Trato exquisito. Me atendió Alejandro, ademas de atento y agradable , gran profesional.\nToque a los responsables Afflelou: poco personal que provoca esperas innecesarias y malestar. Una sola persona no puede graduar, coger el teléfono y atender al mostrador. Eso da una mala imagen de empresa, creo que este punto se debería tener en cuenta ."
+      Description: "Trato exquisito. Me atendió Alejandro, ademas de atento y agradable , gran profesional.\nToque a los responsables Afflelou: poco personal que provoca esperas innecesarias y malestar. Una sola persona no puede graduar, coger el teléfono y atender al mostrador. Eso da una mala imagen de empresa, creo que este punto se debería tener en cuenta .",
+      Images: null,
+      When: ""
     },
     {
       Name: "Bruno Leal",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK792iSBHH2ctkZxms-dt8xAdmegihbeC6TjaNs67SsLgOCow=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Buena atención y trato por  Rafa volveré a comprar otras gafas sin duda, gracias por todo"
+      Description: "Buena atención y trato por  Rafa volveré a comprar otras gafas sin duda, gracias por todo",
+      Images: null,
+      When: ""
     },
     {
       Name: "Araceli Jiménez González",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV843qEgUZ98G9oMO1QRntHjUB8RoBjEZFuyqFnPjWK9ISRy8P0=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Me atendieron al momento y muy amable"
+      Description: "Me atendieron al momento y muy amable",
+      Images: null,
+      When: ""
     },
     {
       Name: "Jorge Gomez",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIwSEIhQbEBQ8ujnJNl9kJah-n4oECOLHYbGdZ9HqNsXSSvBg=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Buen trato recibido i sobre todo soluciono mi problema.\nGracias por la amabilidad"
+      Description: "Buen trato recibido i sobre todo soluciono mi problema.\nGracias por la amabilidad",
+      Images: null,
+      When: ""
     },
     {
       Name: "Martin Bravo",
       ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJoVqjxggnuZUW_YyOHW4k8vEjgZnQa3PXSVx1SfHZ_Hvhk1Q=s120-c-rp-mo-ba4-br100",
       Rating: 5,
-      Description: "Siempre dispuestos a solucionarte cualquier incidencia en tus gafas."
+      Description: "Siempre dispuestos a solucionarte cualquier incidencia en tus gafas.",
+      Images: null,
+      When: ""
     },
     {
       Name: "Maria A F",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUQApeW55PD3IR1ilezqBZMRcwD0cbEesTqAEiK1nRIEE7QSRrn=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Estupendos profesionales. Muy atentos todos. Buen servicio. Agradezco especialmente a M.José su paciencia .Muy recomendable"
+      Description: "Estupendos profesionales. Muy atentos todos. Buen servicio. Agradezco especialmente a M.José su paciencia .Muy recomendable",
+      Images: null,
+      When: ""
     },
     {
       Name: "Alfredo Davila perez",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWDmULbyYV2WN1j5nUsusPfvgLpYkA6xfio7vCnkg2VIp6PcGq6=s120-c-rp-mo-br100",
       Rating: 5,
-      Description: "Felicitar a Javier de la tienda de Carrefour san Pablo por el buen trato y la ayuda que me brindó. Enhorabuena"
+      Description: "Felicitar a Javier de la tienda de Carrefour san Pablo por el buen trato y la ayuda que me brindó. Enhorabuena",
+      Images: null,
+      When: ""
     },
     {
       Name: "N. Garrido",
       ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXzthFRMw0XFa_EFpF_K4bon7D3zQmxwlV3Lm8J4TYe0uUHM-c=s120-c-rp-mo-ba4-br100",
       Rating: 1,
-      Description: "Le hicieron tres pares de gafas a mi padre y a dos de ellas se les partió la montura en menos de 6 meses. Nos da la impresión de que las gafas son en su mayoría de mala calidad. Y el trato del personal es frío y seco, como si te estuvieran haciendo un favor por cambiarte unas monturas por haberse roto siendo de mala calidad.\nEsto no es ser profesionales, cambien el chip, que tratan con personas. Y tengan más empatía, por favor, que las gafas no son precisamente baratas aunque publiciten justo lo contrario."
+      Description: "Le hicieron tres pares de gafas a mi padre y a dos de ellas se les partió la montura en menos de 6 meses. Nos da la impresión de que las gafas son en su mayoría de mala calidad. Y el trato del personal es frío y seco, como si te estuvieran haciendo un favor por cambiarte unas monturas por haberse roto siendo de mala calidad.\nEsto no es ser profesionales, cambien el chip, que tratan con personas. Y tengan más empatía, por favor, que las gafas no son precisamente baratas aunque publiciten justo lo contrario.",
+      Images: null,
+      When: ""
     }
   ],
   emails: "",
