@@ -57005,7 +57005,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Multiópticas",
@@ -57114,7 +57114,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Multiópticas & Centro Auditivo",
@@ -57231,7 +57231,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "General Optica - Visión y Audición",
@@ -57340,7 +57340,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Óptica Santa Lucía",
@@ -57456,7 +57456,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Oko (A Coruña)",
@@ -57570,7 +57570,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Central Óptica",
@@ -57686,7 +57686,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "General Optica - Visión y Audición",
@@ -57800,7 +57800,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "General Optica - Visión y Audición",
@@ -57916,7 +57916,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Multiópticas",
@@ -58031,7 +58031,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Óptica Suárez",
@@ -58145,7 +58145,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Óptica y Centro Auditivo Soloptical La Coruña",
@@ -58258,7 +58258,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Multiópticas",
@@ -58374,7 +58374,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Multiópticas",
@@ -58491,7 +58491,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Centro Óptico Breogan",
@@ -58605,7 +58605,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Central Óptica",
@@ -58719,7 +58719,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Opticalia La Torre",
@@ -58833,7 +58833,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "General Óptica - Visión y Audición",
@@ -58947,7 +58947,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Lopsy",
@@ -59060,7 +59060,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Alain Afflelou Óptico y Audiólogo Calle Juan Flórez, A Coruna",
@@ -59176,7 +59176,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Alain Afflelou Óptico Carrefour Francisco Perez Carballo La Coruña",
@@ -59287,7 +59287,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Ópticas Sánchez Rubal ~ C. Barcelona (A Coruña)",
@@ -59401,7 +59401,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Adrián Salgado Óptica y Audición",
@@ -59515,7 +59515,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Miokio",
@@ -59629,7 +59629,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Lázaro Óptico",
@@ -59745,7 +59745,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Alain Afflelou Óptico Calle Manuel Azaña, A Coruña",
@@ -59863,7 +59863,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Sánchez Rubal",
@@ -59977,7 +59977,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Ópticas Sánchez Rubal ~ Avda Finisterre (A Coruña)",
@@ -60091,7 +60091,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Óptica Castro Rúa Nova",
@@ -60211,7 +60211,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "gafas.es Avda. de Finisterre",
@@ -60327,7 +60327,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Óptica y Centro Auditivo Soloptical Marineda",
@@ -60438,7 +60438,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Souto",
@@ -60552,7 +60552,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "4C Centro Óptico",
@@ -60665,7 +60665,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Argimiro",
@@ -60779,7 +60779,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "OptoCenter",
@@ -60893,7 +60893,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Sánchez Rubal, S L ~ Juan Flórez",
@@ -61011,7 +61011,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Federopticos Sánchez Lázaro",
@@ -61127,7 +61127,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Fergo",
@@ -61241,7 +61241,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Óptica Ramallal",
@@ -61339,7 +61339,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Mirabén",
@@ -61448,7 +61448,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Visionlab",
@@ -61563,7 +61563,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Novaquia Distribuciones Ópticas",
@@ -61629,7 +61629,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Miraparamin",
@@ -61747,7 +61747,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Opticalia Romay",
@@ -61861,7 +61861,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Óptica Pollán",
@@ -61959,7 +61959,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Díaz Sánchez",
@@ -62073,7 +62073,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Óptica Castro Plaza de España",
@@ -62171,7 +62171,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Opticalia Romay",
@@ -62285,7 +62285,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Óptica Americana Sl",
@@ -62372,7 +62372,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Óptica Páramo",
@@ -62468,7 +62468,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Óptica Neovisióm",
@@ -62580,7 +62580,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Óptica Castro C.C Marineda City",
@@ -62689,7 +62689,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Sánchez Rubal",
@@ -62805,7 +62805,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Óptica Castro Plaza de Lugo",
@@ -62922,7 +62922,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Infinity Visión - Óptica y Psicotécnico",
@@ -63038,7 +63038,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "VYO Óptica",
@@ -63151,7 +63151,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Optica2000 El Corte Inglés Ramón y Cajal",
@@ -63260,7 +63260,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Óptica 2000 Marineda City A Coruña",
@@ -63337,7 +63337,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "ÖptoCoruña",
@@ -63450,7 +63450,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Activa Vision",
@@ -63564,7 +63564,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Eiroa",
@@ -63622,7 +63622,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Miguel Fariña Sieiro",
@@ -63653,7 +63653,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "+Visión",
@@ -63762,7 +63762,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Farmacia Óptica Rascón",
@@ -63876,7 +63876,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "OPTICA DURAN - OLEIROS",
@@ -63984,7 +63984,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 {
   title: "Óptica Soloptical A Coruña The Style Outlets",
@@ -64095,7 +64095,7 @@ const opticians: Optician[] = [
     }
   ],
   emails: "",
-  province: "a coruña"
+  province: "a-coruña"
 },
 
 ];
