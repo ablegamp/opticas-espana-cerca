@@ -64097,6 +64097,5182 @@ const opticians: Optician[] = [
   emails: "",
   province: "a-coruña"
 },
+//Listado de Almería
+
+{
+  title: "Óptica Maeso",
+  category: "Óptica",
+  address: "C. Granada, 1, 04003 Almería",
+  description: "Generalmente, esta óptica recibe valoraciones muy positivas por su trato atento y profesional, destacando la amabilidad de su personal, especialmente de Isa. Los usuarios mencionan una buena relación calidad-precio y algunos llevan siendo clientes durante muchos años. Sin embargo, se observa una crítica puntual sobre una atención percibida como borde en una ocasión.",
+  serviceRatings: {
+    atencionCliente: 4.0,
+    profesionalidad: 4.5,
+    precio: 4.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–14:00"
+    ],
+    viernes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "",
+  phone: "950 23 61 83",
+  review_count: 27,
+  review_rating: 4.5,
+  latitude: 36.842108,
+  longitude: -2.463467,
+  user_reviews: [
+    {
+      Name: "J Colo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLAuR7J57cGP9gaadRKuHr6IGHNn_6vtrtvcREun0VWdTYNDg=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Fui después del gimnasio,en camiseta y pantalón corto y un poco desarreglo, al preguntar sobre un modelo la encargada me dijo te muestro lo que hay y tu escoges ,me lo dijo de una manera borde,yo soy sanitario y tenía el presupuesto suficiente para que si me atendieran bien y me asesorarán de buena forma comprarlo,las apariencias engañan señora debería de atender a todos por igual .",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "FRANCISCO MONTALBAN PIÑEIRO",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJVcbOgM_0B4QaDwOXK4Qu7i50auhRggQM3GwWfL_0-l60H1w=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Fui para consultar si necesitaba gafas y la chica que me atendió me hizo una revisión completa. Un trato inmejorable, sin duda, si decido usar gafas, volveré allí a cualquier cosa que necesite.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jesús Aguilar Cortés",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocICsowoaykia0EqA8sOcYQ3SYXUmiiIK6ueF7ZfY_vwbc1IOg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Personalmente, la mejor óptica de Almería, por trato, atención, relación calidad precio...Isa es súper amable y una gran persona. Llevo unos 20 años de cliente.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Sara Garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWU-k0ldaXsBZK24pO6PEdWa4ujyh71NwVjSpx4-e1MUa_3r5Qm=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Llevo años yendo para encargar mis gafas y lentillas. Trato muy atento, profesional y amable.\nHe probado otras ópticas de Almería por tema de ubicación y ninguna ha dado con las lentillas que me van bien. Así que aunque me pilla un poco retirada, no me importa ir allí porque sé que me darán un buen servicio y a buen precio.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Fuensanta Lopez Perez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL9RwNdKhALEp4qxQzxZF-zedVUTag0hT3c133wJNoTjj4gKQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente profesional, para ella lo principal es la persona que esta atendiendo, sin prisas y con mucho agrado, gracias Isa por ser como eres, maravillosa",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana F",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJTnprguOtkjoRQ4R5xJTH8QZuehxOUc9hZHbJMqR8JVUE_pw=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Súper contenta,Isa es una máquina súper profesional,llevo años comprando mis lentillas allí y revisando mi graduación, desde 2014, 9 años van ya y tengo muy claro que no cambio por nada de óptica, para mí es la mejor de Almería. Además el trato siempre es fabuloso, si es que no puedo estar más contenta de verdad.\n\nMuchas gracias por todos estos años Isa, tú esfuerzo lo valoramos todos tus clientes.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose Manuel Castro Alarcón",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUp1xZZqAFOzK8W4izIpyp6eL48Jv1XiE4LPzxUyCkRGOozI4qd=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Isa es maravillosa. El trato y la profesionalidad son su bandera. Llevamos años siendo clientes y seguiremos acudiendo. Recomendable 100×100",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Javier García Álvarez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVhQ6xx-hC3BQgyYCObjiuuCSB63sUQdnRPTN-2hec3R_AHQ_nHjg=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Una mujer encantadora nos atendió y graduó la vista, hasta que entró en escena una señora que al parecer es la dueña y con muy malas formas nos dijo \"que le hacíamos perder el tiempo\" sin sentido alguno. Dejándonos en evidencia delante del resto de clientes presentes, nos vimos obligados a abandonar la tienda mientras ella se mostraba bien satisfecha.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Óptica y Centro Auditivo Soloptical Almería El Paseo",
+  category: "Óptica",
+  address: "P.º de Almería, 11, 04001 Almería",
+  description: "Por lo general, esta óptica es muy bien valorada por su excepcional trato y profesionalidad, con menciones especiales a la amabilidad de su personal, como Sara. Los usuarios también resaltan la gran variedad de modelos, marcas y calidades de lentes que ofrecen. Además, algunos han experimentado un servicio de atención al cliente muy bueno, incluso para tareas sencillas como atornillar gafas.",
+  serviceRatings: {
+    atencionCliente: 4.8,
+    profesionalidad: 4.9,
+    precio: 4.5,
+    variedad: 4.7
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–21:00"
+    ],
+    lunes: [
+      "9:30–21:00"
+    ],
+    martes: [
+      "9:30–21:00"
+    ],
+    miércoles: [
+      "9:30–21:00"
+    ],
+    sábado: [
+      "10:00–14:30",
+      "16:30–20:30"
+    ],
+    viernes: [
+      "9:30–21:00"
+    ]
+  },
+  website: "https://soloptical.net/es/soloptical-elpaseo/?utm_source=Google&utm_medium=google_my_business&utm_campaign=sitio+web",
+  phone: "638 80 85 27",
+  review_count: 821,
+  review_rating: 4.9,
+  latitude: 36.840452,
+  longitude: -2.463565,
+  user_reviews: [
+    {
+      Name: "raquel brotons",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXAKNUN-G9A2vhezrUIO_VbIHDr4fPKTuPI7QHV28OFnIKa5-RU=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excepcional trato y profesionalidad de todo el personal, en especial Sara, un verdadero encanto que te hace sentir que estás en las mejores manos. Además tienen gran variedad de modelos, marcas y de calidades de lentes.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "ANTONIO RODRIGUEZ HIDALGO",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI1WmX0fywro9uObuZp4dT6HvBNIGYiu0EC6LyT8h-yhGznqQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Personal atento y amable. Servicio de atención al cliente muy bueno. Fui a atornillar unas gafas y se portaron de maravilla.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Wally Radouane (DDJ - SOWEEO)",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXjgGexVKbym1YMHW8-5EZ525HF7MclkJU2IVIqvptYXMS-cmn8=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Hoy visité Soloptical en el Paseo de Almería para reparar mis gafas y tuve la suerte de ser atendido por Alejandro, el encargado. Me brindó una solución rápida y eficaz, y en muy poco tiempo tenía mis gafas perfectamente reparadas. Agradezco muchísimo su profesionalismo y excelente atención al cliente. ¡Un servicio de primera!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cristina De la tres",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLOJX_o2uAyBKOzNjQ2Zxy56J-ORFBty2EMZWb_DYs661w0Ug=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Ayer fui a la tienda de Paseo de Almería y he de decir que la atención de Patricia y Mercedes fue de 10. Patricia, no sólo me graduó, sino que lo hizo con mucha profesionalidad, paciencia conmigo y trabajo excelente. Además continuó con cambio de lentes en mis gafas en pocos minutos. Tanto Mercedes, que también me atendió, como Patricia se ven que saben hacer muy bien su trabajo. Volveré a esta óptica sin dudarlo. Me fui muy contenta y la recomendaré a amigos y familiares. Agradecida.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rafael Martinez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUZRGAjL37QV5NS7C52FIgBJTR7uhSP6QG3oOmBqLajK4OkFVcyVA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Es muy difícil hoy en día encontrar profesionales como está gente.\nNos habéis solucionado el problema,pero lo increíble es que ni siquiera nos han cobrado por su tiempo.\nGracias.mil gracias,os damos 5 estrellas por qué no hay más.\nGracias",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Carmen Cortes amate",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKcmDRJw5OfAwS4kP9oqf9Hf5Ahp4uTWvWMXzrM5qO_3e1PHw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Tenego que agradecer la atención de Javier, que sin ser clientes de ellos y sin tener cita, atendió a mis padres con mucha amabilidad, empatia y con mucha profesionalidad , resolviendo el problema. Excelente profesional.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juana Rodríguez Ruiz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJaLxaTFLbF1F9zyLOyGJulQItiqr4k3qMELcli4ANhcBZUgA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Hola g.muchidimas gracias siempre voy con vosotros soy de Girona y voy de vacaciones a Almería siempre voy al paseo ha comprarme las gafas mi marido y yo todos super amables .el lunes envié unas gafas que se me estropearon atendida por Sara super amable y el jueves ya las tenía arregladas y en Girona .un diez muchísimas gracias",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Sebastian Plaza Lirola",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLOEnkUHzL3Qc0xOh9KJibaaQE-TY_O8BYpc2XRl7rKmsd7rw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me atendió super bien Sara, muy amable y atenta al detalle para poder elegir las gafas perfectas para mí. Y su compi Patricia también genial",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Óptica ALMERIA",
+  category: "Óptica",
+  address: "C. Navarro Rodrigo, 28, BAJO, 04001 OPTICA, Almería",
+  description: "Esta óptica es reconocida por su gran profesionalidad, especialmente en el manejo de graduaciones complicadas, con algunos usuarios siendo clientes durante muchos años. Se destaca la capacidad de asesoramiento y la oferta de diferentes opciones de cristales. No obstante, existen algunas críticas puntuales sobre la atención en el servicio de audífonos y una experiencia negativa con una prueba de audífonos.",
+  serviceRatings: {
+    atencionCliente: 3.8,
+    profesionalidad: 4.6,
+    precio: 4.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "",
+  phone: "950 79 90 15",
+  review_count: 68,
+  review_rating: 4.7,
+  latitude: 36.839746,
+  longitude: -2.461192,
+  user_reviews: [
+    {
+      Name: "Ana Martin",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWPYrN0Qr61oN_fGZ2bU23PgpkxqGdS9NWbBaJythgOsun3vPMu=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Soy cliente desde que abrieron la optica, (unos 40 años) tengo una graduación muy complicada,  y son los únicos capaces de lograrla en unos cristales. Jamás me han fallado, mis gafas sólo las tocan ellos. Gracias por vuestra profesionalidad !!!.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lucas Scabuzzo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUBq8XTRU8T6Wi1KUV4g_ByerVIkcElrRHjJ-GY7asXNLw4Ymie=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Lo mejor es que se puede pagar con NFC Contactless o billetes",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Enrique Boss",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIBieXDRMG2mZT3yYj0fFfjWD4xeFnso1oom_bvmj7pXGm9xg=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Para audífonos, no es nada recomendable. En cuanto pasa la garantía, se niegan a hacer la más mínima reparación, aunque sea un simple cambio de carcasa. Dicen que la fábrica ya no lo repara, que está obsoleto... y es MENTIRA. He ido a otra óptica y me lo han enviado a la fábrica y arreglado sin problemas. Es vergonzoso, como tratan al cliente, solo quieren vender.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marina a",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJu2KBGeS6GUiT_u82QTGL8tG8plOsbRa0d0j56V5AtClQIxw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Súper profesionales. Llevo muchos años comprándome gafas y lentillas aquí, en concreto 10 años. Te asesoran lo mejor posible, te dicen las opciones que hay de cristales (más caros y baratos y características) y con toda la información, el cliente decide. A su vez, te avisan cuando el tipo de cristal (mi miopía es muy elevada) no se puede poner en ciertas monturas porque el cristal es demasiado grueso.\n\nTambién, cuando se me perdió una lentilla, me ofrecieron una gratuita y cuando les pedí una funda de gafas para mis gafas de sol, porque la que tenía se me perdió, también me dieron una funda totalmente gratuita.\n\nInspiran confianza y te resuelven cualquier imprevisto que surja sin problemas.\n\nGracias por vuestra profesionalidad.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Guillermo Montero",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX1xLZ6L5aAXc2Tv1IvdnN2nw1ykxBt7HGZVe0ltcsXe61ttL0=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "A mi madre se le rompieron las gafas estando de vacaciones y estabamos desesperados por poder encontrar una óptica en almería que tuviese las lentes especiales que ella necesita.\n\nNos atendieron estupendamente desde el primer momento y nos dieron unas nuevas gafas graduadas para ella. Además, casi a mitad de precio comparado con las ópticas de Madrid.\n\nSin duda la mejor óptica de almería. Profesionales y recomendables",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Fatima López Valls",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWepXiSDiq7MxJiFos8j3ERs3IvBApr5USeifiI7MHGeQKdVnJI=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Experiencia pésima! Pedimos unos audífonos para probarlos durante unas semanas (se suponía que la prueba era gratuita) y cuál fue la sorpresa que al devolverlos nos cobraron 100 euros con la excusa de que tuvieron que hacer un molde para ajustar el audífono. El caso es que en el momento que los cogimos para la prueba no nos mencionaron nada de esto ni que supondría un coste. Los audífonos eran para una persona mayor y creo que se han reido y aprovechado de ella. TRATO PÉSIMO!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ignacio David García Lopez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVz6dbrGEPS5lHmLZOwr5VFqiNoweXVuX-0aZFOkmE7jNQNISsavA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Tengo gafas suyas desde 23 años y no cambio.\nAmabilidad, profesionalidad y una gran cercanía con los clientes, lo cual se echa  de menos hoy en día en muchos comercios",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Christian Martínez Checa",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI63V-11dpBQuwRjJR-coe_ku9vG740gupX-oBRZyPvfvXK-A=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Estuve con problemas para que adaptarme a las lentillas por lo alta graduación y ellos han sido los únicos que me lo han solucionado en toda Almería, siempre los recomendaría. A destacar también el trato muy cercano.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Óptica & Audiología Zapillo",
+  category: "Óptica",
+  address: "C. Estadio, 65, 04007 Almería",
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:00"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://naturalopticsgroup.com/opticas/centro-optica-zapillo_almeria_3795.html",
+  phone: "634 48 98 97",
+  review_count: 121,
+  review_rating: 5,
+  latitude: 36.830064,
+  longitude: -2.449366,
+  user_reviews: [
+    {
+      Name: "Antonio García",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKHrwIJx7dtXhhmNviADO6xu1Vj-OsXR5X8bGkGcH03-1eJ1A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Un trato muy profesional y agradable, me han buscado la solución que necesito, unas gafas muy cómodas, buena relación calidad precio.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ma Camila Naranjo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI5YVzjEx21LbUJ0QfAh6V49lVPFEh7xBqWxW-l6_6wS7DyzT8=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Una vez fui porque a mis gafas se le cayó una de las varillas y era urgente porque sin ellas no veo, fueron los únicos que las arreglaron perfectamente el mismo día!! Me salvaron la vida 🥲 Y hace poco fui por un cambio de marco a mis gafas que estaban oxidadas y lo hicieron en menos de 40min la adaptación y recorte del lente a el nuevo marco encima son muy amables, no recuerdo el nombre del chico pero tiene una atención al cliente excelente. Muchas gracias!! Son mi Optica de confianza ahora!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Angeles Cervantes",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocID09IpAzb60CgAIcVyTljwnR_001T78JH6SBwBjQjcOT5R-Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Tienen un personal muy amable y sobre todo profesional, fui a que me arreglaran una patilla de las gafas y son muy económicos. Cien por cien recomendado!!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "pamela pacheco neri",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ2sgUkdigcCmGlgeN8pNZu9zdgUF_9JlLJCZKPIa-OM94LgA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente atención , las personas muy amables y atentos. Demasiada variedad de monturas y me solucionaron  el problema de mis gafas muy rápido . Recomendado !!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Uno más",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL7eMrj6U56We0keAqSh5yQ83M32kAc9uiObNs46MvjC-MSot4P=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Fui por un problema que tenía en unas gafas que ni había comprado allí (vengo de otra comunidad autónoma). Emilio se porto muy muy bien, con la calidez y espíritu servicial que hoy día no se ve. Fue sumamente razonable y amable. Totalmente recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maika hernandez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLXbPrMDTwx8yJ-eiSRLAXdfn2o3-BChhy2MbwFEc4VsWdBaw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Un gusto a ver conocido una óptica tan profesional atenta y cuidadosa con sus clientes pocos sitios quedan con el trato que te dan ellos. Recomendadisimos!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Aitana Izquierdo Muñoz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLS7bWm73ZjpuzLsAYTDUePDJnmyQXMmJ-N0s9T-hX6uFbMd2I=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "En otra óptica me graduaron mal unas gafas, ellos me las cambiaron y desde entonces voy siempre! Emilio es un encanto y siempre te recibe con una sonrisa súper familiar. Un 10!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ma Elena Solano Gómez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU7LdmZRJQWveYTJMw-YKDSW4JxxA_9RHDRaahBU9NklqoZN8A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "El establecimiento es en calidad precio ,es muy aconsejable para el ciudadano de pie, sobre todo por la amabilidad y el trato de los trabajadores, se adapta a cualquier necesidad de los clientes que entran por sus puertas , lo recomiendo al 💯 por 💯",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Óptica Paqui Martín Almería | Revisión de vista gratis, lentillas Orto-K y gafas progresivas",
+  category: "Óptica",
+  address: "Calle Rueda López, 16, 04004 Almería",
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://api.whatsapp.com/send?phone=+34630711652&text=Hola%20Paqui,%20estoy%20en%20la%20ficha%20de%20Google%20de%20%C3%93ptica%20Paqui%20Mart%C3%ADn%20y%20necesito%20m%C3%A1s%20informaci%C3%B3n.%20%C2%BFPodr%C3%ADas%20ayudarme?",
+  phone: "950 56 48 98",
+  review_count: 21,
+  review_rating: 5,
+  latitude: 36.837629,
+  longitude: -2.461665,
+  user_reviews: [
+    {
+      Name: "Marite Martin",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjURFd3hLLUoQ8TfY_UwqdIUMiACWrk0gkr0bxVrlBfI5LxIKem8=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Un placer la atención, el trato, el espacio.Los modelos de gafas preciosos, alegres y divertidos.Desde el primer momento te sientes escuchado ( que necesidad es la tuya) orientado ( te guía en la elección de modelo y cristales) y sientes que Paqui es una profesional que hace todo lo posible ( seguramente también haría lo imposible) para que cuando recojas tus gafas estas se adapten a  ti. Nos hemos hecho 2 gafas y con ganas de tres. De precios no hablo porque hay una amplia gama de modelos y calidades para satisfacernos a todos. Muy muy recomendable. Ah y le gustan los perros.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipPKXVjATTlZgKYrGsyzhwUh6GedAaKoFX98oNdX&fid=0x0:0x195610c4ec7c54d0"
+      ],
+      When: "2024-10-22"
+    },
+    {
+      Name: "Jvinoteca",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWrE6ngaOyGJRwRScfsTfmInZt46NqOhzFU6cKxP7J374na2CCQOg=s120-c-rp-mo-ba6-br100",
+      Rating: 5,
+      Description: "Me han hecho unas gafas, Maravillosas a un precio Buenísimo. La atención a sido increíble lo bien atendido y unos Profesionales de Primera. Ya tienen cliente para rato.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipOryp36xLMIW5VdHLZVR_zXkwayFo5ohwomiT6r&fid=0x0:0x195610c4ec7c54d0"
+      ],
+      When: "2023-11-15"
+    },
+    {
+      Name: "Mari Carmen López Plaza",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIJvzraJOyDeRbWz0doWV1KIGqvA8Pnu1XasZ9m4cH7EkMvxA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Javi: Mi experiencia con Ópticas Paqui Martín ha sido inmejorable. Tenía una urgencia y en 24 horas me dio una solución. Atención personal y profesional 100%. Os lo recomiendo...",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Nora Arcos Blasco",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIqgI9iJpTAB7gOu6mYvB-Ioc4z4iSioneSbxCdwjjp9kaHXA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Un trato maravilloso, tardaron muy poco en tener las gafas listas, y ¡estamos encantadas con las gafas! Sin duda volveremos pronto a por otras monturas :)",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Dani Poli",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLlIAUr5AESd-TqA0SiyN39CiSOrOklHAl6WDNFhzGv742KRw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buena atención. Además, tuve una urgencia y me lo solucionó super rápido.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Blanes Sherco",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVXkF-YMMiXrOu8rNeMCvJ1RDzFjftu7o-276vy5vEFMUTYI0p0Ag=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Todo perfecto, atención al cliente excepcional,muy profesional y a la vez super agradable,buenos precios y gafas muy bonitas y de buenas marcas",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipN8uXU1gUr279T7-DTutzwCmPgDduO1PzXbOJDx&fid=0x0:0x195610c4ec7c54d0"
+      ],
+      When: "2023-10-30"
+    },
+    {
+      Name: "M Inmaculada López",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWntkjL6xGCUGwYNjkWNy_HEHE9q2Xh6PuiL4CCMIRVofhGTKr9rA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Modelos chulísimos y Muy bien de precio, la dependienta un encanto y profesional. Recomiendo 100 %",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipPOwYRC_Xsh0aPWdnNAK7RjPvVzSH2DNH9T7a8s&fid=0x0:0x195610c4ec7c54d0"
+      ],
+      When: "2024-2-2"
+    },
+    {
+      Name: "inmaculada Fernandez terapiaconsulta",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUrsS4p0Lt8-9aFdbKKSooCYdUc4pt21hKbfv_kRyGDcHIbDDqH=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Óptica Paqui, es un lugar que te acoge desde el primer momento, Paqui es una excelente profesional que te asesora con mimo hasta dar con la gafa que se adapta mejor a ti, tomándose el tiempo necesario.\nEl precio muy bueno y la calidad inmejorable, que más se puede pedir.\nRecomiendo que vallais.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Óptica Alma",
+  category: "Óptica",
+  address: "Calle Dr. Gregorio Marañón, 46, 04005 Almería",
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–20:30"
+    ],
+    sábado: [
+      "10:00–14:00"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "16:00–20:30"
+    ]
+  },
+  website: "http://www.almaoptica.es/",
+  phone: "685 69 63 96",
+  review_count: 73,
+  review_rating: 4.9,
+  latitude: 36.837573,
+  longitude: -2.456291,
+  user_reviews: [
+    {
+      Name: "macarena gutierrez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJgH6iWsmf0YkQ4EsV_yjif7y9mTbANB1kABVF65J2nen840A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Super contenta con ellas! Fuimos muy preocupados con mi hijo y le han hecho un gran seguimiento hasta llegar al problema y solucionarlo. Muchísimas gracias por todo. Son muy profesionales y cariñosas con los niños.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Vanesa Fernandez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL2UeGuTARKCZGAgJAhMRoTMU1rZyrt3QsSnOkEpZipDof0sQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Agradezco el magnífico trato de los profesionales con formación que están detrás de Alma… llegamos con un problema específico, fuimos por recomendación de un amigo y aprecie el conocimiento y evaluación del problema tan personalizado. Además de cercanos! Recomendable al 100%.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "DAVID RODRIGUEZ DE AMUEDO",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWZpR6f3moAobQCWRp7bV3DDcQRDwlCvqwISKjtam23rgsHjY4=s120-c-rp-mo-ba3-br100",
+      Rating: 1,
+      Description: "Lamentablemente, no puedo recomendar esta óptica tras mi reciente experiencia. Desde el principio, me sorprendió el cobro de 30€ por la graduación, aunque decidí continuar con el servicio. Sin embargo, la atención y el servicio posterior dejaron mucho que desear.\n\nEn mi primera prueba con las lentillas, no podía ver correctamente, por lo que tuvieron que realizar varias pruebas de ensayo y error hasta que lograron encontrar la solución. Sin embargo, después de un tiempo, volví a tener problemas de visión, por lo que solicité un reajuste. Afortunadamente, me aseguraron amablemente que no me cobrarían nuevamente los 30€ por la graduación, lo cual aprecié, aunque me sorprendió que no se hubiera hecho correctamente desde el principio.\n\nEl verdadero inconveniente vino cuando fui a recoger las lentillas. Tuve que esperar más de media hora mientras observaba a la encargada abrir las cajas y retirar las pegatinas. Al final, me entregaron las lentillas en una simple bolsa de plástico, sin garantía ni información alguna sobre lo comprado. Esto me pareció completamente inapropiado, especialmente porque en otras ópticas se entregan con un empaque original, sin manipulación alguna, siempre preservando la calidad del producto.\n\nAdemás, los precios son considerablemente más altos que en otras ópticas de la zona, con una diferencia superior a los 40€ por un paquete de lentillas de tres meses del mismo producto.\n\nLa falta de profesionalidad en el servicio fue evidente a lo largo de todo el proceso. Si bien se me cobró por la graduación, no entendí por qué manipularon el producto de esta manera sin ofrecer la información básica que debería acompañar una compra de este tipo.\n\nExisten muchas otras ópticas en Almería que ofrecen un mejor servicio, más transparencia y precios más competitivos. Recomiendo considerar otras opciones antes de elegir esta.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "TRM",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ3TI8F94NmsQ-24HvVfEAiQ5nRKRLTwjFsIk9tRAhOeK8kOg=s120-c-rp-mo-ba7-br100",
+      Rating: 5,
+      Description: "Trato exquisito. Te hacen pruebas que no te hacen todas las ópticas. Tienen una gran variedad de gafas de vista como de sol",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipPbxw8MFuo0I0qWwAYui0aNS7uP7EQHAEFUl24g&fid=0x0:0x3dd15e938f987a59"
+      ],
+      When: "2024-1-18"
+    },
+    {
+      Name: "Josefa López Teruel",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXCzp_N4aJWWTNaZn0-H15vl9yQYMPT6xDLVZdMKPIqlaohA5kO=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "🤗 Siempre amables, súper profesionales y con claridad resolviendo cualquier duda. Hacen todo lo posible por conocer bien al cliente y se comprometen con lo que se habla, por lo que el resultado del servicio es impecable. Se agradece encontrar un verdadero trato personal, cosa que hoy día es muy raro encontrar.\n\n🤓 Muy contenta con las gafas compradas, de vista y de sol graduadas: En su precio y, por supuesto, su calidad. Con variedad en monturas, cristales con extras interesantes si es lo que buscas y precios entre los que elegir. 👍🏻\n\n🏆 Poseen un plus frente a otras ópticas: Las Terapias Visuales. Por propia experiencia sé que es una gran ayuda para mejorar la salud ocular. Lograr acabar sin vista borrosa tras un día intenso con el ordenador es todo un alivio. 🎉",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Enrique Carmona",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVAZNjte8hAQbjY3dhLy3JvwvwuFHx_EQOw44NpEUvL0io8zNyt=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Atención inmejorable, grandes profesionales. Acudí tras perder mis gafas y en menos de 24h ya tenía las nuevas ; Me realizaron exploración y graduación detenidamente. Mucha variedad de monturas y además relación calidad precio muy buena. Sin duda recomiendo este centro. MIL GRACIAS !!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lucía Álvarez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJYud50qboFIjz5k9-ko8fI56irE5Wy32nb-XjzR7XHvmpZ_w=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato exquisito tanto por Marina como por Francesca. Fui por una urgencia y me atendieron rapidísimo ofreciéndome la solución y explicándome todo. Se agradece. Sin duda un lugar para volver. Gracias!!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alba",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWCPfCCiTqt1Lo2cHytLeNFQ9mSfSVzMQlG5uMjQ3E9Rr4G00x8=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Estoy encantada con esta óptica.\nNecesitaba unas lentillas de noche que me corrigieran la vista para pasar las pruebas médicas de una oposición y contaba con muy poco tiempo. Desde la primera llamada, el trato y la implicación por parte de Marina y sus compañeros fue increíble. Entendieron mi situación y se comprometieron al 100% con mi caso. Estuvieron pendientes en todo momento, me explicaron el proceso de forma clara y al detalle, y pusieron todos los medios necesarios para que todo saliese bien a pesar de la poca antelación con la que los avisé. Y así fué, las lentillas funcionan de maravilla y he podido pasar las pruebas sin problema. Destacar además de su profesionalidad, el trato tan cercano y el cariño con el que trabajan, lo que sin duda marca la diferencia con muchas otras ópticas a las que he acudido con anterioridad. No se conforman con venderte unas lentes,  si no que se molestan en conocer a cada cliente y en adaptarse a sus necesidades,  personalmente me ha impresionado mucho la forma tan minuciosa y perfeccionista que tienen de trabajar. En conclusión, nunca me cansaré de recomendar este sitio, se ha convertido sin duda en mi óptica de confianza. MUCHAS GRACIAS POR TODO❤",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Óptica Maeso",
+  category: "Óptica",
+  address: "C. Granada, 1, 04003 Almería",
+  description: "Generalmente, esta óptica recibe valoraciones muy positivas por su trato atento y profesional, destacando la amabilidad de su personal, especialmente de Isa. Los usuarios mencionan una buena relación calidad-precio y algunos llevan siendo clientes durante muchos años. Sin embargo, se observa una crítica puntual sobre una atención percibida como borde en una ocasión.",
+  serviceRatings: {
+    atencionCliente: 4.0,
+    profesionalidad: 4.5,
+    precio: 4.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–14:00"
+    ],
+    viernes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "",
+  phone: "950 23 61 83",
+  review_count: 27,
+  review_rating: 4.5,
+  latitude: 36.842108,
+  longitude: -2.463467,
+  user_reviews: [
+    {
+      Name: "J Colo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLAuR7J57cGP9gaadRKuHr6IGHNn_6vtrtvcREun0VWdTYNDg=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Fui después del gimnasio,en camiseta y pantalón corto y un poco desarreglo, al preguntar sobre un modelo la encargada me dijo te muestro lo que hay y tu escoges ,me lo dijo de una manera borde,yo soy sanitario y tenía el presupuesto suficiente para que si me atendieran bien y me asesorarán de buena forma comprarlo,las apariencias engañan señora debería de atender a todos por igual .",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "FRANCISCO MONTALBAN PIÑEIRO",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJVcbOgM_0B4QaDwOXK4Qu7i50auhRggQM3GwWfL_0-l60H1w=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Fui para consultar si necesitaba gafas y la chica que me atendió me hizo una revisión completa. Un trato inmejorable, sin duda, si decido usar gafas, volveré allí a cualquier cosa que necesite.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jesús Aguilar Cortés",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocICsowoaykia0EqA8sOcYQ3SYXUmiiIK6ueF7ZfY_vwbc1IOg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Personalmente, la mejor óptica de Almería, por trato, atención, relación calidad precio...Isa es súper amable y una gran persona. Llevo unos 20 años de cliente.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Sara Garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWU-k0ldaXsBZK24pO6PEdWa4ujyh71NwVjSpx4-e1MUa_3r5Qm=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Llevo años yendo para encargar mis gafas y lentillas. Trato muy atento, profesional y amable.\nHe probado otras ópticas de Almería por tema de ubicación y ninguna ha dado con las lentillas que me van bien. Así que aunque me pilla un poco retirada, no me importa ir allí porque sé que me darán un buen servicio y a buen precio.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Fuensanta Lopez Perez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL9RwNdKhALEp4qxQzxZF-zedVUTag0hT3c133wJNoTjj4gKQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente profesional, para ella lo principal es la persona que esta atendiendo, sin prisas y con mucho agrado, gracias Isa por ser como eres, maravillosa",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana F",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJTnprguOtkjoRQ4R5xJTH8QZuehxOUc9hZHbJMqR8JVUE_pw=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Súper contenta,Isa es una máquina súper profesional,llevo años comprando mis lentillas allí y revisando mi graduación, desde 2014, 9 años van ya y tengo muy claro que no cambio por nada de óptica, para mí es la mejor de Almería. Además el trato siempre es fabuloso, si es que no puedo estar más contenta de verdad.\n\nMuchas gracias por todos estos años Isa, tú esfuerzo lo valoramos todos tus clientes.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose Manuel Castro Alarcón",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUp1xZZqAFOzK8W4izIpyp6eL48Jv1XiE4LPzxUyCkRGOozI4qd=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Isa es maravillosa. El trato y la profesionalidad son su bandera. Llevamos años siendo clientes y seguiremos acudiendo. Recomendable 100×100",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Javier García Álvarez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVhQ6xx-hC3BQgyYCObjiuuCSB63sUQdnRPTN-2hec3R_AHQ_nHjg=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Una mujer encantadora nos atendió y graduó la vista, hasta que entró en escena una señora que al parecer es la dueña y con muy malas formas nos dijo \"que le hacíamos perder el tiempo\" sin sentido alguno. Dejándonos en evidencia delante del resto de clientes presentes, nos vimos obligados a abandonar la tienda mientras ella se mostraba bien satisfecha.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Óptica y Centro Auditivo Soloptical Almería El Paseo",
+  category: "Óptica",
+  address: "P.º de Almería, 11, 04001 Almería",
+  description: "Por lo general, esta óptica es muy bien valorada por su excepcional trato y profesionalidad, con menciones especiales a la amabilidad de su personal, como Sara. Los usuarios también resaltan la gran variedad de modelos, marcas y calidades de lentes que ofrecen. Además, algunos han experimentado un servicio de atención al cliente muy bueno, incluso para tareas sencillas como atornillar gafas.",
+  serviceRatings: {
+    atencionCliente: 4.8,
+    profesionalidad: 4.9,
+    precio: 4.5,
+    variedad: 4.7
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–21:00"
+    ],
+    lunes: [
+      "9:30–21:00"
+    ],
+    martes: [
+      "9:30–21:00"
+    ],
+    miércoles: [
+      "9:30–21:00"
+    ],
+    sábado: [
+      "10:00–14:30",
+      "16:30–20:30"
+    ],
+    viernes: [
+      "9:30–21:00"
+    ]
+  },
+  website: "https://soloptical.net/es/soloptical-elpaseo/?utm_source=Google&utm_medium=google_my_business&utm_campaign=sitio+web",
+  phone: "638 80 85 27",
+  review_count: 821,
+  review_rating: 4.9,
+  latitude: 36.840452,
+  longitude: -2.463565,
+  user_reviews: [
+    {
+      Name: "raquel brotons",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXAKNUN-G9A2vhezrUIO_VbIHDr4fPKTuPI7QHV28OFnIKa5-RU=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excepcional trato y profesionalidad de todo el personal, en especial Sara, un verdadero encanto que te hace sentir que estás en las mejores manos. Además tienen gran variedad de modelos, marcas y de calidades de lentes.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "ANTONIO RODRIGUEZ HIDALGO",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI1WmX0fywro9uObuZp4dT6HvBNIGYiu0EC6LyT8h-yhGznqQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Personal atento y amable. Servicio de atención al cliente muy bueno. Fui a atornillar unas gafas y se portaron de maravilla.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Wally Radouane (DDJ - SOWEEO)",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXjgGexVKbym1YMHW8-5EZ525HF7MclkJU2IVIqvptYXMS-cmn8=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Hoy visité Soloptical en el Paseo de Almería para reparar mis gafas y tuve la suerte de ser atendido por Alejandro, el encargado. Me brindó una solución rápida y eficaz, y en muy poco tiempo tenía mis gafas perfectamente reparadas. Agradezco muchísimo su profesionalismo y excelente atención al cliente. ¡Un servicio de primera!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cristina De la tres",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLOJX_o2uAyBKOzNjQ2Zxy56J-ORFBty2EMZWb_DYs661w0Ug=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Ayer fui a la tienda de Paseo de Almería y he de decir que la atención de Patricia y Mercedes fue de 10. Patricia, no sólo me graduó, sino que lo hizo con mucha profesionalidad, paciencia conmigo y trabajo excelente. Además continuó con cambio de lentes en mis gafas en pocos minutos. Tanto Mercedes, que también me atendió, como Patricia se ven que saben hacer muy bien su trabajo. Volveré a esta óptica sin dudarlo. Me fui muy contenta y la recomendaré a amigos y familiares. Agradecida.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rafael Martinez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUZRGAjL37QV5NS7C52FIgBJTR7uhSP6QG3oOmBqLajK4OkFVcyVA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Es muy difícil hoy en día encontrar profesionales como está gente.\nNos habéis solucionado el problema,pero lo increíble es que ni siquiera nos han cobrado por su tiempo.\nGracias.mil gracias,os damos 5 estrellas por qué no hay más.\nGracias",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Carmen Cortes amate",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKcmDRJw5OfAwS4kP9oqf9Hf5Ahp4uTWvWMXzrM5qO_3e1PHw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Tenego que agradecer la atención de Javier, que sin ser clientes de ellos y sin tener cita, atendió a mis padres con mucha amabilidad, empatia y con mucha profesionalidad , resolviendo el problema. Excelente profesional.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juana Rodríguez Ruiz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJaLxaTFLbF1F9zyLOyGJulQItiqr4k3qMELcli4ANhcBZUgA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Hola g.muchidimas gracias siempre voy con vosotros soy de Girona y voy de vacaciones a Almería siempre voy al paseo ha comprarme las gafas mi marido y yo todos super amables .el lunes envié unas gafas que se me estropearon atendida por Sara super amable y el jueves ya las tenía arregladas y en Girona .un diez muchísimas gracias",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Sebastian Plaza Lirola",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLOEnkUHzL3Qc0xOh9KJibaaQE-TY_O8BYpc2XRl7rKmsd7rw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me atendió super bien Sara, muy amable y atenta al detalle para poder elegir las gafas perfectas para mí. Y su compi Patricia también genial",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Óptica ALMERIA",
+  category: "Óptica",
+  address: "C. Navarro Rodrigo, 28, BAJO, 04001 OPTICA, Almería",
+  description: "Esta óptica es reconocida por su gran profesionalidad, especialmente en el manejo de graduaciones complicadas, con algunos usuarios siendo clientes durante muchos años. Se destaca la capacidad de asesoramiento y la oferta de diferentes opciones de cristales. No obstante, existen algunas críticas puntuales sobre la atención en el servicio de audífonos y una experiencia negativa con una prueba de audífonos.",
+  serviceRatings: {
+    atencionCliente: 3.8,
+    profesionalidad: 4.6,
+    precio: 4.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "",
+  phone: "950 79 90 15",
+  review_count: 68,
+  review_rating: 4.7,
+  latitude: 36.839746,
+  longitude: -2.461192,
+  user_reviews: [
+    {
+      Name: "Ana Martin",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWPYrN0Qr61oN_fGZ2bU23PgpkxqGdS9NWbBaJythgOsun3vPMu=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Soy cliente desde que abrieron la optica, (unos 40 años) tengo una graduación muy complicada,  y son los únicos capaces de lograrla en unos cristales. Jamás me han fallado, mis gafas sólo las tocan ellos. Gracias por vuestra profesionalidad !!!.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lucas Scabuzzo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUBq8XTRU8T6Wi1KUV4g_ByerVIkcElrRHjJ-GY7asXNLw4Ymie=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Lo mejor es que se puede pagar con NFC Contactless o billetes",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Enrique Boss",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIBieXDRMG2mZT3yYj0fFfjWD4xeFnso1oom_bvmj7pXGm9xg=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Para audífonos, no es nada recomendable. En cuanto pasa la garantía, se niegan a hacer la más mínima reparación, aunque sea un simple cambio de carcasa. Dicen que la fábrica ya no lo repara, que está obsoleto... y es MENTIRA. He ido a otra óptica y me lo han enviado a la fábrica y arreglado sin problemas. Es vergonzoso, como tratan al cliente, solo quieren vender.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marina a",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJu2KBGeS6GUiT_u82QTGL8tG8plOsbRa0d0j56V5AtClQIxw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Súper profesionales. Llevo muchos años comprándome gafas y lentillas aquí, en concreto 10 años. Te asesoran lo mejor posible, te dicen las opciones que hay de cristales (más caros y baratos y características) y con toda la información, el cliente decide. A su vez, te avisan cuando el tipo de cristal (mi miopía es muy elevada) no se puede poner en ciertas monturas porque el cristal es demasiado grueso.\n\nTambién, cuando se me perdió una lentilla, me ofrecieron una gratuita y cuando les pedí una funda de gafas para mis gafas de sol, porque la que tenía se me perdió, también me dieron una funda totalmente gratuita.\n\nInspiran confianza y te resuelven cualquier imprevisto que surja sin problemas.\n\nGracias por vuestra profesionalidad.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Guillermo Montero",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX1xLZ6L5aAXc2Tv1IvdnN2nw1ykxBt7HGZVe0ltcsXe61ttL0=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "A mi madre se le rompieron las gafas estando de vacaciones y estabamos desesperados por poder encontrar una óptica en almería que tuviese las lentes especiales que ella necesita.\n\nNos atendieron estupendamente desde el primer momento y nos dieron unas nuevas gafas graduadas para ella. Además, casi a mitad de precio comparado con las ópticas de Madrid.\n\nSin duda la mejor óptica de almería. Profesionales y recomendables",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Fatima López Valls",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWepXiSDiq7MxJiFos8j3ERs3IvBApr5USeifiI7MHGeQKdVnJI=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Experiencia pésima! Pedimos unos audífonos para probarlos durante unas semanas (se suponía que la prueba era gratuita) y cuál fue la sorpresa que al devolverlos nos cobraron 100 euros con la excusa de que tuvieron que hacer un molde para ajustar el audífono. El caso es que en el momento que los cogimos para la prueba no nos mencionaron nada de esto ni que supondría un coste. Los audífonos eran para una persona mayor y creo que se han reido y aprovechado de ella. TRATO PÉSIMO!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ignacio David García Lopez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVz6dbrGEPS5lHmLZOwr5VFqiNoweXVuX-0aZFOkmE7jNQNISsavA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Tengo gafas suyas desde 23 años y no cambio.\nAmabilidad, profesionalidad y una gran cercanía con los clientes, lo cual se echa  de menos hoy en día en muchos comercios",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Christian Martínez Checa",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI63V-11dpBQuwRjJR-coe_ku9vG740gupX-oBRZyPvfvXK-A=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Estuve con problemas para que adaptarme a las lentillas por lo alta graduación y ellos han sido los únicos que me lo han solucionado en toda Almería, siempre los recomendaría. A destacar también el trato muy cercano.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Óptica Santa Rita",
+  category: "Óptica",
+  address: "C. Juan Lirola, 36, 04004 Almería",
+  description: "Esta óptica se caracteriza por su excelente atención al cliente y un personal atento que ofrece un trato personalizado. Los usuarios han encontrado el asesoramiento muy bueno, lo que les ha llevado a realizar compras satisfactorias. El personal es descrito como amable y profesional.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.0,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "9:30–13:30"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://www.innovaopticas.es/",
+  phone: "950 27 02 20",
+  review_count: 75,
+  review_rating: 5,
+  latitude: 36.84208,
+  longitude: -2.460322,
+  user_reviews: [
+    {
+      Name: "Macarena Martignone",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocInYYwxhCjHHQM9rL9-BMCMsLX0VFDwfJ2HGlDBa9DMoHbcOA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Estaba interesada en unas gafas de sol Parada.\nGracias al asesoramiento estupendo y la simpatía del personal con la que fui atendida; sin duda  compré las ideales para mí.\nTuve una atención personalizada y un trato inmejorable, obviamente repetiré!!!",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipM3thmQhe9sEcNaaczZII5N6HjqmrATO2gqT1aZ&fid=0x0:0xf0ae96961172ca28"
+      ],
+      When: "2024-4-16"
+    },
+    {
+      Name: "Ana D.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVxS9e-7DV4OZkaRFbpurU3hu3IA7XYTJyxSiQhh8NtLoS8UaYG=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Hace más de un año que elegí esta óptica para el cuidado de la vista y ojos de la familia. No suelo escribir reseñas pero tenia que hacerlo, por si es de ayuda a alguien más . Hemos encontrado un trato muy profesional y a la vez muy personal . En mi caso, incluso me han resuelto un problema que no había detectado mi oftalmólogo. En el de mi hija, ha sido muy bien orientada en el producto que más le convenía a ella por su condición, incluso siendo el que menos beneficios le reporta a la óptica. Totalmente recomendables Luisa e Irene.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "francisco sebastian rodriguez hernandez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUjs5HdSukzeXyZ3UFC82u2FOcqRyAhWv7ppwyKMuJVgflhgGwM-Q=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Me an tratado muy bien, me voltearon los ojos cosa que nunca me habían hecho en ningún sitio, para ver cómo los tenía, un trato muy cercano y amigable, les doy la máxima puntuación, buen trabajo!!!...",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "inmaculada aguila",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW6o779tp76wXN1fWcENvLqmuoBWuVomZeaFJAfxESWgHtPtsbw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Nos la recomendó un amigo y le tengo q dar las gracias pq la experiencia ya sido muy buena.. atención excepcional y muy profesionales",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cristina Romera",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIGEOwxNowLFsQuJnMDO4C_OMGL3A11cNCt-tiR96cC5EXZYA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Grandes profesionales, me han atendido con gran amabilidad y agrado, se nota que cuidan de sus clientes, asesoramiento perfecto, precios bastante asequibles",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Carlos Javier Pérez Sanchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVejXo9ACzhxWFeVr_m0chzSQ9GyvknWqv7wldy9fN-tzmEHGH_=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Es la mejor óptica de Almería; tanto por la calidad y precio de sus productos como por amabilidad y profesionalidad del personal.\n\nSiempre saben adaptarse  a tus necesidades ofreciéndote  la solución más adecuada, con una sonrisa y mucha profesionalidad.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Shey Cada",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK_5_fw_VfYZqfRvihOpGmmVTs4jMnm1uw02jcFDY97J6hr_Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Grandes profesionales en el sector, nunca hemos tenido ningún problema. Estamos satisfechos con el trato que nos dan siempre que vamos, ópticos muy atentos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "M. Elena Simon",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVUIwVG7z69Cuy6oLY1z2POzpYS3ZOW2AvRpURp9Lw_WfAVit4V=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Encantada con el servicio en esta óptica, ya he ido varias veces, algunas por mi y otras acompañando a algún familiar, y siempre nos han atendido de manera inmejorable, me encanta que cuando entras al gabinete no sólo sea para graduarte la vista y ala, a intentar venderte una gafa, sino que te hacen varios estudios y te sacan hasta si tienes algún tipo de alergia o si necesitas un lápiz de ojos menos graso, cosas de las que ellos no sacan beneficio pero tu te sientes bien atendido. Se nota que la optometrista es una profesional, además de ser un encanto. Los precios son muy asequibles, tienes bastantes opciones en función de lo que te quieras gastar. Sin duda es mi óptica de referencia.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Multiópticas",
+  category: "Óptica",
+  address: "Av. del Mediterráneo, 400, 04009 Almería",
+  description: "Este establecimiento recibe grandes elogios por su excepcional atención al cliente, con un personal descrito como servicial y amable, incluso con clientes indecisos. Los exámenes de la vista son exhaustivos. Aunque una reseña menciona una experiencia negativa con graduaciones incorrectas y problemas de atención al cliente, la mayoría de las opiniones destacan los buenos precios y una amplia variedad de opciones disponibles.",
+  serviceRatings: {
+    atencionCliente: 4.5,
+    profesionalidad: 4.0,
+    precio: 4.5,
+    variedad: 4.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:00"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://www.multiopticas.com/es/home",
+  phone: "950 53 09 50",
+  review_count: 40,
+  review_rating: 4.8,
+  latitude: 36.85192,
+  longitude: -2.446093,
+  user_reviews: [
+    {
+      Name: "Nerea Perez Diaz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocISzW4di5yMqTWZYejBDzQxdceJBwEJ_lit-WSlEq5kcbCJrg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "10 de 10. No suelo poner reseñas, pero tengo que destacar lo bien que se han portado conmigo. Soy una persona súper indecisa, fui hasta en 3 ocasiones dudando de qué gafas cogerme y en todo momento me ayudaron, me asesoraron y no me pusieron ninguna pega.\nFueron 3 chicas diferentes las que me atendieron según el día y las 3 fueron maravillosas. Además la chica que me graduó fue súper amable conmigo y la graduación fue súper completa. No puedo estar más contenta con esta óptica, un trato excepcional, buen precio y mucha variedad.\nEstoy a la espera de recibir las gafas, pero conmigo habéis ganado ya una clienta de por vida.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cristina Castro Carrique",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLTuKBKqzIw8dMJNalmsCUrc5YUYywqpdyzRJPbdqniZjycRA=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Experiencia nefasta, en primer lugar el primer día de mi visita me graduaron, solicitaron gafas y lentillas derivandome al oftalmológo por una tensión alta supuestamente, cuando me llegan las gafas noto que me mareo que no veo bien de cerca y su respuesta es que tengo que adaptarme, acudo a un oftalmológo privado y me informa de que me han graduado mal, acudo y me hacen volver a las horas para comprobarlo finalmente me cambian cristales y lentillas.\n\nAcudo a las lentillas y me ponen pegas para enseñarme a ponerlas finalmente por ver incompatibilidad de horarios me enseñan me voy con el ojo molesto y vuelvo al día siguiente diciendo mi molestia en uno de los ojos y de nuevo me ponen pegas y me mandan a casa sin ayudarme y me hacen venir otro día.\n\nUna atención al cliente pésima por parte de todas las personas que me han atendido no ayudando al cliente ni resolviendo los problemas de forma rápida ni eficaz sin duda cuando termine este proceso no volveré a esta óptica.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria Alonsi",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXcw5awFAbc5J73yisIF0T66OO1tXQNArIo9U_eHV_cLI1vtmAL5g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Se ha convertido en mi óptica de confianza, la marca Mó de gafas está fenomenal en cuanto a variedad de modelos, colores etc....pero si algo he de valorar son la atención de Ketty y Laura maravillosas un trato inmejorable volveré sin lugar a duda",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Sunk Devifull",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXEGBru-cyGwitZung7Zn2F1EvMjYVG_u9W7XNp5IaWAOWYw9xM=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Amén de que sea una franquicia y, a expensas de que las gafas salgan buenas o no, el trato es excelente y la tienda está limpia y tiene muy buen aspecto. Mención especial a Adrián, gracias por la atención.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rocío Fc",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJNx2WLO-c_jhbtZVoqkJcl9A1DOj-OXiYgv3PX5ZSTPLXGvg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Un trato excelente por parte de los trabajadores, todos muy simpáticos.\nTe hacen todo tipo de pruebas, en mi caso me graduaron, me aconsejaron sobre mis gafas de ver y de sol y me realizaron un fondo de ojo como también me midieron la tensión. Quisiera hacer una especial mención a Almudena situada en Avda. Del Mediterráneo por su profesionalidad y genial trato a la hora de aconsejarme en las gafas y en las pruebas realizadas. Tienen gafas súper actuales y modernas como buenas instalaciones. Lo recomiendo 100%.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose Francisco Lopez Nuñez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW-0jTYn9CkiBYjuAcQSL2dZdsxiJjCVw4Ck_JYR0n3knecNlDh=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Buen trato y gafas baratas. Exactamente lo que iba buscando. Repetiré cuando se le rompan.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipPLXoYfAs0gtNiyULnLOUonk_VsekJ9KviACG3R&fid=0x0:0x595bb2c6360530c4"
+      ],
+      When: "2018-11-19"
+    },
+    {
+      Name: "Ramón Miguel Martínez Vera",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVavbRJ0G-ucn80TgQ_tBIWGTkPjNr48eTLvbwjqq71HWYAdhg0=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Un trato excelente, recientemente me he hechos dos gafas con ellos y estoy muy satisfecho. Volveré pronto, gracias.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rafael Granados Diaz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKOiyz5zOlLGdf72LIbR0bDORumU4IJFYsgZU7QSTq-8UtyFQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Magnifica atencion.\nLa atencion y profesionalidad del personal muy muy buena.\nEn mi caso por rotura de las anteriores necesitaba reponerlas con urgencia y el personal lo gestiono de manera increible.\nSin duda volvere y recomendado 100%.\nAsi da gusto y te ayuda a no tener la mas minima duda.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Alain Afflelou Óptico y Audiólogo Calle Navarro Rodrigo, Almería",
+  category: "Óptica",
+  address: "C/Navarro Rodrigo, 30 esq, C. Rbla. Obispo Orberá, 34, 04001 Almería",
+  description: "Este óptico y audiólogo es muy apreciado por su personal amable, atento y profesional, especialmente en los servicios de oftalmología y audiología. Los usuarios valoran el servicio exhaustivo, incluyendo pruebas gratuitas de audífonos con citas semanales de adaptación. El personal destaca por ser honesto, servicial y por su excelente atención al cliente. Los precios se consideran buenos y el sistema de citas es eficiente.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://www.afflelou.es/opticas/almeria/afflelou-c-navarro-rodrigo-30-esq-rambla-obispo-orbera-34-04001?utm_campaign=gmb&utm_medium=organic&utm_source=google_gmb",
+  phone: "950 80 19 09",
+  review_count: 119,
+  review_rating: 4.9,
+  latitude: 36.840135,
+  longitude: -2.461544,
+  user_reviews: [
+    {
+      Name: "Jeronimo Sanchez Moliner",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIpoDKyCHwfpsH4ZwoAqiFeocF-32i5kzQFQNQUEenOBhml=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me ha atendido Ana muy bien, muy amable, agradable, atenta y muy profesional.\nHe probado los audifonos gratis durante un mes, con citas semanales para su adaptacion. Contento con los audifonos, los he comprado y me van muy bien. Gracias.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cristina Amorós Alcaraz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUB6sYcQyLXILxKmL3nsYiOPZsj6YF3wt8NKjwNjO5I4BmbfJh9=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "¡Encantadas! Fuimos mi abuela y yo a por unos aparatos para el oído y nos atendieron super bien, todas muy profesionales, a nosotras nos atendió Ana y estamos encantadas, muy amable, atenta y agradable y sobretodo muy profesional. Buen precio, muy buena atención y contentas con los audífonos ¡Gracias!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "FRANCISCO VERDEGAY",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVvVlPZldFJSz4hPfiUPn-olzwV7_izUeBqHHzy8LNj6-LG-Vqk=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Destaco especialmente la amabilidad y profesionalidad, tanto en oftalmología como en audiología (Ana)",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipORqErMxY0F-EgPhwafOiYKZKYAiqRz_VkMxfQ1&fid=0x0:0x852240cfc91c99c7"
+      ],
+      When: "2024-10-21"
+    },
+    {
+      Name: "Carina Saratean",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW8IRVMyX6pGNUbJ7nosRa-YLxMNgxcL6g6C7yB0zuY4nz1nKqLQg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "En nuestro caso, estamos encantados con el servicio y atención por parte de la profesional de audiología Ana.\nPersona honesta y atenta, que te hace sentir como en casa y te explica las veces que sean necesarias todo lo referente a su ámbito.\nRecalcar que nos decidimos a probarlo porque ofrecían un mes gratis. Finalmente realizamos la compra  y nos sentimos bastante acompañados en todo momento.\n\nTambién me parece importante a recalcar el buen sistema de citación del que disponen. Es muy fácil pedir cita y estar siempre en contacto con la propia tienda.\n\nMil gracias, ojalá todos los profesionales tuvieran tantísima calidad humana como tú, Ana.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pili Martinez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIayHAKyntzddyjkB-Cs3brRJ9enQPwxRFuvrAxNjRpgKg-qQ=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Las chicas que nos han atendido,tanto para hacer unas gafas como para unos tapones, han sido muy amables, hemos recibido un trato muy cercano y han sido de gran ayuda. Hemos tenido una experiencia muy buena. Sin duda, volveremos y lo recomendaremos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Encarnación Covadonga Caro Martínez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXTN7uDyWksbSuxLOjsuuz2V4tU3X8o7C3dX3TQ5W6RtY1IBeNF=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Compré mis gafas hace 1año y me atendieron de maravilla,me asesoraron muy bien,el personal fue encantador, un año después vengo a que me ajusten las gafas y recibo el mismo trato profesional y cercano,las empleadas son un cielo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Monica Moreno",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIIiPK8rVwfCES9jZWmFwZDa2DOZ5XiSuoh3v3WjrUbo6aZjw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "En mi caso estamos encantados a mí marido le a cambiado la vida, ana murcia se yama la chica que nos atendio  en obispo orbera Almería centro y es súper  encantadora te atiende muy bien y le va genial su aparato de audición. Cada x tiempo se toma la molestia de preguntar por el y le da cita para revisiones .estamos en cantados . Muy bien le doy un 10",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Agustina Solis",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKPokyEHN1GKoJzeBZd1ehW8eCgrbGRzxwNKEVE0ZHsgh2e3A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Envíe a mi madre para una prueba auditiva, los audífonos, la atención telefónica y presencial por la auditologa Ana han sido inmejorables. Un 10 en trato humano y máxima profesionalidad explicando la función de los audífonos y transmitiendo confianza. Recomendable!",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "General Optica - Visión y Audición",
+  category: "Óptica",
+  address: "P.º de Almería, 51, 04001 Almería",
+  description: "Este establecimiento es elogiado por su servicio excelente y eficiente, destacando especialmente la amabilidad y profesionalidad del personal tanto en el departamento de óptica como en el de audiología. Los usuarios aprecian el ambiente amigable y la disponibilidad de una amplia gama de monturas y cristales a diferentes precios, incluyendo buenas ofertas y opciones de financiación. Una reseña menciona una experiencia negativa con largos tiempos de espera y problemas con la programación de citas.",
+  serviceRatings: {
+    atencionCliente: 4.5,
+    profesionalidad: 4.5,
+    precio: 4.0,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "16:30–20:30"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "16:30–20:30"
+    ],
+    martes: [
+      "9:30–13:30",
+      "16:30–20:30"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "16:30–20:30"
+    ],
+    sábado: [
+      "9:30–13:30"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "16:30–20:30"
+    ]
+  },
+  website: "https://www.generaloptica.es/es/?utm_source=gmb&utm_medium=organic&utm_campaign=Almeria&utm_term=1098",
+  phone: "950 26 15 43",
+  review_count: 78,
+  review_rating: 4.5,
+  latitude: 36.837929,
+  longitude: -2.463088,
+  user_reviews: [
+    {
+      Name: "FERNANDO Fernando",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKfn9m_yYez7ev90uFoUyevkNmq2k2V7VDT8otZGqvZIJZgzg=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "La dirección la lleva Isabel. Es eficiente ,resolutiva,  sería y además alegre, la verdad de 10!! Yo soy cliente de audífonos y siempre estuve con otra empresa , (compre con ellos y claro hasta q no me sirvieron más ,los aparatos antiguos, pues estuve vinculado a ellos por obligación) por suerte se me rompieron los aparatos viejos y vine aquí al Paseo de Almería a General Optica .Di con mi audioprotesista de confianza , se llama Ana ,me estudio, me indico lo q debía comprar y después de 5 años  estoy muy agradecido a Ana , es súper honrada , buena en su trabajo muy buena , lo sé por experiencia propia (soy usuario de audífonos desde el año 2000) y quería darle visibilidad a toda una profesional que se lo merece, Me calibro los audífonos con mucha hábilidad y mi audiometría es muy complicada por mi pérdida tan dispar, pero como os he comentado es una profesional.  Me atienden de maravilla los sábados por la mañana que es cuando puedo acercarme. Muchas gracias equipo. Recomendado 100%.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipNGD3KtHjYCL1PJW4Nr-YFQMczFMPCdNQaQH9nN&fid=0x0:0x7d437333ef32303b"
+      ],
+      When: "2023-3-24"
+    },
+    {
+      Name: "Alejandro Cárdenas Martos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV4BVuLqEvWvnapNi5drHOSL-InOnbppdltmAKq-BRuBBRgBE3f=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelentes profesionales, trato familiar y un ambiente muy tranquilo para elegir las gafas que mejor se adaptan a tu vida. Resaltar en especial la paciencia y el cariño que Rocío Blanes tuvo con nosotros.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria Martinez Varela",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUW5Yd3RjTNuMGufUE_sZUev_wztfmHaYRX8PhtsuA5M9bmpHZv5A=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Es una gran óptica y la atención expectacular.... Sonia es sin dudas para mi la favorita, pero todo el personal es profesional y encantador. Siempre grandes ofertas y un muy buen seguro para tus gafas, como también la financiación.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipPzcxOMErDedjHwTbks2aQFQ9fSpU22oZOGnuQP&fid=0x0:0x7d437333ef32303b"
+      ],
+      When: "2022-10-14"
+    },
+    {
+      Name: "Vanja Alenljung",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV_wJC8Hagv8AyKMsyOtxeDl6swCtkbGlWmEAlaZBUAJVpVzAbSDQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Quiero enviar un gran agradecimiento a este encantador grupo que me ayudó cuando se me rompieron las gafas.  Muy buen servicio, rápido y agradable.  Increíblemente agradecido, eres maravilloso.\nTe recomiendo que vayas a ellos.\n\nWant to send a big thank you to this lovely group who helped me when my glasses broke.  Very good service, fast and pleasant.  Incredibly grateful, you are wonderful.\nRecommend you go to them.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipOpgSPIhehyxlgSwKDvkgRa3ChuQ3Qe_qS3eL_l&fid=0x0:0x7d437333ef32303b"
+      ],
+      When: "2024-3-29"
+    },
+    {
+      Name: "Roman Santos Ciriquiain",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWuSFyGzC6jEy1nr_xC2YTLoHudZtP1b-5NtKF1aLQ0KdjwHvrG3Q=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Atención inmejorable.\nMe has arreglado bajo garantía unas gafas compradas en otro General Óptica de otra ciudad sin ningún pero y de la manera amable.\nMil gracias.\nMuy recomendable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Miguel",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXspzN4mE5HlYxZpdvLBuiN1vwJhCnQA23vszA9jCw0jc9xz83J=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Destacar la profesionalidad y eficacia de la optometrista Adela, la cual ha resuelto todos los problemas que he tenido de visión, durante este mes de diciembre, y siempre son una sonrisa y amabilidad impecable. Desde aquí, gracias por darme soluciones Adela.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "manuel ferrando",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJuHabhEOX7qiXvthTb7H9GLmC35bG7CwLcrY6USz1P9vDwDg=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Buenos profesionales, atienden con amabilidad, graduación de la vista con cita previa, también revisión del oído gratuita en la misma visita. Las monturas y cristales están en un gran abanico de precios dependiendo del presupuesto de cada uno, aunque siempre tienen una gran gama de monturas en oferta, descuento en la primera compra.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Monia Rodorigo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJWQVmReyGkU8sdGlGr-FU8TRgInEbrEOHqP3JB5zd_uk4Dqw=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Increíble. Siempre tardan un montón en atender, y los que trabajamos y solo podemos en sábado ni siquiera nos atienden. Siempre tienen la excusa de que ha llegado todo el mundo a la vez. Deberían replantearse el personal. Entre las citas para la graduación y los intentos fallidos de recogida por su falta de previsión llevo un mes esperando mis gafas. Increíble",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Multiópticas",
+  category: "Óptica",
+  address: "C. Granada, 203, 04008 Almería",
+  description: "Esta óptica recibe comentarios positivos sobre la atención personalizada y el interés mostrado por su personal, quienes han resuelto problemas de visión de larga duración para algunos clientes. Un cliente destacó la amabilidad y profesionalidad de un empleado en la ayuda para elegir gafas de sol. Otro cliente, que es cliente desde hace años, menciona la profesionalidad y la ayuda en la elección de gafas graduadas y de sol, con buenas ofertas disponibles. Se destaca la buena atención y profesionalidad del personal, aunque un usuario señala que no hay mucha variedad en los diseños de gafas.",
+  serviceRatings: {
+    atencionCliente: 4.5,
+    profesionalidad: 4.5,
+    precio: 4.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "Cerrado"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://www.multiopticas.com/es/cita-cuando/?AddressID=store-1170",
+  phone: "950 26 94 00",
+  review_count: 59,
+  review_rating: 4.6,
+  latitude: 36.847857,
+  longitude: -2.457324,
+  user_reviews: [
+    {
+      Name: "Almendra Fernández López",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLc5PV3h6z602k4KR_fa39NgJiBVWnLdyQTsSvvQOPtDQQ8FA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Estoy muy contenta con la atención recibida, tan personalizada, el interés y el resultado final.\nMe han solucionado un problema con el que llevaba años lidiando.\nMe atendió una chica atenta y totalmente cualificada tanto como profesional como persona humana atendiendo de buen agrado!! Estoy muy contenta y volveré cada vez que necesite cualquier cosa relacionada con mi vista o la de mi familia.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Tamara Hidalgo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV7__ClNtcfn3Qb32ejzZ3AIS1n3JvxkT5PoNwuIf0rlfBVCSVc=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Estuve por primera vez en la tienda de multiopticas en almeria capital  en la calle granada me atendió un chico super agradable Miguel me ayudó a elegir una gafas de sol para regalar a mi pareja y la verdad que iba muy indecisa había tantas gafas para elegir y yo súper indecisa tuvo mucha paciencia conmigo y salí súper contenta con mi regalo de reyes para mi pareja. Un sol de hombre maravilloso",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Isabel Zuñiga Estévez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUrgLjle2IomF3Z54SsQCYWer-ikTmm0c_TtqySdd5adzf7fbNe=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "La semana pasada fui a comprar unas gafas graduadas a la tienda de Multiopticas de la calle Granada en Almería, compré una de sol y unas para interior las 2 graduadas, solo pagué el cristal de unas y el segundo por solo la montura. Soy clienta desde hace muchos años y no puedo estar más contenta con el trato. Son unos grandes profesionales y te ayudan con la elección de tus gafas sin prisas. Totalmente recomendable. También puedes graduarte la vista con ellos.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipNnPax0uiKVPGjhdLzgvfanFyq0FLHYiOCm8qOM&fid=0x0:0xb39d5ea02bb205a5"
+      ],
+      When: "2024-3-16"
+    },
+    {
+      Name: "María Lopera Sánchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWx-r8kAzh4Qw7XmbapzGsBr6FsG7kGr9RVJET9IwNirOMh0KJChg=s120-c-rp-mo-br100",
+      Rating: 4,
+      Description: "mi óptica desde hace ya varios años, tanto para gafas como para lentillas y revisiones. la única pega es que no tienen tanta variedad de diseños de gafas 😎",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana Mati Romera Archilla",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL6XbKXu8FdUgfL7fWvgsOB7-ammYggc1GiGx8HYDf02F4pRA=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Genial el chico que me atendió muy atento y profesional. Volveré seguro.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose Alfonso Molina",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLQVDg2AWWm11mG-aD9RJ-BAvjWBQuUvSLeJOTpJ3TEyegZIg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Esta semana estuve con un problema con mis gafas, me atendió una chica, Maria José creo q era y genial,el trato excelente además de q me solucionó el problema con mis gafas. Sin duda volveré para cualquier cosa q tenga y por supuesto cuando cambie de gafas . Un saludo 👋🏻",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alejandra Vega",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUxTo-zV_kYy1102BQdJdstofsoFKxIbIVH9XZtLrlDyRX9ri4=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Pasé ayer por la tarde para que revisaran mis gafas (se me desajustaron al golpearlas sin querer) y quedaron perfectas. Me atendió un muchacho muy amable , fue rápido y profesional. Muy agradecida.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Loli Martinez Maldonado",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIuGeRY41vkFKPspVPcFux4K7_bbtNCdOiiOvl121aUWa3c1A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buena y eficiente la muchacha ,me soluciono todo,por cierto se llama LIDYA,un encanto de chica",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: ""
+},
+{
+  title: "Multiópticas",
+  category: "Óptica",
+  address: "C. Antonio Muñoz Zamora, 2, 04007 Almería",
+  description: "Esta óptica es valorada por su personal amable y profesional. Un cliente destacó la paciencia y amabilidad de una empleada al atender a personas con poca paciencia. Otro cliente agradeció especialmente a una empleada por su excelente asesoramiento en la elección de lentes. Los usuarios mencionan la variedad de gafas y los buenos precios. Un cliente describió la tienda como bonita y acogedora, con un excelente trato y rapidez en la entrega de las gafas.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 4.5,
+    precio: 4.0,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:00"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "http://www.multiopticas.com/",
+  phone: "950 98 47 44",
+  review_count: 29,
+  review_rating: 4.9,
+  latitude: 36.831817,
+  longitude: -2.443281,
+  user_reviews: [
+    {
+      Name: "Nicolas Ucles Vicente",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWoD1N-Z4sxWzp6l7KrhAexDNwdnQH3HbAqvg9WdA40Gcc5QYCyRw=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Me atendió una chica muy amable y profesional, que tuvo que aguantar como algunas personas que carecen de paciencia y empatía la ponían al límite. Gafas para todos los gustos y buenos precios.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Carmen Sevilla",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK0yef12MuUPsClY9bpeYcD24ykuom9e3c8ZhSpoBrGGHPVfA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buenos días, quiero agradecer al personal y en especial a Encarni, que me atendió y asesoró estupendamente en la elección de mis lentes.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cayetana Veloso",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW5EY6SOQhfD5rY_akc43vnmXoX_jCdv3WhLfU2XR0LImRnLiEl=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Nueva tienda de Multiopticas en al zona de la Vega, muy bonita y acogedora. Con variedad de de gafas de sol y graduadas. El trato fue excelente fui a graduarme y genial! A los dos dias ya tenian la montura lista!",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipMLVue8jylH0FeJfmW7HWqSsRmxQZBvz4OUzgOn&fid=0x0:0x11503b3df14c5458"
+      ],
+      When: "2023-1-14"
+    },
+    {
+      Name: "Teresa Serna",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL4RWc6bblJP0iorohJe-tzE___YJQ6pWV4iaHEwd_DNd5dZA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buen día,lidia es super atenta,muy buena atención ,me ayudo a escoger las gafas ,mucha paciencia, excelente ,un 10 por su atención, gracias!!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ma José Gómez Martínez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIRZf_Z8VlqnEvAvWKBWDt5-cYgfuuz1iOp6My-92zaUpu4Sg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Son los mejores. Le cambiaron los cristales a mis gafas de sol rapidísimo y me asesoraron para comprar otras... Trato inmejorable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Barbara Nunez Cervantes",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK7Ou9a0inIQqtiSEmWpJwa4FV-X5bK4qq6l4BkdYqpIf6fBg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Genial trato y servicio. Fui a graduarme y en muy poco tiempo tenía mis gafas listas. Son muy profesionales y atentas, me ayudaron a elegir la mejor opción para mí y además tiene una amplia gama de monturas y todas preciosas! Estoy super satisfecha con mis nuevos cristales, ya tengo mi óptica de confianza!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Estrella Barrios",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW358V8qL7SDDB6NPOEWzHddyAdrvvTubWqSY21Nl7um7y7Sf5k=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Las chicas que hay allí son encantadoras. El viernes a última hora de la tarde me hicieron el gran favor de graduarme la vista, elegí monturas y el martes por la tarde me avisaron que ya estaban listas, ni más rápido!\nY lo mejor fue la atención de la dependienta, encantadora y atenta! Asi da gusto!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Irene Garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUcoIB8WB4tgGRhNJecbRFnFLGdHXQc4Iwz4G_lYPj3MfviJ5_1=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fui a comprar unas gafas de sol, muy buen trato por parte de los trabajadores. Muy bien asesoramiento, volveré a repetir sin duda!! Gracias por vuestro compromiso",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: ""
+},
+{
+  title: "Opticalia",
+  category: "Óptica",
+  address: "C. Navarro Rodrigo, 10, 04001 Almería",
+  description: "Este establecimiento es altamente recomendado por su excelente trato y profesionalidad. Los clientes destacan la amabilidad y atención del personal, así como la variedad de modelos disponibles. Los usuarios mencionan una excelente relación calidad-precio y consideran esta óptica como una de las mejores. El personal es descrito como profesional y atento, ofreciendo un asesoramiento adecuado. Un cliente agradeció la amabilidad del empleado que le atendió y otro destacó la excelente atención y precios competitivos.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://www.opticalia.com/es/tiendas/optica-almeria-navarro-rodrigo-10-opticalia",
+  phone: "950 03 35 85",
+  review_count: 28,
+  review_rating: 4.7,
+  latitude: 36.83958,
+  longitude: -2.462779,
+  user_reviews: [
+    {
+      Name: "Miguel Angel",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWtphr776wgZwD0e9Zn2a3oI7RxNVmJszkDAUq190rcbMuutVgbdw=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Muy buenos profesionales! Son muy amables y atentos, con mucha variedad de modelos y te atienden sin prisa. Volveré!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mª Carmen Blánquez Hernández",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWamarZFGw3aETO3zBVqT1wwXCKEOYdHdug3vJ6ysEuWsWZh7vC=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "El trato es fantástico y encuentras modelos muy de moda. Excelente relación calidad precio. Sin duda, la mejor óptica por la que he pasado.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alon G.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLD75y2l8DXzmLl_f4ZhEeFGKJpyydGN_hiilBimdSz4Uml-A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato inmejorable. Tanto la chica como el chico denotan gran profesionalidad, con asesoramiento adecuado.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "MeDijoNegro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW5W98CABdnQ-otbrOJpOXTP52Wzgjf0S8bjJXWLrXQPMTOqWM2=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Los mejores 🤩",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Javier Sánchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWXSnGsvVZBE1izqH2_RlXzw0g9V5NsKYJ7iUI3T8SVB2Y_b72HUA=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "El chico que nos atendió fue muy amable. Iré cuando necesite gafas nuevas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Meritxell Navarro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLLGn1WoEXCQuUJlZ7ls8Jyag04DQ_JFKo9Lkp1cm_DE9XdVUpN=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buena comida casera y un trato muy atento y amable. Volveremos sin dudarlo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "María del Mar Cruz Zamora",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLevvTmQInr7epsr3JLIVza4ovBi1CjuLvSPRvEfxQSyrWEHQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buena atención,  muy buenos profesionales y gente con corazón,  lo recomiendo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Thanatos Law",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWBzoOP5guRrgan_AVyr5DL9qd7UoRVC5mMk6pOxFttO65hnzQ0=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Atención excelente. Referente en ópticas en Almería. Grandes profesionales y precios muy competitivos",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: ""
+},
+{
+  title: "Óptica Altamira Almería",
+  category: "Óptica",
+  address: "C. Altamira, 1, 04005 Almería",
+  description: "Esta óptica es muy apreciada por su excelente atención al cliente. Los usuarios destacan la amabilidad y paciencia del personal, especialmente al ayudar en la elección de gafas y al realizar exámenes de la vista completos. Los precios son considerados razonables y la calidad de las gafas excelente. Los clientes también valoran la rapidez y eficacia en las reparaciones, así como la amabilidad del personal. Es un lugar recomendado por su buena relación calidad-precio y atención profesional.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:45"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://sites.google.com/view/opticaaltamiraalmeria/inicio",
+  phone: "950 25 16 10",
+  review_count: 17,
+  review_rating: 5,
+  latitude: 36.837874,
+  longitude: -2.458966,
+  user_reviews: [
+    {
+      Name: "luis garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUqu15oWM8Oc3Tg9fed15rX6yO3F27o1IZrc5ENHvUe8n3ypTQsqw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "De nuevo. quedé muy satisfecho con mi segunda visita. Diego, muy amable y paciente al ayudarme a elegir las gafas adecuadas. Realizó un examen de la vista muy completo y me explicó todas las opciones disponibles con claridad. Los precios me parecieron razonables y la calidad de las gafas es excelente. Sin duda, volveré y la recomendaré a mis conocidos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Luis Alonso Lorenzo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUBh31rQbAk1KX9CgLb8nTqk81nDI22vJ5Lcf_cabO9ZY8P-_6k=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He ido para una reparación de unas gafas de sol y me han atendido de manera rápida y eficaz. Me atendieron en el mismo momento, sin esperar, y el arreglo, perfecto. Además, amabilidad. Lo recomendaria sin duda alguna.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Matilde Manrubia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLg2aDtOiYzmwzAlYVzhQKywHoHA2NhmvExP_mftt0STYE87A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Una gran opción calidad, precio y atención. Mi familia y yo llevamos muchos años graduándonos la vista y comprando gafas y lentillas en este sitio y todo correcto siempre.Recomendadísimo. ✔️",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "María Orts",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKxbVfZfbpyJWFrH3xQ0O55Lk97yROukomhHPuvYup4qdbL9A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "He estado esta tarde en la óptica por un problema que tenía en mis gafas y no he podido salir más satisfecha, muchas gracias Diego por tu amabilidad y profesionalidad☺️",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Nani Mullor",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKGsNLr1s8R4FsWxte0-D5_mEm8CxEVMNdpQW83312ACRsFIw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Atención excepcional, un muchacho muy amable, muchas gracias por el trato recibido.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Isa García Camarena",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJP31rgGOTu_wFdbCzJO5Ex7FEae3VLLZivPOf-TN_7-shEAw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Una atención personalizada y profesional. Muy atento el muchacho y muy amable\nMuchas gracias.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Graciela Najera",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLizDpXjM2nYWACX1MnafoVFQJ4P5jCUXVqNFbm4NTGxeoYYQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La atención del chico que atiende en la clínica es muy agradable. Gracias.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "ROSARIO CAÑABATE POZO",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWB4LSAzr346GJ_ZP8IPoXWl6rOHVuhsavG_ijF1Nt2rN0qOFaW=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy contenta con su profesionalidad y trato amable",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: ""
+},
+{
+  title: "Óptica & Audiología Universitaria",
+  category: "Óptica",
+  address: "P.º de Almería, 21, 04001 Almería",
+  description: "Este establecimiento es apreciado por la ayuda y las soluciones ofrecidas por su personal. Los clientes destacan la buena experiencia y el buen precio de las gafas. Además, mencionan la amabilidad y eficiencia de los vendedores, así como la alta calidad de las monturas y lentes. Algunos usuarios han experimentado retrasos en la entrega de sus gafas. La atención recibida es calificada como personalizada y profesional, con explicaciones claras y soluciones rápidas a problemas con las gafas.",
+  serviceRatings: {
+    atencionCliente: 4.8,
+    profesionalidad: 4.7,
+    precio: 4.3,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–21:00"
+    ],
+    lunes: [
+      "10:00–21:00"
+    ],
+    martes: [
+      "10:00–21:00"
+    ],
+    miércoles: [
+      "10:00–21:00"
+    ],
+    sábado: [
+      "10:00–21:00"
+    ],
+    viernes: [
+      "10:00–21:00"
+    ]
+  },
+  website: "https://www.opticauniversitaria.es/",
+  phone: "950 20 21 46",
+  review_count: 31,
+  review_rating: 4.9,
+  latitude: 36.839774,
+  longitude: -2.463451,
+  user_reviews: [
+    {
+      Name: "Minerva",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXwX8MYffMTMlGJV6E7F_PqVdp8ID8L-Ihey1MB3EpCt6quAOAy2A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Tuve un problema con mis gafas nuevas y María me ayudó desde el principio dándome varias soluciones, después me atendió Andrea que acabó asesorándome muy bien. Da gusto seguir después de tantos años y que los profesionales sigan siendo de calidad",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Sandra Dols",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ5ZdHqHfUgQ12TKtgjon1ID27ec2uQmCMO3-XW_0_wdT-cwg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Súper buena experiencia, compré mis gafas hace casi un año, muy buen precio, vine a apretarlas y me ofrecieron apretarlas y cambiar las gomillas totalmente gratuito, la recomiendo 😊",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipM_WeMorIVmJWxRaKp9hdz9S7C-N1hVMINr2PMG&fid=0x0:0xd840e33b0adf6666"
+      ],
+      When: "2024-8-26"
+    },
+    {
+      Name: "Cesar Montana",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVsu8OA75VfaOXer1gV3P2n5hWojzjjpoAhCPfj_NaDILRtTjPC=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Todo excelente, personal súper amable , atención personalizada y muy profesional, te explican y resuelven todas tus dudas,  monturas de gafas de alta calidad y de marca , además a muy buen precio y hasta el 30 de noviembre con un descuento adicional del 20%, lentes Prats muy buenos . Genial !!!😎",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "felime",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL8bxd7_yYPTxQyk86YDWbdSSOrfw8vL_dfcyDz1_V9HrrmJw=s120-c-rp-mo-br100",
+      Rating: 3,
+      Description: "Trato correcto, buenos precios, pero si te urge, olvídate. Compre unas gafas con su graduación el 3 de diciembre, y todavía estoy esperando. En teoría las tendré el 18. 15 días!!!!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "adela alvarez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKmrlteo8YYOmVvWScBKaM3H6iM5MDsG-FenoIhwzSsihF9ww=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "5 estrellas a la óptica por sus buenos precios y 5 estrellas a Manuel como vendedor amable y muy eficiente. Me explico muy bien todo y me aconsejo muy bien. Aparte de ajustarme mis gafas a mí cara.muy contenta",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Francisco Gutiérrez Díaz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKsSw0hPtgj1xsSOj7D6tZyF05UHPHLDIuNgSN4OUvgigLfOQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Sorpresa agradabilísima por el trato recibido, en la óptica Universia,  por María del Mar en revisión efectuada en días anteriores. Dicho trato extensivo al resto de sus compañeros y compañeras. Simpatía y buen hacer por parte de todos ellos y reconocimiento por la mía.\n\nMuy recomendable esta óptica.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jesus Perez Garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKzqIPQwioIM1Vvv2yqNSToQ7xYYiXLg1ID1c0GS5DBNjOXYQ=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Buenas tardes,\n5 estrellas por un magnífico servicio, reparación de gafas y cristales nuevos para otras. Gran servicio y mejor atención.\nUna óptica muy recomendable.\nMuchas gracias.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Eduardo Guerrero",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXOlgHRX_Rs5sZalpelZbqPYbmI13cjJAncwMPMAl4DvTKXBbIL=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "No vivo en Almería y tuve un problema importante con mis gafas. Dando un paseo vi esta óptica y entre solicitando ayuda. Desde ese momento me hicieron sentir alguien importante, me guiaron, me aconsejaron y me solucionaron el problema en dos minutos. Gente de Almería, esta es vuestra óptica sin duda. Un saludo",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Gradual óptica",
+  category: "Óptica",
+  address: "C. Altamira, 45, 04005 Almería",
+  description: "Esta óptica es considerada por muchos como la mejor de Almería. Los clientes resaltan el excelente trato recibido desde el primer momento, con personal amable y atento que muestra mucho interés en ayudar a encontrar lo que se busca. Se destaca la profesionalidad y la capacidad de aconsejar lo mejor para cada cliente. Además, ofrece una gran variedad de monturas a precios atractivos y se mantiene al día con las últimas novedades en gafas. Los usuarios también mencionan la eficacia en la solución de problemas con las lentillas y la atención personalizada y profesional.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.5,
+    variedad: 4.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://gradualoptica.es/",
+  phone: "950 27 73 79",
+  review_count: 38,
+  review_rating: 4.9,
+  latitude: 36.840544,
+  longitude: -2.457054,
+  user_reviews: [
+    {
+      Name: "Isa Prrr",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVsW_dqZhplwOFM7LIFZ0GUa91juZX9Utbyt5KHjzvY-Ibc3TZz4A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Nos atendieron muy bien desde el primer momento. Natalia fue muy amable y puso mucho interés en ayudarnos a encontrar lo que buscábamos, y le hizo a mi madre una revisión muy completa. Tienen variedad de monturas de todos los precios. Muchas gracias!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Yolanda Sanchez maldonado",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJlQQam6L5An8Kq7ELwJbz4ig_G_bazOpTiLy-vt5QXjdYAWQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Grandes profesionales, buen trato y  siempre ahí para aconsejarte lo mejor , gracias por todo 👌",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marta",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI5kqVCpa4ruNMy5Ucn9Wz8jFUgHZcC7kqTDRRFa5iNrMOOrg=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Muy buen trato, encantada",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rosa Mari Muñoz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUFXeREjLBHmvfMa_gN3ejOE7NzthA3j-fUtMfPY09nAYwWhMEL=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Magnífico trato, Natalia es super amable y tanto ella como el resto de compañe@s te explican todo muy bien. 100% recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Verónica Soto",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXW6dAco678eWidarLkD23ZsNfsCWdilNT1NAN9-YfL3tA0H8cqwQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La mejor óptica de Almería. El personal es muy profesional. Te lo explica todo y te resuelve todas las dudas. Y con respecto a las gafas tienen las últimas novedades. Repetiré seguro.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jesus Lorente",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJqDLosyZzt2C893yiAsHl-MjiZ8sHVCj3cD7lfKtKwBRwJ6w=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Estoy de vacaciones en Almería y he tenido un problema con mis lentillas. Me acerqué a esta óptica porque estaba cerca de mi alojamiento y quedé muy contento con el trato. Me solucionaron muy eficazmente mi problema. No soy de Almeria pero si vuelvo tengo claro que vendré aquí.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "emma muñoz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJX5PEB3RxiX5HnpndY2bjEVmlnPPSjr95KJZ5myv5-be0YJw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy contenta con el trato en la optica!!\nMe aconsejaron unas gafas que con  las que mejor me he sentido nunca!!\nNos atendió Claudia, muy atenta con nosotros!! A partir de ahora será mi óptica de referencia…!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "pilar ruiz garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKBjnCLVhHfkUeYRs9I7iibroxWvImxVtmXfEacQASO8suiAg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Tienen una gran variedad de gafas, Claudia es muy atenta y profesional, los precios son muy atractivos. Sin duda volveré!",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Óptica Arenal",
+  category: "Óptica",
+  address: "C. Concepción Arenal, 19, 04001 Almería",
+  description: "Esta óptica se ha ganado la confianza de sus clientes a lo largo de los años gracias a un trato excepcional y cercano. Los usuarios destacan la profesionalidad y honestidad del personal al explicar las opciones disponibles y ofrecer consejos. Además, los clientes valoran la excelente oferta y la amabilidad mostrada durante la atención. Se menciona una amplia variedad de gafas, lentillas y complementos, con una buena relación calidad-precio. Es considerada por algunos como la mejor óptica de Almería, con una atención maravillosa y un trato muy cercano.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "http://www.facebook.com/%C3%93ptica-Arenal-851258998263791",
+  phone: "950 65 33 78",
+  review_count: 5,
+  review_rating: 5,
+  latitude: 36.840611,
+  longitude: -2.464971,
+  user_reviews: [
+    {
+      Name: "Araceli R",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVFIAW3ArdjgCS2b_OrUq7unj5ZK-jAhaN4gRPuhKM8wSU6CaqB=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Somos clientes desde hace muchos años y para nosotros se ha convertido en la óptica de confianza. El trato de Conchi es excepcional y cercano. Siempre te explica todas las opciones con mucha confianza y profesionalidad. Es maravilloso encontrar profesionales así que ayudan y aconsejan al cliente con honestidad y buen hacer.\n\nMil gracias Conchi!!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "F.A. Andreu",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVHYGpHibXMsZLD4FJkPffv_d-ZQ7R7oODn3wcczLtwxzm6YXYj=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Excelente oferta y excelente atención. Muy buen precio y una amabilidad muy de señalar por parte de la persona que nos atendió.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Francis Gálvez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjULLBPttiDY5H8G3R6Eb81dFYwTOXrmf9s4GyvNWPybNOYMqIke-g=s120-c-rp-mo-ba6-br100",
+      Rating: 5,
+      Description: "Óptica muy profesional localizada en pleno centro de Almería. Amplísima variedad de gafas, lentillas y complementos, relación calidad-precio muy buena. Recomendadísimo!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mir Sab",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJygRfXPXIt0tdvto44TjROYoyfeRKbdfQkZwB0sLpKmL6xdg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La mejor óptica de Almería! Maravillosa atención y trato muy cercano. Súper recomendada! Gracias Conchi!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Francisco Vargas",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJs0G57usr0pno2xxWoQbocFtaCRQ9_gzehwMU5X1RS8b-iEw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "gafas.es Oliveros",
+  category: "Óptica",
+  address: "C. Canónigo Molina Alonso, 6, Centro Comercial, 04004 Almería",
+  description: "Generalmente, esta óptica ofrece un trato agradable y una buena atención por parte de su personal, quienes ayudan a los usuarios a encontrar las promociones ideales. Los clientes destacan la amabilidad y la atención a sus necesidades. Además, se menciona una buena relación calidad-precio y una gran cantidad de modelos de gafas. La revisión ofrecida también es valorada positivamente. Algunos usuarios han expresado su satisfacción con la profesionalidad y la claridad de las explicaciones recibidas.",
+  serviceRatings: {
+    atencionCliente: 4.7,
+    profesionalidad: 4.5,
+    precio: 4.3,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:00–14:00",
+      "16:30–20:00"
+    ],
+    lunes: [
+      "9:00–14:00",
+      "16:30–20:00"
+    ],
+    martes: [
+      "9:00–14:00",
+      "16:30–20:00"
+    ],
+    miércoles: [
+      "9:00–15:00"
+    ],
+    sábado: [
+      "Cerrado"
+    ],
+    viernes: [
+      "9:00–14:00",
+      "16:30–20:00"
+    ]
+  },
+  website: "https://marketing.net.gafas.es/ts/i4661476/tsc?amc=socialorg.brillende.501607.512285.55163&smc1=smc1=es-lp&rmd=3&trg=https%3A%2F%2Fwww.gafas.es%2Fstorepage%2F%3Fstore%3D23699",
+  phone: "",
+  review_count: 147,
+  review_rating: 4.6,
+  latitude: 36.834692,
+  longitude: -2.461799,
+  user_reviews: [
+    {
+      Name: "MarianaRN",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJZHsJUuwxqgj9Ce-b-L0HPV-_O7KPKFprGRJ-wdGabZ_6gJQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "En general, el personal fue muy agradable a la hora de atenderme en mi visita y siempre\nAyudando para saber que promoción era la ideal para mi perfil de consumidor.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Luis Félix Rodriguez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLieVy7vxllUCgONbhNKUZZtzu1_9AgN8L8uI5l98sHre0gMw=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Mí experiencia no puede ser más negativa.estan haciendo uso de mis datos.y saben mí correo.yo ni se Los he dado ni he estado allí nunca\ns",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alvaro Salinas Perez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIrA2XvGQNHTSDqTlX7swp-fGRN57hD5uavbMy-N811jnwfLw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buena atención al cliente, muy amables y atentos a las necesidades del cliente.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Magesagar",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWzvxuT5mZTvc2uSwpGEJH9tqWvWC2FrPp0gSOBo6rPpeliYyw=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Trato inmejorable por la profesional que me atendió y buena calidad precio",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ariadna Rodriguez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJaz9MX97v6d1HFdwP9KXF8fVI8IFT6bo43NvKOmh74xdJhiw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La mujer que nos ha atendido es muy amable y paciente",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Julián Domene Picón",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKxhy5Svysw74CPBduhPJ9zMMt3ChmnCNnvYjkuF3FlGnuNlg=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Muy buena la atención prestada asi como la revisión, gran cantidad de modelos de gafas y la relaccion cañidad precio inmejorable, muy recomemdable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "aneta przybycien sala",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWxKHr_4DhRLNGGoulaWlhqqLjt5fPP90i9sNV_6sSOY-4KChDi=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Super contenta, ya llevo 3 gafas y otra mi nuera,",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Fernando Fernandez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLrfvTxF_J0_66FH3_v0w3I6awRS0f-IuUZnz-mrKmk38EV1Q=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Muy buen atendido y muy claras las explicaciones que nos da. Ofreciendo soluciones y alternativas a las cuestiones planteadas, sabiendo resolverlas. Nos veremos pronto.\nMuchas gracias por todo.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Tiago Óptica Eyewear",
+  category: "Optometrista",
+  address: "Av. de la Estación, 12, 04005 Almería",
+  description: "Esta óptica destaca por ofrecer gafas de sol a precios competitivos y por brindar un trato excelente a sus clientes. Los usuarios se sienten escuchados y valoran la paciencia del personal, que se esfuerza por encontrar la mejor solución para cada necesidad. Se menciona una gran variedad de productos y precios asequibles. Los profesionales son considerados cercanos y muy competentes, especialmente en graduaciones y en la adaptación de lentes de contacto especializadas. Los clientes se muestran muy satisfechos con la atención recibida y la recomiendan ampliamente.",
+  serviceRatings: {
+    atencionCliente: 4.8,
+    profesionalidad: 4.9,
+    precio: 4.5,
+    variedad: 4.3
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    martes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "16:30–20:00"
+    ]
+  },
+  website: "https://www.tiagooptica.com/",
+  phone: "950 65 01 95",
+  review_count: 19,
+  review_rating: 4.5,
+  latitude: 36.837281,
+  longitude: -2.459327,
+  user_reviews: [
+    {
+      Name: "Juan Miralles",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXSxHOrOXyUGBkLQGEuBOAkYjNOh35jTlAAAHsXn3IbGRBGIuD_=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Creo que he visitado el 90% de las ópticas de Almeria centro, CC mediterráneo y CC torre Cárdenas.\n\nNo solo he encontrado las gafas de sol que más se adecuan a mi cara, sino que, además, el precio ha resultado mucho mejor que el de otras opciones.\n\nPues aunque parezca difícil de superar, lo mejor ha sido el trato.\n\nRecomendado 120%.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipMNiu5quEZEoZ8yQy5qS1zZakAeU2Dgi_8imIM&fid=0x0:0xcbb1f99a0001b39b"
+      ],
+      When: "2024-3-20"
+    },
+    {
+      Name: "María Capel",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKbMNrV9MPIlvSBXUrGByjtg5w-7sViwklQ8LuuX7pynGs5UQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La mejor óptica de Almería sin ninguna duda. Profesionales cercanos que escuchan, tienen paciencia y tratan de darte lo que mejor te funcione. Además de contar con precios asequibles tienen gran variedad de productos. Tanto Tiago como Miguel Ángel son unos cracks 😜😜",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Javier",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVETC_e6Qw2VMYcK5r28AWnP6KBdbn3b4wIM7qc_G8G_L1Qm2K3=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Me hice las Orto-K con Tiago y acabé muy contento con el trato y con el resultado.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "javi vf",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXSVkXf-fCFx8upiKtq30GJV43n2Fy79pzNQoHtXg9ng6ouNOzT=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Es muy profesional y minucioso con las graduaciones y de trato muy cordial y amable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Antonia Maria Bonilla Garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLAF4SubCe0BUL0Cb9MXYT3CpyxJzpSOYqwcxsr4khob8b7VA=s120-c-rp-mo-ba4-br100",
+      Rating: 4,
+      Description: "De los mejores profesionales de la provincia, bien ubicada, cuidan muy bien de sus clientes, pero sin agobiar, y a precios medios.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "eva mendez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWYm0wqSKnsR4mkWH33bNu5JKZ3To9AVYk__ridQ3Xd5Bf7xj67=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato inmejorable y muy actuales en marcas y maquinaria de graduación.\nSin duda volveré a repetir.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alme69",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUgVSoGTaywK0Mt-tn9diQ6A9LXNvQYifGpoSFdKbEg922nTZpPVg=s120-c-rp-mo-ba5-br100",
+      Rating: 4,
+      Description: "Muy buena atención y mucha diversidad de gafas para elegir.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Diego Fornieles",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVy7SEqfJIT2OgYE7Iw23_dp8ki-3NI1FHxFUHwqXk9tH-qaqF_mQ=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Buena calidad , buen trato muy buen trato",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Óptica Ana Collado",
+  category: "Óptica",
+  address: "Calle Calz. de Castro, 58, 04006 Almería",
+  description: "Este negocio se distingue por la excelente atención y profesionalidad de su personal. Los usuarios destacan la capacidad de ofrecer soluciones efectivas y la preocupación por el bienestar de los clientes. Además, se valora la buena relación calidad-precio de las gafas.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:30–20:00"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:30–20:00"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:30–20:00"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:30–20:00"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:30–20:00"
+    ]
+  },
+  website: "https://www.facebook.com/Optica-Ana-Collado-324544867890445/",
+  phone: "950 80 73 23",
+  review_count: 11,
+  review_rating: 5,
+  latitude: 36.838192,
+  longitude: -2.450153,
+  user_reviews: [
+    {
+      Name: "David Moya Alonso",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVo-uigRRip3GtxFZ5Tk64hmqU4oAuzJcQgrqVRXx4w58zGTomhpg=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Sin duda Ana es la mejor profesional que hay! Toda mi familia acudimos a ella desde hace muchísimos años ya que siempre nos da solución a todo.\nBuenos precios pero sobretodo la atención y preocupación por sus clientes es lo que mejor la caracteriza.\nSiempre fieles a ella desde hace más de 20 años!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Manuel Alfonso Zurita Ramón",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWeh-3IKfLfB7snw5yI-0C6jfZ1-zQ6JxIg-vlsTIZMnOajWsdR=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Compré unas gafas graduadas y sol.  Precio estupendo. Atención de Ana estupenda. Muy satisfecho. Recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Diana",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKl77fRGf81oNUhDEHcdy6jRFBlMh9hnEDtrDxZu9BwCqXd-Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Ana es súper profesional tiene un trato muy cercano con sus clientes la recomiendo al 💯",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "carmeeenchuuu_",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXKjYHc7p4aLJHWNvf4BQ8ZKx3Z5Za9yoiL8hZpHFDzRTLk3NF42g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Gran profesionalidad, gran trato al paciente. En las mejores manos. Muy recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Carmen",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXmURzGtKKNudMU1iEHTZuuo3y5mjRVfqH4gFPKyDT736Q3rRQ4Sg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Gafas preciosas y a muy buen precio. El trato de Ana excelente, muy profesional.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Sergio López Ubeda",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUgVTggyDfEmNBWNxofGuJ1Y7prERVfT_yNMMq7FcDvlEmNE5LfvA=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Trato excelente, gafas de calidad y precio estupendo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Francisco Coutinho",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVuMeV3_Ajg6X0HsGwsIGUqif-lCtvpO56iXcCnmZT278ii86eOJQ=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "En 2 palabras....   Exce Lente!!! Una optica moderna, completa y con una atención sinigual",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Manuel Serrano Fernández",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWFVCm4Em3INofnpnV3HI88WUkID0nhzmwj8wHNwgko3TRiWqMpLw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Óptica de barrio con una buena relación calidad precio y surtido variado.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Antonio Martín Centro Óptico y Auditivo (antigua Óptica Orberá Centro)",
+  category: "Óptica",
+  address: "C. Navarro Rodrigo, 19, 04001 Almería",
+  description: "Este centro óptico y auditivo es reconocido por su excelente atención y asesoramiento. Los usuarios se sienten bien atendidos y destacan la rapidez en el servicio, así como la calidad de los productos. Se percibe un trato personalizado y cercano.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 3.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:45–13:45",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:45–13:45",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:45–13:45",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:45–13:45",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:30–13:30"
+    ],
+    viernes: [
+      "9:45–13:45",
+      "17:00–20:30"
+    ]
+  },
+  website: "",
+  phone: "950 26 56 17",
+  review_count: 8,
+  review_rating: 5,
+  latitude: 36.839801,
+  longitude: -2.461918,
+  user_reviews: [
+    {
+      Name: "Cristina Carrasco Novella",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK2-OKCSKlwwc-OX8JTsYxvisrqUnIVlUoZDqXcCzKik-OLtA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente experiencia, bien atendida y asesorada . Me han atendido con maxima rapidez y contenta con el resultado final.\nTotalmente recomendable, modelos diferentes, calidad de vidrios.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Manuel",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWJvcTPl49jfEVF6sd7NGowBAluXlKlbtB0-qSJtlas3btmu0rGSg=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Excelente trato, personalizado y cercano",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Helena Martín Prior",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWRus9FHh3O-DL5Z8xnEWEvHTvPiRhtWysbvPvgFfuH_WTybXbN=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La mejor óptica de Almería sin duda!! Diseños exclusivos y el personal es fantástico, te ayudan hasta conseguir lo que necesitas exactamente!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rocio Mengibar",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWSiXnRnychVybZ2N7mKEwUJEmFTHG5q0pDo8G-4tcKsyQ6QTZxmg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Son extraordinarios. Trato súper personalizado y exquisito. Encantada con ellos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rosa María Soler Moreno",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVsSeXAFCuK58--PgXrSvVGObH7WW0YGWkIbuTw69x8jJoqovSLGw=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Si lo que vas buscando es un sitio donde tengan gafas de calidad y diferentes este es tú sitio.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "pedro espigares lorca",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX5iGPTqWl9sbFHExn9fc-hiuH_jvf2DlkTxAyTXJ3QdoS8RsnV=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me solucionaron mi problema de adaptación a progresivos. Excelentes profesionales",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cristina Martínez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIzXSMC5p_t44mWYLd8aYPL9IWXM1pjXDbKh1Cg6BUXkMqw_Q=s120-c-rp-mo-ba6-br100",
+      Rating: 5,
+      Description: "",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipNe256B8vZGDaGEicMhPBiSom7FOKlOnGX_U7fo&fid=0x0:0xe8b675cd08a50993"
+      ],
+      When: "2022-6-10"
+    },
+    {
+      Name: "Mario Garrido",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIg0VwHuif-kM2fySUbBjkI4BBXCYxvl7dOT_D4Yij5_P9zEQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Óptica y Centro Auditivo Soloptical Almería Torrecárdenas",
+  category: "Óptica",
+  address: "Avenida Médico Fco. Pérez Company, 19 Centro Comercial Torrecárdenas Local CA8 PB, 04009 Almería",
+  description: "Este establecimiento en el centro comercial Torrecárdenas es valorado por su excelente atención y la amabilidad de su equipo. Los usuarios mencionan descuentos y facilidades de pago. Un cliente en particular tuvo una experiencia negativa con la garantía de sus gafas, pero otros destacan la profesionalidad y la buena disposición del personal, especialmente en la solución de problemas y la explicación detallada de los productos.",
+  serviceRatings: {
+    atencionCliente: 4.5,
+    profesionalidad: 4.3,
+    precio: 4.0,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–22:00"
+    ],
+    lunes: [
+      "10:00–22:00"
+    ],
+    martes: [
+      "10:00–22:00"
+    ],
+    miércoles: [
+      "10:00–22:00"
+    ],
+    sábado: [
+      "10:00–22:00"
+    ],
+    viernes: [
+      "10:00–22:00"
+    ]
+  },
+  website: "https://soloptical.net/es/soloptical-torrecardenas/?utm_source=Google&utm_medium=google_my_business&utm_campaign=sitio+web",
+  phone: "678 80 18 78",
+  review_count: 408,
+  review_rating: 4.6,
+  latitude: 36.861895,
+  longitude: -2.433112,
+  user_reviews: [
+    {
+      Name: "Asma Ouna",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLPHVyl7iXNQfD5ndiIv5UDGY28A52aPNMOnVjKP68xSzI86Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La atención es excelente, muy cercana y con descuentos y varias formas de pago flexibles. Muy recomendable.\n\nHe recogido mis gafas y el trato de roberto ha sido en especial muy grato. Muchas gracias.\nNo solo a él sino al gran equipo que trabaja ahí, trato muy agradable y cercano. Necesario y recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "alba perez rubio",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIqZEtdLdYQne-NPypKURnmnhoRdhW-xm7h7w55dDoNYg_o6g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Está mañana estuve compre un lar de gafas de sol, me atendió Roberto, y tengo que decir que el trato fue excelente, muy cercano y un profesional como pocos , solo por lo bien que me trató y me atendió merece la pena la compra.\n\nCuando tenga que comprar gafas ya se donde ir, sin ningún tipo de duda En el centro comercial Torrecardenas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lau Palacio",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJjQIXK1YrJWparM6Kyf_dm0dgNkLtS-3-vkvpWOeznR73D4g=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "No pongo cero estrellas por qué no deja, el trato nefasto, solo quieren vender, pero atención al cliente les falta un par de cursos, me ha tocado poner una reclamación, la dependienta se acerca a mí a preguntarme como me puede ayudar con su sonrisa de oreja a oreja, le explico que en marzo del año pasado había comprado unas gafas y que ahora se habían estropeado y que en el momento de la compra me dijeron que el seguro me cubría  2 años, me preguntó si la había comprado en esa tienda a lo que le dije que no porque antes vivía en Madrid y ahora estoy viviendo en Almería inmediatamente le cambió la cara, me dijo que tenía que llamar a la tienda de Madrid  a corroborar la información, le dije que si me podía mirar en el sistema y me decía que no, dado que la ficha estaba en Madrid y que ellos tenían que darles a ellos dicha información, no se dignaron si quiera a buscarme en el sistema desde que dije que venía de otra tienda en Madrid, ya me trataron como quisieron, desde el principio solo querian venderme unas gafas nuevas alegando que no sabían si la garantía aún estaba vigente y que eso SOLO lo podían ver en la tienda donde compramos las gafas (cosa que no es cierto porque otras veces con el número de teléfono encuentran la ficha inmediatamente) , nos hicieron perder una hora,  esperando que en soloptical de parla les cogieran el teléfono, después de 1 hora y ya enfadada me puse a llamar a soloptical de dos sitios diferentes( principe pío y la otra de Almería que queda en paseo de Almería), en los cuales únicamente con  mi número de teléfonico les aparecía la ficha completa y la garantía aún vigente, después de que se dieron cuenta que yo ya tenía esta información “mágicamente” me dijeron que ya esa montura no estaba vigente y que tenía que comprar otras gafas abonando el 50% de lo que vale.  Me niego a comprar aunque sea un limpiacristales en esa tienda y me voy a soloptical de paseo de Almería y me han atendido maravillosamente, me han dicho que la garantía aún estaba vigente y me dieron el mismo marco con el descuento del 75% porque aún estaba vigente la garantía y por 14,75€ me cambiaron las gafas completas\nEN LA VIDA VUELVO ALLÍ Y ME ENCARGARÉ QUE SE ENTEREN LAS REDES SOCIALES DEL TRATO TAN NEFASTO QUE TUVIMOS Y QUIERO PENSAR QUE NO LO HICIERON POR MI NACIONALIDAD LATINOAMERICANA, PORQUE DE SER POR ESO SERÍA UN AGRAVANTE MÁS.\n\nEspero que esto les sirva de lección y den un trato más amable al cliente.",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipNMStFTxdmPlumTOv6sblmKgNb7xVpK_i7ImAlN&fid=0x0:0x3de1066ccc9a4c4d"
+      ],
+      When: "2024-9-24"
+    },
+    {
+      Name: "Carles Coma",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXjkwMoNkbdCCw1CcHBhcT_iCA9_gxAMaBJtQ-6vD9plkMfPObFXA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Solo me gustaría destacar que el trato ha sido excepcional!!! Y un servicio posventa inmejorable os recomiendo a todos pasar por esta tienda. Gracias Alejandro por tu atención. Sin ninguna duda, soy vuestro cliente.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria Montoya",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJgYjhmTpIWFkhZ50hFdpbfRFFKB8LqX36WPOU2_o6MNO_59g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "A mi madre y a mi nos ha atendido Mar, una chica muy amable, atenta y te explica todo muy bien, te asesora en todo lo que necesitas,nos ha solucionado todo, nos hemos echo nuestras gafas y estamos muy contentas, gracias Mar por ser tan estupenda.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Reginaldo D J S",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXMN6AhZMN-HWMMDYUCLbzMOXo5oRzsI1c3tXu7n6Xms8UNKzhf=s120-c-rp-mo-br100",
+      Rating: 4,
+      Description: "El personal fue extremadamente atento y profesional en todo momento. Se notaba que realmente les importaba brindar un servicio de calidad y que el cliente quede satisfecho. ¡Gracias ,  al equipo de chicas que me dieron un servicio  de excelencia!❤️❤️❤️😘😘",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Isabela Bela",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXhyMpr3uau5jF5jmNKqMkriEKE3-9W3230_I-WKmxgWAU68TAj=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Me ha atendido Azhara, y ha sido muy amable!\nHe llevado las gafas a ver si me podían cambiar las plaquetas de las lentes y me lo han arreglado además de mejorarme las patillas de estas !\nMuchas gracias, ha sido un trato muy bueno!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alberto",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKMVZu6JqejCAQGEF0BlNxEZOfkUffLd2x0ewQcZj_ZI-TijQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Son estupendos, yo llevo muchos años ya haciendome gafas con ellos, la presbicia de los viejunos, y siempre me han tratado fenomenal. Un saludo para Ainara y Maria, gracias por vuestra atemción",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Óptica Orbera",
+  category: "Óptica",
+  address: "C. Granada, 198, 04008 Almería",
+  description: "Esta óptica es altamente recomendada por su trato cercano y profesional. Los usuarios destacan la amabilidad y la capacidad de asesoramiento del personal, especialmente de Sergio y Marta, a quienes consideran grandes profesionales. Se valora la atención recibida y la calidad del servicio, lo que genera satisfacción en los clientes.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–14:00"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://www.opticaorbera.es/",
+  phone: "950 27 01 93",
+  review_count: 10,
+  review_rating: 5,
+  latitude: 36.847761,
+  longitude: -2.457192,
+  user_reviews: [
+    {
+      Name: "Natalya Martínez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX45pmSUwHP2vSn5kv4K0BakY32i3lmyx0q9-hOhR4iENTknnT1oA=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "He estado confiando en esta óptica durante años. Desde el momento en que llegas, te reciben con una sonrisa y te hacen sentir como en casa. El equipo es increíblemente profesional y atento, siempre asegurándose de ofrecerme el mejor asesoramiento y orientación para mis necesidades visuales. Me graduaron varias veces y desde entonces, me han guiado con recomendaciones personalizadas y acertadas. La amabilidad y el trato cercano de la chica y el chico que trabajan allí realmente marcan la diferencia.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rocío Rodríguez fernandez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLVdche4lOrkkDwG8zT8bsPzCuaLjwW5CTGaGKDMiiKTVNrHw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "De todas las opticas en las que he estado, la mejor, sin duda. Gracias a Sergio y Marta por el trato grandes profesionales.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Sofia Garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJVnK1HhEoPtsZDtSzvKhJDl6KUlpHaNjt63-SfoFh61VHung=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Sergio y Marta son grandes profesionales. Nos encantó el trato tan cercano que tienen con la gente. Nos atendieron muy bien, su trabajo es espectacular. Repetiremos sin duda y llevaré a mis familiares y amigos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Olga Cortes Castilla",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJckULZhQ6WoqH5HFMeAqOAWt6XbrOD7VuuH-tqd7ELvv9SNw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Magnifica Sergio y marta son muy buenos.profesionales  un trato exquisito",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "DAVID LOPEZ",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJKDODQOw2rd1i-F36IFYMS8Am_bWJCuVrOkq7RZ2YgZI0C2A=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Excelente atención al cliente, no encontramos la montura y me buscaron varias incluso por el mismo precio. Sin dudarlo mi nueva óptica.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Encarni Martinez Lopez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXrSWVD14JVNZbk5jp8ob1HEHgSBZohbOqJl2t5Q-buJMZJzw=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Un trato exquisito de Sergio y Marta! Profesionales y muy cercanos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "antonio padilla caceres",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKJSOrhsfogB9e2gzQDniqpYEQ5qVF4qoPT7AFsCCWkS3Gc6g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato muy agradable con los clientes. Servicio rápido y eficaz. Calidad excelente\nY",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Inma Sáez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWHDLMBczbo1fIQfBrqQw4KIuIVXL5cXSB_W0EAceFqtbC5-Ibylg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buen trato. El chico muy amable.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Óptica San Pedro",
+  category: "Óptica",
+  address: "Plaza de San Pedro, 1, 04001 Almería",
+  description: "Este establecimiento es valorado por su amabilidad y profesionalidad. Los usuarios destacan la excelente atención recibida y la calidad del asesoramiento ofrecido. Se percibe un trato personal y un buen consejo sobre las necesidades individuales.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:00"
+    ]
+  },
+  website: "",
+  phone: "950 23 78 62",
+  review_count: 14,
+  review_rating: 5,
+  latitude: 36.840221,
+  longitude: -2.465111,
+  user_reviews: [
+    {
+      Name: "eliseo castiñeira",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKbRc8UWPOJKP31hO_Ttn92a81Y7zsfUeCnVta1eA4FDImAuA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Hace 15 años al cerrar la óptica Rivera en el paseo, me la recomendó el dueño. Amables, profesionales, un lujo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "El capricho de Carlos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLFOmEjko6jF0XpAkWnuCMys6czswqdaqMc3XmDNl5rdMwCsw=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Desde hace años vamos y sinceramente muy bien trato personal, atentos y profesionales. Gracias.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Carla Vaiter",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIcVcNjUt7L6yYQXvmtYsIS2S9p1yP6yPPps_sry9vquvSRhg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato fantástico",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "nachino graco",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWhy4c1D8o2BVxKV_61jxT5LaUeMR4UqmenY4dNliIYY81_9nj4=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Una atención excelente, se nota que son grandes profesionales y siempre dan buen consejo sobre lo que necesitas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "JOSE CALATRAVA VICENTE",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV6LlL19GPjGfnhT0Dc3Waa9uKHGzWCJsX9SEiymgFJigCG3B41=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "La mejor óptica. Profesionalidad, buenos precios, buenas marcas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria Lopez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI-lYQWR8mvi7fSnPb_bsDMYt0yTsAlrLFepS_F0B_HRVDkTw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Excelente servicio. Profesionales al 100%.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Hannah Vater",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLSpN_Bn2nhllTefeTvUGs1h9z4pQEja16utvbXHnNwp2LTvQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Maravilloso",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Miguel Morales",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKCaAg6Vtmbm0GD0yWlr-0kbsRaQ8eIT63ZmutTvGJpcKKTZw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buenos profesionales y excelentes personas.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Eco óptica 16",
+  category: "Óptica",
+  address: "C. Granada, 290, 04008 Almería",
+  description: "Este negocio ofrece un trato inmejorable, dedicando tiempo para asesorar en todo lo necesario. Además, resaltan sus precios económicos y la alegría de encontrar un personal preocupado y atento.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 4.5,
+    precio: 5.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "9:00–14:00"
+    ],
+    jueves: [
+      "9:30–14:00",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:30–14:00",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:30–14:00",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:30–14:00",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "9:00–14:00"
+    ],
+    viernes: [
+      "9:30–14:00",
+      "17:00–20:30"
+    ]
+  },
+  website: "",
+  phone: "950 27 33 96",
+  review_count: 7,
+  review_rating: 4.4,
+  latitude: 36.849992,
+  longitude: -2.454722,
+  user_reviews: [
+    {
+      Name: "Reme Hhy",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX-EoQUtzXM-1aik0vzCyO8-9KvyjxvWL814YnTiysDGF3Lht29xw=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Excelente trato por parte de dolores ,,,,,q alegría encontrarte com gente q se preocup.por ri ,,,todo genial ,,gracias dolores",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Luisa Gomez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU_LTSqhYdDh7x1eGTjgke5nwe-jTjaNPeePRFewRF8TNLvN5zO=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "trato inmejorable, dedican el tiempo necesario para asesorarte en todo. Sumarle los precios que tienen, super economicos",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "eva ayala",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKcJAEBkEEyQSu5SjN0B6jwuN_4PvYooJgPhtRouo2zmVUR0g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buena atención al cliente , lo recomiendo te asesoran perfectamente",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "jonathan ortiz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXn0pEfjD_RRcyITYPBUEPZvlXY_k8KUOYX9QJdurCmXril6--7dQ=s120-c-rp-mo-ba2-br100",
+      Rating: 1,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Nere P",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUkb4tgtNlRv2rnwXQJmb41wXGJTy6judYOUMOO4IhfXp1OypDT=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mª del Mar Martinez Lazo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKoeLxTI1NAnlicn8DJfv8iSsOwjuWllcyOTKSBQARz5TIn=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Manu R",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX_9Agd_cvFEuF_6DFoQLsfvpxYOx-BRiOt-EJspupotp11Gsk=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Alain Afflelou Óptico, CC Carrefour Almería, Almería",
+  category: "Óptica",
+  address: "C.C. CARREFOUR ALMERIA, Av. del Mediterráneo, 244, 04006 Almería",
+  description: "Este establecimiento en el centro comercial Carrefour de Almería es reconocido por su excelente atención y profesionalidad. Los usuarios destacan la amabilidad y la capacidad del personal para ayudar a encontrar la mejor solución visual. Se valora la amplia variedad de monturas y lentes de alta calidad, así como la buena relación calidad-precio y las ofertas disponibles.",
+  serviceRatings: {
+    atencionCliente: 4.9,
+    profesionalidad: 4.9,
+    precio: 4.5,
+    variedad: 4.7
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–22:00"
+    ],
+    lunes: [
+      "10:00–22:00"
+    ],
+    martes: [
+      "10:00–22:00"
+    ],
+    miércoles: [
+      "10:00–22:00"
+    ],
+    sábado: [
+      "10:00–22:00"
+    ],
+    viernes: [
+      "10:00–22:00"
+    ]
+  },
+  website: "https://www.afflelou.es/opticas/almeria/afflelou-c-c-carrefour-almeria-av-del-mediterraneo-244-04006?utm_campaign=gmb&utm_medium=organic&utm_source=google_gmb",
+  phone: "950 22 27 50",
+  review_count: 269,
+  review_rating: 4.8,
+  latitude: 36.839101,
+  longitude: -2.447323,
+  user_reviews: [
+    {
+      Name: "Lidia Ramos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUrEcfh8gTXuume__IMjtFh1PGbsGhUFfczWKs41OxCyp-o6G-S=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Todo muy bien, siempre uso la oferta de las tres gafas y me van genial. La atención estupenda y todo perfecto. Muy recomendable la tienda, pero aún más el personal que trabaja en ella, un gran equipo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria Jesus Gaviota",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKB3kpz5bh5fQfANuL8212x5W0IP0_dLbb8GbRPGTddZWfJLQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "El lunes 10 de febrero por la tarde estuve para poner unos tornillos en 3 gafas que tengo. Se portó la mujer mejor que bien, buscó para arreglarme las me dedicó bastante tiempo hasta que lo solucionó, súper agradable. Con profesionales así el mundo funcionaria mejor.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Sandra",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLPRl6VCtVrVaHkAX4ixcH6U1oVAwutmVUV6hzQsqm0SsVGkA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Somos clientes (mi marido y yo) desde hace tiempo, y cada vez que vamos nos sentimos muy bien atendidos, son todas muy profesionales y con un trato muy agradable. Hace poco tuve un problema con mis gafas y me lo resolvieron muy rápido y dándome un montón de opciones para que yo decidiera. Estamos muy contentos y recomendamos 100%. Muchas gracias a todas y en especial a Isa!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mohamed Abdela Abdela",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI8dO-Wk65954RgxineKg3Sof1GJcXjefnJw20xA1_u9FYGsok=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "La atención en esta óptica es excepcional, con un personal amable y experto que te ayuda a encontrar la solución perfecta para tus necesidades visuales. Además, cuentan con una amplia variedad de monturas y lentes de alta calidad.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juan Antonio Rodriguez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI7T87yed0rUhXU-ysLGRqIrCXT93YondWf3q8Ulw-7fhFFRw=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "\"Fui atendido por Victoria y la experiencia fue excelente. Destaco su atención y profesionalismo en todo momento. Su trato fue amable, claro y resolutivo, logrando que me sintiera muy bien atendido. Sin duda, recomendaría su servicio a cualquier persona que busque calidad y dedicacon.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "NOEMI BORREGO",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUnr2_0cpi-S5t6S_-GY3QwUs-bbh4rl2n5PofR1MqnTROWVIdO=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Mi óptica de confianza desde hace 20 años. Son super profesionales , aconsejan y asesoran  desde el punto de vista técnico y desde el estético , y las gafas (tanto las de ver como las de sol ) y las lentillas tienen una relación calidad precio , inmejorable.  Así que recomendable al 100% .",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipNnYD-vu_ivDZsKk7RHYugsZ4dfScuhpDNT0IYp&fid=0x0:0xced7bafeeba10a5a"
+      ],
+      When: "2024-7-18"
+    },
+    {
+      Name: "Susana Bernal",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW1xpCy19EmSuBk5n4IdYD2K5346Dgiu-AUEX9Hs5JnHXtwtBw-=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Cogimos tres gafas una para cada miembro de la familia. Destacar la profesionalidad y simpatía de Saray. Que fue quien se encargó de atendernos. En cuanto al producto después de un par de semanas de uso decir que estoy contentísima. Y además por el precio que me costaron mis antiguas gafas (compradas en otra óptica y que estaba super descontenta) nos llevamos tres.\nSin duda vamos a tener a Alain Affelou del centro comercial de Carrefour como nuestra óptica de referencia.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lula 16",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW6VboBLTH-QjxtcJLJP3VcBxedM4n4zAKfa_IwTiBemrHBGP0=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me encantó el trato que recibí. Isabel nos trató a mi amiga y a mí de maravilla. Nos fuimos muy contentas. Muchas gracias🫶🏻",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Grupo Óptico Altamira",
+  category: "Optometrista",
+  address: "C. Ricardos, 6, 04001 Almería",
+  description: "Este grupo óptico ofrece un buen trato y una amplia selección de gafas. Los usuarios consideran que la relación calidad-precio es muy buena.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 3.5,
+    precio: 4.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:15–13:45"
+    ],
+    viernes: [
+      "9:45–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "",
+  phone: "950 27 35 86",
+  review_count: 1,
+  review_rating: 5,
+  latitude: 36.839528,
+  longitude: -2.464045,
+  user_reviews: [
+    {
+      Name: "Jesús Navarro Lázaro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUFzKTRkOp08M31V36pIVly02aR5gORhAQV86jsCZZfw72LJJc=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Me han tratado muy bien, he podido elegir entre gran variedad de gafas y la relación calidad/precio me ha parecido muy buena.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Óptica Crespo",
+  category: "Óptica",
+  address: "Calle de, C. Pedro Jover, 7, 04002 Almería",
+  description: "Se destaca la profesionalidad y el trato muy agradable que se ofrece en este establecimiento.",
+  serviceRatings: {
+    atencionCliente: 4.5,
+    profesionalidad: 5.0,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:30–20:38"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:30–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:30–20:38"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:30–20:38"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:30–20:38"
+    ]
+  },
+  website: "",
+  phone: "950 26 66 07",
+  review_count: 3,
+  review_rating: 5,
+  latitude: 36.837524,
+  longitude: -2.469488,
+  user_reviews: [
+    {
+      Name: "Juan Antonio Sánchez Miralles",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXwaRbwtwJAUUjeGaCZYT64O6KySb1-3JgBSClW5Q-IbnVgGoAlPg=s120-c-rp-mo-ba6-br100",
+      Rating: 5,
+      Description: "Profesionales y muy muy agradables",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose Miralles",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLzlT_tCJ9nTsISCJjD7OYnMLg4A0hdANz94sYwOViJGRl_cw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pilar Aparicio",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXBcGyn-hi-GLQc-qh00JtPxc3uHO6QlUUcHO_BMHpNPsAmiUw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Óptica Llobregat",
+  category: "Comercio",
+  address: "C. Granada, 237, 04008 Almería",
+  description: "Este establecimiento es altamente recomendado por su excelente trato y la competencia de su personal, generando una sensación hogareña. Los usuarios destacan la rapidez en la entrega de las gafas y la mejora significativa en la visión. Además, se valora la información clara proporcionada y los precios razonables en relación con la calidad.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "9:30–13:30"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "",
+  phone: "950 85 20 90",
+  review_count: 66,
+  review_rating: 4.8,
+  latitude: 36.849084,
+  longitude: -2.456136,
+  user_reviews: [
+    {
+      Name: "antonio a a",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVWqamYQm1VTrt3Or13U9su9S0Xr5mmDevH6L3QOGarB5NotZQQ=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Saturado, abrumado por las dudosas ofertas de franquicias y grandes ópticas, un gran amigo me recomendó Óptica llobregat, un lujo de trato, información clara y con unos precios que por su calidad , claridad son muy superiores a las de las franquicias que ni mi madre ni yo volveremos a pisar, sin duda alguna Óptica Llobregat es superior, gracias",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jaime Berenguer",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLg8Q3NdRUbxp0nZD4wFWs8bOGV5hsWXVyhDRLACJLWt3F9=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Gran acierto el venir a esta óptica. Personal muy competente con un trato inmejorable, me he sentido como en mi casa. Mis gafas estuvieron de un día para otro y me encanta como me quedan. Además me ha aumentado la graduación pero allí mismo me la tomaron y ahora veo en 4K, jeje.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Sergio Miguel Gallardo Martinez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJt4hU7Vd1lCBWBWoCYLmXtzWZ09pvxlA7l6Tnqh6JFPyU9ng=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Buen trato y precios razonables",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Carmen",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKFig2Xb_2pQvm-znhalnkUSjIPQ1iiul7542-snH2VmpdWOQ=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Buen servicio, variedad de productos y buen precio. Recomendable",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Encarna Molina",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJBp5MRT0_Auo3qhSrfSrwfBDTSV16kcgaeSZ1Mp4BrVMzQYw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Pues muy bien, calidad precio.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "paco carreño",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUM6q27PbXQ27TCWwIrlR1ufe7TMvtsZi5oBrrVb9bFrVkLRMrc=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy satisfecho por la adecuación del producto a lo que necesitaba, los cristales de las gafas estaban al día siguiente, amabilidad en el trato",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "David Garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ78LgkWnn7MNgIQXKiCz3Xrf3Z64tL7Px63XSuPg4LSjrFKg=s120-c-rp-mo-br100",
+      Rating: 4,
+      Description: "Muy atentos y amable buen precio",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Antonio Corral",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXnT0MRk3QwiUzW6wiQUvtXTOfZgddRQIXomJTQZSODXJiu-6U0=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Excelente trato de su personal y muy buena atención.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Óptica Patricia Garcia",
+  category: "Óptica",
+  address: "Av. Ntra. Sra. de Montserrat, 16, 04006 Almería",
+  description: "Este negocio es reconocido por su gran profesionalidad, buena tecnología y, sobre todo, un trato personal excepcional. Los usuarios resaltan la atención detallada, el asesoramiento sincero y la tranquilidad que transmite el equipo. Se destaca la amabilidad, el conocimiento del producto, la tecnología avanzada y una confianza absoluta desde el primer momento. Además, ofrece una excelente variedad de gafas graduadas y de sol.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.0,
+    variedad: 5.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:00–19:00"
+    ],
+    lunes: [
+      "9:00–19:00"
+    ],
+    martes: [
+      "9:00–19:00"
+    ],
+    miércoles: [
+      "9:00–19:00"
+    ],
+    sábado: [
+      "9:30–13:30"
+    ],
+    viernes: [
+      "9:00–19:00"
+    ]
+  },
+  website: "http://www.opticapatriciagarcia.com/",
+  phone: "950 27 01 99",
+  review_count: 19,
+  review_rating: 4.9,
+  latitude: 36.836707,
+  longitude: -2.45527,
+  user_reviews: [
+    {
+      Name: "Antonio Moya",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV18GRQJdntwt7HAhQElh1EnqW8EGu5dHw2ln93y9hnu6ZXlTtQ=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Gran profesional, buena tecnología, y lo mejor el trato personal, una maravilla!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ángeles Campos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLHlswYk_MjcnTHwB7JRQMgzGbSaXei94xX63hRnASeolGMMA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Mi experiencia en la óptica no ha podido ser mejor. Personalmente, me atendió Mª Jesús, que ha resuelto todas mis dudas y me aconsejó sinceramente desde el principio. Ahora estoy encantada con mis gafas y con la tranquilidad de que si tengo cualquier problema puedo acudir a ellos para resolverlo. Sin duda, recomendaré la óptica a quien me pregunte.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juan Francisco León Martinez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLE6EaMVGfnk6J0CCYoCycxloGDsCIGY3k0X3ZEttCbGBu7fQ=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Lo bueno si breve, dos veces bueno. Pues eso voy a hacer. PROFESIONALIDAD y CALIDAD ante todo, trato exquisito, conocimiento de la materia y garantía de verdad.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Antonio Villanueva",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW4qK51RFki0YmDulP3tRf7eN46Y6qpjebWMWz1yqu9n9iCdlNKPg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Amabilidad y conocimiento del producto extremos. Tecnología que no había visto en ningún comercio del sector y confianza absoluta desde el minuto 1. Un gustazo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Gabriela",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXsizcW3blDNAeNnZsvO3jNoxoVeJ-xsSU5v0bUVt_iNDehcdh64g=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Excelente trato . Muy profesionales, te hacen el estudio con mucho detalle y tienen Variedad de gafas. Me encantó ! Gracias",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Valentina",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI1XeE_zdSrWognbddTXHn1Q5vSe-Zkrknl3aErBVUFH2E1mw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La atención es esta Optica es excepcional, Asesoramiento perfecto, trato muy amable, gran profesionalidad. Una experiencia muy placentera",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Julio Extraterrestrial",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUFUyIc4Eq3Oeg2X9ZvL28yTHmJKOlUgrTyDEZLOqpAW31kkYE=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Para mí, la mejor óptica de Almería.\n\nPatricia es encantadora y una profesional como la copa de un pino. Tanto de ella como de su equipo recibirás un trato exquisito. El surtido de gafas, tanto graduadas como de sol, es excelente.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "TOG",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLRwpMyh2BX26JfKSF-eDdSqLpIuS92kxywISZJ94uDwy2iXg=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Gran variedad de modelos de gafas. Muy amables y buenos profesionales de la óptica.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "General Optica - Visión y Audición",
+  category: "Óptica",
+  address: "C. Médico Francisco Pérez Company, 04009 Almería",
+  description: "Este establecimiento ofrece un servicio atento y profesional, aunque algunos usuarios han reportado experiencias negativas en cuanto a precios y la realización de la graduación. Otros destacan la amabilidad y la ayuda recibida en la elección de gafas.",
+  serviceRatings: {
+    atencionCliente: 4.0,
+    profesionalidad: 3.5,
+    precio: 3.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–22:00"
+    ],
+    lunes: [
+      "10:00–22:00"
+    ],
+    martes: [
+      "10:00–22:00"
+    ],
+    miércoles: [
+      "10:00–22:00"
+    ],
+    sábado: [
+      "10:00–22:00"
+    ],
+    viernes: [
+      "10:00–22:00"
+    ]
+  },
+  website: "https://www.generaloptica.es/es/?utm_source=gmb&utm_medium=organic&utm_campaign=Almeria&utm_term=1255",
+  phone: "950 88 71 04",
+  review_count: 68,
+  review_rating: 4.3,
+  latitude: 36.861687,
+  longitude: -2.433587,
+  user_reviews: [
+    {
+      Name: "Ktmafalda",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW-Iby091f_ih04cOIP6Rm2J9litewQa2A5Lsr1g38wXUnBhrU7=s120-c-rp-mo-ba3-br100",
+      Rating: 1,
+      Description: "Yo no tuve ningún problema como clienta al comprar, incluso lo hice varias veces,  PERO … no volví ni volveré a comprar en esta casa.En el confinamiento del 2020 precisaba un arreglo imprescindible y no hubo ningún establecimiento de guardia tal y como marcaba la ley. Llamé por teléfono a la central y así me lo confirmaron. Decepción y no estar a la altura. Actualmente soy clienta de la óptica que Sí estaba al pie del cañón en esos momentos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Nicole Kelly",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWTyfoVt7lK1SbwdQRrFINEKVBDVOHs4sOJ3cykzyJjtda1BjXU=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "¡Un servicio de 10! Nos atendió Daniel Beltrán, y creo que eso es lo que marcó la diferencia… mi pareja y yo llevamos gafas desde prácticamente toda la vida, y nuestra idea era renovar las de él, ¡y casi me sumo yo!\n\nNos explicó todo paso a paso, muy amable y profesional. Pero lo mejor vino al chequear la graduación… es un gusto ver cómo alguien disfruta de su trabajo y no te despacha como a uno más. Una pasada!!! Casi le pido que me hiciera a mí también 😅\n\nMuchas gracias Daniel!!!",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipOBd8brEWGJ68LNq8F1edhHHUUC35bTydxsCalL&fid=0x0:0x8d05db84d24d7cb9"
+      ],
+      When: "2023-9-3"
+    },
+    {
+      Name: "Lourdes Barbosa",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLUeSx5m5dJTp0GJ-LqAHGzVLeXZ3zvDefBTUIXZRl_BmqbbQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Magnífica atención y ayuda en la elección de todas mis gafas por parte de Sonia María.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alejandro Sánchez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVsDGtt-cgzSBgrIhie5XPb6pVsQRX4qGAYhEdpL0EwgBSqU1qy=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "Me atendió Rocío Hita, súper amable y atenta. Me brindó un trato personalizado y estupendo. 100% recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mercury_F12",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVBW9U9WwDwUSjJHZJPZPglgGFx10N-dp8StoX2T5LVAgg8Cl3u=s120-c-rp-mo-ba2-br100",
+      Rating: 2,
+      Description: "Entre por unas gafas de 150€ y salí con un presupuesto de 400€, no paraban de sumarle cosas, que si noseque tarjeta, que si noseque cristales topes de gama que si noseque de esto y de aquello…no voy mas…",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juan José Trujillo Navarro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXyQ2j2L_weE6Bf6zEZljm6l7thNhHP-FIvpDeP6ISPo0617VXp=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Personal super atento y comprometido. Un servicio de 10 que recomiendo 100%",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana Navarro Ortiz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXE-97lAjxzRZmgoY5L2aeNYthrKVNU2JTRwyqsxJF2nPG9Oi8=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Después de 5 años no adaptándome a las gafas ( pensando que el error era mío porque no las usaba lo suficiente ) voy al oftalmólogo a graduarme y me dice que la graduación de mis gafas está incorrecta, sobrepasa tanto la miopía como el astigmatismo el cual no tengo, pues en las gafas que me hicieron en general óptica me pusieron astigmatismo y más graduación de la que tengo.\nDebido a mi sorpresa, he decidido llamar esta mañana solamente para informarles y cuál es su respuesta? Que ellos no me graduaron allí, que fui yo la que lleve ya una graduación anterior, siendo esto totalmente mentira.\nMe cobraron 700 euros por unas gafas mal graduadas. Ayer fui a otra óptica y me salieron por 230, demasiada diferencia no?\nEn definitiva, no vayáis a esta óptica, son unos ladrones e incompetentes",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Andrea Vladut",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUwwujRTBKSKQQFI8NJYrMKd4hpAWDWNuzbeT-HYbg9Ksd6_UyrfA=s120-c-rp-mo-ba3-br100",
+      Rating: 1,
+      Description: "Una vergüenza, precios desorbitados y te cobran 20€ por revisarte la graduación aunque les compres a ellos las lentillas o gafas. En soloptical misma calidad, mitad de precio y revisión gratuita.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Óptica MÉDICA",
+  category: "Óptica",
+  address: "C. Méndez Núñez, 3, 04001 Almería",
+  description: "Esta óptica encanta a sus visitantes por el trato profesional y agradable, así como por el excelente asesoramiento recibido. Los usuarios destacan la buena graduación de la vista y la ayuda en la elección de monturas atractivas y de buenas marcas. Se valora la rapidez del servicio y se considera que el precio es muy bueno. Además, ofrece una gran variedad de primeras marcas.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.5,
+    variedad: 5.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "17:15–20:30"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "17:15–20:30"
+    ],
+    martes: [
+      "9:30–13:30",
+      "17:15–20:30"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "17:15–20:30"
+    ],
+    sábado: [
+      "9:45–13:30"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "17:15–20:30"
+    ]
+  },
+  website: "https://www.opticamedica.es/",
+  phone: "950 27 38 00",
+  review_count: 16,
+  review_rating: 4.8,
+  latitude: 36.838674,
+  longitude: -2.462926,
+  user_reviews: [
+    {
+      Name: "david ayala",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL0oI21mmejoePRYf5LLfh_7jretMcc1UURNkXsSMWoWpG5rA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Me ha encantado la óptica, estuve el sábado y quedé muy satisfecho del trato y la variedad en monturas totalmente diferentes a las que he podido ver en otras.\nYa he encontrado mi óptica!!!\nMenudo EQUIPAZO!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Violeta Jiménez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLI-xPAAE2JrKhRmBxyyA1Jk5IimNulWxIlbS89xYGxg4jndw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato muy profesional y agradable y muy buen asesoramiento. Me graduaron la vista muy bien y me ayudaron a elegir un modelo de gafas que me encanta (tienen unos modelos preciosos y de muy buenas marcas). Además fueron rapidísimos y el precio me pareció muy bueno. La recomiendo son duda, creo que es la primera vez que me voy 100% convencida de una óptica.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana Martinez Garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ8MOQvTCvXLkQ7vRQmHApO24NC1yNIk0sh_gxRaVnxhzah2w=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Tanto Inma la óptica como los demás empleados y empleadas son personas amables y encantadoras que te ayudan en todo lo que necesites. Llevo muchos siendo clienta y seguiré con ellos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Javier Solsona Castro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL8WoKMqZ2B-PqMy3_X6fLWh5av_hMG7i4EJWvQMfyS4268rv4=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Increíble servicio y trato con el público, fueron súper profesionales y agradables. Las gafas son de buenísima calidad y una gran variedad entre las que elegir",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Cristina Magaña",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK59yAwAnQKbGH4BUElg7zhcF3Qc0vY592kWJyYGvQe_i1G5A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Estuve el sábado, y quedé encanta, ya sé cuál es mi óptica de confianza! Muchísimas gracias!!!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Javier Carmona",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW68h8QxXWUXLUqyoK3ZzySLNkZQejT5K8MA5bluzyEx5iIz5XM=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Voy por la variedad en 1° marcas, la mejor óptica que he encontrado en Almería!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Noelia M.B",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJX-arzv51iqbzsvJwjBTncomT2XeQfDq-Ot2xrioOPJg78=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Súper profesionales, buen asesoramiento por parte de Laura que siempre me atiende con una simpatía y agrado increíble.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Librada Gutierrez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVrBsu-E84LmXNKn3AhrHuiw7UZj4nz4IW35xNAsdbjETTAIE5yFg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy buen servicio, buen asesoramiento. Me ha encantado la optica.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Óptica Valdearenas",
+  category: "Óptica",
+  address: "Av. de Blas Infante, 4, 04006 Almería",
+  description: "Este negocio es altamente valorado por su dueño, descrito como atento y profesional. Los usuarios mencionan una adaptación rápida a las gafas progresivas y un servicio de graduación exhaustivo. Se destaca la calidad, el buen precio y la cercanía del personal, siendo recomendado para todos.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "",
+  phone: "950 22 76 31",
+  review_count: 10,
+  review_rating: 5.0,
+  latitude: 36.841045,
+  longitude: -2.452814,
+  user_reviews: [
+    {
+      Name: "José Curado",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIn6mTTxMPx5zvWbBPOY2URzbmPWceI29_dAJ9XsQJBq_IEzg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Fui a por unas progresivas y salí encantado, el dueño más atento y profesional nunca visto. Se tomó largo tiempo en graduarme y tomar todas las medidas y claro, a los 15 minutos de ponerme las nuevas gafas ya estaba adaptado a ellas.\nSuperrecomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "María de los Ángeles Felices Salazar",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWqhQ5xEQVxAWK-gvVGCONHsezhNCEXy-Qw7ZiFa8jaYmKhhw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Óptica de confianza, llevamos más de 20 años siendo clientes",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lourdes Paniagua",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJeTR8XCnIEq2cEKeJriyvN4ZBYlgzRTkIQuKkCcKFRYah13kM=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Una óptica excepcional tanto en calidad como en precio, José es una persona cercana, apasionada por su trabajo y preocupada por sus clientes, recomendable para todos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Francisco Coutinho",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVuMeV3_Ajg6X0HsGwsIGUqif-lCtvpO56iXcCnmZT278ii86eOJQ=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Muy Amable el dueño, optica de barrio a precios populares",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipOkwsZPEnpPqTsg6oTzwqno2qLBdwFhp1Qn2XLt&fid=0x0:0xb5377b9628839647"
+      ],
+      When: "2020-1-29"
+    },
+    {
+      Name: "Ana Cayuela Muñoz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU9PlCOCalOPZaTo6BUroHjku8b4rVGFFK6jcHNdSCQUui9ZFwq=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Genial",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Benito Sanz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIhP0sSa7sbMWgTg9d-Fen9df6q3htJzBRelLKiufZqiYfvGA=s120-c-rp-mo-ba6-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Josemiguel Apellaniz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUY0vF_IEW72UwKLzPykomdtCBJeui_Q5LevCzS42tZzhZlTQk=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juan Francisco",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXe3jdLINUg0H4b8g9blxapO2NDeZbBnXj6yl0OZpCCCADDnLj--Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Centro Optico Farmavision",
+  category: "Óptica",
+  address: "Av. de Cabo de Gata, 116, 04007 Almería",
+  description: "Este centro óptico cuenta con una valoración positiva.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 3.5,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "9:30–13:30"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://www.facebook.com/Farmavision",
+  phone: "950 25 98 44",
+  review_count: 1,
+  review_rating: 5.0,
+  latitude: 36.829554,
+  longitude: -2.452186,
+  user_reviews: [
+    {
+      Name: "Asun Tirado",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLt_8_4OfDDMkkeTm7iZ-vU5Eqs70U_3MYJjo4imv-Qpw6hjA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Eco óptica (18)",
+  category: "Óptica",
+  address: "C. Motril, 4, 04007 Almería",
+  description: "Este establecimiento ofrece una atención excelente y personalizada, con un profesional dedicado y amable. Los usuarios destacan los buenos precios y la disposición para solucionar problemas con las gafas, recomendando este lugar para futuras compras.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–14:00"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "",
+  phone: "950 20 61 06",
+  review_count: 4,
+  review_rating: 5.0,
+  latitude: 36.828322,
+  longitude: -2.450344,
+  user_reviews: [
+    {
+      Name: "Mamen AndGar",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKRbRu80kLVBtcfxbJKTLdTlcJjtVbB3x3hc8lSHKDr7pRopg=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Como siempre una atención de 10, Jose Manuel es un profesional de los pies a la cabeza. Muy bueno aconsejando, dando una atención personalizada. Repetiremos sin duda.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juan Angel",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKD0XexwbTDS3Pf311rfvLuXInHuVu_4DW3EUhPMhKCp3k9UA=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buen trato, muy amable, respetuoso, buenos precios. Lleve unas gafas en mal estado y me las dejaron como nuevas.\nMuy contento. Volveré a comprar en esta óptica.\nMuchas gracias José Manuel por todo.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Elena CS",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocK4R8mYnb1m8Z4TiFjOflkkEeuJJI09g0evairYeHmTQwTiZTc=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buenos precios y la atención al cliente no puede ser mejor.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Manu R",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX_9Agd_cvFEuF_6DFoQLsfvpxYOx-BRiOt-EJspupotp11Gsk=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Federópticos Javier Sanz",
+  category: "Óptica",
+  address: "C. Javier Sanz, 13, 04004 Almería",
+  description: "Este establecimiento es reconocido por su excelente trato y profesionalidad, ofreciendo precios competitivos. Los usuarios destacan la gran variedad de modelos de gafas y el buen servicio de atención al usuario, así como el servicio post-venta, lo que lo hace altamente recomendable.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.5,
+    variedad: 4.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "17:15–20:30"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "17:15–20:30"
+    ],
+    martes: [
+      "9:30–13:30",
+      "17:15–20:30"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "17:15–20:30"
+    ],
+    sábado: [
+      "9:45–13:30"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "17:15–20:30"
+    ]
+  },
+  website: "https://www.federopticos.com/grupo-federopticos/conocenos/",
+  phone: "950 27 26 54",
+  review_count: 5,
+  review_rating: 5.0,
+  latitude: 36.838638,
+  longitude: -2.461068,
+  user_reviews: [
+    {
+      Name: "JUAN LOPEZ FERNANDEZ",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVTdOFoXpuR5_WVKrk-IZ_4399Gtq0Du2Y5Ve3P3-cHluSSNgs=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato excelente y muy profesionales. Tienen precios muy competitivos. Merece la pena pasar por allí. El establecimiento de Calle Javier Sanz (Almería) es de lo mejor.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "yo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXPGgaMLGZ9ySi6ZjR7vovG0l567vkPwgANUvxxKT4sDll0MZ_p=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Buenos precios y gran variedad de modelos de gafas, desde infantiles hasta adultos, tanto en stock como por catálogo. Muy buen servicio de atención al cliente de todos los trabajadores y muy buen servicio post-venta. Muy recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pilar Olivencia Robles",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIVVd2BY0nyqcrRy5aSczZH0o8HQZm9jRQmsmLvDp6aEQEbiw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato y profesionalidad excelentes.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jennifer Ramos",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUbp3q3_7xu8kC2JKkdIscUQ3NBjilwL48_P0aX7XCPREJoPoU=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose Antonio Rodriguez Muñoz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJPf79YN-C8CSo9eRLLncmDvbuPBBPBy10NWPxKFOy5YdEBcw=s120-c-rp-mo-ba2-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "OPTICA ORBERÁ",
+  category: "Óptica",
+  address: "Carretera Níjar - la Cañada, 152, 04001 Almería",
+  description: "Este negocio es valorado por su buena atención y precios asequibles.",
+  serviceRatings: {
+    atencionCliente: 4.5,
+    profesionalidad: 3.5,
+    precio: 4.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:30–13:30"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "",
+  phone: "950 29 11 44",
+  review_count: 2,
+  review_rating: 4.5,
+  latitude: 36.840717,
+  longitude: -2.409755,
+  user_reviews: [
+    {
+      Name: "Sergio Fernández",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU0S3PkTFeNNEWkQjqRUsFTSotUblrd5f3h_e_EcDD6cyLaPHAkTg=s120-c-rp-mo-ba6-br100",
+      Rating: 4,
+      Description: "Buena atención y precios asequibles",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Vanessa Aguilar",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVc2D9YSy0EYMsPWYFDIPwEgfjzUY2MxPdkKY7sPZ9MTzb55Crq3g=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "ZEPPELIN Centro Óptico y Auditivo (antes Óptica Orberá)",
+  category: "Óptica",
+  address: "Pl. del Carmen, 1, 04003 Almería",
+  description: "Los usuarios se muestran encantados con la audioprotesista Elena, destacando su profesionalidad y trato agradable. Los audífonos han significado un cambio de vida para algunos. Se valora la atención recibida, la calidad de los productos y los precios competitivos.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "10:30–13:30"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:30–13:30"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://www.facebook.com/profile.php?id=100054297710790",
+  phone: "950 23 56 69",
+  review_count: 15,
+  review_rating: 4.5,
+  latitude: 36.841783,
+  longitude: -2.464772,
+  user_reviews: [
+    {
+      Name: "Carmen Lopez Cespedes",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJjyGFHtdRiVyy8wQ3DzuphLHzGUOZxliQesXEmsjOW3Db0ww=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Estoy encantada con Elena la audioprotesista. Es una profesional y encantadora en el trato. Estoy encantada con el audífono y me ha cambiado la vida.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Lola Calzado",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIzBnOZPOd-ihTlHe5VT7vtpthx_HT1ntCMYfBz3Jm1qkEnEw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Muy profesional, Helena,merece la pena pasar por  el Centro de auditivo pl/del Carmen Almería",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "AUDIOLOGIA CENTRO",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLXPUpp_SrkR8c31a_aNR1JRAtr-Ixe6V-x7iIrLVQuQuV1Ng=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Soy clienta de este centro y usuaria de audífonos desde hace 20 años. Me ha ido muy bien con ellos, pero desde que esta Elena la vida me ha cambiado. Es muy profesional, simpática, agradable…Además de ser mi audioprotesista, es muy buena persona y amiga.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Manolo Alicia Del Mar",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI0QYGJmaUfzDVXdThZcc4IVM33sLlZBm38w_DcVJfbph848Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Otro que se suma como cliente satisfecho de esta empresa, gracias al trato y la atencion de Elena, una profesional como la copa de un pino y como persona una excelente persona. Mil gracias por tu trabajo, paciencia y asesoramiento.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Bernardo Zamora",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJqdfzccJ_Ou-gG76ds5jeKA_ZG4-k_Y9D_XSKOGGjASuCtlQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Soy cliente del año 2017 y estoy muy contento con el trato y la profesionalidad de este centro. Sobre todo con Elena.\nLo recomiendo mucho",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Mertxe Fernández",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLarBWODM7kC9bhTuZc9lIVQWqORU9ZZHuC7Mtm_vez8FWWig=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buenísima atención, gran profesionalidad.\nEs mi centro de referencia después de haber acudido a muchos otros, No hay comparación.\nExcelente calidad y precio. Muy recomendable.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Andrés Ubric",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWdcoXu0ocHKmnGcsgn8yIADzkwC1-h0HAfhRW7-4fHFno4Jqwk=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "No suelo dar valoraciones a ningún comercio, pero aquí me veo en la obligación de hacerlo.\n\nMe han arreglado unas gafas antiguas que tenía, sin una patilla, con la otra en malas condiciones, las gafas dobladas de mala forma, y sin una lente ya que el tornillo que la sujetaba había desaparecido.\n\nResultado: las gafas como nuevas, con patillas nuevas, modernas y relucientes y totalmente válidas. Por un precio de 3 euros. Aún sabiendo que esto no es un blog, debo decirlo, me he sentido y me siento mal de haber pagado solo ese precio tanto por su esfuerzo y su resultado y sus buenas maneras, aunque mi liquidez ahora mismo no esté en su punto más álgido.\n\nProfesionales como la casa de un pino, amables y empáticos. Cuando compre unas gafas o necesite una revisión, esta óptica será mi única referencia.\n\nGracias.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Helena Martín Prior",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWRus9FHh3O-DL5Z8xnEWEvHTvPiRhtWysbvPvgFfuH_WTybXbN=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Un trato excelente, muy buena calidad en sus productos y precios inmejorables.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Óptica & Audiología Universitaria",
+  category: "Óptica",
+  address: "P.º de Almería, 21, 04001 Almería",
+  description: "Los usuarios destacan la buena experiencia y la ayuda recibida por profesionales como María y Andrea. Se menciona la buena relación calidad-precio y la amabilidad del personal, resolviendo dudas y ofreciendo soluciones efectivas. Algunos mencionan un servicio rápido y eficiente, incluso para reparaciones.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 4.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–21:00"
+    ],
+    lunes: [
+      "10:00–21:00"
+    ],
+    martes: [
+      "10:00–21:00"
+    ],
+    miércoles: [
+      "10:00–21:00"
+    ],
+    sábado: [
+      "10:00–21:00"
+    ],
+    viernes: [
+      "10:00–21:00"
+    ]
+  },
+  website: "https://www.opticauniversitaria.es/",
+  phone: "950 20 21 46",
+  review_count: 31,
+  review_rating: 4.9,
+  latitude: 36.839774,
+  longitude: -2.463451,
+  user_reviews: [
+    {
+      Name: "Minerva",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXwX8MYffMTMlGJV6E7F_PqVdp8ID8L-Ihey1MB3EpCt6quAOAy2A=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Tuve un problema con mis gafas nuevas y María me ayudó desde el principio dándome varias soluciones, después me atendió Andrea que acabó asesorándome muy bien. Da gusto seguir después de tantos años y que los profesionales sigan siendo de calidad",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Sandra Dols",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJ5ZdHqHfUgQ12TKtgjon1ID27ec2uQmCMO3-XW_0_wdT-cwg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Súper buena experiencia, compré mis gafas hace casi un año, muy buen precio, vine a apretarlas y me ofrecieron apretarlas y cambiar las gomillas totalmente gratuito, la recomiendo 😊",
+      Images: [
+        "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sAF1QipM_WeMorIVmJWxRaKp9hdz9S7C-N1hVMINr2PMG&fid=0x0:0xd840e33b0adf6666"
+      ],
+      When: "2024-8-26"
+    },
+    {
+      Name: "Cesar Montana",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVsu8OA75VfaOXer1gV3P2n5hWojzjjpoAhCPfj_NaDILRtTjPC=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Todo excelente, personal súper amable , atención personalizada y muy profesional, te explican y resuelven todas tus dudas,  monturas de gafas de alta calidad y de marca , además a muy buen precio y hasta el 30 de noviembre con un descuento adicional del 20%, lentes Prats muy buenos . Genial !!!😎",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "felime",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL8bxd7_yYPTxQyk86YDWbdSSOrfw8vL_dfcyDz1_V9HrrmJw=s120-c-rp-mo-br100",
+      Rating: 3,
+      Description: "Trato correcto, buenos precios, pero si te urge, olvídate. Compre unas gafas con su graduación el 3 de diciembre, y todavía estoy esperando. En teoría las tendré el 18. 15 días!!!!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "adela alvarez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKmrlteo8YYOmVvWScBKaM3H6iM5MDsG-FenoIhwzSsihF9ww=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "5 estrellas a la óptica por sus buenos precios y 5 estrellas a Manuel como vendedor amable y muy eficiente. Me explico muy bien todo y me aconsejo muy bien. Aparte de ajustarme mis gafas a mí cara.muy contenta",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Francisco Gutiérrez Díaz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKsSw0hPtgj1xsSOj7D6tZyF05UHPHLDIuNgSN4OUvgigLfOQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Sorpresa agradabilísima por el trato recibido, en la óptica Universia,  por María del Mar en revisión efectuada en días anteriores. Dicho trato extensivo al resto de sus compañeros y compañeras. Simpatía y buen hacer por parte de todos ellos y reconocimiento por la mía.\n\nMuy recomendable esta óptica.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jesus Perez Garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKzqIPQwioIM1Vvv2yqNSToQ7xYYiXLg1ID1c0GS5DBNjOXYQ=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Buenas tardes,\n5 estrellas por un magnífico servicio, reparación de gafas y cristales nuevos para otras. Gran servicio y mejor atención.\nUna óptica muy recomendable.\nMuchas gracias.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Eduardo Guerrero",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXOlgHRX_Rs5sZalpelZbqPYbmI13cjJAncwMPMAl4DvTKXBbIL=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "No vivo en Almería y tuve un problema importante con mis gafas. Dando un paseo vi esta óptica y entre solicitando ayuda. Desde ese momento me hicieron sentir alguien importante, me guiaron, me aconsejaron y me solucionaron el problema en dos minutos. Gente de Almería, esta es vuestra óptica sin duda. Un saludo",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Óptica Luz",
+  category: "Óptica",
+  address: "C. Méndez Núñez, 19, 04001 Almería",
+  description: "Este negocio recibe valoraciones positivas por su atención y profesionalidad.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "17:15–20:30"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "17:15–20:30"
+    ],
+    martes: [
+      "9:30–13:30",
+      "17:15–20:30"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "17:15–20:30"
+    ],
+    sábado: [
+      "9:45–13:30"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "17:15–20:30"
+    ]
+  },
+  website: "",
+  phone: "950 25 25 89",
+  review_count: 1,
+  review_rating: 5.0,
+  latitude: 36.838769,
+  longitude: -2.461714,
+  user_reviews: [
+    {
+      Name: "Alejandra C",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWIikqopi4HX3XjHZUqQD66UHvjZRTyBxzEbZbphtlyTGBoGXRu=s120-c-rp-mo-ba6-br100",
+      Rating: 5,
+      Description: "Siempre una atención perfecta, todos unos profesionales.",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Óptica Valdivia",
+  category: "Óptica",
+  address: "C. Navarro Rodrigo, 19, 04001 Almería",
+  description: "Este negocio es calificado como uno de los mejores de la provincia, destacando su trato cercano, amable y la competencia de su personal. También se menciona la buena calidad de las gafas.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 5.0,
+    precio: 3.5,
+    variedad: 4.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:45–13:45",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:45–13:45",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:45–13:45",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:45–13:45",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:30–13:30"
+    ],
+    viernes: [
+      "9:45–13:45",
+      "17:00–20:30"
+    ]
+  },
+  website: "",
+  phone: "950 25 07 24",
+  review_count: 2,
+  review_rating: 5.0,
+  latitude: 36.83977,
+  longitude: -2.461809,
+  user_reviews: [
+    {
+      Name: "Montse Luque Gutierrez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVdP45Z-r0u4IVQK_N2DRJa2pjE43B0K7_vmbRaD6WNUD-s0nxZzQ=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Trato cercano, amable. Son muy competentes. De las mejores ópticas de la provincia.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Salam Haidak Hanafi",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjUu5X0kG_LeZ33PhWiN0ne2q39OUwkg8pEK3RY7Nc7aGo2yCOwy3Q=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buen trato y buena calidad de gafas",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Óptica Ronda Almería",
+  category: "Óptica",
+  address: "Ctra. de Ronda, 337, 04009 Almería",
+  description: "Las opiniones sobre este negocio son variadas. Algunos usuarios destacan la profesionalidad y la capacidad para solucionar problemas de visión complejos, así como la calidad de los productos. Sin embargo, otros mencionan experiencias negativas relacionadas con promociones engañosas, mala atención al usuario, errores en la graduación y problemas con la entrega de gafas.",
+  serviceRatings: {
+    atencionCliente: 2.0,
+    profesionalidad: 3.0,
+    precio: 2.5,
+    variedad: 3.0
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–18:00"
+    ],
+    lunes: [
+      "9:30–18:00"
+    ],
+    martes: [
+      "9:30–18:00"
+    ],
+    miércoles: [
+      "9:30–18:00"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "9:30–18:00"
+    ]
+  },
+  website: "",
+  phone: "950 25 99 06",
+  review_count: 15,
+  review_rating: 3.2,
+  latitude: 36.848615,
+  longitude: -2.453111,
+  user_reviews: [
+    {
+      Name: "Alejandro 222",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVEHQ7u90sB0VzDHhinS3QvgnZGepa5pjbaEb5IvZNgL1tY1_9e=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Hace dos años me entró un cristal en el ojo y me perforó la córnea y el cristalino. Me tuvieron que extraer el cristalino en Barcelona porque era el mejor sitio de Europa. Después de 2 operaciones, me dijeron que no volvé a ver por ese ojo nunca más y me sentó muy mal. Desde hace 2 meses que voy a esta clínica he recuperado mi visión a un 70% y ahora puedo ver casi con normalidad con una lentilla. Les estoy muy agradecido porque por fin puedo ver por el ojo y cosas que no podía hacer ahora las puedo hacer como antes",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Rosa Isabel González Duro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVroENIikKP-7ZUqNysG8IYrEbOS7uVkGvQfSOIK_3Yn90cFS_6=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buenos profesionales y especialistas en soluciones complicadas de alta graduación, baja visión y soluciones complicadas que ayudan en la mejora de la visión.\n\nRecomiendan productos de calidad, adaptados a todos los bolsillos.\n\nNo es una simple óptica para graduar y comprar montura barata de mala calidad, como algunas cadenas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pedro Garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIX2eB5KdUgoRj5S7Pgmy3v9aGq577uK0N2vxBiUFXkI53Kgw=s120-c-rp-mo-ba3-br100",
+      Rating: 1,
+      Description: "E ido a por una promoción la cual solo te dan a elegir 4 monturas, las cuales eran muy antiguas y de poca calidad.\nLo peor no es que sea publicidad engañosa es que la dependienta es una persona muy desagradable y poco profesional, a querido acabar rápido el trabajo el cuál a sido no vender nada.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Wingman",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWzCtgDT-3_WQX0a3HDI10YMqj-NfpnHY0wfynt1LPRT9qANEIo=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Unos AUTENTICOS LADRONES , y POCO PROFESIONALES q no saben graduar. Además prometen montura gratis y no te la dan. Me hacen los cristales MAL llevando yo mi propia montura (no me quisieron dar la que me correspondía gratis) mando que me los repitan porque no veo bien, pago un suplemento de dinero por los cristales nuevos y ahora tampoco me entra la montura gratis. De verguenza la OPTICA RONDA. No recomendable para nada!!!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Eva G.",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVWyt8XXn_--VWHbknoRck94P2eiE52fcuRSLiMWDw_9epWcPkc=s120-c-rp-mo-ba2-br100",
+      Rating: 1,
+      Description: "No nos han querido ni atender, nos han dicho que tenían demasiada gente, (he contado dos personas dentro). Se ve que les sobran los clientes. Vaya ganas de trabajar.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Marga Rodríguez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIgFvKTU4PbUicBO51uMAvdpkWbzr14aDUbZTm5gyPsr7ReVQ=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Le he dado una estrella por que no pueden poner en negativo. Un desastre, malisima experiencia, no lo recomiendo para nada.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Alvaro Villa Bermejo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI5cUxxEzIeA7183f1StnaL7vAyzNSZeFsxoxAekRNioCLwlQ=s120-c-rp-mo-ba6-br100",
+      Rating: 4,
+      Description: "Muy profesionales\nMe atendieron kon cita previa.... Y son puntuales\nRápidos y precios muy kompetitivos",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Paco Cara",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL57IVVZLVvKpTUBgf6Xel_PTWh53cXbDP8ePADFBji7Wjafg=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Mui bien atendido pero mui mal graduado",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Óptica Orbera",
+  category: "Óptica",
+  address: "Av. de la Estación, 25, 04005 Almería",
+  description: "Esta óptica es apreciada por la rapidez en el servicio de cambio de cristales y sus precios competitivos. Los empleados son considerados amables. Sin embargo, una experiencia negativa menciona problemas con la fabricación de gafas a lo largo de un año.",
+  serviceRatings: {
+    atencionCliente: 4.0,
+    profesionalidad: 3.5,
+    precio: 4.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:30–13:30"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://www.opticaorbera.es/",
+  phone: "950 22 28 24",
+  review_count: 14,
+  review_rating: 4.1,
+  latitude: 36.837339,
+  longitude: -2.457829,
+  user_reviews: [
+    {
+      Name: "Susana Ruiz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjW3GeWeR3e9VYbrORfQKpu64yQ4SKwadp80vChZbe5qiE8bqUwj=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Llevé mis gafas para cambiar los cristales y lo hicieron en menos de 24h además de un precio excelente. Sus empleados son muy amables. Ya tengo mi óptica de confianza :).",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Gemma",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLHt3CugElXdWqelIn8z9Iw6KRXK_m3ZEGVxPfWRalRs3cxAo4=s120-c-rp-mo-ba2-br100",
+      Rating: 1,
+      Description: "Me cambie a esta óptica porque cambié de ciudad, y decidí comprarme unas gafas, las cuales después de un año, sigo sin poder usar. Fui varias veces a que las corrigieran, y las dejaba allí unos días porque las tenían que mandar a fábrica, pero cuando las recogía estaban igual. Después de mucho ir y falsas explicaciones, termine yendo a otra óptica, la cual amablemente me hizo mis actuales gafas en 3 semanas sin problema",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "MAR",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVLYTqQYuw4UJ5ID7vCqZGhLvWjW5pFxwc1T0SMrs0NftenfTL-bA=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Estaba de vacaciones y me surgió un problema después de llamar por teléfono a muchas opticas, en esta me  solucionaron el problema, un chico muy agradable me dijo que el era del almacén que lo miraba y me llamaba, en media hora me llamó y me dijo que me lo enviaba a esta optica (siento no saber tu nombre) en la óptica me atendió Beatriz muy profesional simpática  te doy 5 estrellas, porque no hay más mil gracias eres fantástica",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose Salvador",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWINSgXifdPsdtXhONvJ2CGHk1Pk_vt_SWIl1uecwhkNkTwExM=s120-c-rp-mo-br100",
+      Rating: 2,
+      Description: "yo  llevo muchos años y  mas o menos  san portao  pero siempre tengo problemas  al ir a  comprar gafas  para los lentes cuando se me rompen\n\na ver si me consigo otras ya  ajaj",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jesus Lopez Peralbo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJCR64zuiuulCc-optSg-8P0UuE0gwLnYQIyVaDD9iSKVhC8w=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Pues porque estoy de vacaciones en Almería y me han solucionado un gran problema de una forma muy rápida y barata. Muy amables",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juan Bautista",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjV7SeQW8Qw5wH2CuUQ1epF7hfZAwkuvOSGUxCSdmjeYYlrdrjCg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Mi óptica de confianza de toda la vida en la que siempre me han atendido muy bien.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "G Hi",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocI9my5uLBOAPDt850kPol1NlWcUxmdCbiJtaHuLH4r41JDacQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Trato muy agradable y muy buen asesoramiento. Se nota que saben de lo que hablan. Merece la pena venir aqui",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Louis Fredricks",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIOufnYaex6CVSEYFkvU9JiO7GcqLSJHEgiHyaM_e7dUV0NUlf2=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "El servicio es excelente!!!",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Optica Medica",
+  category: "Optometrista",
+  address: "Ctra. de Ronda, 315, 04009 Almería",
+  description: "Este establecimiento es valorado positivamente.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 3.5,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:00–14:00",
+      "17:00–21:00"
+    ],
+    lunes: [
+      "9:00–14:00",
+      "17:00–21:00"
+    ],
+    martes: [
+      "9:00–14:00",
+      "17:00–21:00"
+    ],
+    miércoles: [
+      "9:00–14:00",
+      "17:00–21:00"
+    ],
+    sábado: [
+      "Cerrado"
+    ],
+    viernes: [
+      "9:00–14:00",
+      "17:00–21:00"
+    ]
+  },
+  website: "",
+  phone: "950 26 63 12",
+  review_count: 2,
+  review_rating: 5,
+  latitude: 36.847709,
+  longitude: -2.452785,
+  user_reviews: [
+    {
+      Name: "Kon Sor",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJgTJMtRJGOe2nV4qFAr0gFxkgyu_uiRteJSd1dSVQMr40Sgg=s120-c-rp-mo-ba5-br100",
+      Rating: 5,
+      Description: "Bien",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "David Soriano Flores",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU7saItxn3zNcyKqWTGvXfmIcOZw73nCFCxdiIzvF39Wm9L1wM=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Comercios Reunidos Almería S L",
+  category: "Óptica",
+  address: "C. Méndez Núñez, 17, 04001 Almería",
+  description: "Se describe como un hermoso sitio.",
+  serviceRatings: {
+    atencionCliente: 5.0,
+    profesionalidad: 3.5,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–14:00",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:30–14:00",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:30–14:00",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:30–14:00",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–14:00"
+    ],
+    viernes: [
+      "9:30–14:00",
+      "17:00–20:30"
+    ]
+  },
+  website: "",
+  phone: "950 25 22 58",
+  review_count: 1,
+  review_rating: 5,
+  latitude: 36.838764,
+  longitude: -2.461853,
+  user_reviews: [
+    {
+      Name: "Jorge Ortiz",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjVd4UFi9rE0m_EXn-xZnJn7Am2q_vzrqQu5OOk_JegVgJ06xtU=s120-c-rp-mo-ba4-br100",
+      Rating: 5,
+      Description: "Hermoso sitio",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Óptica Orberá",
+  category: "Óptica",
+  address: "Rambla del, C. Rbla. Obispo Orberá, 44, 04004 Almería",
+  description: "Este centro óptico y auditivo goza de la confianza de sus usuarios a lo largo de muchos años, quienes destacan el excelente trato y la rapidez en el servicio, así como buenos precios. Se menciona un trato cercano y la capacidad de solucionar problemas con lentillas. Sin embargo, una opinión negativa señala una mala experiencia en la sección de peluquería.",
+  serviceRatings: {
+    atencionCliente: 4.5,
+    profesionalidad: 4.0,
+    precio: 4.0,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:30–13:30"
+    ],
+    viernes: [
+      "9:30–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://www.opticaorbera.es/",
+  phone: "950 25 41 44",
+  review_count: 17,
+  review_rating: 4.2,
+  latitude: 36.83926,
+  longitude: -2.460086,
+  user_reviews: [
+    {
+      Name: "Firdaous Zaouiat",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIkRZfOh5R8Ic9A_G2vv8vrAqAVwCZP77dIqJ4QftaLK7Em5w=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Llevo más de 7 años con ellos. Siempre me han solucionado los problemas que he tenido con las lentillas. El trato al cliente es muy cercano y muy bueno. Lo recomiendo 100%",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose Antonio Blanco Alonso",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWoZtZPpIN3HPE1KPcxbsMVo8y3ywtGU0E5l9FKSrcLmtgrUbE=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Lugar en el que el trato es excelente, la familia al completo llevamos años como clientes y hasta la fecha sin problemas.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose Daniel Fernandez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWH6LKl2FneRpxxElrZSqsrwctv5y0n22zaS1zk1yMuj90j9Ro=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "Centro óptico y auditivo de gran confianza, buen trato y grandes precios.\nSomos clientes de hace casi 20 años y muy contentos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "KAYDEN",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjWnVca0sR7-txUi0iT0W78Y2gYIAS7LzNir-V7aZK58MWD2oKg=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buen trato rapidez en el servicio y en la entrega y buena cortesía y buen trato del personal",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "isa lautner",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjU-ex_Z5bV3Rje_BlYU5nqDstbv1dIlkGRjS05OSMx5NAT27hf_=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buena calidad y siempre muy buen trato",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Jose Gabriel",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJd_tM-r_oQOBx2MU6Km4ubtJ4uiErih57dk5_S9Vlkr1tdqW8=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Buen servicio, barato y rápido.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Ana Veas Romero",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocKXFWxBNdz8byrmg8LZJb8X4PEz8w3bhMRzsUVozsPN6GRYdA=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "La primera y la ultima vez que piso marco aldany . Fui al de almeria ,concretamente al de obispo orbera. El trato de la peluquera que me atendio fue nefasto, se apreciaba perfectamente las pocas ganas de trababajar que tenia . El corte de pelo que me hizo es ... Indescriptible. Decidi entrar en el local porque habia un cartel que ponia que de lunes a miercoles el corte y peinado valia 9,99euros , lo que es completamente incierto puesto que me cobraron 23euros. La peluquera mas desagradable no pudo ser , gebte asi daña la imagen de la empresa. Lo desaconsejo completamente !!",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "eduardo verastegui hernandez",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX5Aahu539d6QQ5oSD9m_x-HBz8A9unFgOZAfVQTNEAJa9Ap5QtMw=s120-c-rp-mo-br100",
+      Rating: 1,
+      Description: "Informales no cumplen con los encargos mala atención y caros no me verán más por su tienda",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
+{
+  title: "Multiópticas Cuadrado",
+  category: "Óptica",
+  address: "C. Navarro Rodrigo, 13, 04001 Almería",
+  description: "En general, este establecimiento recibe opiniones mixtas. Algunos usuarios destacan la amabilidad y profesionalidad de su personal, así como la buena relación calidad-precio de sus productos. Sin embargo, otros mencionan experiencias negativas con el trato recibido, llegando a calificarlo de frío, seco y desagradable. También se reporta una experiencia negativa con la oculista, describiéndola como grosera y poco profesional.",
+  serviceRatings: {
+    atencionCliente: 3.0,
+    profesionalidad: 3.5,
+    precio: 3.5,
+    variedad: 3.5
+  },
+  open_hours: {
+    domingo: [
+      "Cerrado"
+    ],
+    jueves: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    lunes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    martes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    miércoles: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ],
+    sábado: [
+      "10:00–13:30"
+    ],
+    viernes: [
+      "10:00–13:30",
+      "17:00–20:30"
+    ]
+  },
+  website: "https://www.multiopticas.com/es/home",
+  phone: "614 27 17 41",
+  review_count: 13,
+  review_rating: 3.8,
+  latitude: 36.839705,
+  longitude: -2.462623,
+  user_reviews: [
+    {
+      Name: "VIC MAC",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocL5SWItfgiMbDQmD7u50p0HEfVs5YNWtP2b3OmdIJWvz7i5=s120-c-rp-mo-ba3-br100",
+      Rating: 1,
+      Description: "Desagradable la experiencia con la chica de pelo largo, muy mal educada y grosera. Para estar de cara al público te tendrían que dar unas cuantas lecciones de cómo tratar a los clientes porque la verdad es que no tienes ni idea y de educación ni digamos que ni sabes lo que es ni la conoces. Me compré las gafas en otra optica que si supieron \"\"escuchar\" y me atendieron de maravilla. Tu jefe debe de estar contento contigo ya que gracias a ti ya se donde no volver a comprar y por lo que veo hay más gente por aquí que opina lo mismo",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Isa Martinez Aróstegui",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX3er49xEZcdtJwy2NN5A8brtyfWooWAiuN0dRc1enw2Opa6-OR=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Las dos ultimas gafas que he usado las he comprado en esta óptica y sin duda lo haré con las siguientes que necesite. El trato siempre ha sido excelente: profesionales serviciales y respetuosos, productos de calidad, bonitos y muy buena relación calidad-precio. En definitiva, mi óptica de confianza.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Maria Garcia",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLsNKxtagvm3oY7V7DD46qIjGSyZwghjEgoCbR1zfgM57q9vQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Son muy amables y el trato es excepcional...me ha encantado",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Juan José Trujillo Navarro",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjXyQ2j2L_weE6Bf6zEZljm6l7thNhHP-FIvpDeP6ISPo0617VXp=s120-c-rp-mo-ba4-br100",
+      Rating: 1,
+      Description: "El trato hacia los clientes es frio, seco, borde e incluso desagradable. Sobre todo un señor con gafas Calvo. En este lugar mi novia, yo, mi madre y mi padre hemos cambiado de gafas además de renovarlas cada vez que lo hemos necesitado. Pero ya NO MÁS, no le permito más ni una. A VECES UN TRATO AGRADABLE HACE GANAR CLIENTES, pero esta gente sinceramente la cercanía, la empatía y el ser agradable brilla por su ausencia. No lo recomiendo para nada. Y si no me creen compruébenlo ustedes mismos. Espero que cambien su actitud aunque lo dudo mucho. Por otro lado MULTIOPTICAS es  una franquicia no creo que a esta franquicia de renombre les guste tener a personas tan incompetentes atendiendo a personas porque al fin y al cabo somos personas no trapos viejos.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Nordin Moumni",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocJzJEYBQR5gpFcLxsEvbF0TmX-pbEmaaaX65ucBJ5W53FledQ=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "La verdad que la mejor óptica del Ejido en cuanto gafas las mejores y precio el mejor aún, y Juanjo pues ya es un amigo más.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Hada Velkan",
+      ProfilePicture: "https://lh3.googleusercontent.com/a-/ALV-UjX4fypJYQbQqA6TeC9LXK2tWP34TCYfk8SuAmhRc2H146c3Rpo=s120-c-rp-mo-ba4-br100",
+      Rating: 1,
+      Description: "Fui recientemente y la oculista es bastante desagradable y grosera, realmente mala profesional. Me preguntó que me pasaba y mientras le explicaba no me dejaba terminar la frase cuando ya estaba sentenciando cortandome sin poder replicarle. Cuando me estaba haciendo la revision, le queria explicar lo que veia y lo que no, pero nuevamente la muy borde me cortó diciendome que no le cuente nada que no necesita saberlo, que si era si o no. Si no le digo a la oculista lo que veo no se a quien quiere que se lo diga, al panadero?? Fue una terrible experiencia que no volveré a repetir ni a recomendar.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Fran Parra",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocIwLWYH_2k-tAmASu0oJFmmM-4r78RyOpsBVRhzr0x1PL20sw=s120-c-rp-mo-br100",
+      Rating: 5,
+      Description: "Después de visitar varias ópticas he encontrado la idónea. Buenos profesionales, buenos precios, y sobretodo, magnífico el trato de la chica que atiende. De 10.",
+      Images: null,
+      When: ""
+    },
+    {
+      Name: "Pedro García Carrillo",
+      ProfilePicture: "https://lh3.googleusercontent.com/a/ACg8ocLGbFBe8HECl7HWWHaden_3BLsYZ3tA_ZBJwnoAtRWFJIVufw=s120-c-rp-mo-ba3-br100",
+      Rating: 5,
+      Description: "muy buen servicio y atencion por parte del personal, y los precios y calidad bastante buenos, lo recomiendo",
+      Images: null,
+      When: ""
+    }
+  ],
+  emails: "",
+  province: "almería"
+},
 
 ];
 
